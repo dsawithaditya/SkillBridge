@@ -337,8 +337,25 @@ export function inferRoleFromResume(resumeText) {
   return best.role;
 }
 
+/**
+ * On Vercel, vercel.json rewrites /api/* to /api/index.js and req.url becomes
+ * "/api/index.js?__path=<sub-path>&path=<sub-path>". Rebuild the original
+ * "/api/<sub-path>" so the router below can match it.
+ */
+export function restoreOriginalUrl(rawUrl) {
+  const url = new URL(rawUrl || "/", "http://localhost");
+  if (url.pathname !== "/api/index.js" && url.pathname !== "/api") return rawUrl || "/";
+  const original = url.searchParams.get("__path") ?? url.searchParams.get("path");
+  if (original === null) return rawUrl || "/";
+  url.searchParams.delete("__path");
+  url.searchParams.delete("path");
+  const query = url.searchParams.toString();
+  return `/api/${original.replace(/^\/+/, "")}${query ? `?${query}` : ""}`;
+}
+
 export async function handleAppRequest(req, res) {
   loadEnv();
+  req.url = restoreOriginalUrl(req.url);
   const reqUrl = new URL(req.url || "/", "http://localhost");
   const pathname = reqUrl.pathname;
   const isHead = req.method === "HEAD";
