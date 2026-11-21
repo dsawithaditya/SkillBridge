@@ -302,6 +302,41 @@ async function runLivePipeline({
   };
 }
 
+const ROLE_SIGNALS = [
+  {
+    role: "Frontend Developer",
+    keywords: ["frontend", "front-end", "react", "javascript", "typescript", "html", "css", "tailwind", "next.js", "vue", "angular", "figma", "ui"],
+  },
+  {
+    role: "Data Analyst",
+    keywords: ["data analyst", "analytics", "pandas", "numpy", "tableau", "power bi", "excel", "statistics", "dashboard", "machine learning", "sql"],
+  },
+  {
+    role: "Backend Python Developer",
+    keywords: ["backend", "back-end", "python", "django", "flask", "fastapi", "node.js", "express", "postgresql", "mysql", "mongodb", "rest api", "docker", "java", "spring"],
+  },
+];
+
+/** Pick the closest supported target role from resume keywords. */
+export function inferRoleFromResume(resumeText) {
+  const text = ` ${String(resumeText || "").toLowerCase()} `;
+  let best = ROLE_SIGNALS[2];
+  let bestScore = 0;
+  for (const signal of ROLE_SIGNALS) {
+    let score = 0;
+    for (const kw of signal.keywords) {
+      const escaped = kw.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+      const matches = text.match(new RegExp(`(^|[^a-z0-9])${escaped}([^a-z0-9]|$)`, "g"));
+      if (matches) score += matches.length;
+    }
+    if (score > bestScore) {
+      best = signal;
+      bestScore = score;
+    }
+  }
+  return best.role;
+}
+
 export async function handleAppRequest(req, res) {
   loadEnv();
   const reqUrl = new URL(req.url || "/", "http://localhost");
@@ -340,7 +375,7 @@ export async function handleAppRequest(req, res) {
 
       if (req.method === "POST" && pathname === "/api/analyze") {
         const body = await readJsonBody(req);
-        const role = String(body.role || "").trim();
+        let role = String(body.role || "").trim();
         const location = String(body.location || CITY_OPTIONS[0]).trim();
         const mode = String(body.mode || "live");
         const limit = [10, 20, 30].includes(Number(body.limit))
@@ -350,10 +385,6 @@ export async function handleAppRequest(req, res) {
 
         if (mode !== "offline") {
           checkAndRecordRateLimit(getClientIp(req));
-        }
-
-        if (!role) {
-          throw new BadRequestError("Please enter a Target Role.");
         }
 
         let resumeText = "";
@@ -370,8 +401,12 @@ export async function handleAppRequest(req, res) {
 
         if (resumeText.length < 20) {
           throw new BadRequestError(
-            "Please choose a sample preset, paste at least 20 characters, or upload a readable PDF."
+            "We couldn't read text from that file. Please upload a text-based PDF resume."
           );
+        }
+
+        if (!role) {
+          role = inferRoleFromResume(resumeText);
         }
 
         if (mode === "offline") {
