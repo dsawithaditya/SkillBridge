@@ -1,0 +1,1473 @@
+{
+  "search_metadata": {
+    "id": "6b01721b7d1233bf10baea68",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ACkyBekiYzZlN_UHytAh7xIFLcLgRIkpOGnyun9F6J0/6b01721b7d1233bf10baea68.json",
+    "markdown_endpoint": "https://serpapi.com/searches/ACkyBekiYzZlN_UHytAh7xIFLcLgRIkpOGnyun9F6J0/6b01721b7d1233bf10baea68.md",
+    "created_at": "2026-11-21 10:27:39 UTC",
+    "processed_at": "2026-11-21 10:27:39 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=SQL+full+course+tutorial+for+Data+Analyst&gl=in&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/ACkyBekiYzZlN_UHytAh7xIFLcLgRIkpOGnyun9F6J0/6b01721b7d1233bf10baea68.html",
+    "total_time_taken": 3.12
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "SQL full course tutorial for Data Analyst",
+    "gl": "in",
+    "hl": "en"
+  },
+  "search_information": {
+    "total_results": 6701776,
+    "video_results_state": "Results for exact spelling"
+  },
+  "ads_results": [
+    {
+      "position_on_page": 1,
+      "title": "Mercedes-AMG PETRONAS F1 Team strategists analyze more possibilities in less time",
+      "link": "https://www.youtube.com/watch?v=beeVOhTvKc0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=beeVOhTvKc0",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=ChBUAHHIBa7rFFJT7n88P9fqkiQKx9aKPiwHy0I_NxRbdq6T6zkgQASAAYMne-IbIo-gZggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAcCKxvVDqAMEyAMKqgTZAk_QbucRGdleynyL2DCouPe3tBrJvygKHYjjtBArNNH-4M_9xVPlmqTjp_he-KkHEcdC26Clizi1HJlmozwKRUQckDPq8Z5yrcjl_ozYKFHmyk3xt6uoWJeakGD-tC-mDxqkrdhrotxVTri8u79MP9F3IMgsGPaBSGYFucTLm9f87-JIy17N4coR6clvt-Fq5eUkT-weotWakoV83JRBigUs_gUEg2DoS87Pgj7OuR7eM6iqxiMo_GR9toJQwrjCRdzu7nijgKTg4hsPocfP1qfnSF5sekseK0OJHGujF6P8HdmMbrpi-xzisnXY30dKH6SBnkyfKDZ1b7SsFQ2R4xsR4b7j6Gk7XnIasMBslNfv-plFBPFyhej3Jbc2842-rDrV3nqOWmNh1FhhV3sF5SnqJwo2Awawr79SpMrWEQllU6che0Ufj691ex0p5RpMjLcVEuaBf0JIw4gF6-ekyFqSBQgIE3jB5-36HqAGoQGAB8DCltUekAcEqAelz7ECqAfnnbECqAfonbECqAeD9rECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHnuqxAqgHn-qxAqgH-OuxAqgHvOqxAqgH7_GxAqgH_K-xAqgH1c4bqAe-2bECqAe_2bECqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAtiZWVWT2hUdktjMKgIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBhI2aDSNVAUWLCvw_vsmJgDYAGaCU9odHRwczovL2F6dXJlLm1pY3Jvc29mdC5jb20vZW4tdXMvcHJpY2luZy9wdXJjaGFzZS1vcHRpb25zL2F6dXJlLWFjY291bnQvc2VhcmNosQnCqCXqYDdKhMgJF8gJjwHICcIByAmXAroLOggDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AIC2AEDgAIBiAIRugMFdmlkbHPQCxLgCwHSDAIQAdoMJQoKEIC8tdrX96b2OBICAQMaDRjr56TIWiDPgsXf5gVAAUoCEB-aDQESqg0CVVPIDQHSDZ0FaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL041NzI2MDguMTM1NTMzOUdPT0dMRS5DT01ERE1CSURNL0IzNjg2NTY0Mi40NTc4NTkwOTg7ZGNfdHJrX2FpZD02NTI0MjU4MjU7ZGNfdHJrX2NpZD0yNjUyNTAxMjA7ZGNfZGJtX3Rva2VuPUFPamVMTkVBQUFBOENqUUtEQWdBRlFBQUFBQWRBQUFBQUJJTUNBQVZBQUFBQUIwQUFBQUFJaFFJNi1la3lGcW9Bc0huN2ZvZXNBTDh6UFhyQTBBN0VLSEFfN0lkY2x6WDRFdGdVcU5WeUVBdXVVX0NaQT09O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2x0ZD07ZGNfdGR2PTE7O2RjX3RyYW5zcGFyZW50PTE7ZGNfcnVpPTE7ZGNfZXBzPUFIYXM4Y0E1ZGNOQU84RU13Nkg4amxjY3lWOUw1NmJMWmR4dkxlRElRXzNaMjIyM3I1ZDRDSDQ5OGVjYml0MWI5X0lkXzNDVi16Qm5rbUlaZTg1UU93O2RjX3B1YmlkPTY_aHR0cHM6Ly9henVyZS5taWNyb3NvZnQuY29tL2VuLXVzL3ByaWNpbmcvcHVyY2hhc2Utb3B0aW9ucy9henVyZS1hY2NvdW50L3NlYXJjaD9jaWQ9Zm9ybXVsYTEmT0NJRD1BSURjbW1sZzdvNXZiOF9PTEFfMzY4NjU2NDJfNDU3ODU5MDk4XzI2NTI1MDEyMCZzaXRlSUQ9MTA2NDUwMTMmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTI0MzEwNzg5MDk5sBPAhM0muBP___________8BiBQDsBQDwBWBgIBA0BUB2BUBmBYBqBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF4QGIdHTHExeuhcGKAAwADgB0BgB8BgBwhkCCAE&ase=2&gclid=EAIaIQobChMIusPD--yYmAMVlP3nAx11PSkhEAEYASAAEgLDBvD_BwE&num=1&cid=CAASwgHkaJ2XC1X8Dlnj3Ur5ltQsNX1tUWyZdCQW11DvT2eblzG0eZsRK7-Q1wBzf9f9ZGxRQ5SopJNGhgTJzHP1lMPDtZ_wpPkm0PMkrOTwn8j9lmKNqvx-V9aaj-3i3AKC81VVjXk4ntVqUb1NTDCtrRZIba8xlWmjzXxMgMyIBQh3y7fTuLvexy3orxwRx762YxHwNSo-g1SfUpg4plafV-ZlfZfPYGR6IJvUwlztoqRxqRNmoMnNW8erp5PoxYb_Jf7UpQ&ad_cpn=%5BCPN%5D&sig=AOD64_3BdbhYkBlZ1NPtRSJRFZO2WUP0LQ&ctype=110&video_id=beeVOhTvKc0&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Microsoft",
+        "thumbnail": "https://yt3.ggpht.com/proxy/HcDIKi6hGUt23dHJXoGqjYsnW-Yx9b_rvzKby486R6qMUMB5Rj4f1gTieN0_putXXLoa3-WRmWkl6sG9uNJxyUKxT05R36YayKaL6mPwyYsceZVtV43-hJXD6Vdcwr-f9TTB2p4MuxHVP_MYMdnkd1T-00ZPKAq1UisX070t8eIHTbn0wr8tIAwBLSzPe1a1lfAxuCvhiPlF0mN5w-KEfkrLLRdu2y16PNlmNSxm4ASe8xaThWiP6wugAt2DNl21sdoTc3c=w68-h68-nd"
+      },
+      "description": "Run simulations in seconds with Azure Batch. Start experimenting with an Azure free trial.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/beeVOhTvKc0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA68mHfdTYYoDr6fqC1wh1oz0UFQg"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Devour knowledge with Student Spaces",
+      "link": "https://www.youtube.com/watch?v=VdDiEf6YJnQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=VdDiEf6YJnQ",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CeXsJHHIBa7rFFJT7n88P9fqkiQKXouaPiwGH_-O_vBWwkB8QAiAAYMne-IbIo-gZggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAbH6_-oCqAMEyAMKqgTmAk_QbucRGdleynyL2DCouPe3tBrJvygKHYjjtBArNNH-4M_9xVPlmqTjp_he-KkHEcdC26Clizi1HJlmozwKRUQckDPq8Z5yrcjl_ozYKFHmyk3xt6uoWJeakGD-tC-mDxqkrdhrotxVTri8u79MP9F3IMgsGPaBSGYFucTLm9f87-JIy17N4coR6clvt-Fq5eUkT-weotWakoV83JRBigUs_gUEg2DoS87Pgj7OuR7eM6iqxiMo_GR9toJQwrjCRdzu7nijgKTg4hsPocfP1qfnSF5sekseK0OJHGujF6P8HdmMbrpi-xzisnXY30dKH7yBS8ld4zF9bxy0gzl7o7ECUbHgRGUjXUr5xQB0NND1Mcc36MZkZkwq6gYDKQW18UaerKKM-Ogf047BvqB9vcQP0qRLU9lVKAMLStv-GCB9tG3UWNinHJ1bY7mUISakclkkPv51hZZcZ8gIUEiOm6pr0Pj5Z8iIBebQ761YkgUICBN4-s2flQGgBqEBgAe3hYCVAZAHBKgHpc-xAqgH552xAqgH6J2xAqgHg_axAqgH-dOxAqgHydqxAqgHqeCxAqgHqNIbqAex3BuoB7CbsQKoB_2ysQKoB8jPsQKoB8nPsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB57qsQKoB5_qsQKoB_jrsQKoB7zqsQKoB-_xsQKoB_yvsQKoB9XOG6gHvtmxAqgHv9mxAqgHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECkggLVmREaUVmNllKblGoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAYSNmg0jVQFFiwr8P77JiYA2ABmgksaHR0cHM6Ly9hY3JvYmF0LmFkb2JlLmNvbS9zdHVkZW50c3BhY2VzL2hvbWWxCYGwECc9LalhyAkXyAmPAcgJwgG6CzoIAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAtgBA4ACAYgCEroDBXZpZGxz0AsT4AsBogwfYhgKFmNvbS5hZG9iZS5lY2hvc2lnbi5pb3N4AIgBANIMAhAB2gwmCgsQsNvEt7C7jYeYARICAQMaDRjm0O-tWCD37evl0wVAAUoCEB-aDQETqg0CVVPIDQHSDekEaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL045NzI5NTIuMjc5MzgyQklETUFOQUdFUl9ERkFTSVRFL0IyMjM0NDQxMy4yNDE1MzkzMjE7ZGNfdHJrX2FpZD00MzgxMjg2MjI7ZGNfdHJrX2NpZD0xMTI4ODQ2MTM7ZGNfZGJtX3Rva2VuPUFPamVMTkVBQUFBNkNqTUtEQWdBRlFBQUFBQWRBQUFBQUJJTUNBQVZBQUFBQUIwQUFBQUFJaE1JNXREdnJWaW9Bc080OUFHd0FzeVc0dWtEUURzUWwtZTZBYXBTbzNMajY5SHFtUlNHRDdObEp0Yz07ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07bHRkPTtkY190ZHY9MTtkY190cmFuc3BhcmVudD0xO2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNCNWVXa1diUHlySXhUeEJwMklaMmtHRjVmWjJQcGJJdjAwRDc2MzlyRGJELXpFYkJjODlqb1d6ZTlNN2VzQXVsVUkySnRILVJVNm1TU1U2ZztkY19wdWJpZD02P2h0dHBzOi8vYWNyb2JhdC5hZG9iZS5jb20vc3R1ZGVudHNwYWNlcy9ob21lP3NkaWQ9VjZOWktDUzYmbXY9c29jaWFsJm12Mj1wYWlkc29jJnhfYXBpX2NsaWVudF9pZD1wYWlkbWVkaWEmeF9hcGlfY2xpZW50X2xvY2F0aW9uPWFkc19WNk5aS0NTNiZnYWRfc291cmNlPTKwE-PuqCS4E____________wGIFAiwFAPAFYGAgEDQFQHYFQGYFgGoFgGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF1e_wgIaPhjwuhcGKAAwADgB0BgB8BgB&ase=2&gclid=EAIaIQobChMIusPD--yYmAMVlP3nAx11PSkhEAEYAiAAEgLDjfD_BwE&num=2&cid=CAASwgHkaJ2XC1X8Dlnj3Ur5ltQsNX1tUWyZdCQW11DvT2eblzG0eZsRK7-Q1wBzf9f9ZGxRQ5SopJNGhgTJzHP1lMPDtZ_wpPkm0PMkrOTwn8j9lmKNqvx-V9aaj-3i3AKC81VVjXk4ntVqUb1NTDCtrRZIba8xlWmjzXxMgMyIBQh3y7fTuLvexy3orxwRx762YxHwNSo-g1SfUpg4plafV-ZlfZfPYGR6IJvUwlztoqRxqRNmoMnNW8erp5PoxYb_Jf7UpQ&ad_cpn=%5BCPN%5D&sig=AOD64_2ogsQFyKbePrSLetDLE516mPaA-Q&ctype=110&video_id=VdDiEf6YJnQ&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Adobe",
+        "thumbnail": "https://yt3.ggpht.com/proxy/MOuz2I13I1fAnFfngtXtL_W4we9dtMgr0pZOHx9ZvXrWe0TzDLTj2mq2_seyh8bAOYiFhihUkC0bcCbQ2Rr3ROUyAm-g7fKx7ikqVy2aYwv8ap82JEQltB0uNj5JlrrMcTbQ-wFlNo0DfytWwYBrrCyx4-VnwgCwx-dn0fy6KEEwJzLjssuJHIvXA-MdWMvBvChh3bzxW7-sQCuvX2mDwrBOQUGt_eZzMbPzNL_oO6Ke1vjjr2458wPYmALVc80eUKLvvs8=w68-h68-nd"
+      },
+      "description": "Student Spaces is a smarter way to study. Free for students.",
+      "thumbnail": {
+        "static": "https://tpc.googlesyndication.com/simgad/16682586792110191416"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Mission Control for M365 security. Fast & free onboarding. Simple pricing.",
+      "link": "https://www.youtube.com/watch?v=J2fL8SnfHEI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=J2fL8SnfHEI",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CkVPVHHIBa7rFFJT7n88P9fqkiQLmu5_8iQGRyPWRyxawkB8QBCAAYMne-IbIo-gZggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAY7ShYVDqAMEyAMKqgTLAk_QbucRGdleynyL2DCouPe3tBrJvygKHYjjtBArNNH-4M_9xVPlmqTjp_he-KkHEcdC26Clizi1HJlmozwKRUQckDPq8Z5yrcjl_ozYKFHmyk3xt6uoWJeakGD-tC-mDxqkrdhrotxVTri8u79MP9F3IMgsGPaBSGYFucTLm9f87-JIy17N4coR6clvt-Fq5eUkT-weotWakoV83JRBigUs_gUEg2DoS87Pgj7OuR7eM6iqxiMo_GR9toJQwrjCRdzu7nijgKTg4hsPocfP1qfnSF5sekseK0OJHGujF6P8HdmMbrpi-xzisnXY30dKH6SBnkyfWT11b76sFUnDj28Q871PKOK0QK8RvFHy6g4H_tirUZdu0uqh31-NzjaKJIewAyu-YdhXy2nzTy6DU_UGDLETKRZnvpfWofBqra--hkbMnnglBiGU2IeIBcqhg8RakgUICBN4p4KChx6gBqEBgAeOitbkHZAHBKgHpc-xAqgH552xAqgH6J2xAqgHg_axAqgH-dOxAqgHydqxAqgHqeCxAqgHqNIbqAex3BuoB7CbsQKoB_2ysQKoB8jPsQKoB8nPsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB57qsQKoB5_qsQKoB_jrsQKoB7zqsQKoB-_xsQKoB_yvsQKoB9XOG6gHvtmxAqgHv9mxAqgHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECkggLSjJmTDhTbmZIRUmoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAYSNmg0jVQFFiwr8P77JiYA2ABmgkbaHR0cHM6Ly93d3cuY2xvdWRjYXBzdWxlLmlvsQkIBHYykCLY5sgJF8gJjwHICcIByAmXApgLAboLOggDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AIC2AEBgAIBiAIFugMFdmlkbHPQCxLSDAIQAdoMJQoKEPCwmILYmLHBfRICAQMaDRjKoYPEWiCqpImM9wVAAUoCEB-aDQESqg0CVVPIDQHSDcgCaHR0cHM6Ly93d3cuY2xvdWRjYXBzdWxlLmlvP3V0bV90ZXJtPSZ1dG1fY2FtcGFpZ249RGVtYW5kK0dlbistKzIwMjYtMDktMzAmdXRtX3NvdXJjZT1hZHdvcmRzJnV0bV9tZWRpdW09cHBjJnV0bV9pZD0yNDMwMTg1MDgyNiZoc2FfYWNjPTk2OTQ4NDA3NTgmaHNhX2NhbT0yNDMwMTg1MDgyNiZoc2FfZ3JwPTIwMzc2NzgyOTAzNCZoc2FfYWQ9ODI2NDk4NDg2MDM1JmhzYV9zcmM9eXRpZiZoc2FfdGd0PWF1ZC0yNDkyMDUxODk1NDg2JmhzYV9rdz0maHNhX210PSZoc2FfbmV0PWFkd29yZHMmaHNhX3Zlcj0zJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yNDMwMTg1MDgyNrgT____________AYgUAbAUA8AVgYCAQNAVAdgVAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRftAvpknPU-D7oXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMIusPD--yYmAMVlP3nAx11PSkhEAEYBCAAEgJOJvD_BwE&num=4&cid=CAASwgHkaJ2XC1X8Dlnj3Ur5ltQsNX1tUWyZdCQW11DvT2eblzG0eZsRK7-Q1wBzf9f9ZGxRQ5SopJNGhgTJzHP1lMPDtZ_wpPkm0PMkrOTwn8j9lmKNqvx-V9aaj-3i3AKC81VVjXk4ntVqUb1NTDCtrRZIba8xlWmjzXxMgMyIBQh3y7fTuLvexy3orxwRx762YxHwNSo-g1SfUpg4plafV-ZlfZfPYGR6IJvUwlztoqRxqRNmoMnNW8erp5PoxYb_Jf7UpQ&ad_cpn=%5BCPN%5D&sig=AOD64_0o3rZOaeOl6sHLzlsoEQ783elT_A&ctype=110&video_id=J2fL8SnfHEI&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "CloudCapsule",
+        "thumbnail": "https://yt3.ggpht.com/proxy/iWsDWaWWxUauMqb90oh62tCX4WLIK4hqWqSy2x0GHFJfruCW0QnB7Nsz8sL5LZXbMucC7Y26L8qNLc1twdNOBvmmSoqvilLk8xRXydChZzpfVlSng9oIOhGmQnl_cnAVjRQM8eFohVAihqZ9GWyKDVrWPVBLQn73mBZeOUUaNCETNNJYolwggMmwrc3nhjCXTF4FsF08srNrMA7byilgxA5E68jZZJufmmWYkL0bHJCmrU5jcUvny-Zxm8yPeeXHgWRC-FQ=w68-h68-nd"
+      },
+      "description": "Streamed 2mo ago",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/J2fL8SnfHEI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJTLiujMeu_9m1JrGPrSZVylBQgQ"
+      }
+    }
+  ],
+  "video_results": [
+    {
+      "position_on_page": 2,
+      "title": "SQL for Data Analytics - Learn SQL in 4 Hours",
+      "link": "https://www.youtube.com/watch?v=7mz73uXD9DA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=7mz73uXD9DA",
+      "video_id": "7mz73uXD9DA",
+      "channel": {
+        "name": "Luke Barousse",
+        "channel_id": "UCLLw7jmFsvfIVaUFsLs8mlQ",
+        "link": "https://www.youtube.com/@LukeBarousse",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_my6YXWfudW8qM_i1Na9IWEbiIUtVgb54u0XVVmtlYQig=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 1909354,
+      "length": "4:08:41",
+      "description": "FREE Course Databases & Links https://lukebarousse.com/sql Supporter Access: Problems, Certificate, & More ...",
+      "extensions": [
+        "1 product",
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/7mz73uXD9DA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVnhKf5YBLmq8cb8pPmFq2PPxS7g",
+        "rich": "https://i.ytimg.com/an_webp/7mz73uXD9DA/mqdefault_6s.webp?du=3000&sqp=CMDdhdgG&rs=AOn4CLBNQInvyYBq8IzTe8qNp8PO3f72Xw"
+      },
+      "chapters": [
+        {
+          "title": "Welcome",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_33.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAt6lM9xVrWtNYiOssH9EwLsj5JUw",
+          "time_start": 0
+        },
+        {
+          "title": "What is SQL",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_230166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQapjNT2oP-3cVGi2boVBwaO2ptA",
+          "time_start": 223
+        },
+        {
+          "title": "Intro to Course",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_673833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7Gf0M_2CzhkWf-EnrPcZqAeSoZw",
+          "time_start": 644
+        },
+        {
+          "title": "The Basics",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_1018900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVXAyMIb0lBWGuMpAMoGMwotcDqg",
+          "time_start": 1011
+        },
+        {
+          "title": "Comparisons",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_2067066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5EI3q6sfqrZ9f7yqy_GrKdV53nw",
+          "time_start": 2039
+        },
+        {
+          "title": "Practice Problem 1",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_2506033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxjz6t8VS57DyBOwSF4XAuxMm_Yg",
+          "time_start": 2478
+        },
+        {
+          "title": "Wildcards",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_2728666.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAGt7n3BRFZFV5TZXmCT3QFSjFug",
+          "time_start": 2723
+        },
+        {
+          "title": "Alias: AS",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_2942100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZtPjVEe9QmjbYevtJIRkfS6nKYg",
+          "time_start": 2929
+        },
+        {
+          "title": "Practice Problem 2",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_3087033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAT06Hj-zA52mxyN4SB_vGgyuKddQ",
+          "time_start": 3066
+        },
+        {
+          "title": "Operations",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_3260066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNRVjS_naXUg5PMSGnjfhKOByldQ",
+          "time_start": 3241
+        },
+        {
+          "title": "Aggregation",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_3601666.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbxE_f5jhsweuguYi0BgbUIyrmmQ",
+          "time_start": 3577
+        },
+        {
+          "title": "Practice Problem 3",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_3988033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAeRb482MOSjAfZGQXKXECkffbeqA",
+          "time_start": 3988
+        },
+        {
+          "title": "NULL Values",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_4151066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCR46hS2QIYWh1pJ_vt0Mk2ZoH-VQ",
+          "time_start": 4125
+        },
+        {
+          "title": "JOINS",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_4224933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwuqW0tITt0P64NuE7G_QA0ZRejA",
+          "time_start": 4207
+        },
+        {
+          "title": "Order of Execution",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_4820933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDQsERP8e7A9QuI8NUtzaBoldiqw",
+          "time_start": 4815
+        },
+        {
+          "title": "Practice Problem 5",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_4961066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0aNKVEyIht3SiqczLW7B_g_TJzw",
+          "time_start": 4955
+        },
+        {
+          "title": "Setup PostgreSQL",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_5198200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuDMhZr6UyPf0N-VozVxjw_ZJ5Pg",
+          "time_start": 5178
+        },
+        {
+          "title": "IDE Install: VS Code",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_5596200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKAs-r_XlFo_dSWJ4Rnykm5m1uMw",
+          "time_start": 5568
+        },
+        {
+          "title": "Data Types",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_6256133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGFfJTIQQ2KrMgb0iRvcFa15TNmA",
+          "time_start": 6248
+        },
+        {
+          "title": "Manipulate Tables",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_6483966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtje-jnS6c76EJ4qVAepCG-E25FQ",
+          "time_start": 6455
+        },
+        {
+          "title": "Database Load",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_7212066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0UlUJrJFrbW8YtTuEXV2zMdINFQ",
+          "time_start": 7200
+        },
+        {
+          "title": "Date Functions",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_7806966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfYwnwEJbhfkjYL0XkLOlaFwjbEA",
+          "time_start": 7802
+        },
+        {
+          "title": "Problem Problem 6",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_8449966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhRuAVH-xFVUrK1L37u2wQkc9D6Q",
+          "time_start": 8426
+        },
+        {
+          "title": "CASE Expression",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_8707233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBM6Igk2pOOZWtVy-sP-o8KYWF4xA",
+          "time_start": 8702
+        },
+        {
+          "title": "SubQueries and CTEs",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_9032866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVLJKJkz5PR5zGvDcC15sxdY_rHg",
+          "time_start": 9024
+        },
+        {
+          "title": "Practice Problem 7",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_9759200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBoC3SKXoxFuQcZ5LhzHN48KPX-QQ",
+          "time_start": 9741
+        },
+        {
+          "title": "UNION Operators",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_10235000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXKJUvMGr6Vj2Bo3IW8u0U2A9B7A",
+          "time_start": 10211
+        },
+        {
+          "title": "Practice Problem 8",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_10482166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGHf_Jez1z3-wFiC0jflXOIXoKdA",
+          "time_start": 10468
+        },
+        {
+          "title": "About the Project",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_10694966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHegUJ5xDZQRWVKeIG6YMtK6c2zQ",
+          "time_start": 10691
+        },
+        {
+          "title": "Create the Repository",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_10943133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCT3C6UrWR7r5lT0xm20tLjx1gUQg",
+          "time_start": 10937
+        },
+        {
+          "title": "Query 1 - Top Paying Jobs",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_11708866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDU_CcbQKCM1LdtWiTLMiZPtbsB6A",
+          "time_start": 11690
+        },
+        {
+          "title": "Query 2 - Top Paying Job's Skills",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_12056933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2tkY185UwxzCEibOZKDTEI6x9mg",
+          "time_start": 12042
+        },
+        {
+          "title": "Query 3 - In-Demand Skills",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_12502800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRJ8w4lBF7c7-SUBs10vNfSlDo1A",
+          "time_start": 12490
+        },
+        {
+          "title": "Query 4 - Top Paying Skills",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_12864066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaLoS6IAXQT-6OjMnP9DI_TrhrFA",
+          "time_start": 12854
+        },
+        {
+          "title": "Query 5 - Most Optimal Skills",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_13325966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWDmWqubrY4Y2cF0xDs_vrjNmxwg",
+          "time_start": 13297
+        },
+        {
+          "title": "Share on GitHub",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_14009133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7R_gDzELiC30Dbh_wCJ2DoK4ldg",
+          "time_start": 13994
+        },
+        {
+          "title": "Share on LinkedIn",
+          "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hqdefault_14735133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1gz5a27JaB-1_7b5aL9WQ8AJgbA",
+          "time_start": 14716
+        }
+      ]
+    },
+    {
+      "position_on_page": 5,
+      "title": "Learn SQL Beginner to Advanced in Under 4 Hours",
+      "link": "https://www.youtube.com/watch?v=OT1RErkfLNQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OT1RErkfLNQ",
+      "video_id": "OT1RErkfLNQ",
+      "channel": {
+        "name": "Alex The Analyst",
+        "channel_id": "UC7cs8q-gJRlGwj4A8OmCmXg",
+        "link": "https://www.youtube.com/@AlexTheAnalyst",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l9wLnClpLKJeVmP5XwHy4NF_Gu13GfyRT1WTZDaSYS-g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 2145617,
+      "length": "4:04:58",
+      "description": "Take my Full MySQL Course Here: https://www.analystbuilder.com/courses/mysql-for-data-analytics Download MySQL: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/OT1RErkfLNQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAH8B8UTliq-LT2JdzMw_AvE9koA",
+        "rich": "https://i.ytimg.com/an_webp/OT1RErkfLNQ/mqdefault_6s.webp?du=3000&sqp=CMDThdgG&rs=AOn4CLC1SSvm-NIVtU4k02fmYRrvkNsn_Q"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/OT1RErkfLNQ/hqdefault_29000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwvH-7KTmjpOoCpUxumstC8ZRpnw",
+          "time_start": 0
+        },
+        {
+          "title": "Installing MySQL and Setting up Database",
+          "thumbnail": "https://i.ytimg.com/vi/OT1RErkfLNQ/hqdefault_52133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2NLRPgstyPqIU12Q7yFDwfG33-Q",
+          "time_start": 52
+        },
+        {
+          "title": "Select Statement",
+          "thumbnail": "https://i.ytimg.com/vi/OT1RErkfLNQ/hqdefault_679300.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFuiqyQKQMCqDyrE8CYTtlwZV-wg",
+          "time_start": 679
+        },
+        {
+          "title": "Where Clause",
+          "thumbnail": "https://i.ytimg.com/vi/OT1RErkfLNQ/hqdefault_1317900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCollBfUFm1K0haH-gfbPEn_ukelA",
+          "time_start": 1307
+        },
+        {
+          "title": "Group By",
+          "thumbnail": "https://i.ytimg.com/vi/OT1RErkfLNQ/hqdefault_2061733.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiwReIqzH2XWBAwsGy9fpKTDD6kw",
+          "time_start": 2034
+        },
+        {
+          "title": "Having vs Where",
+          "thumbnail": "https://i.ytimg.com/vi/OT1RErkfLNQ/hqdefault_2687200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYsFUfQ7S5fN8Kd4PYQW1rWHWUYg",
+          "time_start": 2658
+        },
+        {
+          "title": "Limit and Aliasing",
+          "thumbnail": "https://i.ytimg.com/vi/OT1RErkfLNQ/hqdefault_2869166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmVZArbm0qwjuCCrQkfepFNoqG5Q",
+          "time_start": 2861
+        },
+        {
+          "title": "Joins",
+          "thumbnail": "https://i.ytimg.com/vi/OT1RErkfLNQ/hqdefault_3073133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBr6HgpsVTc9rkRiD2YNgL77GuCFw",
+          "time_start": 3070
+        },
+        {
+          "title": "Unions",
+          "thumbnail": "https://i.ytimg.com/vi/OT1RErkfLNQ/hqdefault_4084100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8ZKGRTklMRrytifljiIqbx2xybA",
+          "time_start": 4084
+        },
+        {
+          "title": "String Functions",
+          "thumbnail": "https://i.ytimg.com/vi/OT1RErkfLNQ/hqdefault_4539100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsXfgpx5lnWCdaO1s0xvYH5frMZA",
+          "time_start": 4510
+        },
+        {
+          "title": "Case Statements",
+          "thumbnail": "https://i.ytimg.com/vi/OT1RErkfLNQ/hqdefault_5199033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4o0pNo0801ykR5L8X3v7xbMHhZQ",
+          "time_start": 5199
+        },
+        {
+          "title": "Subqueries",
+          "thumbnail": "https://i.ytimg.com/vi/OT1RErkfLNQ/hqdefault_5740100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4ZVdgaJokll5QFgdcIWTPt8pCRA",
+          "time_start": 5716
+        },
+        {
+          "title": "Window Functions",
+          "thumbnail": "https://i.ytimg.com/vi/OT1RErkfLNQ/hqdefault_6380966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOZZBYgsv4Fw0eT8AJXVi3-Ky8XQ",
+          "time_start": 6358
+        },
+        {
+          "title": "CTEs",
+          "thumbnail": "https://i.ytimg.com/vi/OT1RErkfLNQ/hqdefault_7135000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAc5eIsVmi7u37eHhu066Yj6WW1XA",
+          "time_start": 7135
+        },
+        {
+          "title": "Temp Tables",
+          "thumbnail": "https://i.ytimg.com/vi/OT1RErkfLNQ/hqdefault_7754900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMkMZaCLteelLlSt3Rj2qSTnajSw",
+          "time_start": 7747
+        },
+        {
+          "title": "Stored Procedures",
+          "thumbnail": "https://i.ytimg.com/vi/OT1RErkfLNQ/hqdefault_8194000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwTM_BCkkYPLw9SWepO94PvGQtmA",
+          "time_start": 8194
+        },
+        {
+          "title": "Triggers and Events",
+          "thumbnail": "https://i.ytimg.com/vi/OT1RErkfLNQ/hqdefault_8931333.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhZpu7PL6dXl6blZ1B4Kf70McRgQ",
+          "time_start": 8931
+        },
+        {
+          "title": "Data Cleaning Project",
+          "thumbnail": "https://i.ytimg.com/vi/OT1RErkfLNQ/hqdefault_9767933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDA2e7VCOw2moTo1sroNoN2zzoNWw",
+          "time_start": 9766
+        },
+        {
+          "title": "Exploratory Data Analysis Project",
+          "thumbnail": "https://i.ytimg.com/vi/OT1RErkfLNQ/hqdefault_12749833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCI5CNiN4E-4B0LepzaVfl9yDbfJQ",
+          "time_start": 12734
+        }
+      ]
+    },
+    {
+      "position_on_page": 7,
+      "title": "SQL Full Course for Beginners (30 Hours) – From Zero to Hero",
+      "link": "https://www.youtube.com/watch?v=SSKVgrwhzus",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=SSKVgrwhzus",
+      "video_id": "SSKVgrwhzus",
+      "channel": {
+        "name": "Data with Baraa",
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "link": "https://www.youtube.com/@DataWithBaraa",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/dqs3pZO_8d4K2zp2ebhb2klV_zOqfNrNTViTHggfJPrvMVCRvypJW8BGksEdQqYTPWdai3wUDg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 6870157,
+      "length": "29:48:28",
+      "description": "I've spent 2 years creating this *high-quality SQL course* so you can master SQL for data analysis & data engineering. The best ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/SSKVgrwhzus/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHJYou_jXAxF3EoXjfHupX5BgUqQ",
+        "rich": "https://i.ytimg.com/an_webp/SSKVgrwhzus/mqdefault_6s.webp?du=3000&sqp=CK7jhdgG&rs=AOn4CLDYKhMEsIluh-h459vCZjcDzQ62xQ"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "SQL Course for Beginners [Full Course]",
+      "link": "https://www.youtube.com/watch?v=7S_tz1z_5bA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=7S_tz1z_5bA",
+      "video_id": "7S_tz1z_5bA",
+      "channel": {
+        "name": "Programming with Mosh",
+        "channel_id": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "link": "https://www.youtube.com/@programmingwithmosh",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 15715907,
+      "length": "3:10:19",
+      "description": "Master SQL – an essential skill for AI, machine learning, data analysis, and more! This beginner-friendly course teaches you ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/7S_tz1z_5bA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlohTYZhQDSWG32v6EfxEUlv6wqA",
+        "rich": "https://i.ytimg.com/an_webp/7S_tz1z_5bA/mqdefault_6s.webp?du=3000&sqp=CIDghdgG&rs=AOn4CLC_m-r_3gHuc38IxmL1Ng1hAWndHQ"
+      },
+      "chapters": [
+        {
+          "title": "Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_3866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvIaaR-f-kTdK2MfNBXXAuvWtItg",
+          "time_start": 0
+        },
+        {
+          "title": "What is SQL?",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_90833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAiPfKTzUlZ846VhctDJ1xWD1Xkw",
+          "time_start": 62
+        },
+        {
+          "title": "Cheat Sheet",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_272833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqyQ2cATR6DWpq1G6Xt9lnrLVK0A",
+          "time_start": 264
+        },
+        {
+          "title": "Installing MySQL on Mac",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_293800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCymxCWpAdoJzLb15GAvegYThhprw",
+          "time_start": 290
+        },
+        {
+          "title": "Installing MySQL on Windows",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_590900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxkssVHhwMEbVSQyGgefN2LEBZMw",
+          "time_start": 588
+        },
+        {
+          "title": "Creating the Databases for this Course",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_912233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBXQ5IPmhbo_T3Jt6n4-HHEPjVPg",
+          "time_start": 908
+        },
+        {
+          "title": "The SELECT Statement",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_1424233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQejfeo5-nHxZPiGKRG23mBeA3gw",
+          "time_start": 1420
+        },
+        {
+          "title": "The SELECT Clause",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_1775166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJMYJzpV6-9QVg0TD38Lkc3YQGLw",
+          "time_start": 1770
+        },
+        {
+          "title": "The WHERE Clause",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_2303133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBaVZbYMmy5M_ZoJeD03pn4bALz-Q",
+          "time_start": 2298
+        },
+        {
+          "title": "The AND, OR, and NOT Operators",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_2620166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjAK0DbwL1_mjveDO0IVMWrQpG8Q",
+          "time_start": 2615
+        },
+        {
+          "title": "The IN Operator",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_3105066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBpc0upbjd4qukF-PpwedpqftCBg",
+          "time_start": 3098
+        },
+        {
+          "title": "The BETWEEN Operator",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_3288033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqS-WECngj1xwAL6PTgwVXQbY0ag",
+          "time_start": 3281
+        },
+        {
+          "title": "The LIKE Operator",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_3419100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACNYBWW-SszP9Cd3BKk5cMtntthA",
+          "time_start": 3413
+        },
+        {
+          "title": "The REGEXP Operator",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_3756966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqFUpg0B8T9JzLh0HY08KeKImWHw",
+          "time_start": 3751
+        },
+        {
+          "title": "The IS NULL Operator",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_4318933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiTlr4_0S2gGYMM1HJ5klSgKKpjQ",
+          "time_start": 4311
+        },
+        {
+          "title": "The ORDER BY Operator",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_4465900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1oZ9OhCHSuoJZt2ptth7oWqhY6A",
+          "time_start": 4458
+        },
+        {
+          "title": "The LIMIT Operator",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_4891866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVyzm_c5tnnx0vHXQVh5s7_fsV5w",
+          "time_start": 4883
+        },
+        {
+          "title": "Inner Joins",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_5096900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOaR4zhxzLiKbABcTEpWZevPY9gA",
+          "time_start": 5090
+        },
+        {
+          "title": "Joining Across Databases",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_5604800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8omLkcMtSkBhyxoOOgNqxQ9OmoQ",
+          "time_start": 5596
+        },
+        {
+          "title": "Self Joins",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_5771800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDz6Iuo_VheA965hAvwXlczUdxzLA",
+          "time_start": 5763
+        },
+        {
+          "title": "Joining Multiple Tables",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_6026233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpHDFZQF9syuJA3FkEESZ0qUHZPg",
+          "time_start": 6017
+        },
+        {
+          "title": "Compound Join Conditions",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_6433200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEHQtbYGM9IEWO4B553nihd7ECIg",
+          "time_start": 6423
+        },
+        {
+          "title": "Implicit Join Syntax",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_6652166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxuKMndlOq-VDabHsMeXvBJ5f4ow",
+          "time_start": 6644
+        },
+        {
+          "title": "Outer Joins",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_6793233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAatERmQnfNZzIR-emwuKTbz1MPwQ",
+          "time_start": 6784
+        },
+        {
+          "title": "Outer Join Between Multiple Tables",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_7181100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArEzpFiIsDCbmPZDTINLyD8ajoow",
+          "time_start": 7171
+        },
+        {
+          "title": "Self Outer Joins",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_7561066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7hQWXXMK3TZ_vLYU1dQE6QOt2Gg",
+          "time_start": 7550
+        },
+        {
+          "title": "The USING Clause",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_7694033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTFhh33hY5xpvp95WeEyUbMtk59A",
+          "time_start": 7682
+        },
+        {
+          "title": "Natural Joins",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_8017000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVKJVk1oKT1Sp_emdaQI4I576iAw",
+          "time_start": 8005
+        },
+        {
+          "title": "Cross Joins",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_8097966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWO1y4Zr54-BhLKDASolmFLRqOBg",
+          "time_start": 8086
+        },
+        {
+          "title": "Unions",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_8291000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9owdBtf_68WmJU_Rv-dGLoc1lPg",
+          "time_start": 8281
+        },
+        {
+          "title": "Column Attributes",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_8801900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA75xQ7JJXWdFtyBObOobHsIumDEQ",
+          "time_start": 8789
+        },
+        {
+          "title": "Inserting a Single Row",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_9004933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyuem084GyMGV84a1oQAf2aXjQPQ",
+          "time_start": 8994
+        },
+        {
+          "title": "Inserting Multiple Rows",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_9350966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAt5d45mt23fQL-yKZH1DC7LD_SCg",
+          "time_start": 9340
+        },
+        {
+          "title": "Inserting Hierarchical Rows",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_9549800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7aQ3KJTlrOQGdFcGygLuFe0mL3A",
+          "time_start": 9538
+        },
+        {
+          "title": "Creating a Copy of a Table",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_9901900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCitlYz2cpZ18rr2kwMiSNQFRgwWA",
+          "time_start": 9891
+        },
+        {
+          "title": "Updating a Single Row",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_10431233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsZtUnpyYa9xfivAXzXNd_xGuWvQ",
+          "time_start": 10418
+        },
+        {
+          "title": "Updating Multiple Rows",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_10666200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfsTNCvfNvIioj0L79d1tXIiVePQ",
+          "time_start": 10653
+        },
+        {
+          "title": "Using Subqueries in Updates",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_10860166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYFiryu7Ko2BdL8du2D3AcYa2K2Q",
+          "time_start": 10847
+        },
+        {
+          "title": "Deleting Rows",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_11197166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYrLVXm1Mrl6x2UlQhSklOk-L_1w",
+          "time_start": 11184
+        },
+        {
+          "title": "Restoring Course Databases",
+          "thumbnail": "https://i.ytimg.com/vi/7S_tz1z_5bA/hqdefault_11282100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUhYlH1lWVHnBt-qgQf0gwSk88Fw",
+          "time_start": 11268
+        }
+      ]
+    },
+    {
+      "position_on_page": 10,
+      "title": "How I Would Learn SQL FAST as a Data Analyst (2026 Roadmap)",
+      "link": "https://www.youtube.com/watch?v=kkKPD7khA54",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=kkKPD7khA54",
+      "video_id": "kkKPD7khA54",
+      "channel": {
+        "name": "Data with Baraa",
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "link": "https://www.youtube.com/@DataWithBaraa",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/dqs3pZO_8d4K2zp2ebhb2klV_zOqfNrNTViTHggfJPrvMVCRvypJW8BGksEdQqYTPWdai3wUDg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6mo ago",
+      "views": 41351,
+      "length": "13:58",
+      "description": "Hey friends, a friend of mine asked me if I could shorten the 30-hour SQL course just for data analyst topics. - *SQL Full Package* ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/kkKPD7khA54/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDj8L2v2BkSUcy3Fw9xmn9L1KeXFA",
+        "rich": "https://i.ytimg.com/an_webp/kkKPD7khA54/mqdefault_6s.webp?du=3000&sqp=COzMhdgG&rs=AOn4CLAeBml0KF1Zg7Y91n8XuRY32rjFpw"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/kkKPD7khA54/hqdefault_12133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJW6Qq0XEevuRIdkBw__pnTJnOXg",
+          "time_start": 0
+        },
+        {
+          "title": "What a Data Analyst Does",
+          "thumbnail": "https://i.ytimg.com/vi/kkKPD7khA54/hqdefault_78166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDo3zDzjPe3byVuy9qAQr8Z34AT2Q",
+          "time_start": 77
+        },
+        {
+          "title": "SQL Basics: SELECT and WHERE",
+          "thumbnail": "https://i.ytimg.com/vi/kkKPD7khA54/hqdefault_236833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-aBz651RnLsd2JeiYqgrDjSBrUw",
+          "time_start": 213
+        },
+        {
+          "title": "Data Cleaning and Transformation",
+          "thumbnail": "https://i.ytimg.com/vi/kkKPD7khA54/hqdefault_355800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVSLIMx0Jom_N5cWv-pikjDUkD9Q",
+          "time_start": 355
+        },
+        {
+          "title": "Combining Data: JOIN and UNION",
+          "thumbnail": "https://i.ytimg.com/vi/kkKPD7khA54/hqdefault_446833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPE8q6OC-1O-jm3A2_3saqX860pQ",
+          "time_start": 435
+        },
+        {
+          "title": "Aggregate and Window Functions",
+          "thumbnail": "https://i.ytimg.com/vi/kkKPD7khA54/hqdefault_568000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJgH0ZuGllTzuxzxy8wMrizmqImg",
+          "time_start": 538
+        },
+        {
+          "title": "Subqueries and CTE",
+          "thumbnail": "https://i.ytimg.com/vi/kkKPD7khA54/hqdefault_651000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPrYFP9rW0qu3RWoA5c6YSR58A-A",
+          "time_start": 632
+        },
+        {
+          "title": "EDA Projects",
+          "thumbnail": "https://i.ytimg.com/vi/kkKPD7khA54/hqdefault_741233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnsKBA11ouygVuP0RjPbYPFrurkQ",
+          "time_start": 712
+        }
+      ]
+    },
+    {
+      "position_on_page": 11,
+      "title": "Learn Basic SQL in 15 Minutes | Business Intelligence For Beginners | SQL Tutorial For Beginners 1/3",
+      "link": "https://www.youtube.com/watch?v=kbKty5ZVKMY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=kbKty5ZVKMY",
+      "video_id": "kbKty5ZVKMY",
+      "channel": {
+        "name": "Adam Finer - Learn BI",
+        "channel_id": "UC1bhYMFuSFREIQ5bgclLDkQ",
+        "link": "https://www.youtube.com/@LearnBI",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/QzfYVHje5eQrL5AaVd_dSZlM1eP9Stzyd4HcUvBU6Em278seWnQEe74bsZZIQdcYubLEI6zgig=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 3701705,
+      "length": "17:40",
+      "description": "Download the SQL tutorial resource pack: Get the SQLite database, Part 1 SQL queries and companion setup guide here: ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/kbKty5ZVKMY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4hVVUoOXUgLBVnKlm-OgpzV5NDA",
+        "rich": "https://i.ytimg.com/an_webp/kbKty5ZVKMY/mqdefault_6s.webp?du=3000&sqp=CLq9hdgG&rs=AOn4CLDM5MafhFZ5CEbwk8hFZIpc9TioYQ"
+      },
+      "chapters": [
+        {
+          "title": "Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/kbKty5ZVKMY/hqdefault_3933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrnpk818mGAmDlzzYpcwexcabs9g",
+          "time_start": 0
+        },
+        {
+          "title": "Why learn SQL for BI?",
+          "thumbnail": "https://i.ytimg.com/vi/kbKty5ZVKMY/hqdefault_82133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANzfL5bRuFWtW7rC07dM3IJSzRSg",
+          "time_start": 72
+        },
+        {
+          "title": "Tutorial start",
+          "thumbnail": "https://i.ytimg.com/vi/kbKty5ZVKMY/hqdefault_142133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARQtmP_bn8G1lcbwF1SUky-m2xVQ",
+          "time_start": 142
+        },
+        {
+          "title": "SQL SELECT statement",
+          "thumbnail": "https://i.ytimg.com/vi/kbKty5ZVKMY/hqdefault_251766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdsAmAcTAesfEjAzqdw9YzCiJ5eQ",
+          "time_start": 223
+        },
+        {
+          "title": "AS field alias",
+          "thumbnail": "https://i.ytimg.com/vi/kbKty5ZVKMY/hqdefault_316833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUMFK8T1Xp-N2soxRjYvZ7AgR7XQ",
+          "time_start": 307
+        },
+        {
+          "title": "WHERE clause",
+          "thumbnail": "https://i.ytimg.com/vi/kbKty5ZVKMY/hqdefault_349833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkauodfQVJW5h0xMOcRQIZ7N1uWQ",
+          "time_start": 332
+        },
+        {
+          "title": "ORDER BY clause",
+          "thumbnail": "https://i.ytimg.com/vi/kbKty5ZVKMY/hqdefault_610300.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbn46OSGvnYaZ3f2bsp1sGyTa6Aw",
+          "time_start": 594
+        },
+        {
+          "title": "INNER JOIN",
+          "thumbnail": "https://i.ytimg.com/vi/kbKty5ZVKMY/hqdefault_680166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9IdD6kPQdl_w7M7xuZ8Twsks4hQ",
+          "time_start": 654
+        },
+        {
+          "title": "Aliasing tables",
+          "thumbnail": "https://i.ytimg.com/vi/kbKty5ZVKMY/hqdefault_789133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdD5iFplGMRFgR-ZKHHa0n-mkIRA",
+          "time_start": 788
+        },
+        {
+          "title": "GROUP BY clause",
+          "thumbnail": "https://i.ytimg.com/vi/kbKty5ZVKMY/hqdefault_846100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6fQbL65XQscS7TimKKLiQDpKLYw",
+          "time_start": 840
+        },
+        {
+          "title": "HAVING clause",
+          "thumbnail": "https://i.ytimg.com/vi/kbKty5ZVKMY/hqdefault_958066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFxKu9VSiAg7Luy0DkgbnyZDIugA",
+          "time_start": 958
+        },
+        {
+          "title": "Outro",
+          "thumbnail": "https://i.ytimg.com/vi/kbKty5ZVKMY/hqdefault_1022000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzQPrBiQNDC6fBRPp_0kQ-o1VrDA",
+          "time_start": 1009
+        }
+      ]
+    },
+    {
+      "position_on_page": 15,
+      "title": "Learn SQL for Data Analysis in one hour (with sample dataset + 50 queries)",
+      "link": "https://www.youtube.com/watch?v=l8DCPaHc5TQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=l8DCPaHc5TQ",
+      "video_id": "l8DCPaHc5TQ",
+      "channel": {
+        "name": "Chandoo",
+        "channel_id": "UC8uU_wruBMHeeRma49dtZKA",
+        "link": "https://www.youtube.com/@chandoo_",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n_wMqn3mAO7vDs1s74bHiFXXv24ckFsv2mnV1US8mS_w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 1663668,
+      "length": "58:22",
+      "description": "SQL is one of the most important skills to have for data people. In this comprehensive video, learn how to use SQL to perform ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/l8DCPaHc5TQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXjeaHMh7eYn1HvRSI7_lTuTx5ZA",
+        "rich": "https://i.ytimg.com/an_webp/l8DCPaHc5TQ/mqdefault_6s.webp?du=3000&sqp=CNDFhdgG&rs=AOn4CLBIVvsXLH0CMGaDIW1oL2iDB-vd0A"
+      },
+      "chapters": [
+        {
+          "title": "Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/l8DCPaHc5TQ/hqdefault_16900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPUjqxymOcOBuqL_mTlJ2bxs0slA",
+          "time_start": 0
+        },
+        {
+          "title": "Data setup, explanation & basic queries",
+          "thumbnail": "https://i.ytimg.com/vi/l8DCPaHc5TQ/hqdefault_43900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgYLaH6dvWozj341TaXC_CskWn_g",
+          "time_start": 43
+        },
+        {
+          "title": "Adding calculated columns in SELECT",
+          "thumbnail": "https://i.ytimg.com/vi/l8DCPaHc5TQ/hqdefault_384000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCeometN3glNpuWSaCs33XPYAvdzw",
+          "time_start": 384
+        },
+        {
+          "title": "Our first WHERE clause",
+          "thumbnail": "https://i.ytimg.com/vi/l8DCPaHc5TQ/hqdefault_530766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMWHh-t3Rs9ZpQpDQATQXykkZ2xQ",
+          "time_start": 519
+        },
+        {
+          "title": "Ordering query results with ORDER BY",
+          "thumbnail": "https://i.ytimg.com/vi/l8DCPaHc5TQ/hqdefault_628100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGZLHh1FjmRHhYmqxqbsvbK6QnWA",
+          "time_start": 628
+        },
+        {
+          "title": "More Where clause examples",
+          "thumbnail": "https://i.ytimg.com/vi/l8DCPaHc5TQ/hqdefault_804833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCt0sZoC70YvQaUg024Ml4B4yIeJg",
+          "time_start": 804
+        },
+        {
+          "title": "Between conditions",
+          "thumbnail": "https://i.ytimg.com/vi/l8DCPaHc5TQ/hqdefault_1004800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDexGsNgDfpjsACzueOA-LleD1nwQ",
+          "time_start": 1002
+        },
+        {
+          "title": "Working with Dates",
+          "thumbnail": "https://i.ytimg.com/vi/l8DCPaHc5TQ/hqdefault_1154133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEn8I4L6E15EPEAnSCMcvq23OGWA",
+          "time_start": 1146
+        },
+        {
+          "title": "Using other tables",
+          "thumbnail": "https://i.ytimg.com/vi/l8DCPaHc5TQ/hqdefault_1312100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA68VT3TFI-M8CsHnc81k4cyX9qHQ",
+          "time_start": 1310
+        },
+        {
+          "title": "IN clause",
+          "thumbnail": "https://i.ytimg.com/vi/l8DCPaHc5TQ/hqdefault_1441066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaKzDfQmSXdUB_t3-3b5ry7Nxijg",
+          "time_start": 1427
+        },
+        {
+          "title": "Pattern matching in SQL",
+          "thumbnail": "https://i.ytimg.com/vi/l8DCPaHc5TQ/hqdefault_1481933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAU42FzivVrRSHFbPt_VjpjLTnezw",
+          "time_start": 1476
+        },
+        {
+          "title": "CASE operator and branching logic",
+          "thumbnail": "https://i.ytimg.com/vi/l8DCPaHc5TQ/hqdefault_1618066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABWcbvIEFuUQ8oiTgTDRjAxX1m5Q",
+          "time_start": 1590
+        },
+        {
+          "title": "JOINS",
+          "thumbnail": "https://i.ytimg.com/vi/l8DCPaHc5TQ/hqdefault_1830133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYOefSCgEr5jLxk3H_viP1V51UtA",
+          "time_start": 1830
+        },
+        {
+          "title": "LEFT Join vs. RIGHT Join ~ EXPLAINED",
+          "thumbnail": "https://i.ytimg.com/vi/l8DCPaHc5TQ/hqdefault_2215933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFA2GN2WitceEQ0RdPXMxbaQpnqA",
+          "time_start": 2192
+        },
+        {
+          "title": "More Join examples",
+          "thumbnail": "https://i.ytimg.com/vi/l8DCPaHc5TQ/hqdefault_2320966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWOaGNDjN0sm-hajSEv3GxEKsRIw",
+          "time_start": 2308
+        },
+        {
+          "title": "Adding conditions to Joins",
+          "thumbnail": "https://i.ytimg.com/vi/l8DCPaHc5TQ/hqdefault_2560000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDN-Zm1HZHZMC7NDnaqWCCURmv0TA",
+          "time_start": 2530
+        },
+        {
+          "title": "GROUP BY and creating reports with SQL",
+          "thumbnail": "https://i.ytimg.com/vi/l8DCPaHc5TQ/hqdefault_2861833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8LsBmC0Yf7IBTf8-4rfTyhVUNuA",
+          "time_start": 2850
+        },
+        {
+          "title": "Showing Top 10 Products by Amount",
+          "thumbnail": "https://i.ytimg.com/vi/l8DCPaHc5TQ/hqdefault_3301800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjACX6kd4nSEbWVHk5uc6kkxtLpQ",
+          "time_start": 3290
+        },
+        {
+          "title": "Closing remarks & next steps for you",
+          "thumbnail": "https://i.ytimg.com/vi/l8DCPaHc5TQ/hqdefault_3434900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJ8UFz5F-Oa8T65nJz7WvhnwyyoQ",
+          "time_start": 3432
+        }
+      ]
+    },
+    {
+      "position_on_page": 16,
+      "title": "Learn SQL #dataanalyst",
+      "link": "https://www.youtube.com/watch?v=h1Gp3MghDlI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=h1Gp3MghDlI",
+      "video_id": "h1Gp3MghDlI",
+      "channel": {
+        "name": "Agatha",
+        "channel_id": "UCU-aPpP8BxAd4mDoP0OL4jQ",
+        "link": "https://www.youtube.com/@agathakang",
+        "thumbnail": "https://yt3.ggpht.com/UTzhlwCGbcBqFKPMQGVGfOUU1_Q0pDXedqRt7Jdg0j_mCK-fmWe9a2SrN3kF_CDmDGKT3o3A=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 421321,
+      "length": "0:35",
+      "description": "SQL interview questions will be required to get a data analyst job. In the day in the life of a data analyst, knowing how to use SQL ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/h1Gp3MghDlI/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhlIGUoZTAP&rs=AOn4CLDbzuUnwynckW2ySNp7cxLruhwhgw",
+        "rich": "https://i.ytimg.com/an_webp/h1Gp3MghDlI/mqdefault_6s.webp?du=3000&sqp=CI7hhdgG&rs=AOn4CLBbhJm5ujM1CgJH-2b0oAShoKxnUg"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "👉 SQL Basics with Healthcare Data | 1 Hour",
+      "link": "https://www.youtube.com/watch?v=ef4CAu-OwvM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ef4CAu-OwvM",
+      "video_id": "ef4CAu-OwvM",
+      "channel": {
+        "name": "Data Wizardry",
+        "channel_id": "UCkr5oRDSZVQKP_LeuZS4KPw",
+        "link": "https://www.youtube.com/@DataWizardry",
+        "thumbnail": "https://yt3.ggpht.com/wj7NryKR3fxgl0PKxkYrIkpDLhP0oT7BXyiPEyMNtSJqBAKJNG_8X53OMAouUuZasWUOlixKYwM=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 87874,
+      "length": "1:00:18",
+      "description": "Learn the basics of SQL in this 1 hour tutorial! We will be using a modified version of Synthea, a synthetic patient database.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ef4CAu-OwvM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgJCWSNn-LXURZ0FMoQrmzD3uo0A",
+        "rich": "https://i.ytimg.com/an_webp/ef4CAu-OwvM/mqdefault_6s.webp?du=3000&sqp=CJjFhdgG&rs=AOn4CLBDqY1Q7Gx_C2Bd_kdIOsibBqlZjA"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/ef4CAu-OwvM/hqdefault_19066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAeM4SKRn19P1ieKkv2DvphGoy-CA",
+          "time_start": 0
+        },
+        {
+          "title": "Why SQL?",
+          "thumbnail": "https://i.ytimg.com/vi/ef4CAu-OwvM/hqdefault_111233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkNxnoP_NmoNw1pbviQfoBhgdYuQ",
+          "time_start": 94
+        },
+        {
+          "title": "Installing PostgreSQL on PC",
+          "thumbnail": "https://i.ytimg.com/vi/ef4CAu-OwvM/hqdefault_248866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBG9pbcMl25O5tzXgZXFAFbf2TGtQ",
+          "time_start": 248
+        },
+        {
+          "title": "Installing PostgreSQL on Mac",
+          "thumbnail": "https://i.ytimg.com/vi/ef4CAu-OwvM/hqdefault_380766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCD6NUqmjD_gDEasKCbZZFBKZNmaw",
+          "time_start": 370
+        },
+        {
+          "title": "Loading Data into SQL",
+          "thumbnail": "https://i.ytimg.com/vi/ef4CAu-OwvM/hqdefault_608800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqDwEUsKoK9prL7ybnM7LwvT8GGw",
+          "time_start": 605
+        },
+        {
+          "title": "Synthea",
+          "thumbnail": "https://i.ytimg.com/vi/ef4CAu-OwvM/hqdefault_1066833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrSrmb79rYGJ8owRYFnltRsnbw_A",
+          "time_start": 1052
+        },
+        {
+          "title": "SQL Intro",
+          "thumbnail": "https://i.ytimg.com/vi/ef4CAu-OwvM/hqdefault_1211166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIJNJg8MqB8ZcHNpfypGhBUsWDXA",
+          "time_start": 1209
+        },
+        {
+          "title": "What are Patient Encounters",
+          "thumbnail": "https://i.ytimg.com/vi/ef4CAu-OwvM/hqdefault_1471000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrWfQCU5T5q0qQyQrMHpxouuqZcQ",
+          "time_start": 1456
+        },
+        {
+          "title": "WHERE CLAUSE",
+          "thumbnail": "https://i.ytimg.com/vi/ef4CAu-OwvM/hqdefault_1695000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHJcxWpxSwytrej-F8kgC3wHkI-w",
+          "time_start": 1674
+        },
+        {
+          "title": "GROUP BY",
+          "thumbnail": "https://i.ytimg.com/vi/ef4CAu-OwvM/hqdefault_2301366.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6UqtuRfpySXZf4tHrWDY-FitoLA",
+          "time_start": 2282
+        },
+        {
+          "title": "ORDER BY",
+          "thumbnail": "https://i.ytimg.com/vi/ef4CAu-OwvM/hqdefault_2419000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATaoBBD4RGzzYtx04rf_CVKj83Pw",
+          "time_start": 2414
+        },
+        {
+          "title": "HAVING",
+          "thumbnail": "https://i.ytimg.com/vi/ef4CAu-OwvM/hqdefault_2539200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkQYWZriM-Nc_jcVXCQ-4lEFpAYQ",
+          "time_start": 2520
+        },
+        {
+          "title": "Practice Questions",
+          "thumbnail": "https://i.ytimg.com/vi/ef4CAu-OwvM/hqdefault_2721800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2fZ-wH5smSCUEc662jKFBthbwDQ",
+          "time_start": 2720
+        },
+        {
+          "title": "Intro to Joins",
+          "thumbnail": "https://i.ytimg.com/vi/ef4CAu-OwvM/hqdefault_3305966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC999LYogbR0veVwSTW3K0ikqp6hQ",
+          "time_start": 3300
+        }
+      ]
+    },
+    {
+      "position_on_page": 19,
+      "title": "How to Learn SQL in 1 Week 2026! Complete Data Analyst Roadmap",
+      "link": "https://www.youtube.com/watch?v=ekBeJCvXmNw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ekBeJCvXmNw",
+      "video_id": "ekBeJCvXmNw",
+      "channel": {
+        "name": "Data Logic With Shivam",
+        "channel_id": "UC9-dovPdcjK2rJHwer-YHiQ",
+        "link": "https://www.youtube.com/@datalogicwithshivam",
+        "thumbnail": "https://yt3.ggpht.com/G7ZR_jcSQOWo64erV1L7ja3UH1DAjzOH8soNzSagSFYpgVrC5NQi3gRsdN5AhI16aYo5ePUw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2mo ago",
+      "views": 105509,
+      "length": "0:28",
+      "description": "Are you trying to learn SQL fast and get hired in top MNCs? In this quick roadmap video! I break down exactly how you can master ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ekBeJCvXmNw/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhUIFooZTAP&rs=AOn4CLCGfnqaB2RkCSUMfE55AF_hYcoODg",
+        "rich": "https://i.ytimg.com/an_webp/ekBeJCvXmNw/mqdefault_6s.webp?du=3000&sqp=CJzQhdgG&rs=AOn4CLADQxaqdug51vC7Jt5qS9XphByDXA"
+      }
+    },
+    {
+      "position_on_page": 21,
+      "title": "How I Would Learn SQL FAST (If I Could Start Over)",
+      "link": "https://www.youtube.com/watch?v=KnYkedmRy2s",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=KnYkedmRy2s",
+      "video_id": "KnYkedmRy2s",
+      "channel": {
+        "name": "Data with Baraa",
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "link": "https://www.youtube.com/@DataWithBaraa",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/dqs3pZO_8d4K2zp2ebhb2klV_zOqfNrNTViTHggfJPrvMVCRvypJW8BGksEdQqYTPWdai3wUDg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "11mo ago",
+      "views": 188025,
+      "length": "12:35",
+      "description": "DataCamp | SQL Associate Certification https://datacamp.pxf.io/e1VA7r ▻ DataCamp | AI Native SQL Course ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/KnYkedmRy2s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7lykprhXQ8vEDm4r9fE6Ov13G3A",
+        "rich": "https://i.ytimg.com/an_webp/KnYkedmRy2s/mqdefault_6s.webp?du=3000&sqp=CJTahdgG&rs=AOn4CLCTsMo57p_vOdgWIyH04cl5xFETjw"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/KnYkedmRy2s/hqdefault_7200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9N6388hqTplAb7IFFH0ZMyE_ZAA",
+          "time_start": 0
+        },
+        {
+          "title": "Why Still Learn SQL?",
+          "thumbnail": "https://i.ytimg.com/vi/KnYkedmRy2s/hqdefault_62833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUm97osTeuu5lsyWEJ38iKRqSXXw",
+          "time_start": 42
+        },
+        {
+          "title": "2x Golden Rules",
+          "thumbnail": "https://i.ytimg.com/vi/KnYkedmRy2s/hqdefault_131800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD13pjoRCW5XRc3_IiT6AMA7vXUiw",
+          "time_start": 124
+        },
+        {
+          "title": "SQL Roadmap for Data Analysts",
+          "thumbnail": "https://i.ytimg.com/vi/KnYkedmRy2s/hqdefault_187933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzjpfUsWTMNTXFqTTHrMnQN2UZuA",
+          "time_start": 184
+        },
+        {
+          "title": "DataCamp",
+          "thumbnail": "https://i.ytimg.com/vi/KnYkedmRy2s/hqdefault_296166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbxc8HDQ4mfUwLPNNxancV6Zgk4g",
+          "time_start": 269
+        },
+        {
+          "title": "Basics, Advanced SQL and Projects",
+          "thumbnail": "https://i.ytimg.com/vi/KnYkedmRy2s/hqdefault_319200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoTIeoAqq4U-V42eLcZVSaoQ8wWw",
+          "time_start": 312
+        },
+        {
+          "title": "SQL Roadmap for Data Engineers",
+          "thumbnail": "https://i.ytimg.com/vi/KnYkedmRy2s/hqdefault_626000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQN8EF9aiux9DfWja7VTijHp_T5g",
+          "time_start": 597
+        },
+        {
+          "title": "Recap",
+          "thumbnail": "https://i.ytimg.com/vi/KnYkedmRy2s/hqdefault_719033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtOyOaA8oLK5Sj1tXecvCVz5fY-g",
+          "time_start": 707
+        }
+      ]
+    },
+    {
+      "position_on_page": 22,
+      "title": "SQL Tutorial for Beginners",
+      "link": "https://www.youtube.com/watch?v=h0nxCDiD-zg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=h0nxCDiD-zg",
+      "video_id": "h0nxCDiD-zg",
+      "channel": {
+        "name": "Kevin Stratvert",
+        "channel_id": "UCfJT_eYDTmDE-ovKaxVE1ig",
+        "link": "https://www.youtube.com/@KevinStratvert",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/FHaircC3fnPqOhk3M4POJQlPF2_yVnCj5W60SNbFL_zK5jzmJ5mNyFVaoLKZufC4uPo4WP8gQw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 3134369,
+      "length": "44:57",
+      "description": "In this step-by-step tutorial, learn how you can write your own SQL queries. You don't need any prior knowledge and we're going ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/h0nxCDiD-zg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3h64eTrKUvpPstXWx1wnWJfnxbQ",
+        "rich": "https://i.ytimg.com/an_webp/h0nxCDiD-zg/mqdefault_6s.webp?du=3000&sqp=CKCkhdgG&rs=AOn4CLDt_2zlugCCdiJpnZLnlkhtw_inBQ"
+      },
+      "chapters": [
+        {
+          "title": "Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/h0nxCDiD-zg/hqdefault_8900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5LOdLiKOx7O-VfCVifTLb_z-YuA",
+          "time_start": 0
+        },
+        {
+          "title": "Why learn SQL?",
+          "thumbnail": "https://i.ytimg.com/vi/h0nxCDiD-zg/hqdefault_37033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhe0wUHLCCxuVlOllGWxPY5zDZMQ",
+          "time_start": 37
+        },
+        {
+          "title": "What is SQL?",
+          "thumbnail": "https://i.ytimg.com/vi/h0nxCDiD-zg/hqdefault_117933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwLn5yAr1tpFfWsntsR2oLk21pJw",
+          "time_start": 109
+        },
+        {
+          "title": "What is a database?",
+          "thumbnail": "https://i.ytimg.com/vi/h0nxCDiD-zg/hqdefault_157833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQqmSPXYzP2gJ8xF2TMYWQMIfAiA",
+          "time_start": 145
+        },
+        {
+          "title": "Relational database management systems",
+          "thumbnail": "https://i.ytimg.com/vi/h0nxCDiD-zg/hqdefault_196766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdNIVDfcDObcKWfgHe8IXAToY43Q",
+          "time_start": 189
+        },
+        {
+          "title": "Install Microsoft SQL Server",
+          "thumbnail": "https://i.ytimg.com/vi/h0nxCDiD-zg/hqdefault_251100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3sTQ0VMheopeIPHW3yTfmlcxgPg",
+          "time_start": 251
+        },
+        {
+          "title": "Install SQL Server Management Studio",
+          "thumbnail": "https://i.ytimg.com/vi/h0nxCDiD-zg/hqdefault_426166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAz8_WVtj0T26Ih0BPTpehtZsJ8hg",
+          "time_start": 411
+        },
+        {
+          "title": "Connect to server",
+          "thumbnail": "https://i.ytimg.com/vi/h0nxCDiD-zg/hqdefault_454133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIhVAoJ39gkqDsJzP4wvF12ad3lA",
+          "time_start": 446
+        },
+        {
+          "title": "Object Explorer",
+          "thumbnail": "https://i.ytimg.com/vi/h0nxCDiD-zg/hqdefault_497200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDT8MKqQ0D7dZWnTmh9o5QywclAyQ",
+          "time_start": 493
+        },
+        {
+          "title": "Restore sample database",
+          "thumbnail": "https://i.ytimg.com/vi/h0nxCDiD-zg/hqdefault_588100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUGQeQvfxA_ymvyBgswU_dhbn08g",
+          "time_start": 566
+        },
+        {
+          "title": "Tables",
+          "thumbnail": "https://i.ytimg.com/vi/h0nxCDiD-zg/hqdefault_658066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA97QTHgir9NDmQH9Z3WwBs9YfjZQ",
+          "time_start": 642
+        },
+        {
+          "title": "Primary keys",
+          "thumbnail": "https://i.ytimg.com/vi/h0nxCDiD-zg/hqdefault_878000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARvNoeyYiy7F6g-UHkwpZzCagr6g",
+          "time_start": 873
+        },
+        {
+          "title": "Database diagrams",
+          "thumbnail": "https://i.ytimg.com/vi/h0nxCDiD-zg/hqdefault_959066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFvQun83PudSYgqfzyQ85bUZ-kng",
+          "time_start": 957
+        },
+        {
+          "title": "Data types",
+          "thumbnail": "https://i.ytimg.com/vi/h0nxCDiD-zg/hqdefault_1080933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgUpmhA9TtpJY8vv0HvVyAFym4Ig",
+          "time_start": 1077
+        },
+        {
+          "title": "Select",
+          "thumbnail": "https://i.ytimg.com/vi/h0nxCDiD-zg/hqdefault_1113900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCebohLnx-Msd5p2cLf6fXD3uAyyQ",
+          "time_start": 1110
+        },
+        {
+          "title": "Filtering with where",
+          "thumbnail": "https://i.ytimg.com/vi/h0nxCDiD-zg/hqdefault_1492866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5CKH5zHioXnKouhwwWn4iZ7OHhQ",
+          "time_start": 1490
+        },
+        {
+          "title": "Inner join & outer join",
+          "thumbnail": "https://i.ytimg.com/vi/h0nxCDiD-zg/hqdefault_1924900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQ7cXLJUYn9At4PHiu5ilIvjSflg",
+          "time_start": 1922
+        },
+        {
+          "title": "Order by",
+          "thumbnail": "https://i.ytimg.com/vi/h0nxCDiD-zg/hqdefault_2305800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlN8rddKKBZCAmb0iQl4H76W_EAQ",
+          "time_start": 2301
+        },
+        {
+          "title": "Functions including getdate, sum, count",
+          "thumbnail": "https://i.ytimg.com/vi/h0nxCDiD-zg/hqdefault_2346900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdUsoSGVmm49ndwM2uiu-TGbBaaQ",
+          "time_start": 2341
+        },
+        {
+          "title": "Group by",
+          "thumbnail": "https://i.ytimg.com/vi/h0nxCDiD-zg/hqdefault_2465266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvzD0MjjTC5BG8saQ9zrISZakZSw",
+          "time_start": 2462
+        },
+        {
+          "title": "Bonus: Query designer",
+          "thumbnail": "https://i.ytimg.com/vi/h0nxCDiD-zg/hqdefault_2486866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDM-I-bAAfz5oGdTNhQTrYAIuaheA",
+          "time_start": 2480
+        },
+        {
+          "title": "Wrap up",
+          "thumbnail": "https://i.ytimg.com/vi/h0nxCDiD-zg/hqdefault_2677800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYwTLmTn-lT4QzWm6F-uevs0cKIg",
+          "time_start": 2649
+        }
+      ]
+    }
+  ],
+  "playlist_results": [
+    {
+      "position_on_page": 3,
+      "title": "SQL Ultimate Course",
+      "link": "https://www.youtube.com/playlist?list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe",
+      "channel": {
+        "name": "Data with Baraa",
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "link": "https://www.youtube.com/@DataWithBaraa"
+      },
+      "videos": [
+        {
+          "title": "SQL Full Course for Beginners (30 Hours) – From Zero to Hero",
+          "length": "29:48:28",
+          "link": "https://www.youtube.com/watch?v=SSKVgrwhzus&list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe"
+        },
+        {
+          "title": "How I Would Learn SQL (If I Could Start Over in 2025) | #SQL Course 1",
+          "length": "5:55",
+          "link": "https://www.youtube.com/watch?v=D_0Veya2XAY&list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe"
+        }
+      ],
+      "video_count": 56,
+      "thumbnail": "https://i.ytimg.com/vi/SSKVgrwhzus/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD2BXzPLlMVZAb3QEY9mjnzAAppmQ"
+    },
+    {
+      "position_on_page": 6,
+      "title": "SQL for Data Analytics - Full Beginner and Intermediate Course",
+      "link": "https://www.youtube.com/playlist?list=PL_CkpxkuPiT9s28QkBMvhaS4rVI9J2UG0",
+      "channel": {
+        "name": "Luke Barousse",
+        "channel_id": "UCLLw7jmFsvfIVaUFsLs8mlQ",
+        "link": "https://www.youtube.com/@LukeBarousse"
+      },
+      "videos": [
+        {
+          "title": "SQL for Data Analytics - Learn SQL in 4 Hours",
+          "length": "4:08:41",
+          "link": "https://www.youtube.com/watch?v=7mz73uXD9DA&list=PL_CkpxkuPiT9s28QkBMvhaS4rVI9J2UG0"
+        },
+        {
+          "title": "SQL for Data Analytics – Intermediate Course + Project",
+          "length": "6:26:17",
+          "link": "https://www.youtube.com/watch?v=QKIGsShyEsQ&list=PL_CkpxkuPiT9s28QkBMvhaS4rVI9J2UG0"
+        }
+      ],
+      "video_count": 4,
+      "thumbnail": "https://i.ytimg.com/vi/7mz73uXD9DA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDDVOiNDaiyAvV6Dc-Fzf3oPV2JNg"
+    },
+    {
+      "position_on_page": 9,
+      "title": "SQL Full Course| SQL Tutorial For Beginners | Edureka",
+      "link": "https://www.youtube.com/playlist?list=PL9ooVrP1hQOG6DQnOD6ujdCEchaqADfCU",
+      "channel": {
+        "name": "edureka!",
+        "channel_id": "UCkw4JCwteGrDHIsyIIKo4tQ",
+        "link": "https://www.youtube.com/@edurekaIN"
+      },
+      "videos": [
+        {
+          "title": "SQL Full Course In 10 Hours | SQL Tutorial | Complete SQL Course For Beginners | Edureka",
+          "length": "9:59:23",
+          "link": "https://www.youtube.com/watch?v=q_JsgpiuY98&list=PL9ooVrP1hQOG6DQnOD6ujdCEchaqADfCU"
+        },
+        {
+          "title": "Top 65 SQL Interview Questions and Answers | SQL Interview Preparation | SQL Training | Edureka",
+          "length": "53:44",
+          "link": "https://www.youtube.com/watch?v=-WEpWH1NHGU&list=PL9ooVrP1hQOG6DQnOD6ujdCEchaqADfCU"
+        }
+      ],
+      "video_count": 16,
+      "thumbnail": "https://i.ytimg.com/vi/q_JsgpiuY98/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDkji1J36BgwdZijdnOJYGIQsjflw"
+    },
+    {
+      "position_on_page": 13,
+      "title": "SQL for Data Analytics & Data Science",
+      "link": "https://www.youtube.com/playlist?list=PLNLDEHOJTZSifptl-Ka7iHaVJZZuwzend",
+      "channel": {
+        "name": "360DigiTMG",
+        "channel_id": "UCNGIDQ466bNY87eEeKeQuzA",
+        "link": "https://www.youtube.com/@360DigiTMG"
+      },
+      "videos": [
+        {
+          "title": "SQL for Data Analytics & Data Science | Day 1 | 360DigiTMG",
+          "length": "1:00:33",
+          "link": "https://www.youtube.com/watch?v=kxkK_XNv8HQ&list=PLNLDEHOJTZSifptl-Ka7iHaVJZZuwzend"
+        },
+        {
+          "title": "SQL for Data Analytics & Data Science | Day 2 | 360DigiTMG",
+          "length": "44:37",
+          "link": "https://www.youtube.com/watch?v=kNxaCFSGjQ8&list=PLNLDEHOJTZSifptl-Ka7iHaVJZZuwzend"
+        }
+      ],
+      "video_count": 10,
+      "thumbnail": "https://i.ytimg.com/vi/kxkK_XNv8HQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB0szoiJy8rkLsib0yxQhvOXlX59A"
+    },
+    {
+      "position_on_page": 14,
+      "title": "Learn Complete SQL (Beginner to Advance)",
+      "link": "https://www.youtube.com/playlist?list=PLavw5C92dz9Ef4E-1Zi9KfCTXS_IN8gXZ",
+      "channel": {
+        "name": "techTFQ",
+        "channel_id": "UCnz-ZXXER4jOvuED5trXfEA",
+        "link": "https://www.youtube.com/@techTFQ"
+      },
+      "videos": [
+        {
+          "title": "How to learn SQL for free | Roadmap to learning SQL",
+          "length": "27:20",
+          "link": "https://www.youtube.com/watch?v=a-hFbr-4VQQ&list=PLavw5C92dz9Ef4E-1Zi9KfCTXS_IN8gXZ"
+        },
+        {
+          "title": "Learn What is Database | Types of Database | DBMS",
+          "length": "12:11",
+          "link": "https://www.youtube.com/watch?v=j09EQ-xlh88&list=PLavw5C92dz9Ef4E-1Zi9KfCTXS_IN8gXZ"
+        }
+      ],
+      "video_count": 31,
+      "thumbnail": "https://i.ytimg.com/vi/a-hFbr-4VQQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDwbZoIuHK2VM4p2y9bYW2X6R9odg"
+    },
+    {
+      "position_on_page": 17,
+      "title": "SQL Tutorial in Hindi",
+      "link": "https://www.youtube.com/playlist?list=PLUtiFxlb49snW2cWDfj9XGdbwZWe1-Coh",
+      "channel": {
+        "name": "Satish Dhawale",
+        "channel_id": "UCRDhrUdd9yoVoFFQqadR4FQ",
+        "link": "https://www.youtube.com/@Satish_Dhawale"
+      },
+      "videos": [
+        {
+          "title": "SQL Tutorial from Basic to Advanced | 30 Days SQL learning Challenge",
+          "length": "16:55",
+          "link": "https://www.youtube.com/watch?v=KvT6urWNBBc&list=PLUtiFxlb49snW2cWDfj9XGdbwZWe1-Coh"
+        },
+        {
+          "title": "SQL from basic to Advanced | Types of Commands in SQL - Day - 2",
+          "length": "8:27",
+          "link": "https://www.youtube.com/watch?v=3poDL3j2a-E&list=PLUtiFxlb49snW2cWDfj9XGdbwZWe1-Coh"
+        }
+      ],
+      "video_count": 31,
+      "thumbnail": "https://i.ytimg.com/vi/KvT6urWNBBc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDNHK39Cn0eITcLg_3I9Ul6t4i8SA"
+    },
+    {
+      "position_on_page": 20,
+      "title": "Data Analytics with Projects Full Free Course  (New Updated) by WsCube Tech",
+      "link": "https://www.youtube.com/playlist?list=PLjVLYmrlmjGdRs1sGqRrTE-EMraLclJga",
+      "channel": {
+        "name": "WsCube Tech",
+        "channel_id": "UC0T6MVd3wQDB5ICAe45OxaQ",
+        "link": "https://www.youtube.com/@wscubetech"
+      },
+      "videos": [
+        {
+          "title": "Data Analytics FULL Course for Beginners to Pro in 29 HOURS - 2025 Edition",
+          "length": "29:13:47",
+          "link": "https://www.youtube.com/watch?v=VaSjiJMrq24&list=PLjVLYmrlmjGdRs1sGqRrTE-EMraLclJga"
+        },
+        {
+          "title": "Complete Data Analytics Portfolio Project with Python and SQL in 2 Hours | 2026 Guide",
+          "length": "2:16:00",
+          "link": "https://www.youtube.com/watch?v=hK-qUy3UfT8&list=PLjVLYmrlmjGdRs1sGqRrTE-EMraLclJga"
+        }
+      ],
+      "video_count": 105,
+      "thumbnail": "https://i.ytimg.com/vi/VaSjiJMrq24/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB_49TytFLT6vrpbG8XgVbDTwzDJg"
+    },
+    {
+      "position_on_page": 23,
+      "title": "SQL Course | For Beginners",
+      "link": "https://www.youtube.com/playlist?list=PLNcg_FV9n7qZDdRInCl7wfOO8yZqYX5hO",
+      "channel": {
+        "name": "Data with Baraa",
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "link": "https://www.youtube.com/@DataWithBaraa"
+      },
+      "videos": [
+        {
+          "title": "The Ultimate Full SQL Course - MySQL Tutorial For Beginners",
+          "length": "2:06",
+          "link": "https://www.youtube.com/watch?v=9vVqYcwIGzo&list=PLNcg_FV9n7qZDdRInCl7wfOO8yZqYX5hO"
+        },
+        {
+          "title": "SQL Roadmap For Beginners - SQL Course Curriculum",
+          "length": "2:00",
+          "link": "https://www.youtube.com/watch?v=gytW3Uxg5FY&list=PLNcg_FV9n7qZDdRInCl7wfOO8yZqYX5hO"
+        }
+      ],
+      "video_count": 37,
+      "thumbnail": "https://i.ytimg.com/vi/9vVqYcwIGzo/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAGGXdoquxBsMmJpxQ9gF_a4Kid0Q"
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=SQL+full+course+tutorial+for+Data+Analyst&gl=in&hl=en",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=SQL%20full%20course%20tutorial%20for%20Data%20Analyst&sp=SBSCAQs3bXo3M3VYRDlEQYIBIlBMTmNnX0ZWOW43cVpZXzJlQXRVekVVdWxOalRKUkVoUWWCAQtPVDFSRXJrZkxOUYIBIlBMX0NrcHhrdVBpVDlzMjhRa0JNdmhhUzRyVkk5SjJVRzCCAQtTU0tWZ3J3aHp1c4IBCzdTX3R6MXpfNWJBggEiUEw5b29WclAxaFFPRzZEUW5PRDZ1amRDRWNoYXFBRGZDVYIBC2trS1BEN2toQTU0ggELa2JLdHk1WlZLTVmCASJQTE5MREVIT0pUWlNpZnB0bC1LYTdpSGFWSlpadXd6ZW5kggEiUExhdnc1QzkyZHo5RWY0RS0xWmk5S2ZDVFhTX0lOOGdYWoIBC2w4RENQYUhjNVRRggELaDFHcDNNZ2hEbEmCASJQTFV0aUZ4bGI0OXNuVzJjV0RmajlYR2Rid1pXZTEtQ29oggELZWY0Q0F1LU93dk2CAQtla0JlSkN2WG1Od4IBIlBMalZMWW1ybG1qR2RSczFzR3FSclRFLUVNcmFMY2xKZ2GCAQtLbllrZWRtUnkyc4IBC2gwbnhDRGlELXpnggEiUExOY2dfRlY5bjdxWkRkUkluQ2w3d2ZPTzh5WnFZWDVoT7IBBgoECBkQAg%253D%253D",
+    "next_page_token": "SBSCAQs3bXo3M3VYRDlEQYIBIlBMTmNnX0ZWOW43cVpZXzJlQXRVekVVdWxOalRKUkVoUWWCAQtPVDFSRXJrZkxOUYIBIlBMX0NrcHhrdVBpVDlzMjhRa0JNdmhhUzRyVkk5SjJVRzCCAQtTU0tWZ3J3aHp1c4IBCzdTX3R6MXpfNWJBggEiUEw5b29WclAxaFFPRzZEUW5PRDZ1amRDRWNoYXFBRGZDVYIBC2trS1BEN2toQTU0ggELa2JLdHk1WlZLTVmCASJQTE5MREVIT0pUWlNpZnB0bC1LYTdpSGFWSlpadXd6ZW5kggEiUExhdnc1QzkyZHo5RWY0RS0xWmk5S2ZDVFhTX0lOOGdYWoIBC2w4RENQYUhjNVRRggELaDFHcDNNZ2hEbEmCASJQTFV0aUZ4bGI0OXNuVzJjV0RmajlYR2Rid1pXZTEtQ29oggELZWY0Q0F1LU93dk2CAQtla0JlSkN2WG1Od4IBIlBMalZMWW1ybG1qR2RSczFzR3FSclRFLUVNcmFMY2xKZ2GCAQtLbllrZWRtUnkyc4IBC2gwbnhDRGlELXpnggEiUExOY2dfRlY5bjdxWkRkUkluQ2w3d2ZPTzh5WnFZWDVoT7IBBgoECBkQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=SQL+full+course+tutorial+for+Data+Analyst",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=SQL+full+course+tutorial+for+Data+Analyst&sp=SBSCAQs3bXo3M3VYRDlEQYIBIlBMTmNnX0ZWOW43cVpZXzJlQXRVekVVdWxOalRKUkVoUWWCAQtPVDFSRXJrZkxOUYIBIlBMX0NrcHhrdVBpVDlzMjhRa0JNdmhhUzRyVkk5SjJVRzCCAQtTU0tWZ3J3aHp1c4IBCzdTX3R6MXpfNWJBggEiUEw5b29WclAxaFFPRzZEUW5PRDZ1amRDRWNoYXFBRGZDVYIBC2trS1BEN2toQTU0ggELa2JLdHk1WlZLTVmCASJQTE5MREVIT0pUWlNpZnB0bC1LYTdpSGFWSlpadXd6ZW5kggEiUExhdnc1QzkyZHo5RWY0RS0xWmk5S2ZDVFhTX0lOOGdYWoIBC2w4RENQYUhjNVRRggELaDFHcDNNZ2hEbEmCASJQTFV0aUZ4bGI0OXNuVzJjV0RmajlYR2Rid1pXZTEtQ29oggELZWY0Q0F1LU93dk2CAQtla0JlSkN2WG1Od4IBIlBMalZMWW1ybG1qR2RSczFzR3FSclRFLUVNcmFMY2xKZ2GCAQtLbllrZWRtUnkyc4IBC2gwbnhDRGlELXpnggEiUExOY2dfRlY5bjdxWkRkUkluQ2w3d2ZPTzh5WnFZWDVoT7IBBgoECBkQAg%253D%253D",
+    "next_page_token": "SBSCAQs3bXo3M3VYRDlEQYIBIlBMTmNnX0ZWOW43cVpZXzJlQXRVekVVdWxOalRKUkVoUWWCAQtPVDFSRXJrZkxOUYIBIlBMX0NrcHhrdVBpVDlzMjhRa0JNdmhhUzRyVkk5SjJVRzCCAQtTU0tWZ3J3aHp1c4IBCzdTX3R6MXpfNWJBggEiUEw5b29WclAxaFFPRzZEUW5PRDZ1amRDRWNoYXFBRGZDVYIBC2trS1BEN2toQTU0ggELa2JLdHk1WlZLTVmCASJQTE5MREVIT0pUWlNpZnB0bC1LYTdpSGFWSlpadXd6ZW5kggEiUExhdnc1QzkyZHo5RWY0RS0xWmk5S2ZDVFhTX0lOOGdYWoIBC2w4RENQYUhjNVRRggELaDFHcDNNZ2hEbEmCASJQTFV0aUZ4bGI0OXNuVzJjV0RmajlYR2Rid1pXZTEtQ29oggELZWY0Q0F1LU93dk2CAQtla0JlSkN2WG1Od4IBIlBMalZMWW1ybG1qR2RSczFzR3FSclRFLUVNcmFMY2xKZ2GCAQtLbllrZWRtUnkyc4IBC2gwbnhDRGlELXpnggEiUExOY2dfRlY5bjdxWkRkUkluQ2w3d2ZPTzh5WnFZWDVoT7IBBgoECBkQAg%3D%3D"
+  }
+}

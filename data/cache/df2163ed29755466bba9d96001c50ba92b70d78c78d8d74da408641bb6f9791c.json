@@ -1,0 +1,1416 @@
+{
+  "search_metadata": {
+    "id": "6b01721bfcf0d98630d43cbc",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/BmlK_jUt7HdmI5sOk8Y1-Hu14WLpyeHIUd_z2zex7EY/6b01721bfcf0d98630d43cbc.json",
+    "markdown_endpoint": "https://serpapi.com/searches/BmlK_jUt7HdmI5sOk8Y1-Hu14WLpyeHIUd_z2zex7EY/6b01721bfcf0d98630d43cbc.md",
+    "created_at": "2026-11-21 10:27:39 UTC",
+    "processed_at": "2026-11-21 10:27:39 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Excel+full+course+tutorial+for+Data+Analyst&gl=in&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/BmlK_jUt7HdmI5sOk8Y1-Hu14WLpyeHIUd_z2zex7EY/6b01721bfcf0d98630d43cbc.html",
+    "total_time_taken": 5.29
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Excel full course tutorial for Data Analyst",
+    "gl": "in",
+    "hl": "en"
+  },
+  "search_information": {
+    "total_results": 7180081,
+    "video_results_state": "Results for exact spelling"
+  },
+  "ads_results": [
+    {
+      "position_on_page": 1,
+      "title": "Describe the workflow you want and run any kind of work in one AI workspace",
+      "link": "https://www.youtube.com/watch?v=eX7CQ09-mH4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=eX7CQ09-mH4",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CfeTcHHIBa5SkEcuvv8IP_bKT6Q3O5ZuwigGDzYXitRawkB8QASAAYMmexIfgo7QQggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAZuBib0DqAMEyAMKqgS9Ak_QRJZstPjXw47uKJTwipr3TV-_S6DskBvuIQexGWaBfI4_MUagIv92WHzs1e8qNM9JpA7CXFvVx9RHf1yviD0m60KN5cNxq4Ueto4T1LRcgcgEicAWVelcv_EXlgGFeGRGaVGHvETtZg1W4tbUbBJjOmrCmyb5DvxPOgO6wRlxJRkU_Xn_VDoVHoZ1wuFIZ1yCFZMgdhzT5Jz0n02vkmW3SmmAm-HhYo8FXnX3E1wfwQE5F81ETbx4GvoMhMcQd_f-xDoZAZ5kImN_UdS1Zg-jA3s1X7PJjl57GlRQFZxudDu7UdYMaXjttlLP99g_Sqef6JquaCqYWKk80grCOsmnmzuzBCqZE7f2XGRWT8aSmWWel9WTxf7x1KQRpPHN8h3w6BBs_HSz3KCtVhoo3U7FB5Qr5gPMau52-qxeiAWtqfzcU5IFBwgTeM_CnnKgBqEBgAeIyoBykAcEqAelz7ECqAfnnbECqAfonbECqAeD9rECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHnuqxAqgHn-qxAqgH-OuxAqgHvOqxAqgH7_GxAqgH_K-xAqgH1c4bqAe-2bECqAe_2bECqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB8LIsQKSCAtlWDdDUTA5LW1INKgIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBhI2aDSNVAUWOCrv_vsmJgDYAGaCSJodHRwczovL21vbmRheS5jb20vZ3AvYWktd29ya3NwYWNlsQmBG1FdxeLN8MgJF8gJjwHICcIBugs6CAMQBRgEIAcoATAcQAFIAFh9YABoAHABiAEAmAEBogEICgCoAgHYAgLYAQGAAgGIAga6AwV2aWNiZtALEuALAaIML2ITChFjb20ubW9uZGF5Lm1vbmRheWoTChFjb20ubW9uZGF5Lm1vbmRheXgAiAEA0gwCEAGaDQESqg0CVVPIDQHSDe8EaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL043Mjg5MDkuMTI3NzMzR09PR0xFLVlPVVRVQkUvQjM0ODA4MDY4LjQ2MDM2MjUyNztkY190cmtfYWlkPTYzMDQ3NzA1NDtkY190cmtfY2lkPTI0NzQ5NzQxNTtkY19sYXQ9O2RjX3JkaWQ9O3RhZ19mb3JfY2hpbGRfZGlyZWN0ZWRfdHJlYXRtZW50PTt0ZnVhPTtnZHByPSR7R0RQUn07Z2Rwcl9jb25zZW50PSR7R0RQUl9DT05TRU5UXzc1NX07bHRkPTtkY190ZHY9MTtkY190cmFuc3BhcmVudD0xOztkY19ydWk9MTtkY19lcHM9QUhhczhjQUp1ZFRKMllKSmdwejdnckJobzR0cG9iN0NfeG1PSGdKS2VLLTcxVG9YOThJM05kTWFEQ0REcHplOHJXQ19WMTJvYjZvUV9UUFdwRmU4MVE7ZGNfcHViaWQ9Nj9odHRwczovL21vbmRheS5jb20vZ3AvYWktd29ya3NwYWNlP3V0bV9tZWRpdW09Y3BjJnV0bV9zb3VyY2U9YWR3b3Jkc3lvdXR1YmUmdXRtX2NhbXBhaWduPXVzLWVuLXBybS13b3JrX21nbXQtZGVza3RvcC10b3BpY3MtZGcmdXRtX2FkZ3JvdXA9QnVzaW5lc3NQcm9kdWN0aXZpdHlTb2Z0d2FyZV9ULU11bHRpQWRzJnV0bV9iYW5uZXI9QVRfWW91RG9udF92MiZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjI0NzUxMTc3NDG4E____________wGIFAKwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXRu7180mbbeW6FwYoADAAOAHQGAHwGAHCGQIIAQ&gclid=EAIaIQobChMIlKLA--yYmAMVy9dPAh192STdEAEYASAAEgKFEfD_BwE&num=1&cid=CAASqgHkaBnALXhLcrxXBqhDxwuVFtf3gVB27DLYR7jwWkKUfQHrMgQT4AlW2tJVtXMAAWg_GfuRDx8hc5WkIJg7sFk_s9qyrE2WtCFY7BNFEZZ_qHS2Iqu4B0OWCWlSPAakh9xjUXS2j37cnlWV7zn0n0ME2UDsiEMJ-UAdzlkeyBq9_fFvAI9qVcTATVFahV87klH_oM8DkWBUgYrIv2-GrH9tk1ev-i-C8k3JLw&ad_cpn=%5BCPN%5D&sig=AOD64_20XrBXWtGmdZfX1UgoAYXoPrHOZA&ctype=110&video_id=eX7CQ09-mH4&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "monday.com",
+        "thumbnail": "https://yt3.ggpht.com/proxy/MitpYASoXb5zpT1UtIe5jk8OZOKujt0QgDyMDMZ7nJvaQi00r9BDw3mnZ6hmS-6KWtWo_uI_Rh_FELpCmhmja3ikSSpTTwiAvT5CVdC_it5YvVolWjMdu4hTzWK9HIzSeJ7oXYPW4l8P3g5GfYC1fFt2QRHmtKYn2_9Y2h7N5yMCMcu0hSu0ngKfW9QBiJtvkpgA55LCq0Bxr1e3BffN3Bp_MDumxWsJYPnVpT5-CYS3i0hLVAI0hDV5AVoizwwTmaCjy2M=w68-h68-nd"
+      },
+      "description": "No Python, no API keys. Build whatever workflow your work needs with Sidekick.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/eX7CQ09-mH4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBc1C2vMFSKHDuPpAyiE98NzlqHOQ"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Devour knowledge with Student Spaces",
+      "link": "https://www.youtube.com/watch?v=EJ_xkuarNEU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=EJ_xkuarNEU",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=Cl1HVHHIBa5SkEcuvv8IP_bKT6Q2XouaPiwGq2L278RWwkB8QAyAAYMmexIfgo7QQggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAbH6_-oCqAMEyAMKqgToAk_QRJZstPjXw47uKJTwipr3TV-_S6DskBvuIQexGWaBfI4_MUagIv92WHzs1e8qNM9JpA7CXFvVx9RHf1yviD0m60KN5cNxq4Ueto4T1LRcgcgEicAWVelcv_EXlgGFeGRGaVGHvETtZg1W4tbUbBJjOmrCmyb5DvxPOgO6wRlxJRkU_Xn_VDoVHoZ1wuFIZ1yCFZMgdhzT5Jz0n02vkmW3SmmAm-HhYo8FXnX3E1wfwQE5F81ETbx4GvoMhMcQd_f-xDoZAZ5kImN_UdS1Zg-jA3s1X7PJjl57GlRQFZxudDu7UdYMaXjttlLP99g_Sqef8Jpu_uhtW6E8cRJUBEC1WjYRCO21iNU4fIQLL4aql53TAfEtCWzVWxWAvTZ_YBzTOifrhVy0XAhcTBbpoT6Os6fPSJlRQEoLqcmjU3CSKeKJ1tnc-fGFi-159hM6UgSgdzzJ3FMmZEISK54OYPYGJVO1NMlo7ogF5tDvrViSBQgIE3j6zZ-VAaAGoQGAB7eFgJUBkAcEqAelz7ECqAfnnbECqAfonbECqAeD9rECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHnuqxAqgHn-qxAqgH-OuxAqgHvOqxAqgH7_GxAqgH_K-xAqgH1c4bqAe-2bECqAe_2bECqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKSCAtFSl94a3Vhck5FVagIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBhI2aDSNVAUWOCrv_vsmJgDYAGaCSxodHRwczovL2Fjcm9iYXQuYWRvYmUuY29tL3N0dWRlbnRzcGFjZXMvaG9tZbEJM2LVvsXa-VTICRfICY8ByAnCAboLOggDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AIC2AEDgAIBiAISugMFdmljYmbQCxPgCwGiDB9iGAoWY29tLmFkb2JlLmVjaG9zaWduLmlvc3gAiAEA0gwCEAGaDQETqg0CVVPIDQHSDekEaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL045NzI5NTIuMjc5MzgyQklETUFOQUdFUl9ERkFTSVRFL0IyMjM0NDQxMy4yNDE1MzkzMjE7ZGNfdHJrX2FpZD00MzgxMjg2MjI7ZGNfdHJrX2NpZD0xMTI4ODQ2MTM7ZGNfZGJtX3Rva2VuPUFPamVMTkVBQUFBNkNqTUtEQWdBRlFBQUFBQWRBQUFBQUJJTUNBQVZBQUFBQUIwQUFBQUFJaE1JNXREdnJWaW9Bc080OUFHd0FzeVc0dWtEUURzUWwtZTZBYXBTbzNMajY5SHFtUlNHRDdObEp0Yz07ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07bHRkPTtkY190ZHY9MTtkY190cmFuc3BhcmVudD0xO2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNCSHhicjZYLVRWS2h1YXRYMzNzbDBNcGJiNEdUOHc0aWRuUUpLdXB6ekxoaVFOZ2RIalp6MTE0a2t5TTdwZ3c0Qm5SOG5Dd0JBNDhJdmx1UTtkY19wdWJpZD02P2h0dHBzOi8vYWNyb2JhdC5hZG9iZS5jb20vc3R1ZGVudHNwYWNlcy9ob21lP3NkaWQ9VFk2WEtNODgmbXY9c29jaWFsJm12Mj1wYWlkc29jJnhfYXBpX2NsaWVudF9pZD1wYWlkbWVkaWEmeF9hcGlfY2xpZW50X2xvY2F0aW9uPWFkc19UWTZYS004OCZnYWRfc291cmNlPTKwE-PuqCS4E____________wGIFAiwFAPAFYGAgEDQFQHYFQGYFgGoFgGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF1e_wgIaPhjwuhcGKAAwADgB0BgB8BgB&gclid=EAIaIQobChMIlKLA--yYmAMVy9dPAh192STdEAEYAyAAEgISO_D_BwE&num=3&cid=CAASqgHkaBnALXhLcrxXBqhDxwuVFtf3gVB27DLYR7jwWkKUfQHrMgQT4AlW2tJVtXMAAWg_GfuRDx8hc5WkIJg7sFk_s9qyrE2WtCFY7BNFEZZ_qHS2Iqu4B0OWCWlSPAakh9xjUXS2j37cnlWV7zn0n0ME2UDsiEMJ-UAdzlkeyBq9_fFvAI9qVcTATVFahV87klH_oM8DkWBUgYrIv2-GrH9tk1ev-i-C8k3JLw&ad_cpn=%5BCPN%5D&sig=AOD64_2UZbFGebK1JxMfU9iwzYSTwQyLfw&ctype=110&video_id=EJ_xkuarNEU&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Adobe",
+        "thumbnail": "https://yt3.ggpht.com/proxy/MOuz2I13I1fAnFfngtXtL_W4we9dtMgr0pZOHx9ZvXrWe0TzDLTj2mq2_seyh8bAOYiFhihUkC0bcCbQ2Rr3ROUyAm-g7fKx7ikqVy2aYwv8ap82JEQltB0uNj5JlrrMcTbQ-wFlNo0DfytWwYBrrCyx4-VnwgCwx-dn0fy6KEEwJzLjssuJHIvXA-MdWMvBvChh3bzxW7-sQCuvX2mDwrBOQUGt_eZzMbPzNL_oO6Ke1vjjr2458wPYmALVc80eUKLvvs8=w68-h68-nd"
+      },
+      "description": "Student Spaces is a smarter way to study. Free for students.",
+      "thumbnail": {
+        "static": "https://tpc.googlesyndication.com/simgad/14763963783081437772"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "Copilot in Excel helps you get more out of your spreadsheets.",
+      "link": "https://www.youtube.com/watch?v=sELkfcZmeKA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=sELkfcZmeKA",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=C2NqAHHIBa5SkEcuvv8IP_bKT6Q2h0vzHigH3-umHshawkB8QBSAAYMmexIfgo7QQggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAenqov1DqAMEyAMKqgTbAk_QRJZstPjXw47uKJTwipr3TV-_S6DskBvuIQexGWaBfI4_MUagIv92WHzs1e8qNM9JpA7CXFvVx9RHf1yviD0m60KN5cNxq4Ueto4T1LRcgcgEicAWVelcv_EXlgGFeGRGaVGHvETtZg1W4tbUbBJjOmrCmyb5DvxPOgO6wRlxJRkU_Xn_VDoVHoZ1wuFIZ1yCFZMgdhzT5Jz0n02vkmW3SmmAm-HhYo8FXnX3E1wfwQE5F81ETbx4GvoMhMcQd_f-xDoZAZ5kImN_UdS1Zg-jA3s1X7PJjl57GlRQFZxudDu7UdYMaXjttlLP99g_Sqef6JquaCrjV6k82wrCHePs6yWhB-4ZhM07RGd-754KkIcYUePLRns2_wY3ZQCl6BffRWCUXV4W1zZ626QAeneLYAk65qouyYOMFZBNQlibAPogM3rTZEkWucNhY_PAJexemQ3lxOf98US2iAW2-JrlWpIFCAgTeM-H54IfoAahAYAH6aLz3B6QBwSoB6XPsQKoB-edsQKoB-idsQKoB4P2sQKoB_nTsQKoB8nasQKoB6ngsQKoB6jSG6gHsdwbqAewm7ECqAf9srECqAfIz7ECqAfJz7ECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAee6rECqAef6rECqAf467ECqAe86rECqAfv8bECqAf8r7ECqAfVzhuoB77ZsQKoB7_ZsQKoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxApIIC3NFTGtmY1ptZUtBqAgB0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAGEjZoNI1UBRY4Ku_--yYmANgAZoJNWh0dHBzOi8vd3d3Lm1pY3Jvc29mdC5jb20vZW4tdXMvY29waWxvdC93b3JrL2J1c2luZXNzsQn-C8YeYMdnHcgJF8gJjwHICcIByAmXAroLOggDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AIC2AEDgAIBiAIFugMFdmljYmbQCxLgCwHSDAIQAZoNARKqDQJVU8gNAdIN9gRodHRwczovL2FkLmRvdWJsZWNsaWNrLm5ldC9kZG0vdHJhY2tjbGsvTjU3MjYwOC40MTAxMDM2WU9VVFVCRVZJQURWMzYwQVUvQjM2OTk0OTE4LjQ2MDIzOTgyMztkY190cmtfYWlkPTY1NTIyMDg2MTtkY190cmtfY2lkPTI2ODM0NzIzNztkY19kYm1fdG9rZW49QU9qZUxORUFBQUE4Q2pRS0RBZ0FGUUFBQUFBZEFBQUFBQklNQ0FBVkFBQUFBQjBBQUFBQUloUUl0dmlhNVZxb0FzLUg1NElmc0FMTDVQVHJBMEE3RUtIQV83SWRycmcxNlB1WERmbHYybS0tQ1E0VEh3PT07ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07bHRkPTtkY190ZHY9MTs7ZGNfdHJhbnNwYXJlbnQ9MTtkY19ydWk9MTtkY19lcHM9QUhhczhjQ2tCTFBlamE4SlJ4eDVaR1lwUUY4dGtsb1k5cVNkMldZdDVsRk5FOW5sZDZROFVEbDhuT3Z3ejFrZ0hIU3NlM0thcEhkTjRsWnNWNlhHWmc7ZGNfcHViaWQ9Nj9odHRwczovL3d3dy5taWNyb3NvZnQuY29tL2VuLXVzL2NvcGlsb3Qvd29yay9idXNpbmVzcz9PQ0lEPUFJRGNtbWw1YXJqb3puX09MQV8zNjk5NDkxOF80NjAyMzk4MjNfMjY4MzQ3MjM3JnNpdGVJRD0xMDY1Nzk1NSZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjQzNzE0NDQ3OTCwE5m2pSa4E____________wGIFAGwFAPAFYGAgEDQFQHYFQGoFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXhAYh0dMcTF66FwYoADAAOAHQGAHwGAHCGQIIAQ&gclid=EAIaIQobChMIlKLA--yYmAMVy9dPAh192STdEAEYBSAAEgLkbfD_BwE&num=5&cid=CAASqgHkaBnALXhLcrxXBqhDxwuVFtf3gVB27DLYR7jwWkKUfQHrMgQT4AlW2tJVtXMAAWg_GfuRDx8hc5WkIJg7sFk_s9qyrE2WtCFY7BNFEZZ_qHS2Iqu4B0OWCWlSPAakh9xjUXS2j37cnlWV7zn0n0ME2UDsiEMJ-UAdzlkeyBq9_fFvAI9qVcTATVFahV87klH_oM8DkWBUgYrIv2-GrH9tk1ev-i-C8k3JLw&ad_cpn=%5BCPN%5D&sig=AOD64_0Cv3EYZVM3Tz-19kew5LAkdROXaw&ctype=110&video_id=sELkfcZmeKA&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Microsoft Copilot",
+        "thumbnail": "https://yt3.ggpht.com/proxy/QZsKF8uymkSSgcIQLIQR24pXjFAAm9dvPTDfUaFKTKVhufA2nyuKNgKVJ73VlYIcXjZEP9v4jeIWvI_odsUd2vLGbwu2LBXFzREk6wueOsaeosEuFlEckTDTqpmm9hHvSVQiZIKMrYJzz_HqIvZPEstVdqmRJvG1lrA307PP6MnUFR6Utes5ybs3BElWa4CfsoUiaChSBwkQDXJf0MefcdVXul4Z5ziGzUlo9MDI4y5V8ofhmMJC2VZqMKUUHkKMYci6=w68-h68-nd"
+      },
+      "description": "Intelligence Built for Work",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/sELkfcZmeKA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwCoPgXrMzNkY4r6KDwmWB9nue3Q"
+      }
+    }
+  ],
+  "video_results": [
+    {
+      "position_on_page": 2,
+      "title": "Excel Data Analysis Full Course Tutorial (7+ Hours)",
+      "link": "https://www.youtube.com/watch?v=qrbf9DtR3_c",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=qrbf9DtR3_c",
+      "video_id": "qrbf9DtR3_c",
+      "channel": {
+        "name": "Learn Skills Daily",
+        "channel_id": "UCqyBfm_H9ugGirk1ufYA2YA",
+        "link": "https://www.youtube.com/@learnskillsdaily",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/WwrBREpkRbdALebIg_xlBFBSwc7H8_tBcqgjLSP4fpZkMcPp3hSledFRan866itfUwsEKg-AUQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 2341139,
+      "length": "7:11:22",
+      "description": "Excel Data Analysis Full Course Tutorial (7+ Hours) Join Learn Skills Daily for ad-free training, exams, certificates, and exclusive ...",
+      "extensions": [
+        "2 products",
+        "Earns commission"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/qrbf9DtR3_c/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrsTB77ktgVjrjKYni8gzZ9vrlLg",
+        "rich": "https://i.ytimg.com/an_webp/qrbf9DtR3_c/mqdefault_6s.webp?du=3000&sqp=CMrihdgG&rs=AOn4CLBqPTWh0XZ_zK3e3sD9spgiCEABSA"
+      },
+      "chapters": [
+        {
+          "title": "Start",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 0
+        },
+        {
+          "title": "Introduction - Excel Intro to Data Analysis",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 9
+        },
+        {
+          "title": "List Design Basics",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 85
+        },
+        {
+          "title": "Inserting Tables for Analysis",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 299
+        },
+        {
+          "title": "Filtering Data in Tables",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 597
+        },
+        {
+          "title": "Using the Total Row",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 910
+        },
+        {
+          "title": "Conditional Formatting",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 1137
+        },
+        {
+          "title": "IF Function",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 1523
+        },
+        {
+          "title": "SUMIF and AVERAGEIF",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 1912
+        },
+        {
+          "title": "SUMIFS",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 2362
+        },
+        {
+          "title": "Inserting Recommended Charts",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 2557
+        },
+        {
+          "title": "Adjusting Charts",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 2904
+        },
+        {
+          "title": "Sparklines",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 3041
+        },
+        {
+          "title": "Inserting Pivot Tables",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 3445
+        },
+        {
+          "title": "Displaying Data as Count",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 3918
+        },
+        {
+          "title": "Filtering Pivot Tables",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 4146
+        },
+        {
+          "title": "Inserting Pivot Charts",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 4667
+        },
+        {
+          "title": "Conclusion - Intro to Data Analysis",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 4924
+        },
+        {
+          "title": "Introduction - Excel Pivot Tables",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 4979
+        },
+        {
+          "title": "What are Pivot Tables?",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 5045
+        },
+        {
+          "title": "Preparing Data for Analysis",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 5379
+        },
+        {
+          "title": "Pivot Table Components",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 5652
+        },
+        {
+          "title": "Building Pivot Tables to Show Different Values",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 6030
+        },
+        {
+          "title": "Adding Fields to Pivot Tables",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 6345
+        },
+        {
+          "title": "Using Built-In Filters",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 6754
+        },
+        {
+          "title": "Filtering Data with Slicers",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 7104
+        },
+        {
+          "title": "Displaying New Values from Data Sources",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 7514
+        },
+        {
+          "title": "Inserting Pivot Charts",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 7905
+        },
+        {
+          "title": "XLOOKUP",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 8317
+        },
+        {
+          "title": "Joining Data Sets with XLOOKUP",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 8808
+        },
+        {
+          "title": "Introduction to Advanced Pivot Tables",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 9281
+        },
+        {
+          "title": "Inserting Pivot Tables from Tables",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 9367
+        },
+        {
+          "title": "Calculated Fields",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 9833
+        },
+        {
+          "title": "Using the Timeline Tool",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 10183
+        },
+        {
+          "title": "Report Filter Pages",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 10499
+        },
+        {
+          "title": "Pivot Table Layouts",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 10902
+        },
+        {
+          "title": "Creating Pivot Table Designs",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 11286
+        },
+        {
+          "title": "Adding Power Pivot Tabs to the Ribbon",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 11732
+        },
+        {
+          "title": "Adding Tables to Power Pivot Data Model",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 11895
+        },
+        {
+          "title": "Creating Table Relationships",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 12197
+        },
+        {
+          "title": "Creating Columns with DAX Expressions",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 12448
+        },
+        {
+          "title": "Displaying New Source Data in Power Pivot Tables",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 12894
+        },
+        {
+          "title": "Data Mining with Flash Fill",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 13065
+        },
+        {
+          "title": "Conclusion - Excel Pivot Tables",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 13428
+        },
+        {
+          "title": "Introduction - Excel Copilot",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 13479
+        },
+        {
+          "title": "What is Copilot?",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 13504
+        },
+        {
+          "title": "Setting Up Copilot in Excel",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 13745
+        },
+        {
+          "title": "Copilot Pane and Insights",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 13914
+        },
+        {
+          "title": "Visualizing Data with Copilot",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 14288
+        },
+        {
+          "title": "Sorting, Highlighting, and Filtering",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 14776
+        },
+        {
+          "title": "Adding Formulas with Copilot",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 15292
+        },
+        {
+          "title": "Asking Copilot Questions",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 15637
+        },
+        {
+          "title": "Accessing Copilot Lab",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 16184
+        },
+        {
+          "title": "Copilot Lab",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 16258
+        },
+        {
+          "title": "Copilot with Excel Web Version",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 16667
+        },
+        {
+          "title": "Conclusion - Excel Copilot",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 16880
+        },
+        {
+          "title": "Introduction - Excel Power User",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 16892
+        },
+        {
+          "title": "IF Function Basics",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 16984
+        },
+        {
+          "title": "IF Functions with Calculations",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 17360
+        },
+        {
+          "title": "Nesting AND with IF",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 17623
+        },
+        {
+          "title": "Naming Ranges and COUNTIF",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 18002
+        },
+        {
+          "title": "SUMIF and AVERAGEIF",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 18359
+        },
+        {
+          "title": "SUMIFS",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 18654
+        },
+        {
+          "title": "XLOOKUP",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 18896
+        },
+        {
+          "title": "Populating Forms with XLOOKUP",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 19401
+        },
+        {
+          "title": "Displaying Pivot Table Fields with COUNT Function",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 19917
+        },
+        {
+          "title": "Calculated Fields",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 20207
+        },
+        {
+          "title": "Slicers",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 20613
+        },
+        {
+          "title": "Using the Timeline",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 20982
+        },
+        {
+          "title": "Inserting Report Filter Pages",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 21297
+        },
+        {
+          "title": "Flash Fill for Text Functions",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 21578
+        },
+        {
+          "title": "Introduction to Advanced Conditional Formatting and Macros",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 21955
+        },
+        {
+          "title": "Array Formula Basics",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 22002
+        },
+        {
+          "title": "Looking Up Multiple Values with XLOOKUP",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 22380
+        },
+        {
+          "title": "Array Functions",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 22681
+        },
+        {
+          "title": "Advanced Conditional Formatting",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 23108
+        },
+        {
+          "title": "Combo Charts",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 23556
+        },
+        {
+          "title": "Developer Tab",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 24018
+        },
+        {
+          "title": "Macro Basics",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 24271
+        },
+        {
+          "title": "Relative Reference Macros",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 24667
+        },
+        {
+          "title": "VBA Basics",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 24907
+        },
+        {
+          "title": "Cleaning Up Macros",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 25311
+        },
+        {
+          "title": "Conclusion - Excel Power User",
+          "thumbnail": "https://i.ytimg.com/vi_webp/qrbf9DtR3_c/hqdefault.webp",
+          "time_start": 25822
+        }
+      ]
+    },
+    {
+      "position_on_page": 4,
+      "title": "Excel for Data Analytics - Full Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=pCJ15nGFgVg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pCJ15nGFgVg",
+      "video_id": "pCJ15nGFgVg",
+      "channel": {
+        "name": "Luke Barousse",
+        "channel_id": "UCLLw7jmFsvfIVaUFsLs8mlQ",
+        "link": "https://www.youtube.com/@LukeBarousse",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_my6YXWfudW8qM_i1Na9IWEbiIUtVgb54u0XVVmtlYQig=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 3990180,
+      "length": "10:59:43",
+      "description": "FREE Course Files & Projects https://lukeb.co/excel_files Supporter Access: Problems, Certificate, & More ...",
+      "extensions": [
+        "1 product",
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/pCJ15nGFgVg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJBnnvHuWjJqJ6ZZ7HRdiib4eSKA",
+        "rich": "https://i.ytimg.com/an_webp/pCJ15nGFgVg/mqdefault_6s.webp?du=3000&sqp=CMjehdgG&rs=AOn4CLDtld6CMyBYo3UmjQDur_XDWXLVlw"
+      },
+      "chapters": [
+        {
+          "title": "Welcome",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 0
+        },
+        {
+          "title": "What is Excel?",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 233
+        },
+        {
+          "title": "About Course",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 439
+        },
+        {
+          "title": "Excel Install",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 679
+        },
+        {
+          "title": "Worksheets",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 1362
+        },
+        {
+          "title": "Workbooks",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 2355
+        },
+        {
+          "title": "Ribbon",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 3126
+        },
+        {
+          "title": "Formulas Intro",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 3999
+        },
+        {
+          "title": "Function Intro",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 4688
+        },
+        {
+          "title": "Logical Functions",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 5354
+        },
+        {
+          "title": "Math Functions",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 5994
+        },
+        {
+          "title": "Statistical Functions",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 6586
+        },
+        {
+          "title": "Array Formulas",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 7274
+        },
+        {
+          "title": "Lookup Function",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 8488
+        },
+        {
+          "title": "Text Functions",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 9565
+        },
+        {
+          "title": "Date and Time Functions",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 10399
+        },
+        {
+          "title": "Charts Intro",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 10893
+        },
+        {
+          "title": "Charts Advanced",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 12125
+        },
+        {
+          "title": "Charts Statistics",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 12937
+        },
+        {
+          "title": "Sparklines",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 13679
+        },
+        {
+          "title": "Tables",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 13917
+        },
+        {
+          "title": "Formatting",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 14968
+        },
+        {
+          "title": "Collaboration",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 15960
+        },
+        {
+          "title": "Project #1: Build Dashboard",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 16830
+        },
+        {
+          "title": "Project #1: Share Projects",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 19603
+        },
+        {
+          "title": "PivotTable Intro",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 20026
+        },
+        {
+          "title": "PivotTable Advanced",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 21293
+        },
+        {
+          "title": "PivotCharts",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 22173
+        },
+        {
+          "title": "Analysis Add-ins",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 22783
+        },
+        {
+          "title": "Data Tables",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 23940
+        },
+        {
+          "title": "Analysis ToolPak",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 24486
+        },
+        {
+          "title": "Power Query Intro",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 25384
+        },
+        {
+          "title": "Power Query Editor",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 26606
+        },
+        {
+          "title": "Advanced Transformations",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 28393
+        },
+        {
+          "title": "Append vs Merge",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 29698
+        },
+        {
+          "title": "M Language",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 31153
+        },
+        {
+          "title": "Power Pivot Intro",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 32591
+        },
+        {
+          "title": "Power Pivot Window",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 34141
+        },
+        {
+          "title": "DAX Intro",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 35298
+        },
+        {
+          "title": "DAX Advanced",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 36574
+        },
+        {
+          "title": "Project #2: Share w/ Git & GitHub",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 37660
+        },
+        {
+          "title": "Project #2: Document w/ README.md",
+          "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hqdefault.jpg",
+          "time_start": 38713
+        }
+      ]
+    },
+    {
+      "position_on_page": 10,
+      "title": "Excel Tutorial for Beginners",
+      "link": "https://www.youtube.com/watch?v=LgXzzu68j7M",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=LgXzzu68j7M",
+      "video_id": "LgXzzu68j7M",
+      "channel": {
+        "name": "Kevin Stratvert",
+        "channel_id": "UCfJT_eYDTmDE-ovKaxVE1ig",
+        "link": "https://www.youtube.com/@KevinStratvert",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/FHaircC3fnPqOhk3M4POJQlPF2_yVnCj5W60SNbFL_zK5jzmJ5mNyFVaoLKZufC4uPo4WP8gQw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 7952606,
+      "length": "16:17",
+      "description": "Learn Excel in just 2 hours: https://excel.kevinstratvert.com Are you looking to upskill your Excel game? Look no farther than this ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/LgXzzu68j7M/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMY3O5fyj8BnPu7iGF-guHUYE_ZA",
+        "rich": "https://i.ytimg.com/an_webp/LgXzzu68j7M/mqdefault_6s.webp?du=3000&sqp=CMXShdgG&rs=AOn4CLA-OAE2YyRd61CDQdYTm_i2Tsqz-Q"
+      },
+      "chapters": [
+        {
+          "title": "Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/LgXzzu68j7M/hqdefault_4866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAz7SnnU9xUB5QdJpkJtjxF4949zw",
+          "time_start": 0
+        },
+        {
+          "title": "Get Excel",
+          "thumbnail": "https://i.ytimg.com/vi/LgXzzu68j7M/hqdefault_44166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUXKftorQg2eG_3w6uTObbgeoURA",
+          "time_start": 26
+        },
+        {
+          "title": "Start page",
+          "thumbnail": "https://i.ytimg.com/vi/LgXzzu68j7M/hqdefault_61100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClYQ98s3eBXgVWsvnP-FQ2zfY6_A",
+          "time_start": 61
+        },
+        {
+          "title": "Cells, columns, and rows",
+          "thumbnail": "https://i.ytimg.com/vi/LgXzzu68j7M/hqdefault_107833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChPS5rYgUMYv92G41wDJUEy2kHVw",
+          "time_start": 90
+        },
+        {
+          "title": "Adjust zoom",
+          "thumbnail": "https://i.ytimg.com/vi/LgXzzu68j7M/hqdefault_139866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCo8ztJzm2KoFC2kir5so6ahS9nbw",
+          "time_start": 128
+        },
+        {
+          "title": "Enter data",
+          "thumbnail": "https://i.ytimg.com/vi/LgXzzu68j7M/hqdefault_145800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDH05ah7kXiUipQbOPE7mY3OjHY_A",
+          "time_start": 143
+        },
+        {
+          "title": "Format cells",
+          "thumbnail": "https://i.ytimg.com/vi/LgXzzu68j7M/hqdefault_229766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBLolNwQV7Ypkoj9TTWDajrIYEVA",
+          "time_start": 221
+        },
+        {
+          "title": "Auto fit contents",
+          "thumbnail": "https://i.ytimg.com/vi/LgXzzu68j7M/hqdefault_280833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAx2JYl2Imk3zh5b-xeWhJ5th6EQ",
+          "time_start": 276
+        },
+        {
+          "title": "Hide and unhide",
+          "thumbnail": "https://i.ytimg.com/vi/LgXzzu68j7M/hqdefault_347766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjOMIHCF0OYqs9mN1XtpCo9ZwbJA",
+          "time_start": 320
+        },
+        {
+          "title": "Move columns and rows",
+          "thumbnail": "https://i.ytimg.com/vi/LgXzzu68j7M/hqdefault_374166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9LZKzaA7CH7KID72bVtVBRZWoNg",
+          "time_start": 355
+        },
+        {
+          "title": "Tables",
+          "thumbnail": "https://i.ytimg.com/vi/LgXzzu68j7M/hqdefault_396133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBXM88yCZarVDS3QG4LV0OQqOqvA",
+          "time_start": 392
+        },
+        {
+          "title": "Insert columns and rows",
+          "thumbnail": "https://i.ytimg.com/vi/LgXzzu68j7M/hqdefault_457100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBY09p4OCRt_zjaQWDHf_hwTIi9Gg",
+          "time_start": 439
+        },
+        {
+          "title": "Conditional formatting",
+          "thumbnail": "https://i.ytimg.com/vi/LgXzzu68j7M/hqdefault_467133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxehhcr4W26PfP_t63Ydb0jFzE8g",
+          "time_start": 466
+        },
+        {
+          "title": "Status bar",
+          "thumbnail": "https://i.ytimg.com/vi/LgXzzu68j7M/hqdefault_509166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4C4Nzo1-JxVsrDf33gY0lasdRzA",
+          "time_start": 505
+        },
+        {
+          "title": "Analyze data",
+          "thumbnail": "https://i.ytimg.com/vi/LgXzzu68j7M/hqdefault_528100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUzrsoiyNZPcOQoxBGMPKWCGlkng",
+          "time_start": 525
+        },
+        {
+          "title": "Formulas",
+          "thumbnail": "https://i.ytimg.com/vi/LgXzzu68j7M/hqdefault_556066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhiiSblK5NaloQhv6A6uR0H60ViQ",
+          "time_start": 555
+        },
+        {
+          "title": "Functions",
+          "thumbnail": "https://i.ytimg.com/vi/LgXzzu68j7M/hqdefault_593066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWLfTbLshZ3KGT3a0kIe5TytHR2w",
+          "time_start": 589
+        },
+        {
+          "title": "Sorting and filtering",
+          "thumbnail": "https://i.ytimg.com/vi/LgXzzu68j7M/hqdefault_657000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCF6nULo2fdMpwpfCWAQphuaPZ3DA",
+          "time_start": 639
+        },
+        {
+          "title": "Charts",
+          "thumbnail": "https://i.ytimg.com/vi/LgXzzu68j7M/hqdefault_725966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBE1-US_jyLsE7SY8NPFtIPiK5gzA",
+          "time_start": 697
+        },
+        {
+          "title": "Pivot tables",
+          "thumbnail": "https://i.ytimg.com/vi/LgXzzu68j7M/hqdefault_757966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCtVWlgIdJuaaXjBYP7guOmW8zrA",
+          "time_start": 738
+        },
+        {
+          "title": "Collaborate with others",
+          "thumbnail": "https://i.ytimg.com/vi/LgXzzu68j7M/hqdefault_918933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCO4tji4G2ind_Tz85lKZQPDahveQ",
+          "time_start": 902
+        },
+        {
+          "title": "Wrap up",
+          "thumbnail": "https://i.ytimg.com/vi/LgXzzu68j7M/hqdefault_934900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvuJFUXbIz3tk5y_kHXx6VoO00vQ",
+          "time_start": 926
+        }
+      ]
+    },
+    {
+      "position_on_page": 11,
+      "title": "Excel for Beginners - The Complete Course",
+      "link": "https://www.youtube.com/watch?v=wbJcJCkBcMg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=wbJcJCkBcMg",
+      "video_id": "wbJcJCkBcMg",
+      "channel": {
+        "name": "Technology for Teachers and Students",
+        "channel_id": "UCYUPLUCkMiUgiyVuluCc7tQ",
+        "link": "https://www.youtube.com/@techteachersandstudents",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/GmBPCK65DWh0T27fEjzR7f1CTvQhxL11_D-OuK9EvSylp5XauvcfcuygquaD07fpf79qdgiX=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 19113405,
+      "length": "54:55",
+      "description": "This is the beginning Excel course that you've been waiting for! Learn everything you need to effectively use Excel by watching ...",
+      "extensions": [
+        "3 products",
+        "Earns commission"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/wbJcJCkBcMg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAt4xYk_iUi092DSm9ZIem1zId8ZQ",
+        "rich": "https://i.ytimg.com/an_webp/wbJcJCkBcMg/mqdefault_6s.webp?du=3000&sqp=CJDfhdgG&rs=AOn4CLAJO6iPjkuW1o6B6r_PlIdxFOuSaA"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/wbJcJCkBcMg/hqdefault_25866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0Rn1QzqiWO23ZBN3oAtRBevVJuw",
+          "time_start": 0
+        },
+        {
+          "title": "Creating Workbooks, The Anatomy of a Spreadsheet / Spreadsheet Terminology",
+          "thumbnail": "https://i.ytimg.com/vi/wbJcJCkBcMg/hqdefault_36866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0jqCA2a3uYH9Qv4OOw6YI7K9Ylg",
+          "time_start": 26
+        },
+        {
+          "title": "Entering Cell Values and Data in Excel",
+          "thumbnail": "https://i.ytimg.com/vi/wbJcJCkBcMg/hqdefault_440900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUODler0uAWEns5cIvosm0bzsuiQ",
+          "time_start": 436
+        },
+        {
+          "title": "Formulas",
+          "thumbnail": "https://i.ytimg.com/vi/wbJcJCkBcMg/hqdefault_1224800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNQOK8T_OdUXpm73wlNDSksB7LuA",
+          "time_start": 1218
+        },
+        {
+          "title": "Functions: SUM, AVERAGE, MAX, MIN, COUNT",
+          "thumbnail": "https://i.ytimg.com/vi/wbJcJCkBcMg/hqdefault_1837900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYqwJxF7sp2mUHyKPL1mS9pZUb8A",
+          "time_start": 1821
+        },
+        {
+          "title": "Formatting Numbers, Text, Cells, Rows, and Columns",
+          "thumbnail": "https://i.ytimg.com/vi/wbJcJCkBcMg/hqdefault_2336866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB53L34j5vrmuMjQneQYyFuX16eYA",
+          "time_start": 2325
+        },
+        {
+          "title": "Creating and Editing Charts",
+          "thumbnail": "https://i.ytimg.com/vi/wbJcJCkBcMg/hqdefault_2668200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXfqL1VbUjDe2la99Gr53vyozKOA",
+          "time_start": 2660
+        },
+        {
+          "title": "Print Options and Publishing Options",
+          "thumbnail": "https://i.ytimg.com/vi/wbJcJCkBcMg/hqdefault_2817233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnlBH1hCDpMJjiiGSO0thucmmA5w",
+          "time_start": 2806
+        }
+      ]
+    },
+    {
+      "position_on_page": 12,
+      "title": "Complete Excel Tutorial for Data Analysis in 4 Hours (with FREE Files)",
+      "link": "https://www.youtube.com/watch?v=7QNgqq154gE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=7QNgqq154gE",
+      "video_id": "7QNgqq154gE",
+      "channel": {
+        "name": "Chandoo",
+        "channel_id": "UC8uU_wruBMHeeRma49dtZKA",
+        "link": "https://www.youtube.com/@chandoo_",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n_wMqn3mAO7vDs1s74bHiFXXv24ckFsv2mnV1US8mS_w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 1428615,
+      "length": "3:56:43",
+      "description": "Power Query → Tables → Formulas → Pivots → Charts → Dashboard All in one video. Learn everything, practice the concepts ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/7QNgqq154gE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4NZdklqsYGu12lCCvbI9F4EvZhQ",
+        "rich": "https://i.ytimg.com/an_webp/7QNgqq154gE/mqdefault_6s.webp?du=3000&sqp=CN-4hdgG&rs=AOn4CLAaW5MPQtcALVmLwzIWLDhZA_aFrA"
+      },
+      "chapters": [
+        {
+          "title": "How to use Excel",
+          "thumbnail": "https://i.ytimg.com/vi/7QNgqq154gE/hqdefault_28966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_oTpjlBJdEevU_d1IgLPb-rcTJQ",
+          "time_start": 0
+        },
+        {
+          "title": "Power Query and Data Management",
+          "thumbnail": "https://i.ytimg.com/vi/7QNgqq154gE/hqdefault_882000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6Y7eDvTfOCVzFBVMYiel7uTXg6A",
+          "time_start": 876
+        },
+        {
+          "title": "Excel formulas & functions",
+          "thumbnail": "https://i.ytimg.com/vi/7QNgqq154gE/hqdefault_2967433.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhxhFwTV1xVetO85eG2Qa8Xi_V8w",
+          "time_start": 2967
+        },
+        {
+          "title": "Excel Pivot Tables, Slicers & Charts",
+          "thumbnail": "https://i.ytimg.com/vi/7QNgqq154gE/hqdefault_6819366.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeQ8xHYzYWNTuXcc4Hvr56AiOhBA",
+          "time_start": 6819
+        },
+        {
+          "title": "Excel portfolio project",
+          "thumbnail": "https://i.ytimg.com/vi/7QNgqq154gE/hqdefault_9777233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOlJzSl8wwJj5o8TEioWEthJqQ2w",
+          "time_start": 9767
+        }
+      ]
+    },
+    {
+      "position_on_page": 18,
+      "title": "Microsoft Excel Full Course 2027 | Microsoft Excel Tutorial for Beginners",
+      "link": "https://www.youtube.com/watch?v=Cakk8GwUqwA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Cakk8GwUqwA",
+      "video_id": "Cakk8GwUqwA",
+      "channel": {
+        "name": "Simplilearn",
+        "channel_id": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "19h ago",
+      "views": 6158,
+      "length": "23:42:15",
+      "description": "Micrososft Azure - Data Analyst Course ...",
+      "extensions": [
+        "New"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Cakk8GwUqwA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIaRmuuD0d9w-eX52xD0X31HaMug",
+        "rich": "https://i.ytimg.com/an_webp/Cakk8GwUqwA/mqdefault_6s.webp?du=3000&sqp=COCbhdgG&rs=AOn4CLBZ9Tm7wcNEK9pCjstLgxUpRBxcpA"
+      }
+    },
+    {
+      "position_on_page": 21,
+      "title": "Microsoft Excel Tutorial for Beginners - Full Course",
+      "link": "https://www.youtube.com/watch?v=Vl0H-qTclOg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Vl0H-qTclOg",
+      "video_id": "Vl0H-qTclOg",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 12130701,
+      "length": "2:26:10",
+      "description": "Lean how to use Microsoft Excel from the beginning by creating 6 real-world projects. Most of the content applies to Google ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Vl0H-qTclOg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbT3CawZ7VThj7_vlhqPcDRSN_UQ",
+        "rich": "https://i.ytimg.com/an_webp/Vl0H-qTclOg/mqdefault_6s.webp?du=3000&sqp=CODBhdgG&rs=AOn4CLC3940KouFRhD55nXOEnXP0aGDc7g"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/Vl0H-qTclOg/hqdefault_2200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLxx5BmwUV805o8SE5Jj_sz2XEPw",
+          "time_start": 0
+        },
+        {
+          "title": "Payroll",
+          "thumbnail": "https://i.ytimg.com/vi/Vl0H-qTclOg/hqdefault_266100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfYUO_iarXQb9G5boBoiR0PAaYhA",
+          "time_start": 254
+        },
+        {
+          "title": "Gradebook",
+          "thumbnail": "https://i.ytimg.com/vi/Vl0H-qTclOg/hqdefault_2398966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0Nc_m6a6dhz_DT1_MoWm_hI5uwA",
+          "time_start": 2375
+        },
+        {
+          "title": "Decision Factors",
+          "thumbnail": "https://i.ytimg.com/vi/Vl0H-qTclOg/hqdefault_3445133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-OHHxW73uW-uPx9pdKpEE3Yn8Hg",
+          "time_start": 3442
+        },
+        {
+          "title": "Sales Database",
+          "thumbnail": "https://i.ytimg.com/vi/Vl0H-qTclOg/hqdefault_3886133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJnaP9yj4aXf5-B1Bs5YscIxbf-A",
+          "time_start": 3880
+        },
+        {
+          "title": "Car Inventory",
+          "thumbnail": "https://i.ytimg.com/vi/Vl0H-qTclOg/hqdefault_5017833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC16bXh1C7FWDOtUYEDuqbFC7FJPA",
+          "time_start": 4993
+        },
+        {
+          "title": "Problem Solving Templates",
+          "thumbnail": "https://i.ytimg.com/vi/Vl0H-qTclOg/hqdefault_7175666.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDg2bR__i399jg0j2EZ-l7wH3-mug",
+          "time_start": 7169
+        }
+      ]
+    },
+    {
+      "position_on_page": 22,
+      "title": "The Complete Excel Data Analysis Workflow",
+      "link": "https://www.youtube.com/watch?v=28JRwAWL_qg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=28JRwAWL_qg",
+      "video_id": "28JRwAWL_qg",
+      "channel": {
+        "name": "Esther Chinenye Anagu",
+        "channel_id": "UCyYQbC8QsuhfpU5ewU8AF6g",
+        "link": "https://www.youtube.com/@anaest_in_tech",
+        "thumbnail": "https://yt3.ggpht.com/3tmBS7__VJzKya4fgzvGwznGdUC5Efvvz5oAQOuSq6A9dX2nD9NR9zidxQdrHfK1En7QEYcToMY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "Streamed 3mo ago",
+      "views": 17983,
+      "length": "4:27:30",
+      "description": "Learn how Excel is used by data analysts to solve real business problems. In this practical session, you'll work through a ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/28JRwAWL_qg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBKXU-DCA4v-8D0jArNX-wZQiPCg",
+        "rich": "https://i.ytimg.com/an_webp/28JRwAWL_qg/mqdefault_6s.webp?du=3000&sqp=CJDOhdgG&rs=AOn4CLAH_vMBD-iNu_QUqET_jYfiKQZAhg"
+      }
+    }
+  ],
+  "playlist_results": [
+    {
+      "position_on_page": 3,
+      "title": "Excel Tutorials for Data Analysts",
+      "link": "https://www.youtube.com/playlist?list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5",
+      "channel": {
+        "name": "Alex The Analyst",
+        "channel_id": "UC7cs8q-gJRlGwj4A8OmCmXg",
+        "link": "https://www.youtube.com/@AlexTheAnalyst"
+      },
+      "videos": [
+        {
+          "title": "Pivot Tables in Excel | Excel Tutorials for Beginners",
+          "length": "17:35",
+          "link": "https://www.youtube.com/watch?v=lH7HfwUFnYA&list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5&pp=0gcJCRYF0aJEHMZM"
+        },
+        {
+          "title": "Formulas in Excel | Excel Tutorials for Beginners",
+          "length": "33:54",
+          "link": "https://www.youtube.com/watch?v=XRPyj7cKVsQ&list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5"
+        }
+      ],
+      "video_count": 7,
+      "thumbnail": "https://i.ytimg.com/vi/lH7HfwUFnYA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAkV9IQ7GMtYIsfGoBNujCV6moEQQ"
+    },
+    {
+      "position_on_page": 5,
+      "title": "Excel Data Analysis Full Course",
+      "link": "https://www.youtube.com/playlist?list=PLoyECfvEFOjZNdBAHDlVlR242FifiYGjl",
+      "channel": {
+        "name": "Learn Skills Daily",
+        "channel_id": "UCqyBfm_H9ugGirk1ufYA2YA",
+        "link": "https://www.youtube.com/@learnskillsdaily"
+      },
+      "videos": [
+        {
+          "title": "Excel Intro to Data Analysis Tutorial",
+          "length": "1:22:57",
+          "link": "https://www.youtube.com/watch?v=YE1HBEY2upg&list=PLoyECfvEFOjZNdBAHDlVlR242FifiYGjl"
+        },
+        {
+          "title": "Excel Power User Tutorial",
+          "length": "2:30:28",
+          "link": "https://www.youtube.com/watch?v=x98qOYt_NCQ&list=PLoyECfvEFOjZNdBAHDlVlR242FifiYGjl"
+        }
+      ],
+      "video_count": 4,
+      "thumbnail": "https://i.ytimg.com/vi/YE1HBEY2upg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBHhv3IGgE0VYl8DMPvW3nEo6DHyA"
+    },
+    {
+      "position_on_page": 7,
+      "title": "Excel for Data Analytics - Full Course",
+      "link": "https://www.youtube.com/playlist?list=PLML2Nr0DZmjBouEk0FZ8E9ZddSPuwk9gm",
+      "channel": {
+        "name": "Ravisankar",
+        "channel_id": "UCvcAfAm_sJNAXTEv1Y7IC8g",
+        "link": "https://www.youtube.com/@Ravisankar-o3c"
+      },
+      "videos": [
+        {
+          "title": "Excel for Data Analytics - Full Course for Beginners",
+          "length": "10:59:43",
+          "link": "https://www.youtube.com/watch?v=pCJ15nGFgVg&list=PLML2Nr0DZmjBouEk0FZ8E9ZddSPuwk9gm"
+        },
+        {
+          "title": "Excel Data Analysis Full Course Tutorial (7+ Hours)",
+          "length": "7:11:22",
+          "link": "https://www.youtube.com/watch?v=qrbf9DtR3_c&list=PLML2Nr0DZmjBouEk0FZ8E9ZddSPuwk9gm"
+        }
+      ],
+      "video_count": 19,
+      "thumbnail": "https://i.ytimg.com/vi/pCJ15nGFgVg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDe5TyyuRz5XT1tbOp699O9SsPqgg"
+    },
+    {
+      "position_on_page": 8,
+      "title": "Microsoft Excel Full Course 2025 Edition",
+      "link": "https://www.youtube.com/playlist?list=PL6Omre3duO-N7yY1Uxl7hOC3gRMMomamK",
+      "channel": {
+        "name": "Pavan Lalwani",
+        "channel_id": "UC5fs7PookxGfDPTo-RU0ReQ",
+        "link": "https://www.youtube.com/@PavanLalwani"
+      },
+      "videos": [
+        {
+          "title": "Excel 2025 Complete Course: From Beginner to Advanced | Full Microsoft Excel Tutorial",
+          "length": "7:08",
+          "link": "https://www.youtube.com/watch?v=r5fXft08dVY&list=PL6Omre3duO-N7yY1Uxl7hOC3gRMMomamK"
+        },
+        {
+          "title": "1.1 Master the Excel 2025 User Interface: Essential Tutorial for Beginners",
+          "length": "12:25",
+          "link": "https://www.youtube.com/watch?v=KjLiPOmO6VM&list=PL6Omre3duO-N7yY1Uxl7hOC3gRMMomamK"
+        }
+      ],
+      "video_count": 25,
+      "thumbnail": "https://i.ytimg.com/vi/r5fXft08dVY/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCzAswKaDvNYH9e24jYae4_U-A0Tw"
+    },
+    {
+      "position_on_page": 9,
+      "title": "Excel for Data Analyst | Excel for Data Analysis | Excel for Data Analytics",
+      "link": "https://www.youtube.com/playlist?list=PLOWRNl6YgsT4XI2k5L_VS2bCEkA_T7qHc",
+      "channel": {
+        "name": "Top VarSity",
+        "channel_id": "UCV2On_SjdqwEG9NyEHQzrrA",
+        "link": "https://www.youtube.com/@TopVarSity"
+      },
+      "videos": [
+        {
+          "title": "Excel for Data Analyst | Excel Full Course 2026 | Day 1 | Excel for Beginners 2026",
+          "length": "23:00",
+          "link": "https://www.youtube.com/watch?v=leUTvqT-FRI&list=PLOWRNl6YgsT4XI2k5L_VS2bCEkA_T7qHc"
+        },
+        {
+          "title": "Excel for Data Analyst | Excel Full Course 2026 | Day 2 | Excel for Beginners 2026",
+          "length": "26:23",
+          "link": "https://www.youtube.com/watch?v=UV54ebN2YPQ&list=PLOWRNl6YgsT4XI2k5L_VS2bCEkA_T7qHc&pp=0gcJCRYF0aJEHMZM"
+        }
+      ],
+      "video_count": 10,
+      "thumbnail": "https://i.ytimg.com/vi/leUTvqT-FRI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBY8KJe2G4M4FZvav2VtUMKqvfZcw"
+    },
+    {
+      "position_on_page": 13,
+      "title": "Data Analysis with Excel 📈📉📊✅",
+      "link": "https://www.youtube.com/playlist?list=PLmejDGrsgFyBCxF37lewZtX6c1kJXyLt3",
+      "channel": {
+        "name": "Chandoo",
+        "channel_id": "UC8uU_wruBMHeeRma49dtZKA",
+        "link": "https://www.youtube.com/@chandoo_"
+      },
+      "videos": [
+        {
+          "title": "Beginner to Pro FREE Excel Data Analysis Course",
+          "length": "49:16",
+          "link": "https://www.youtube.com/watch?v=v2oNWja7M2E&list=PLmejDGrsgFyBCxF37lewZtX6c1kJXyLt3"
+        },
+        {
+          "title": "I don’t use filters in Excel anymore. I use this other function instead 😎",
+          "length": "16:18",
+          "link": "https://www.youtube.com/watch?v=JuTdj2j-9Kg&list=PLmejDGrsgFyBCxF37lewZtX6c1kJXyLt3"
+        }
+      ],
+      "video_count": 43,
+      "thumbnail": "https://i.ytimg.com/vi/v2oNWja7M2E/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAUmDIRGx6s266sc9PoBkYKovUlKg"
+    },
+    {
+      "position_on_page": 14,
+      "title": "Data Analyst Bootcamp",
+      "link": "https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF",
+      "channel": {
+        "name": "Alex The Analyst",
+        "channel_id": "UC7cs8q-gJRlGwj4A8OmCmXg",
+        "link": "https://www.youtube.com/@AlexTheAnalyst"
+      },
+      "videos": [
+        {
+          "title": "FREE Data Analyst Bootcamp!!",
+          "length": "6:52",
+          "link": "https://www.youtube.com/watch?v=rGx1QNdYzvs&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF"
+        },
+        {
+          "title": "How to Become a Data Analyst in 2023 (Completely FREE!)",
+          "length": "13:59",
+          "link": "https://www.youtube.com/watch?v=CUBfrdDwznQ&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF"
+        }
+      ],
+      "video_count": 84,
+      "thumbnail": "https://i.ytimg.com/vi/rGx1QNdYzvs/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCC7_YwlV9CBCUAW9N51mnxzoYhhw"
+    },
+    {
+      "position_on_page": 15,
+      "title": "🧑‍💻 Data Analysis on Excel",
+      "link": "https://www.youtube.com/playlist?list=PLCZxHKdpVXC5U-xCkiO4GJ1dk2oKTXJG-",
+      "channel": {
+        "name": "Kenji Explains",
+        "channel_id": "UCkHdBeQ4DuvBXTahMYZVlMA",
+        "link": "https://www.youtube.com/@KenjiExplains"
+      },
+      "videos": [
+        {
+          "title": "Master Data Cleaning Essentials on Excel in Just 10 Minutes",
+          "length": "10:16",
+          "link": "https://www.youtube.com/watch?v=jxq4-KSB_OA&list=PLCZxHKdpVXC5U-xCkiO4GJ1dk2oKTXJG-"
+        },
+        {
+          "title": "Data Analysis Essentials in Excel",
+          "length": "11:51",
+          "link": "https://www.youtube.com/watch?v=GLneLGYZgnA&list=PLCZxHKdpVXC5U-xCkiO4GJ1dk2oKTXJG-"
+        }
+      ],
+      "video_count": 28,
+      "thumbnail": "https://i.ytimg.com/vi/jxq4-KSB_OA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC2zKUWDlGbsSSWuvy4wK1EJq2f2g"
+    },
+    {
+      "position_on_page": 16,
+      "title": "Data Analytics using Excel",
+      "link": "https://www.youtube.com/playlist?list=PLNLDEHOJTZSjcyfFIwPP1g31WLoJCyTPw",
+      "channel": {
+        "name": "360DigiTMG",
+        "channel_id": "UCNGIDQ466bNY87eEeKeQuzA",
+        "link": "https://www.youtube.com/@360DigiTMG"
+      },
+      "videos": [
+        {
+          "title": "Data Analytics using Excel | Day 1 | 360DigiTMG",
+          "length": "1:00:46",
+          "link": "https://www.youtube.com/watch?v=9AOHwmmq5ug&list=PLNLDEHOJTZSjcyfFIwPP1g31WLoJCyTPw"
+        },
+        {
+          "title": "Data Analytics using Excel | Day 2 | 360DigiTMG",
+          "length": "1:01:44",
+          "link": "https://www.youtube.com/watch?v=53lqCAKA8ho&list=PLNLDEHOJTZSjcyfFIwPP1g31WLoJCyTPw&pp=0gcJCRYF0aJEHMZM"
+        }
+      ],
+      "video_count": 15,
+      "thumbnail": "https://i.ytimg.com/vi/9AOHwmmq5ug/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB_-I62gSFo7NSpCwTS3rhrH1gnqg"
+    },
+    {
+      "position_on_page": 19,
+      "title": "Data Analyst Bootcamp: Zero to Hero",
+      "link": "https://www.youtube.com/playlist?list=PL_CkpxkuPiT-RJ7zBfHVWwgltEWIVwrwb",
+      "channel": {
+        "name": "Luke Barousse",
+        "channel_id": "UCLLw7jmFsvfIVaUFsLs8mlQ",
+        "link": "https://www.youtube.com/@LukeBarousse"
+      },
+      "videos": [
+        {
+          "title": "How I Would Learn to be a Data Analyst",
+          "length": "14:11",
+          "link": "https://www.youtube.com/watch?v=TFFzNjWkhDk&list=PL_CkpxkuPiT-RJ7zBfHVWwgltEWIVwrwb"
+        },
+        {
+          "title": "SQL for Data Analytics - Learn SQL in 4 Hours",
+          "length": "4:08:41",
+          "link": "https://www.youtube.com/watch?v=7mz73uXD9DA&list=PL_CkpxkuPiT-RJ7zBfHVWwgltEWIVwrwb"
+        }
+      ],
+      "video_count": 9,
+      "thumbnail": "https://i.ytimg.com/vi/TFFzNjWkhDk/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDyMOJ5g4Ow5KafOpCukh2eIar_1Q"
+    },
+    {
+      "position_on_page": 20,
+      "title": "Data Analytics with Projects Full Free Course  (New Updated) by WsCube Tech",
+      "link": "https://www.youtube.com/playlist?list=PLjVLYmrlmjGdRs1sGqRrTE-EMraLclJga",
+      "channel": {
+        "name": "WsCube Tech",
+        "channel_id": "UC0T6MVd3wQDB5ICAe45OxaQ",
+        "link": "https://www.youtube.com/@wscubetech"
+      },
+      "videos": [
+        {
+          "title": "Data Analytics FULL Course for Beginners to Pro in 29 HOURS - 2025 Edition",
+          "length": "29:13:47",
+          "link": "https://www.youtube.com/watch?v=VaSjiJMrq24&list=PLjVLYmrlmjGdRs1sGqRrTE-EMraLclJga"
+        },
+        {
+          "title": "Complete Data Analytics Portfolio Project with Python and SQL in 2 Hours | 2026 Guide",
+          "length": "2:16:00",
+          "link": "https://www.youtube.com/watch?v=hK-qUy3UfT8&list=PLjVLYmrlmjGdRs1sGqRrTE-EMraLclJga"
+        }
+      ],
+      "video_count": 105,
+      "thumbnail": "https://i.ytimg.com/vi/VaSjiJMrq24/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB_49TytFLT6vrpbG8XgVbDTwzDJg"
+    },
+    {
+      "position_on_page": 23,
+      "title": "Data Analyst Full Course 2025 | Data Analytics Full Course Hindi| data analytics full course in hindi playlist | data analyst course playlist in hindi",
+      "link": "https://www.youtube.com/playlist?list=PLOWRNl6YgsT79ezWdEhOjvK4D-cQfr7ys",
+      "channel": {
+        "name": "Top VarSity",
+        "channel_id": "UCV2On_SjdqwEG9NyEHQzrrA",
+        "link": "https://www.youtube.com/@TopVarSity"
+      },
+      "videos": [
+        {
+          "title": "Data Analytics Full Course 2026 | Part 01| Data Analyst Course | Introduction | Top VarSity",
+          "length": "11:39",
+          "link": "https://www.youtube.com/watch?v=5zEt1_Nkiio&list=PLOWRNl6YgsT79ezWdEhOjvK4D-cQfr7ys"
+        },
+        {
+          "title": "Data Analytics Full Course 2026 | Part 02 | Data Analyst Course | Excel Basics | Top VarSity",
+          "length": "23:12",
+          "link": "https://www.youtube.com/watch?v=FMSJXtwt6hE&list=PLOWRNl6YgsT79ezWdEhOjvK4D-cQfr7ys"
+        }
+      ],
+      "video_count": 25,
+      "thumbnail": "https://i.ytimg.com/vi/5zEt1_Nkiio/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAgRq2845pY2j-r8tUly94pqOpeMw"
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Excel+full+course+tutorial+for+Data+Analyst&gl=in&hl=en",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Excel%20full%20course%20tutorial%20for%20Data%20Analyst&sp=SBSCAQtxcmJmOUR0UjNfY4IBIlBMVWFCLTFoamhrOEh5ZDVOaVBROUNORDgydk5vZGxGRjWCAQtwQ0oxNW5HRmdWZ4IBIlBMb3lFQ2Z2RUZPalpOZEJBSERsVmxSMjQyRmlmaVlHamyCASJQTE1MMk5yMERabWpCb3VFazBGWjhFOVpkZFNQdXdrOWdtggEiUEw2T21yZTNkdU8tTjd5WTFVeGw3aE9DM2dSTU1vbWFtS4IBIlBMT1dSTmw2WWdzVDRYSTJrNUxfVlMyYkNFa0FfVDdxSGOCAQtMZ1h6enU2OGo3TYIBC3diSmNKQ2tCY01nggELN1FOZ3FxMTU0Z0WCASJQTG1lakRHcnNnRnlCQ3hGMzdsZXdadFg2YzFrSlh5THQzggEiUExVYUItMWhqaGs4RkVfWFo4N3ZQUFNmSHFiNk9jTTBjRoIBIlBMQ1p4SEtkcFZYQzVVLXhDa2lPNEdKMWRrMm9LVFhKRy2CASJQTE5MREVIT0pUWlNqY3lmRkl3UFAxZzMxV0xvSkN5VFB3ggELQ2FrazhHd1Vxd0GCASJQTF9Da3B4a3VQaVQtUko3ekJmSFZXd2dsdEVXSVZ3cndiggEiUExqVkxZbXJsbWpHZFJzMXNHcVJyVEUtRU1yYUxjbEpnYYIBC1ZsMEgtcVRjbE9nggELMjhKUndBV0xfcWeCASJQTE9XUk5sNllnc1Q3OWV6V2RFaE9qdks0RC1jUWZyN3lzsgEGCgQIGRAC",
+    "next_page_token": "SBSCAQtxcmJmOUR0UjNfY4IBIlBMVWFCLTFoamhrOEh5ZDVOaVBROUNORDgydk5vZGxGRjWCAQtwQ0oxNW5HRmdWZ4IBIlBMb3lFQ2Z2RUZPalpOZEJBSERsVmxSMjQyRmlmaVlHamyCASJQTE1MMk5yMERabWpCb3VFazBGWjhFOVpkZFNQdXdrOWdtggEiUEw2T21yZTNkdU8tTjd5WTFVeGw3aE9DM2dSTU1vbWFtS4IBIlBMT1dSTmw2WWdzVDRYSTJrNUxfVlMyYkNFa0FfVDdxSGOCAQtMZ1h6enU2OGo3TYIBC3diSmNKQ2tCY01nggELN1FOZ3FxMTU0Z0WCASJQTG1lakRHcnNnRnlCQ3hGMzdsZXdadFg2YzFrSlh5THQzggEiUExVYUItMWhqaGs4RkVfWFo4N3ZQUFNmSHFiNk9jTTBjRoIBIlBMQ1p4SEtkcFZYQzVVLXhDa2lPNEdKMWRrMm9LVFhKRy2CASJQTE5MREVIT0pUWlNqY3lmRkl3UFAxZzMxV0xvSkN5VFB3ggELQ2FrazhHd1Vxd0GCASJQTF9Da3B4a3VQaVQtUko3ekJmSFZXd2dsdEVXSVZ3cndiggEiUExqVkxZbXJsbWpHZFJzMXNHcVJyVEUtRU1yYUxjbEpnYYIBC1ZsMEgtcVRjbE9nggELMjhKUndBV0xfcWeCASJQTE9XUk5sNllnc1Q3OWV6V2RFaE9qdks0RC1jUWZyN3lzsgEGCgQIGRAC"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Excel+full+course+tutorial+for+Data+Analyst",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Excel+full+course+tutorial+for+Data+Analyst&sp=SBSCAQtxcmJmOUR0UjNfY4IBIlBMVWFCLTFoamhrOEh5ZDVOaVBROUNORDgydk5vZGxGRjWCAQtwQ0oxNW5HRmdWZ4IBIlBMb3lFQ2Z2RUZPalpOZEJBSERsVmxSMjQyRmlmaVlHamyCASJQTE1MMk5yMERabWpCb3VFazBGWjhFOVpkZFNQdXdrOWdtggEiUEw2T21yZTNkdU8tTjd5WTFVeGw3aE9DM2dSTU1vbWFtS4IBIlBMT1dSTmw2WWdzVDRYSTJrNUxfVlMyYkNFa0FfVDdxSGOCAQtMZ1h6enU2OGo3TYIBC3diSmNKQ2tCY01nggELN1FOZ3FxMTU0Z0WCASJQTG1lakRHcnNnRnlCQ3hGMzdsZXdadFg2YzFrSlh5THQzggEiUExVYUItMWhqaGs4RkVfWFo4N3ZQUFNmSHFiNk9jTTBjRoIBIlBMQ1p4SEtkcFZYQzVVLXhDa2lPNEdKMWRrMm9LVFhKRy2CASJQTE5MREVIT0pUWlNqY3lmRkl3UFAxZzMxV0xvSkN5VFB3ggELQ2FrazhHd1Vxd0GCASJQTF9Da3B4a3VQaVQtUko3ekJmSFZXd2dsdEVXSVZ3cndiggEiUExqVkxZbXJsbWpHZFJzMXNHcVJyVEUtRU1yYUxjbEpnYYIBC1ZsMEgtcVRjbE9nggELMjhKUndBV0xfcWeCASJQTE9XUk5sNllnc1Q3OWV6V2RFaE9qdks0RC1jUWZyN3lzsgEGCgQIGRAC",
+    "next_page_token": "SBSCAQtxcmJmOUR0UjNfY4IBIlBMVWFCLTFoamhrOEh5ZDVOaVBROUNORDgydk5vZGxGRjWCAQtwQ0oxNW5HRmdWZ4IBIlBMb3lFQ2Z2RUZPalpOZEJBSERsVmxSMjQyRmlmaVlHamyCASJQTE1MMk5yMERabWpCb3VFazBGWjhFOVpkZFNQdXdrOWdtggEiUEw2T21yZTNkdU8tTjd5WTFVeGw3aE9DM2dSTU1vbWFtS4IBIlBMT1dSTmw2WWdzVDRYSTJrNUxfVlMyYkNFa0FfVDdxSGOCAQtMZ1h6enU2OGo3TYIBC3diSmNKQ2tCY01nggELN1FOZ3FxMTU0Z0WCASJQTG1lakRHcnNnRnlCQ3hGMzdsZXdadFg2YzFrSlh5THQzggEiUExVYUItMWhqaGs4RkVfWFo4N3ZQUFNmSHFiNk9jTTBjRoIBIlBMQ1p4SEtkcFZYQzVVLXhDa2lPNEdKMWRrMm9LVFhKRy2CASJQTE5MREVIT0pUWlNqY3lmRkl3UFAxZzMxV0xvSkN5VFB3ggELQ2FrazhHd1Vxd0GCASJQTF9Da3B4a3VQaVQtUko3ekJmSFZXd2dsdEVXSVZ3cndiggEiUExqVkxZbXJsbWpHZFJzMXNHcVJyVEUtRU1yYUxjbEpnYYIBC1ZsMEgtcVRjbE9nggELMjhKUndBV0xfcWeCASJQTE9XUk5sNllnc1Q3OWV6V2RFaE9qdks0RC1jUWZyN3lzsgEGCgQIGRAC"
+  }
+}

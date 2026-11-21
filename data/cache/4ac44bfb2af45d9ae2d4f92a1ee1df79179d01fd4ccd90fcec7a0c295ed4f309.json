@@ -1,0 +1,1379 @@
+{
+  "search_metadata": {
+    "id": "6b01728c71c5422b2433c34c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5PHkeXNuE_CTaTYtT_83neuD-gdNV0oeWsqGsh4WvXo/6b01728c71c5422b2433c34c.json",
+    "markdown_endpoint": "https://serpapi.com/searches/5PHkeXNuE_CTaTYtT_83neuD-gdNV0oeWsqGsh4WvXo/6b01728c71c5422b2433c34c.md",
+    "created_at": "2026-11-21 10:29:32 UTC",
+    "processed_at": "2026-11-21 10:29:32 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=CSS+full+course+tutorial+for+Frontend+Developer&gl=in&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/5PHkeXNuE_CTaTYtT_83neuD-gdNV0oeWsqGsh4WvXo/6b01728c71c5422b2433c34c.html",
+    "total_time_taken": 2.47
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "CSS full course tutorial for Frontend Developer",
+    "gl": "in",
+    "hl": "en"
+  },
+  "search_information": {
+    "total_results": 3098731,
+    "video_results_state": "Results for exact spelling"
+  },
+  "ads_results": [
+    {
+      "position_on_page": 1,
+      "title": "Mission Control for M365 security. Fast & free onboarding. Simple pricing.",
+      "link": "https://www.youtube.com/watch?v=SCIxoFgDip8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=SCIxoFgDip8",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=C2cZcjHIBa5f0Men5v8IPr8SjyQrmu5_8iQHJxvWRyxawkB8QASAAYMm-5IzkpOwTggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAY7ShYVDqAMEyAMKqgTRAk_Q4PkXvDfRcd5xMnEEfv30w0McFReQUEYzdWZtTHZDlHvWaHbnAvicQQsK4974JrAc0FUQt10FHHahwgChhO6RhaJrcoI0WkpE3aqQu2b05s56jKe06Vs2idWXv2eBDjQ-Bz2vUFKUT5ErC-_LYYevi_9PggekLDyPlYaZz2_aC8_huEXKT22JP3plQqClTNE5G7D-ZqbeTezxdI7aMLYKJnEy36bHPOSV-RoQz5C7q9be3ebbROnG1UFJRGkgIahKdPh-1ypkqa2qUmWg_zu8TxlL2UC4riqsrVMb9M0SbQSqT99BrUKcIdXa0qxrpsFdP85MyUaY2bXpvwALkn8Yj_R622gJFzsKRmA9NsOQ6Og-4cKaB-hUee_MHJdVuKmV5dlMjKyUyLO8m_HYY4v4n4bFZXpgS82BoST8_ncpZamhE_eoNcufpk_0lcHli9eIBcqhg8RakgUICBN4p4KChx6gBqEBgAeOitbkHZAHBKgHpc-xAqgH552xAqgH6J2xAqgHg_axAqgH-dOxAqgHydqxAqgHqeCxAqgHqNIbqAex3BuoB7CbsQKoB_2ysQKoB8jPsQKoB8nPsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB57qsQKoB5_qsQKoB_jrsQKoB7zqsQKoB-_xsQKoB_yvsQKoB9XOG6gHvtmxAqgHv9mxAqgHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECkggLU0NJeG9GZ0RpcDioCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAYSNmg0jVQFFi495Ox7ZiYA2ABmgkbaHR0cHM6Ly93d3cuY2xvdWRjYXBzdWxlLmlvsQkIBHYykCLY5sgJF8gJjwHICcIByAmXApgLAboLOggDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AIC2AEBgAIBiAIFugMFdmljYmbQCxLSDAIQAZoNARKqDQJVU8gNAdINyAJodHRwczovL3d3dy5jbG91ZGNhcHN1bGUuaW8_dXRtX3Rlcm09JnV0bV9jYW1wYWlnbj1EZW1hbmQrR2VuKy0rMjAyNi0wOS0zMCZ1dG1fc291cmNlPWFkd29yZHMmdXRtX21lZGl1bT1wcGMmdXRtX2lkPTI0MzAxODUwODI2JmhzYV9hY2M9OTY5NDg0MDc1OCZoc2FfY2FtPTI0MzAxODUwODI2JmhzYV9ncnA9MjAzNzY3ODI5MDM0JmhzYV9hZD04MjY0OTg0ODYwMjkmaHNhX3NyYz15dGlmJmhzYV90Z3Q9YXVkLTI0OTIwNTE4OTU0ODYmaHNhX2t3PSZoc2FfbXQ9JmhzYV9uZXQ9YWR3b3JkcyZoc2FfdmVyPTMmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTI0MzAxODUwODI2uBP___________8BsBQDwBWBgIBA0BUB2BUB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF-0C-mSc9T4PuhcGKAAwADgB0BgB8BgBwhkCCAE&gclid=EAIaIQobChMIl-qUse2YmAMV6fxPAh0v4iipEAEYASAAEgILgfD_BwE&num=1&cid=CAASwgHkaChvA6GpUkW5J9F8qg2m6ErwQW_wfiv6AICJjXaKgvuemtDGeysxWbutsV9Ng6cY42LoYHNLyYPlLeWTp2gTZf4300rnQIF6vouubCmHfjHX6w1OnMsFVFwH4MZTHN-Blqabp4wpFfpD-V_eS79si0T3MIR4QimJVPoCk0V_tDIMQYWprrArO2mTydVgFaCTq6IWKSwpd70_yaQL__NSrmHB0Kp8n_x2bxFB2L0U-y5suVJo7daGPfFQ7Ia7t9rOdw&ad_cpn=%5BCPN%5D&sig=AOD64_0RqR8OC2vrxTFVEWvcOWKZmCl_YA&ctype=110&video_id=SCIxoFgDip8&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "CloudCapsule",
+        "thumbnail": "https://yt3.ggpht.com/proxy/iWsDWaWWxUauMqb90oh62tCX4WLIK4hqWqSy2x0GHFJfruCW0QnB7Nsz8sL5LZXbMucC7Y26L8qNLc1twdNOBvmmSoqvilLk8xRXydChZzpfVlSng9oIOhGmQnl_cnAVjRQM8eFohVAihqZ9GWyKDVrWPVBLQn73mBZeOUUaNCETNNJYolwggMmwrc3nhjCXTF4FsF08srNrMA7byilgxA5E68jZZJufmmWYkL0bHJCmrU5jcUvny-Zxm8yPeeXHgWRC-FQ=w68-h68-nd"
+      },
+      "description": "Fast & free onboarding. Simple pricing. Start your free trial today.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/SCIxoFgDip8/hq720.jpg?sqp=-oaymwE9COgCEMoBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYciBAKDEwDw==&rs=AOn4CLDkZCI_ROD3RpU3TVOVsRX667q4Kg"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Devour knowledge with Student Spaces",
+      "link": "https://www.youtube.com/watch?v=EJ_xkuarNEU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=EJ_xkuarNEU",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CwvP-jHIBa5f0Men5v8IPr8SjyQqXouaPiwHPvoe0mBawkB8QBSAAYMm-5IzkpOwTggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAbH6_-oCqAMEyAMKqgTsAk_Q4PkXvDfRcd5xMnEEfv30w0McFReQUEYzdWZtTHZDlHvWaHbnAvicQQsK4974JrAc0FUQt10FHHahwgChhO6RhaJrcoI0WkpE3aqQu2b05s56jKe06Vs2idWXv2eBDjQ-Bz2vUFKUT5ErC-_LYYevi_9PggekLDyPlYaZz2_aC8_huEXKT22JP3plQqClTNE5G7D-ZqbeTezxdI7aMLYKJnEy36bHPOSV-RoQz5C7q9be3ebbROnG1UFJRGkgIahKdPh-1ypkqa2qUmWg_zu8TxlL2UC4riqsrVMb9M0SbQSqT99BrUKcIdXa0qxrpsFdP85MyV6YYygrAAoDkt0AGYTC97YbtTelKueqKyZ4kbm4PxxoyPfIw6nH48HcjfAbAupzCG66ZzqOAsGQe2zKbgg7i0tpldjZ2-vOaOP0joI1pnhrB-CHYO92j30qMOn--0eV3GkaBPErMCY2FfccVp4dQg7q5-MNGTeIBebQ761YkgUICBN4-s2flQGgBqEBgAe3hYCVAZAHBKgHpc-xAqgH552xAqgH6J2xAqgHg_axAqgH-dOxAqgHydqxAqgHqeCxAqgHqNIbqAex3BuoB7CbsQKoB_2ysQKoB8jPsQKoB8nPsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB57qsQKoB5_qsQKoB_jrsQKoB7zqsQKoB-_xsQKoB_yvsQKoB9XOG6gHvtmxAqgHv9mxAqgHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECkggLRUpfeGt1YXJORVWoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAYSNmg0jVQFFi495Ox7ZiYA2ABmgksaHR0cHM6Ly9hY3JvYmF0LmFkb2JlLmNvbS9zdHVkZW50c3BhY2VzL2hvbWWxCWOYwqReJdfeyAkXyAmPAcgJwgG6CzoIAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAtgBA4ACAYgCEroDBXZpY2Jm0AsT4AsBogwfYhgKFmNvbS5hZG9iZS5lY2hvc2lnbi5pb3N4AIgBANIMAhABmg0BE6oNAlVTyA0B0g3pBGh0dHBzOi8vYWQuZG91YmxlY2xpY2submV0L2RkbS90cmFja2Nsay9OOTcyOTUyLjI3OTM4MkJJRE1BTkFHRVJfREZBU0lURS9CMjIzNDQ0MTMuMjQxNTM5MzIxO2RjX3Rya19haWQ9NDM4MTI4NjIyO2RjX3Rya19jaWQ9MTEyODg0NjEzO2RjX2RibV90b2tlbj1BT2plTE5FQUFBQTZDak1LREFnQUZRQUFBQUFkQUFBQUFCSU1DQUFWQUFBQUFCMEFBQUFBSWhNSTV0RHZyVmlvQXNPNDlBR3dBc3lXNHVrRFFEc1FsLWU2QWFwU28zTGo2OUhxbVJTR0Q3TmxKdGM9O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2x0ZD07ZGNfdGR2PTE7ZGNfdHJhbnNwYXJlbnQ9MTtkY19ydWk9MTtkY19lcHM9QUhhczhjQWVWMHFRdm5QNmlmWXJReXhaOGdWWVcyQzRyN3FFeUF0VEx6OFFNZmxGRS1RdkZXWW9lSWVvNHdPV2w5ZTJjN2JNckZiaGlNeFVjS2g0ekE7ZGNfcHViaWQ9Nj9odHRwczovL2Fjcm9iYXQuYWRvYmUuY29tL3N0dWRlbnRzcGFjZXMvaG9tZT9zZGlkPVZUQzVKUjQxJm12PXNvY2lhbCZtdjI9cGFpZHNvYyZ4X2FwaV9jbGllbnRfaWQ9cGFpZG1lZGlhJnhfYXBpX2NsaWVudF9sb2NhdGlvbj1hZHNfVlRDNUpSNDEmZ2FkX3NvdXJjZT0ysBPj7qgkuBP___________8BiBQHsBQDwBWBgIBA0BUB2BUBmBYBqBYBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRdXv8ICGj4Y8LoXBigAMAA4AdAYAfAYAQ&gclid=EAIaIQobChMIl-qUse2YmAMV6fxPAh0v4iipEAEYBSAAEgKZ__D_BwE&num=5&cid=CAASwgHkaChvA6GpUkW5J9F8qg2m6ErwQW_wfiv6AICJjXaKgvuemtDGeysxWbutsV9Ng6cY42LoYHNLyYPlLeWTp2gTZf4300rnQIF6vouubCmHfjHX6w1OnMsFVFwH4MZTHN-Blqabp4wpFfpD-V_eS79si0T3MIR4QimJVPoCk0V_tDIMQYWprrArO2mTydVgFaCTq6IWKSwpd70_yaQL__NSrmHB0Kp8n_x2bxFB2L0U-y5suVJo7daGPfFQ7Ia7t9rOdw&ad_cpn=%5BCPN%5D&sig=AOD64_17_s9UR5AnQG3lNXdcu1XV312VDw&ctype=110&video_id=EJ_xkuarNEU&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Adobe",
+        "thumbnail": "https://yt3.ggpht.com/proxy/MOuz2I13I1fAnFfngtXtL_W4we9dtMgr0pZOHx9ZvXrWe0TzDLTj2mq2_seyh8bAOYiFhihUkC0bcCbQ2Rr3ROUyAm-g7fKx7ikqVy2aYwv8ap82JEQltB0uNj5JlrrMcTbQ-wFlNo0DfytWwYBrrCyx4-VnwgCwx-dn0fy6KEEwJzLjssuJHIvXA-MdWMvBvChh3bzxW7-sQCuvX2mDwrBOQUGt_eZzMbPzNL_oO6Ke1vjjr2458wPYmALVc80eUKLvvs8=w68-h68-nd"
+      },
+      "description": "Student Spaces is a smarter way to study. Free for students.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/EJ_xkuarNEU/hq720.jpg?sqp=-oaymwE9COgCEMoBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBSKEUwDw==&rs=AOn4CLBynB31105bQ4I6oAsmmQh3tYKqww"
+      }
+    }
+  ],
+  "video_results": [
+    {
+      "position_on_page": 2,
+      "title": "HTML & CSS Full Course - Beginner to Pro",
+      "link": "https://www.youtube.com/watch?v=G3e-cpL7ofc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=G3e-cpL7ofc",
+      "video_id": "G3e-cpL7ofc",
+      "channel": {
+        "name": "SuperSimpleDev",
+        "channel_id": "UCB6dvaWu0N8uVq2yKsZ5s5g",
+        "link": "https://www.youtube.com/@SuperSimpleDev",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_laf9dDyNATE1_RdVUKthwnwT9TSm9N0my0jL2H8gCvjw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 20389261,
+      "length": "6:31:16",
+      "description": "More CSS Features 6:30:21 Outro Additional Information: This HTML CSS full course is a series of HTML CSS tutorials, teaching ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/G3e-cpL7ofc/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCDpRkEpP9iC_I3JO57jHrUmHHbSg"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 0
+        },
+        {
+          "title": "1. HTML Basics",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 62
+        },
+        {
+          "title": "2. CSS Basics",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 1062
+        },
+        {
+          "title": "3. Hovers, Transitions, Shadows",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 2679
+        },
+        {
+          "title": "4. Chrome DevTools & CSS Box Model",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 3790
+        },
+        {
+          "title": "5. Text Styles",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 4650
+        },
+        {
+          "title": "6. The HTML Structure",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 6738
+        },
+        {
+          "title": "7. Images and Text Boxes",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 7868
+        },
+        {
+          "title": "8. CSS Display Property",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 8742
+        },
+        {
+          "title": "9. The div Element",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 9298
+        },
+        {
+          "title": "10. Nested Layouts Technique",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 10015
+        },
+        {
+          "title": "11. CSS Grid",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 11818
+        },
+        {
+          "title": "12. Flexbox",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 13438
+        },
+        {
+          "title": "13. Nested Flexbox",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 15321
+        },
+        {
+          "title": "14. CSS Position",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 17076
+        },
+        {
+          "title": "15. Position Absolute and Relative",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 18434
+        },
+        {
+          "title": "16. Finish the Project",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 20029
+        },
+        {
+          "title": "17. More CSS Features",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 22066
+        },
+        {
+          "title": "Outro",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 23421
+        }
+      ]
+    },
+    {
+      "position_on_page": 4,
+      "title": "Learn CSS in 1 hour 🎨",
+      "link": "https://www.youtube.com/watch?v=wRNinF7YQqQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=wRNinF7YQqQ",
+      "video_id": "wRNinF7YQqQ",
+      "channel": {
+        "name": "Bro Code",
+        "channel_id": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "link": "https://www.youtube.com/@BroCodez",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mPFVsxROj1dOtTWc9iNBwDYV4z42Q8LPokBSewiW9pCSg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 2521636,
+      "length": "1:00:00",
+      "description": "CSS #tutorial #beginners ⭐️Time Stamps⭐️ #1 (00:00:00) CSS tutorial for beginners #2 (00:11:00) fonts #3 (00:14:20) ...",
+      "extensions": [
+        "Fundraiser"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/wRNinF7YQqQ/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD4zsV3uYqlMPNs3hCLtXgevrsksQ"
+      },
+      "chapters": [
+        {
+          "title": "1.CSS tutorial for beginners",
+          "thumbnail": "https://i.ytimg.com/vi/wRNinF7YQqQ/hqdefault_18866.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDfDu8K0yKA86sYhoQPFyWaerDvrA",
+          "time_start": 0
+        },
+        {
+          "title": "2.fonts",
+          "thumbnail": "https://i.ytimg.com/vi/wRNinF7YQqQ/hqdefault_671833.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBMxM_tFWL6jdWNai9__aMK8sdY1w",
+          "time_start": 660
+        },
+        {
+          "title": "3.borders",
+          "thumbnail": "https://i.ytimg.com/vi/wRNinF7YQqQ/hqdefault_861866.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBMkEDfqkyIWB-rg0ZvanotfqcHSw",
+          "time_start": 860
+        },
+        {
+          "title": "4.background",
+          "thumbnail": "https://i.ytimg.com/vi/wRNinF7YQqQ/hqdefault_1028833.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD-2jwI46phrsbP0fr-eCKsfokCMg",
+          "time_start": 1016
+        },
+        {
+          "title": "5.margins",
+          "thumbnail": "https://i.ytimg.com/vi/wRNinF7YQqQ/hqdefault_1254233.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB11eewDlyAovTxQBj49MOXpDErJA",
+          "time_start": 1252
+        },
+        {
+          "title": "6.float",
+          "thumbnail": "https://i.ytimg.com/vi/wRNinF7YQqQ/hqdefault_1546200.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDv6YIpEazz19YWmpmoacY8iRIqmg",
+          "time_start": 1544
+        },
+        {
+          "title": "7.position",
+          "thumbnail": "https://i.ytimg.com/vi/wRNinF7YQqQ/hqdefault_1742166.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBKa5cGQ80hxlwVE8k-4tHkcayhZQ",
+          "time_start": 1741
+        },
+        {
+          "title": "8.pseudo classes 👨‍👧‍",
+          "thumbnail": "https://i.ytimg.com/vi/wRNinF7YQqQ/hqdefault_2100133.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAFJ3rTW4ZddGC69250zWNNKXkyaw",
+          "time_start": 2098
+        },
+        {
+          "title": "9.shadows",
+          "thumbnail": "https://i.ytimg.com/vi/wRNinF7YQqQ/hqdefault_2448233.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLARZRSiFCl3Lg1WUpIPSjfDf8Hs_Q",
+          "time_start": 2447
+        },
+        {
+          "title": "10.icons",
+          "thumbnail": "https://i.ytimg.com/vi/wRNinF7YQqQ/hqdefault_2624066.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCcpJnEOawAHwW7UpBAaUHdnfV2xw",
+          "time_start": 2623
+        },
+        {
+          "title": "11.transform",
+          "thumbnail": "https://i.ytimg.com/vi/wRNinF7YQqQ/hqdefault_2807033.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAyHJ6a5TXFU2x-Fl-EoCIyP-92ag",
+          "time_start": 2805
+        },
+        {
+          "title": "12.animation 🎞️",
+          "thumbnail": "https://i.ytimg.com/vi/wRNinF7YQqQ/hqdefault_3064133.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBYPeVk6Hh6xy7CoUYviWpA9MZVsA",
+          "time_start": 3054
+        }
+      ]
+    },
+    {
+      "position_on_page": 5,
+      "title": "CSS in 5 minutes",
+      "link": "https://www.youtube.com/watch?v=Z4pCqK-V_Wo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Z4pCqK-V_Wo",
+      "video_id": "Z4pCqK-V_Wo",
+      "channel": {
+        "name": "Aaron Jack",
+        "channel_id": "UCRLEADhMcb8WUdnQ5_Alk7g",
+        "link": "https://www.youtube.com/@AaronJack",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/40SE9hF9oDMoGjoKDdQEG8e6HJML5c_fVP40Vfm2hMrfkvqqMYrVCyPoGXlMFFNE89rN10EQJQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 338564,
+      "length": "8:16",
+      "description": "Freelance Coding is the way in 2024! Learn How: https://www.freemote.com/strategy https://instagram.com/aaronjack #coding ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Z4pCqK-V_Wo/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBumGDdV1lkTmMeT9G0jw5h6OOs3Q"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/Z4pCqK-V_Wo/hqdefault_7866.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBJ5AYgcwVmcqVv0K46XE8gaK4FyQ",
+          "time_start": 0
+        },
+        {
+          "title": "Selectors",
+          "thumbnail": "https://i.ytimg.com/vi/Z4pCqK-V_Wo/hqdefault_20000.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBVEYs-XKnUfLkPsjcptMH3I-8HXA",
+          "time_start": 18
+        },
+        {
+          "title": "Attributes",
+          "thumbnail": "https://i.ytimg.com/vi/Z4pCqK-V_Wo/hqdefault_75900.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDc-Hq1sbn2R-CZrn6QZ5IpbabxRQ",
+          "time_start": 51
+        },
+        {
+          "title": "Color",
+          "thumbnail": "https://i.ytimg.com/vi/Z4pCqK-V_Wo/hqdefault_79833.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBYHE-dY51n_XdEbdu7j6AKCLbIiw",
+          "time_start": 76
+        },
+        {
+          "title": "Layout Attributes",
+          "thumbnail": "https://i.ytimg.com/vi/Z4pCqK-V_Wo/hqdefault_107966.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDm6ugMD4tikii5QZIBvxZbKl2tew",
+          "time_start": 102
+        },
+        {
+          "title": "Padding Attributes",
+          "thumbnail": "https://i.ytimg.com/vi/Z4pCqK-V_Wo/hqdefault_161933.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAK49cL2D_wn3DqwaNsh5xkdFUQpw",
+          "time_start": 139
+        },
+        {
+          "title": "Rem",
+          "thumbnail": "https://i.ytimg.com/vi/Z4pCqK-V_Wo/hqdefault_170833.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDCnvL-VSuie2E6mCGW7MI1397rvw",
+          "time_start": 169
+        },
+        {
+          "title": "Border",
+          "thumbnail": "https://i.ytimg.com/vi/Z4pCqK-V_Wo/hqdefault_186900.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBceYeWIYnTd2yLe1JlchGq8pY6_w",
+          "time_start": 180
+        },
+        {
+          "title": "Margin",
+          "thumbnail": "https://i.ytimg.com/vi/Z4pCqK-V_Wo/hqdefault_192933.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD0LA-QqTv71x_bCUdAXH6K_mJNfA",
+          "time_start": 191
+        },
+        {
+          "title": "Display Flex",
+          "thumbnail": "https://i.ytimg.com/vi/Z4pCqK-V_Wo/hqdefault_221833.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAd-goyPrB_rIJv1bYr3H-6ZchHdA",
+          "time_start": 218
+        },
+        {
+          "title": "Pseudo Classes",
+          "thumbnail": "https://i.ytimg.com/vi/Z4pCqK-V_Wo/hqdefault_253833.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB9ySGU0Y13uIzllH0UIfQqmCT0vg",
+          "time_start": 250
+        },
+        {
+          "title": "Font Family",
+          "thumbnail": "https://i.ytimg.com/vi/Z4pCqK-V_Wo/hqdefault_281866.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAPTh3IZ5syHD8mSJFBsB2up61U3A",
+          "time_start": 281
+        },
+        {
+          "title": "Shadow",
+          "thumbnail": "https://i.ytimg.com/vi/Z4pCqK-V_Wo/hqdefault_331733.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBEr7QRfaqSm0topm31uNcd4DiNwA",
+          "time_start": 310
+        },
+        {
+          "title": "Animation",
+          "thumbnail": "https://i.ytimg.com/vi/Z4pCqK-V_Wo/hqdefault_333233.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDcIjKoGTDaqCtXi6rvq-uu8osKIQ",
+          "time_start": 333
+        },
+        {
+          "title": "Media Queries",
+          "thumbnail": "https://i.ytimg.com/vi/Z4pCqK-V_Wo/hqdefault_355233.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA7YhRkz3WXShtbxThGXp9ecmvEhQ",
+          "time_start": 345
+        },
+        {
+          "title": "Preprocessor",
+          "thumbnail": "https://i.ytimg.com/vi/Z4pCqK-V_Wo/hqdefault_367733.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCn-bJz1SPGzj6-haAtBXk4oYr-4w",
+          "time_start": 366
+        },
+        {
+          "title": "Styled Components",
+          "thumbnail": "https://i.ytimg.com/vi/Z4pCqK-V_Wo/hqdefault_404766.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAfnTglA03c183A4_aLAbpjebjqKQ",
+          "time_start": 379
+        }
+      ]
+    },
+    {
+      "position_on_page": 9,
+      "title": "The Complete Frontend Developer Roadmap",
+      "link": "https://www.youtube.com/watch?v=Tef1e9FiSR0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Tef1e9FiSR0",
+      "video_id": "Tef1e9FiSR0",
+      "channel": {
+        "name": "Programming with Mosh",
+        "channel_id": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "link": "https://www.youtube.com/@programmingwithmosh",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 710485,
+      "length": "8:54",
+      "description": "Go from zero to a frontend developer in 12 months. This step-by-step roadmap covers the essential skills and latest technologies ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Tef1e9FiSR0/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBND8qhTYeOGNdNF9ErQjvdfQ-Wmw"
+      },
+      "chapters": [
+        {
+          "title": "Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_21933.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBydwY3rRPnCswHdPqOc_Et5QkMWg",
+          "time_start": 0
+        },
+        {
+          "title": "Basics of web development",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_49866.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBuGnazxScHsnjaLH83qEwKQ-J4_g",
+          "time_start": 23
+        },
+        {
+          "title": "How long it takes to become a front-end developer",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_60300.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCVMpU_iHCOOaLs_F43YS-Qq1QLzQ",
+          "time_start": 56
+        },
+        {
+          "title": "The complete front-end roadmap (PDF)",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_91966.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDD3QXZVugIvYQmMTSWEd1K4kFtvQ",
+          "time_start": 70
+        },
+        {
+          "title": "Basics of front-end development",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_97933.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDNObFajxXwXT1NUni3V728fkM2-A",
+          "time_start": 93
+        },
+        {
+          "title": "Version control (Git)",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_227900.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAZIZRkyTWxKj2nRfOuFwP8S5K0cA",
+          "time_start": 213
+        },
+        {
+          "title": "TypeScript",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_247800.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDcwXnuwwQgcHOq-XUF8HATZHekQw",
+          "time_start": 233
+        },
+        {
+          "title": "UI libraries/frameworks",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_285900.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLABMZqa3rNyGQZY3NvpTVAtbEbvMQ",
+          "time_start": 258
+        },
+        {
+          "title": "CSS preprocessors",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_364900.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD-Avd-Sm46y5wiORpKJVYjZga1OA",
+          "time_start": 341
+        },
+        {
+          "title": "CSS frameworks",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_396833.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBm-0GcEMP0iUKJTe0TlnaSQAhPMg",
+          "time_start": 382
+        },
+        {
+          "title": "Automated testing frameworks",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_424200.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLArlvsFEckai0IxQIZWK8IN5unu1A",
+          "time_start": 421
+        },
+        {
+          "title": "Meta-frameworks",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_482066.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDEW55v4qd9nf4MhKE1nqFKYzX3_w",
+          "time_start": 463
+        },
+        {
+          "title": "Mobile development",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_504233.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB34JlVNZ5W5VqUlcf1Qb6FMjNZNA",
+          "time_start": 500
+        }
+      ]
+    },
+    {
+      "position_on_page": 10,
+      "title": "Learn CSS in 5 Minutes (Seriously)",
+      "link": "https://www.youtube.com/watch?v=tfzGsCxutWk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=tfzGsCxutWk",
+      "video_id": "tfzGsCxutWk",
+      "channel": {
+        "name": "DevForge",
+        "channel_id": "UCLSW9SNdisXSBkdMRODwLfQ",
+        "link": "https://www.youtube.com/@devforgehq",
+        "thumbnail": "https://yt3.ggpht.com/VGC4iMxJiwApDL_mYPo3xarq_aZHAvtz7uk7kqb97m9l1X3XuJ1_b-alYzBQAgzt87AXHhxQgw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 48742,
+      "length": "5:00",
+      "description": "Learn CSS in this CSS tutorial for beginners! This CSS crash course is the best way to learn CSS fast. If you want to learn to code ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/tfzGsCxutWk/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAmxxlazXx2okdSZIRmLQcSjasJJw"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "CSS Tutorial – Full Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=OXGznpKZ_sA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OXGznpKZ_sA",
+      "video_id": "OXGznpKZ_sA",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 3045324,
+      "length": "11:08:10",
+      "description": "In this in-depth course, you will learn about all the key features of CSS. This is the most comprehensive CSS course we've ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/OXGznpKZ_sA/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBTqPqDOp6k7bAz5Cx2b95RvtB9CA"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/OXGznpKZ_sA/hqdefault.jpg",
+          "time_start": 0
+        },
+        {
+          "title": "Chapter 1: Start Here",
+          "thumbnail": "https://i.ytimg.com/vi/OXGznpKZ_sA/hqdefault.jpg",
+          "time_start": 68
+        },
+        {
+          "title": "Chapter 2: Selectors",
+          "thumbnail": "https://i.ytimg.com/vi/OXGznpKZ_sA/hqdefault.jpg",
+          "time_start": 890
+        },
+        {
+          "title": "Chapter 3: Colors",
+          "thumbnail": "https://i.ytimg.com/vi/OXGznpKZ_sA/hqdefault.jpg",
+          "time_start": 2081
+        },
+        {
+          "title": "Chapter 4: Units & Sizes",
+          "thumbnail": "https://i.ytimg.com/vi/OXGznpKZ_sA/hqdefault.jpg",
+          "time_start": 3073
+        },
+        {
+          "title": "Chapter 5: Box Model",
+          "thumbnail": "https://i.ytimg.com/vi/OXGznpKZ_sA/hqdefault.jpg",
+          "time_start": 4316
+        },
+        {
+          "title": "Chapter 6: Typography",
+          "thumbnail": "https://i.ytimg.com/vi/OXGznpKZ_sA/hqdefault.jpg",
+          "time_start": 5828
+        },
+        {
+          "title": "Chapter 7: Styling Links",
+          "thumbnail": "https://i.ytimg.com/vi/OXGznpKZ_sA/hqdefault.jpg",
+          "time_start": 7229
+        },
+        {
+          "title": "Chapter 8: List Styles",
+          "thumbnail": "https://i.ytimg.com/vi/OXGznpKZ_sA/hqdefault.jpg",
+          "time_start": 8197
+        },
+        {
+          "title": "Chapter 9: Mini Project",
+          "thumbnail": "https://i.ytimg.com/vi/OXGznpKZ_sA/hqdefault.jpg",
+          "time_start": 9151
+        },
+        {
+          "title": "Chapter 10: Display",
+          "thumbnail": "https://i.ytimg.com/vi/OXGznpKZ_sA/hqdefault.jpg",
+          "time_start": 9904
+        },
+        {
+          "title": "Chapter 11: Floats",
+          "thumbnail": "https://i.ytimg.com/vi/OXGznpKZ_sA/hqdefault.jpg",
+          "time_start": 10821
+        },
+        {
+          "title": "Chapter 12: Columns",
+          "thumbnail": "https://i.ytimg.com/vi/OXGznpKZ_sA/hqdefault.jpg",
+          "time_start": 11566
+        },
+        {
+          "title": "Chapter 13: Position",
+          "thumbnail": "https://i.ytimg.com/vi/OXGznpKZ_sA/hqdefault.jpg",
+          "time_start": 12870
+        },
+        {
+          "title": "Chapter 14: Flexbox",
+          "thumbnail": "https://i.ytimg.com/vi/OXGznpKZ_sA/hqdefault.jpg",
+          "time_start": 14273
+        },
+        {
+          "title": "Chapter 15: Grid Layout",
+          "thumbnail": "https://i.ytimg.com/vi/OXGznpKZ_sA/hqdefault.jpg",
+          "time_start": 15699
+        },
+        {
+          "title": "Chapter 16: Images",
+          "thumbnail": "https://i.ytimg.com/vi/OXGznpKZ_sA/hqdefault.jpg",
+          "time_start": 17193
+        },
+        {
+          "title": "Chapter 17: Media Queries",
+          "thumbnail": "https://i.ytimg.com/vi/OXGznpKZ_sA/hqdefault.jpg",
+          "time_start": 19960
+        },
+        {
+          "title": "Chapter 18: Card Project",
+          "thumbnail": "https://i.ytimg.com/vi/OXGznpKZ_sA/hqdefault.jpg",
+          "time_start": 21539
+        },
+        {
+          "title": "Chapter 19: Pseudo",
+          "thumbnail": "https://i.ytimg.com/vi/OXGznpKZ_sA/hqdefault.jpg",
+          "time_start": 23601
+        },
+        {
+          "title": "Chapter 20: Variables",
+          "thumbnail": "https://i.ytimg.com/vi/OXGznpKZ_sA/hqdefault.jpg",
+          "time_start": 24776
+        },
+        {
+          "title": "Chapter 21: Functions",
+          "thumbnail": "https://i.ytimg.com/vi/OXGznpKZ_sA/hqdefault.jpg",
+          "time_start": 26428
+        },
+        {
+          "title": "Chapter 22: Animations",
+          "thumbnail": "https://i.ytimg.com/vi/OXGznpKZ_sA/hqdefault.jpg",
+          "time_start": 28205
+        },
+        {
+          "title": "Chapter 23: Organization",
+          "thumbnail": "https://i.ytimg.com/vi/OXGznpKZ_sA/hqdefault.jpg",
+          "time_start": 31053
+        },
+        {
+          "title": "Chapter 24: Final Project",
+          "thumbnail": "https://i.ytimg.com/vi/OXGznpKZ_sA/hqdefault.jpg",
+          "time_start": 32243
+        }
+      ]
+    },
+    {
+      "position_on_page": 14,
+      "title": "html tutorial for beginners | CSS | html full course | css full course | web development full course",
+      "link": "https://www.youtube.com/watch?v=ducPBTDWrog",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ducPBTDWrog",
+      "video_id": "ducPBTDWrog",
+      "channel": {
+        "name": "CodingWithSamim",
+        "channel_id": "UCK0p_uVzVmvWo7UnbEDw3Lw",
+        "link": "https://www.youtube.com/@CodingWithSamim",
+        "thumbnail": "https://yt3.ggpht.com/CySv5EsaZqIvvpulO5R5eqM9Ibo9SDobWNUqD6aGgYjxf9NgUzh6I19P_KKeAwefnfEXKU4zmUM=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 1599653,
+      "length": "0:10",
+      "description": "Top Searches: responsive design tutorial css responsive design tutorial how to make website responsive for all devices footer ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ducPBTDWrog/hq720.jpg?sqp=-oaymwE9COgCEMoBSFryq4qpAy8IARUAAAAAGAAlAADIQj0AgKJDeAHwAQH4AbYIgALyDooCDAgAEAEYfyAdKCgwDw==&rs=AOn4CLBrLuGvEuhnTeEHB6biNZ_OgMASfg"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "CSS Tutorial for Beginners | Complete CSS with Project, Notes & Code",
+      "link": "https://www.youtube.com/watch?v=ESnrn1kAD4E",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ESnrn1kAD4E",
+      "video_id": "ESnrn1kAD4E",
+      "channel": {
+        "name": "Apna College",
+        "channel_id": "UCBwmMxybNva6P_5VmxjzwqA",
+        "link": "https://www.youtube.com/@ApnaCollegeOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/FEcjRtez5od8UowDo6tTt9WlE-MrIFEmcwPMTORmK9Swk6KCklOmA3xfIG9WuLWfNYfNThQE=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 18840901,
+      "length": "7:18:24",
+      "description": "Notes - https://drive.google.com/drive/folders/1wfNTKinBAV6CCxaI5lfSnnRFAYpy0uEl?usp=share_link You can join the NEW ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ESnrn1kAD4E/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBgUCrXMywougG4v7Sw08GS9F8ESA"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "CSS Tutorial For Beginners: CSS Crash Course (2026)",
+      "link": "https://www.youtube.com/watch?v=c26O1N3x6ug",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=c26O1N3x6ug",
+      "video_id": "c26O1N3x6ug",
+      "channel": {
+        "name": "Iman Musa",
+        "channel_id": "UCOVbwa5XMcZiSeTiJt4fIGQ",
+        "link": "https://www.youtube.com/@imanwmusa",
+        "thumbnail": "https://yt3.ggpht.com/3qz7J4v35MWY8z-B7v6tx2bRyFI8IpglQBuD4puxKKQkIInnZOMZF53wZdvSq4kTlcI1XuJggQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 63399,
+      "length": "2:01:05",
+      "description": "If you want to land a $60-100k coding job in the next 24 weeks - Book A Call with Me: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/c26O1N3x6ug/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAddapK10bs0RTJsXrWX-AWXJ603w"
+      },
+      "chapters": [
+        {
+          "title": "Environment Setup",
+          "thumbnail": "https://i.ytimg.com/vi/c26O1N3x6ug/hqdefault_29933.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCcoNmEERrl_JYmeaQIDvddKLVc-w",
+          "time_start": 0
+        },
+        {
+          "title": "What is CSS",
+          "thumbnail": "https://i.ytimg.com/vi/c26O1N3x6ug/hqdefault_146966.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB9rRV5vX2oL8wNnD-HfnzfkGwkxw",
+          "time_start": 120
+        },
+        {
+          "title": "Methods of Adding CSS",
+          "thumbnail": "https://i.ytimg.com/vi/c26O1N3x6ug/hqdefault_317800.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDwsOcFLmlkAAbbwyjGlPxNHfuDeA",
+          "time_start": 312
+        },
+        {
+          "title": "Colors",
+          "thumbnail": "https://i.ytimg.com/vi/c26O1N3x6ug/hqdefault_844766.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDKnMp51rBocZhAeILQQzb32Y8jPw",
+          "time_start": 837
+        },
+        {
+          "title": "Size",
+          "thumbnail": "https://i.ytimg.com/vi/c26O1N3x6ug/hqdefault_1109733.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBq4IgVtjgdDionf4HGTpjoqjrC2A",
+          "time_start": 1106
+        },
+        {
+          "title": "Fonts",
+          "thumbnail": "https://i.ytimg.com/vi/c26O1N3x6ug/hqdefault_1584200.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAsIn7REpjTc8QhnF60oIyry-6nPg",
+          "time_start": 1556
+        },
+        {
+          "title": "Borders",
+          "thumbnail": "https://i.ytimg.com/vi/c26O1N3x6ug/hqdefault_2082166.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDEMniwqUp2M47_dFfB5pUbvlgBjQ",
+          "time_start": 2077
+        },
+        {
+          "title": "Specificity & Selectors (Class Names, IDs)",
+          "thumbnail": "https://i.ytimg.com/vi/c26O1N3x6ug/hqdefault_2413133.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLASXrEs-d6P_bLIGDblbIxJ3APnmw",
+          "time_start": 2396
+        },
+        {
+          "title": "Box Model",
+          "thumbnail": "https://i.ytimg.com/vi/c26O1N3x6ug/hqdefault_3354100.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDy6qNEAjA-ZWuimFQBcHtsFmPR5w",
+          "time_start": 3353
+        },
+        {
+          "title": "Display",
+          "thumbnail": "https://i.ytimg.com/vi/c26O1N3x6ug/hqdefault_4229133.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC--hPE1NlxJA-YY47tOq48vECZZQ",
+          "time_start": 4211
+        },
+        {
+          "title": "Positioning",
+          "thumbnail": "https://i.ytimg.com/vi/c26O1N3x6ug/hqdefault_4443166.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAe7nJYNEIM0KHtnteSUbh5fPTm2Q",
+          "time_start": 4443
+        },
+        {
+          "title": "Responsive Design (Media Queries)",
+          "thumbnail": "https://i.ytimg.com/vi/c26O1N3x6ug/hqdefault_5333000.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC1hCkUElAMNd32PYfNhM3_ofJvDA",
+          "time_start": 5315
+        },
+        {
+          "title": "Pseudo Selectors",
+          "thumbnail": "https://i.ytimg.com/vi/c26O1N3x6ug/hqdefault_5853000.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBldSO6tfyEYA8Vt52jGVw0IORsEQ",
+          "time_start": 5828
+        },
+        {
+          "title": "Pseudo Elements",
+          "thumbnail": "https://i.ytimg.com/vi/c26O1N3x6ug/hqdefault_6341933.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDustdA5qR87oSIvX7paI9xUmeXEA",
+          "time_start": 6330
+        },
+        {
+          "title": "Animations",
+          "thumbnail": "https://i.ytimg.com/vi/c26O1N3x6ug/hqdefault_6556900.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDWAUGbzyfgm5RE_7FlKTsG7phnfQ",
+          "time_start": 6538
+        },
+        {
+          "title": "BEM CSS",
+          "thumbnail": "https://i.ytimg.com/vi/c26O1N3x6ug/hqdefault_7023866.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDAv81MCNhb0TsiuCqFcMNOOwPN1w",
+          "time_start": 7019
+        },
+        {
+          "title": "Wrap Up",
+          "thumbnail": "https://i.ytimg.com/vi/c26O1N3x6ug/hqdefault_7249933.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA0-nQ9LT53G6wXjihW3ypr92BfhQ",
+          "time_start": 7227
+        }
+      ]
+    },
+    {
+      "position_on_page": 20,
+      "title": "Learn CSS Flexbox in 20 Minutes (Course)",
+      "link": "https://www.youtube.com/watch?v=wsTv9y931o8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=wsTv9y931o8",
+      "video_id": "wsTv9y931o8",
+      "channel": {
+        "name": "Coding2GO",
+        "channel_id": "UCGpoeEhUBQBaaKZ_a8HB67Q",
+        "link": "https://www.youtube.com/@coding2go",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/DDvCeQPtcL0K2b96Q8cP0x-d5RWX-tXCUDAxvQUvD0_m26Jt1gyHuXCfxN9Xo1EQVckPF1miNDg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 1276084,
+      "length": "20:37",
+      "description": "Learn how to create responsive websites with this CSS Flexbox Beginner Course. Display: flex; explained in 20 minutes by ...",
+      "extensions": [
+        "Overview"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/wsTv9y931o8/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAl08DcjOWlDEFDqT7kNJ3Sp-sXmQ"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/wsTv9y931o8/hqdefault_23000.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBnKDLjLK6jDaUS0bcb4tbX2LUpQg",
+          "time_start": 0
+        },
+        {
+          "title": "What is Flexbox",
+          "thumbnail": "https://i.ytimg.com/vi/wsTv9y931o8/hqdefault_26000.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBIb6x5lyNZvgxTX6dhtR3uvT2cWw",
+          "time_start": 23
+        },
+        {
+          "title": "How to Center a Diff",
+          "thumbnail": "https://i.ytimg.com/vi/wsTv9y931o8/hqdefault_90000.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAHI2B0agNq_HfCU3xiGyxYrRSnYw",
+          "time_start": 72
+        },
+        {
+          "title": "How to Center a div",
+          "thumbnail": "https://i.ytimg.com/vi/wsTv9y931o8/hqdefault_235000.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB9fhjjR8lCGTDodA9INMBCqN9Ysg",
+          "time_start": 217
+        },
+        {
+          "title": "Flex Direction",
+          "thumbnail": "https://i.ytimg.com/vi/wsTv9y931o8/hqdefault_369000.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDawcpPOt5GMqXcTii1vpQXUXjVtQ",
+          "time_start": 344
+        },
+        {
+          "title": "Other Flexbox Properties",
+          "thumbnail": "https://i.ytimg.com/vi/wsTv9y931o8/hqdefault_459000.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLByrbbtogRe6buj--VONivd-Y1CZA",
+          "time_start": 457
+        },
+        {
+          "title": "FlexGrow",
+          "thumbnail": "https://i.ytimg.com/vi/wsTv9y931o8/hqdefault_861000.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBr0go10U9Rf7DikSKqhdRMduwSqQ",
+          "time_start": 839
+        },
+        {
+          "title": "Flex Shrink",
+          "thumbnail": "https://i.ytimg.com/vi/wsTv9y931o8/hqdefault_1022000.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAbfoYD1oRD2E-Ke602kgcABL1-yQ",
+          "time_start": 1005
+        },
+        {
+          "title": "AlignSelf",
+          "thumbnail": "https://i.ytimg.com/vi/wsTv9y931o8/hqdefault_1062000.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLATBle9D1pagNN7EOKlOEXfJt3uhQ",
+          "time_start": 1062
+        },
+        {
+          "title": "Summary",
+          "thumbnail": "https://i.ytimg.com/vi/wsTv9y931o8/hqdefault_1174750.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBHhD9wL5EuoWZZ_wQwrNC2S3Y6VA",
+          "time_start": 1145
+        }
+      ]
+    },
+    {
+      "position_on_page": 21,
+      "title": "Learn CSS in 20 Minutes",
+      "link": "https://www.youtube.com/watch?v=1PnVor36_40",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=1PnVor36_40",
+      "video_id": "1PnVor36_40",
+      "channel": {
+        "name": "Web Dev Simplified",
+        "channel_id": "UCFbNIlppjAuEX4znoulh0Cw",
+        "link": "https://www.youtube.com/@WebDevSimplified",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nO3F7DfVXaf6wsHPS_hF327ggeWUCwZSELb5DCWBL1aw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8y ago",
+      "views": 2166362,
+      "length": "23:44",
+      "description": "Master CSS selectors* with my *FREE CSS Selector Cheat Sheet* - _30+ selectors_ ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/1PnVor36_40/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC4sQn1-6MCk0drIT-aptr25LX0IA"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/1PnVor36_40/hqdefault_18866.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB6YIHXmPZROPQM3yKMldF8KQksig",
+          "time_start": 0
+        },
+        {
+          "title": "What is CSS",
+          "thumbnail": "https://i.ytimg.com/vi/1PnVor36_40/hqdefault_52866.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD4pHYtE0zJvbVrhKoBU_iRHlu-Fg",
+          "time_start": 25
+        },
+        {
+          "title": "Syntax",
+          "thumbnail": "https://i.ytimg.com/vi/1PnVor36_40/hqdefault_101833.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLALtjDWRzEM_ZyId-4NVYz7r8UClw",
+          "time_start": 75
+        },
+        {
+          "title": "Class Selector",
+          "thumbnail": "https://i.ytimg.com/vi/1PnVor36_40/hqdefault_125300.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA6GDONOfcOxTBvmBEdp_Vox4iSjw",
+          "time_start": 125
+        },
+        {
+          "title": "ID Selector",
+          "thumbnail": "https://i.ytimg.com/vi/1PnVor36_40/hqdefault_233766.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBBa55SWeGWjgb9OXHXE4WQl1Hryg",
+          "time_start": 225
+        },
+        {
+          "title": "Combine Selectors",
+          "thumbnail": "https://i.ytimg.com/vi/1PnVor36_40/hqdefault_275233.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCsH3XvhpGlgwLJRHRWPTAwNqmIOA",
+          "time_start": 275
+        },
+        {
+          "title": "Load Styles",
+          "thumbnail": "https://i.ytimg.com/vi/1PnVor36_40/hqdefault_414300.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDro7mowuoRd8qzqsHKOMombzOK6g",
+          "time_start": 395
+        },
+        {
+          "title": "Live Example",
+          "thumbnail": "https://i.ytimg.com/vi/1PnVor36_40/hqdefault_564266.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCUutUAPFDk_iTA0XejPllz_lbPag",
+          "time_start": 538
+        },
+        {
+          "title": "Defining Colors",
+          "thumbnail": "https://i.ytimg.com/vi/1PnVor36_40/hqdefault_854166.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBIPuNCHLYhggAJWh_IK-q1gZ6nkQ",
+          "time_start": 847
+        },
+        {
+          "title": "Box Model",
+          "thumbnail": "https://i.ytimg.com/vi/1PnVor36_40/hqdefault_1134166.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA625VW0JUeW_9JNWodTBSH_tOr_A",
+          "time_start": 1108
+        }
+      ]
+    },
+    {
+      "position_on_page": 22,
+      "title": "CSS Full Course Tutorial for Beginners - Learn EVERYTHING You Need to Know in Detail 🔍",
+      "link": "https://www.youtube.com/watch?v=-G-zic_LS0A",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=-G-zic_LS0A",
+      "video_id": "-G-zic_LS0A",
+      "channel": {
+        "name": "Future Fullstack",
+        "channel_id": "UC27LTkDYWSr7SkM6LdzlVlg",
+        "link": "https://www.youtube.com/@futurefullstack",
+        "thumbnail": "https://yt3.ggpht.com/c7ZeILnHyfXX5qypjm9vPq4m1aU-C8ZayeAwNLLNFGZ_1WQ8x7xajaoNQgt_49l1PJ6SJPtExw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 530030,
+      "length": "11:37:46",
+      "description": "The Best Beginners CSS Full Course on YouTube - Detailed & Easy to Follow! Welcome to the Ultimate CSS Full Course - It's ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/-G-zic_LS0A/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAYxGROr4hkbjmkSSQZkT9DK_r-hQ"
+      },
+      "chapters": [
+        {
+          "title": "Course Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 0
+        },
+        {
+          "title": "Introduction to CSS",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 172
+        },
+        {
+          "title": "Including CSS",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 1057
+        },
+        {
+          "title": "Text Styling",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 1925
+        },
+        {
+          "title": "Text Spacing",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 3469
+        },
+        {
+          "title": "Text Size",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 4599
+        },
+        {
+          "title": "Font",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 5404
+        },
+        {
+          "title": "Color",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 6375
+        },
+        {
+          "title": "Style Guide",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 7858
+        },
+        {
+          "title": "The Type Selector",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 8202
+        },
+        {
+          "title": "The Cascade",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 8480
+        },
+        {
+          "title": "Grouping Selectors",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 8852
+        },
+        {
+          "title": "Class & ID Selectors",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 9305
+        },
+        {
+          "title": "Pseudo-classes",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 10524
+        },
+        {
+          "title": "Combinator Selectors",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 11658
+        },
+        {
+          "title": "Specificity",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 12272
+        },
+        {
+          "title": "CSS Inheritance",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 12906
+        },
+        {
+          "title": "The Universal Selector",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 14533
+        },
+        {
+          "title": "Psuedo-elements",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 14993
+        },
+        {
+          "title": "CSS Box Model Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 15426
+        },
+        {
+          "title": "Background Color",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 15775
+        },
+        {
+          "title": "Width and Height",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 16676
+        },
+        {
+          "title": "Padding",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 17742
+        },
+        {
+          "title": "Border",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 18802
+        },
+        {
+          "title": "Border Radius",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 19870
+        },
+        {
+          "title": "Box Sizing",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 20464
+        },
+        {
+          "title": "Margin",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 21351
+        },
+        {
+          "title": "Display",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 22721
+        },
+        {
+          "title": "CSS Reset",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 24159
+        },
+        {
+          "title": "Main Container",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 25086
+        },
+        {
+          "title": "Maximum Width",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 25783
+        },
+        {
+          "title": "Minimum Width",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 27010
+        },
+        {
+          "title": "Maximum & Minimum Height",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 27669
+        },
+        {
+          "title": "Absolute & Relative Units",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 28607
+        },
+        {
+          "title": "Percentages",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 28986
+        },
+        {
+          "title": "rems & ems",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 30367
+        },
+        {
+          "title": "vw & vh",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 31923
+        },
+        {
+          "title": "CSS Variables",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 32535
+        },
+        {
+          "title": "CSS Calculations",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 33635
+        },
+        {
+          "title": "Introduction to Flexbox",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 34275
+        },
+        {
+          "title": "Normal Flow vs. Flexbox",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 35422
+        },
+        {
+          "title": "Justify Content",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 36341
+        },
+        {
+          "title": "Align Items",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 38169
+        },
+        {
+          "title": "Gap",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 39921
+        },
+        {
+          "title": "Nested Flexbox",
+          "thumbnail": "https://i.ytimg.com/vi/-G-zic_LS0A/hqdefault.jpg",
+          "time_start": 40509
+        }
+      ]
+    }
+  ],
+  "playlist_results": [
+    {
+      "position_on_page": 3,
+      "title": "CSS Full Free Course (New Updated) by WsCube Tech",
+      "link": "https://www.youtube.com/playlist?list=PLjVLYmrlmjGcotVRgbduK05oOMnt-9r8H",
+      "channel": {
+        "name": "WsCube Tech",
+        "channel_id": "UC0T6MVd3wQDB5ICAe45OxaQ",
+        "link": "https://www.youtube.com/@wscubetech"
+      },
+      "videos": [
+        {
+          "title": "CSS Full COURSE for Beginners in 4 HOURS | Learn CSS in 2026 with Practical🔥",
+          "length": "4:26:33",
+          "link": "https://www.youtube.com/watch?v=B9FvD1L2hAQ&list=PLjVLYmrlmjGcotVRgbduK05oOMnt-9r8H"
+        },
+        {
+          "title": "Build Your Own Live CODE EDITOR using HTML, CSS, and JavaScript - Mini Web Project 2024",
+          "length": "29:51",
+          "link": "https://www.youtube.com/watch?v=gfjNx4FiQQE&list=PLjVLYmrlmjGcotVRgbduK05oOMnt-9r8H"
+        }
+      ],
+      "video_count": 19,
+      "thumbnail": "https://i.ytimg.com/vi/B9FvD1L2hAQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBLGt81PG8SmiYqrS8bsJIZzoQ6lQ"
+    },
+    {
+      "position_on_page": 6,
+      "title": "Frontend Developer Bootcamp: Master HTML, CSS, JavaScript, and Modern Frameworks",
+      "link": "https://www.youtube.com/playlist?list=PL6QREj8te1P4-o8tvI3RF5NOEe0Amzd30",
+      "channel": {
+        "name": "JavaScript Mastery",
+        "channel_id": "UCmXmlB4-HJytD7wek0Uo97A",
+        "link": "https://www.youtube.com/@javascriptmastery"
+      },
+      "videos": [
+        {
+          "title": "I Built a SaaS App Landing Page in 3 Hours Here's What I Learned",
+          "length": "2:49:04",
+          "link": "https://www.youtube.com/watch?v=ukiGFmZ32YA&list=PL6QREj8te1P4-o8tvI3RF5NOEe0Amzd30"
+        },
+        {
+          "title": "Build & Deploy an Amazing 3D Portfolio with React.js & Three.js | Beginner Three.js Tutorial",
+          "length": "4:28:45",
+          "link": "https://www.youtube.com/watch?v=kt0FrkQgw8w&list=PL6QREj8te1P4-o8tvI3RF5NOEe0Amzd30"
+        }
+      ],
+      "video_count": 10,
+      "thumbnail": "https://i.ytimg.com/vi/ukiGFmZ32YA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAUFw8XiELlGC9_2ukcZ0FogyWx2A"
+    },
+    {
+      "position_on_page": 7,
+      "title": "HTML and CSS Tutorials",
+      "link": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbnSe1qUNMG7AbPmjIG54u88",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "link": "https://www.youtube.com/@freecodecamp"
+      },
+      "videos": [
+        {
+          "title": "Learn HTML – Full Tutorial for Beginners",
+          "length": "4:07:30",
+          "link": "https://www.youtube.com/watch?v=kUMe1FH4CHE&list=PLWKjhJtqVAbnSe1qUNMG7AbPmjIG54u88&pp=0gcJCRYF0aJEHMZM"
+        },
+        {
+          "title": "Learn HTML & CSS – Full Course for Beginners",
+          "length": "5:21:44",
+          "link": "https://www.youtube.com/watch?v=a_iQb1lnAEQ&list=PLWKjhJtqVAbnSe1qUNMG7AbPmjIG54u88"
+        }
+      ],
+      "video_count": 10,
+      "thumbnail": "https://i.ytimg.com/vi/kUMe1FH4CHE/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDpKbxkI_S5G7qNOCET2i3qJpgGGA"
+    },
+    {
+      "position_on_page": 8,
+      "title": "CSS Tutorials for Beginners",
+      "link": "https://www.youtube.com/playlist?list=PL0Zuz27SZ-6Mx9fd9elt80G1bPcySmWit",
+      "channel": {
+        "name": "Dave Gray",
+        "channel_id": "UCY38RvRIxYODO4penyxUwTg",
+        "link": "https://www.youtube.com/@DaveGrayTeachesCode"
+      },
+      "videos": [
+        {
+          "title": "CSS Introduction and Tutorial for Beginners",
+          "length": "14:48",
+          "link": "https://www.youtube.com/watch?v=0W6qz0-aDaM&list=PL0Zuz27SZ-6Mx9fd9elt80G1bPcySmWit"
+        },
+        {
+          "title": "CSS Selectors Tutorial for Beginners",
+          "length": "20:34",
+          "link": "https://www.youtube.com/watch?v=QgxkYbGr2II&list=PL0Zuz27SZ-6Mx9fd9elt80G1bPcySmWit"
+        }
+      ],
+      "video_count": 28,
+      "thumbnail": "https://i.ytimg.com/vi/0W6qz0-aDaM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDwXy2SlKw7s5mt7EIcHIPBgSHcHw"
+    },
+    {
+      "position_on_page": 12,
+      "title": "Front End Developer Learning Path",
+      "link": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbmMuZ3saqRIBimAKIMYkt0E",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "link": "https://www.youtube.com/@freecodecamp"
+      },
+      "videos": [
+        {
+          "title": "Front End Developer Roadmap",
+          "length": "12:09",
+          "link": "https://www.youtube.com/watch?v=9He4UBLyk8Y&list=PLWKjhJtqVAbmMuZ3saqRIBimAKIMYkt0E"
+        },
+        {
+          "title": "HTML Tutorial - Website Crash Course for Beginners",
+          "length": "45:20",
+          "link": "https://www.youtube.com/watch?v=916GWv2Qs08&list=PLWKjhJtqVAbmMuZ3saqRIBimAKIMYkt0E"
+        }
+      ],
+      "video_count": 22,
+      "thumbnail": "https://i.ytimg.com/vi/9He4UBLyk8Y/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAUoUjvLRM9C5x2jKy_STBVH-UUaA"
+    },
+    {
+      "position_on_page": 13,
+      "title": "CSS full course bangla tutorial (Beginner to Advanced)",
+      "link": "https://www.youtube.com/playlist?list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO",
+      "channel": {
+        "name": "Anisul Islam",
+        "channel_id": "UCEXwc6mNh7Lakj6lX-7a2Mg",
+        "link": "https://www.youtube.com/@anisul-islam"
+      },
+      "videos": [
+        {
+          "title": "web design front end developer Bangla Tutorial",
+          "length": "5:51",
+          "link": "https://www.youtube.com/watch?v=FwmuhNTrJO4&list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO"
+        },
+        {
+          "title": "My new Plan for web development Video Series",
+          "length": "1:31",
+          "link": "https://www.youtube.com/watch?v=MLa5A8q47VQ&list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO"
+        }
+      ],
+      "video_count": 104,
+      "thumbnail": "https://i.ytimg.com/vi/FwmuhNTrJO4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAXx-gA_2TOj1DajqoQUOET8-gKSQ"
+    },
+    {
+      "position_on_page": 15,
+      "title": "HTML & CSS Crash Course Tutorial",
+      "link": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G",
+      "channel": {
+        "name": "Net Ninja",
+        "channel_id": "UCW5YeuERMmlnqo4oq8vwUpg",
+        "link": "https://www.youtube.com/@NetNinja"
+      },
+      "videos": [
+        {
+          "title": "HTML & CSS Crash Course Tutorial #1 - Introduction",
+          "length": "20:00",
+          "link": "https://www.youtube.com/watch?v=hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G"
+        },
+        {
+          "title": "HTML & CSS Crash Course Tutorial #2 - HTML Basics",
+          "length": "19:52",
+          "link": "https://www.youtube.com/watch?v=mbeT8mpmtHA&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G"
+        }
+      ],
+      "video_count": 11,
+      "thumbnail": "https://i.ytimg.com/vi/hu-q2zYwEYs/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAGk0wNMi8PXFsVpMiUvRGgDdlFrw"
+    },
+    {
+      "position_on_page": 19,
+      "title": "HTML,CSS,JavaScript, Project, Git & GitHub",
+      "link": "https://www.youtube.com/playlist?list=PLfqMhTWNBTe0PY9xunOzsP5kmYIz2Hu7i",
+      "channel": {
+        "name": "Apna College",
+        "channel_id": "UCBwmMxybNva6P_5VmxjzwqA",
+        "link": "https://www.youtube.com/@ApnaCollegeOfficial"
+      },
+      "videos": [
+        {
+          "title": "HTML Tutorial for Beginners | Complete HTML with Notes & Code",
+          "length": "2:06:00",
+          "link": "https://www.youtube.com/watch?v=HcOc7P5BMi4&list=PLfqMhTWNBTe0PY9xunOzsP5kmYIz2Hu7i&pp=0gcJCRYF0aJEHMZM"
+        },
+        {
+          "title": "CSS Tutorial for Beginners | Complete CSS with Project, Notes & Code",
+          "length": "7:18:24",
+          "link": "https://www.youtube.com/watch?v=ESnrn1kAD4E&list=PLfqMhTWNBTe0PY9xunOzsP5kmYIz2Hu7i"
+        }
+      ],
+      "video_count": 18,
+      "thumbnail": "https://i.ytimg.com/vi/HcOc7P5BMi4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC1vfDhlSu_PM9sNV1envKX9X1c5w"
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=CSS+full+course+tutorial+for+Frontend+Developer&gl=in&hl=en",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=CSS%20full%20course%20tutorial%20for%20Frontend%20Developer&sp=SBSCAQtHM2UtY3BMN29mY4IBIlBMalZMWW1ybG1qR2NvdFZSZ2JkdUswNW9PTW50LTlyOEiCAQt3Uk5pbkY3WVFxUYIBC1o0cENxSy1WX1dvggEiUEw2UVJFajh0ZTFQNC1vOHR2STNSRjVOT0VlMEFtemQzMIIBIlBMV0tqaEp0cVZBYm5TZTFxVU5NRzdBYlBtaklHNTR1ODiCASJQTDBadXoyN1NaLTZNeDlmZDllbHQ4MEcxYlBjeVNtV2l0ggELVGVmMWU5RmlTUjCCAQt0ZnpHc0N4dXRXa4IBC09YR3pucEtaX3NBggEiUExXS2poSnRxVkFibU11WjNzYXFSSUJpbUFLSU1Za3QwRYIBIlBMZ0g1UVgwaTlLM3FqQ0JYalRtdjdYZWg4TURVVVZKRE-CAQtkdWNQQlREV3JvZ4IBIlBMNGNVeGVHa2NDOWl2QmZfZUtDUElBWVhXekxsUEFtNkeCAQtFU25ybjFrQUQ0RYIBC2MyNk8xTjN4NnVnggEiUExmcU1oVFdOQlRlMFBZOXh1bk96c1A1a21ZSXoySHU3aYIBC3dzVHY5eTkzMW84ggELMVBuVm9yMzZfNDCCAQstRy16aWNfTFMwQbIBBgoECBkQAg%253D%253D",
+    "next_page_token": "SBSCAQtHM2UtY3BMN29mY4IBIlBMalZMWW1ybG1qR2NvdFZSZ2JkdUswNW9PTW50LTlyOEiCAQt3Uk5pbkY3WVFxUYIBC1o0cENxSy1WX1dvggEiUEw2UVJFajh0ZTFQNC1vOHR2STNSRjVOT0VlMEFtemQzMIIBIlBMV0tqaEp0cVZBYm5TZTFxVU5NRzdBYlBtaklHNTR1ODiCASJQTDBadXoyN1NaLTZNeDlmZDllbHQ4MEcxYlBjeVNtV2l0ggELVGVmMWU5RmlTUjCCAQt0ZnpHc0N4dXRXa4IBC09YR3pucEtaX3NBggEiUExXS2poSnRxVkFibU11WjNzYXFSSUJpbUFLSU1Za3QwRYIBIlBMZ0g1UVgwaTlLM3FqQ0JYalRtdjdYZWg4TURVVVZKRE-CAQtkdWNQQlREV3JvZ4IBIlBMNGNVeGVHa2NDOWl2QmZfZUtDUElBWVhXekxsUEFtNkeCAQtFU25ybjFrQUQ0RYIBC2MyNk8xTjN4NnVnggEiUExmcU1oVFdOQlRlMFBZOXh1bk96c1A1a21ZSXoySHU3aYIBC3dzVHY5eTkzMW84ggELMVBuVm9yMzZfNDCCAQstRy16aWNfTFMwQbIBBgoECBkQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=CSS+full+course+tutorial+for+Frontend+Developer",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=CSS+full+course+tutorial+for+Frontend+Developer&sp=SBSCAQtHM2UtY3BMN29mY4IBIlBMalZMWW1ybG1qR2NvdFZSZ2JkdUswNW9PTW50LTlyOEiCAQt3Uk5pbkY3WVFxUYIBC1o0cENxSy1WX1dvggEiUEw2UVJFajh0ZTFQNC1vOHR2STNSRjVOT0VlMEFtemQzMIIBIlBMV0tqaEp0cVZBYm5TZTFxVU5NRzdBYlBtaklHNTR1ODiCASJQTDBadXoyN1NaLTZNeDlmZDllbHQ4MEcxYlBjeVNtV2l0ggELVGVmMWU5RmlTUjCCAQt0ZnpHc0N4dXRXa4IBC09YR3pucEtaX3NBggEiUExXS2poSnRxVkFibU11WjNzYXFSSUJpbUFLSU1Za3QwRYIBIlBMZ0g1UVgwaTlLM3FqQ0JYalRtdjdYZWg4TURVVVZKRE-CAQtkdWNQQlREV3JvZ4IBIlBMNGNVeGVHa2NDOWl2QmZfZUtDUElBWVhXekxsUEFtNkeCAQtFU25ybjFrQUQ0RYIBC2MyNk8xTjN4NnVnggEiUExmcU1oVFdOQlRlMFBZOXh1bk96c1A1a21ZSXoySHU3aYIBC3dzVHY5eTkzMW84ggELMVBuVm9yMzZfNDCCAQstRy16aWNfTFMwQbIBBgoECBkQAg%253D%253D",
+    "next_page_token": "SBSCAQtHM2UtY3BMN29mY4IBIlBMalZMWW1ybG1qR2NvdFZSZ2JkdUswNW9PTW50LTlyOEiCAQt3Uk5pbkY3WVFxUYIBC1o0cENxSy1WX1dvggEiUEw2UVJFajh0ZTFQNC1vOHR2STNSRjVOT0VlMEFtemQzMIIBIlBMV0tqaEp0cVZBYm5TZTFxVU5NRzdBYlBtaklHNTR1ODiCASJQTDBadXoyN1NaLTZNeDlmZDllbHQ4MEcxYlBjeVNtV2l0ggELVGVmMWU5RmlTUjCCAQt0ZnpHc0N4dXRXa4IBC09YR3pucEtaX3NBggEiUExXS2poSnRxVkFibU11WjNzYXFSSUJpbUFLSU1Za3QwRYIBIlBMZ0g1UVgwaTlLM3FqQ0JYalRtdjdYZWg4TURVVVZKRE-CAQtkdWNQQlREV3JvZ4IBIlBMNGNVeGVHa2NDOWl2QmZfZUtDUElBWVhXekxsUEFtNkeCAQtFU25ybjFrQUQ0RYIBC2MyNk8xTjN4NnVnggEiUExmcU1oVFdOQlRlMFBZOXh1bk96c1A1a21ZSXoySHU3aYIBC3dzVHY5eTkzMW84ggELMVBuVm9yMzZfNDCCAQstRy16aWNfTFMwQbIBBgoECBkQAg%3D%3D"
+  }
+}

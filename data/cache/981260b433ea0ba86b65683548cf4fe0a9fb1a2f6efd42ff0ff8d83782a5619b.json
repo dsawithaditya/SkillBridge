@@ -1,0 +1,1110 @@
+{
+  "search_metadata": {
+    "id": "6b01728c5d92f1122ad3100e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/hMv9oAy6VGTrLC9Np98hCkomR7rrooD8Pw1VktebFR4/6b01728c5d92f1122ad3100e.json",
+    "markdown_endpoint": "https://serpapi.com/searches/hMv9oAy6VGTrLC9Np98hCkomR7rrooD8Pw1VktebFR4/6b01728c5d92f1122ad3100e.md",
+    "created_at": "2026-11-21 10:29:32 UTC",
+    "processed_at": "2026-11-21 10:29:32 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=HTML+full+course+tutorial+for+Frontend+Developer&gl=in&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/hMv9oAy6VGTrLC9Np98hCkomR7rrooD8Pw1VktebFR4/6b01728c5d92f1122ad3100e.html",
+    "total_time_taken": 4.74
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "HTML full course tutorial for Frontend Developer",
+    "gl": "in",
+    "hl": "en"
+  },
+  "search_information": {
+    "total_results": 3098766,
+    "video_results_state": "Results for exact spelling"
+  },
+  "ads_results": [
+    {
+      "position_on_page": 1,
+      "title": "Devour knowledge with Student Spaces",
+      "link": "https://www.youtube.com/watch?v=VdDiEf6YJnQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=VdDiEf6YJnQ",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CfAzojXIBa_2KG5CApLkP35mHyAqXouaPiwGH_-O_vBWwkB8QASAAYMm2mY3spLQRggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAbH6_-oCqAMEyAMKqgTtAk_QTbB-aTtNgC1ibAzRLZ1OwNaqEuErj81Swbn4tPjEpGda2vliDLSwFFXwpg49frvntEP_LIy4Bs7EtA11DlUQhb0QffsYyUQqycxb87XmgAup-XCKW562N68NodMyXE7ZMpOG47_KVPIZthagwO-x35kPqEelodOIRjb_gOvzL4c_8-kITt-7WKaXbJiwl2QIgAwecgWUjZkZ16nP-Bx6QnFWb-6STu62zWB3bKlkCD1uexJQ9IPZicQrx2hnFN7XceWOjo-tQ_Pdgv6pEBO4IAkPhtGM7g7G3hBFk2_89YGNeneGcRIqSa0j2RaVPToVLxdi3iNJtAanPUF-jAYkpfTnjjCi25pcBgD7XXQM9QVo-MRO-uEMHqY3hqwoQsKfz9NrSAyho_dVaagWqG5SBIVUv6YIr9EBJZ0bIlL65xuxDWuXZ-o2BiBA-EdavSIM1N0JFYBfId8nj2FEu_FBAfRTrcmcD7Ya5aXxiAXm0O-tWJIFCAgTePrNn5UBoAahAYAHt4WAlQGQBwSoB6XPsQKoB-edsQKoB-idsQKoB4P2sQKoB_nTsQKoB8nasQKoB6ngsQKoB6jSG6gHsdwbqAewm7ECqAf9srECqAfIz7ECqAfJz7ECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAee6rECqAef6rECqAf467ECqAe86rECqAfv8bECqAf8r7ECqAfVzhuoB77ZsQKoB7_ZsQKoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC1ZkRGlFZjZZSm5RqAgB0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAGEjZoNI1UBRYyNC6se2YmANgAZoJLGh0dHBzOi8vYWNyb2JhdC5hZG9iZS5jb20vc3R1ZGVudHNwYWNlcy9ob21lsQmBsBAnPS2pYcgJF8gJjwHICcIBugs-CAMQBRgEIAcoATAcQAFIAFh9YABoAHABiAEAmAEBogEICgCoAgHYAgLYAQOAAgGIAhK6Awl2aWF0bHphYWHQCxPgCwGiDB9iGAoWY29tLmFkb2JlLmVjaG9zaWduLmlvc3gAiAEA0gwCEAHaDCUKChCQkKGR0NGn_kMSAgEDGg0Y5tDvrVgg9-3r5dMFQAFKAhAfmg0BE6oNAlVTyA0B0g3pBGh0dHBzOi8vYWQuZG91YmxlY2xpY2submV0L2RkbS90cmFja2Nsay9OOTcyOTUyLjI3OTM4MkJJRE1BTkFHRVJfREZBU0lURS9CMjIzNDQ0MTMuMjQxNTM5MzIxO2RjX3Rya19haWQ9NDM4MTI4NjIyO2RjX3Rya19jaWQ9MTEyODg0NjEzO2RjX2RibV90b2tlbj1BT2plTE5FQUFBQTZDak1LREFnQUZRQUFBQUFkQUFBQUFCSU1DQUFWQUFBQUFCMEFBQUFBSWhNSTV0RHZyVmlvQXNPNDlBR3dBc3lXNHVrRFFEc1FsLWU2QWFwU28zTGo2OUhxbVJTR0Q3TmxKdGM9O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2x0ZD07ZGNfdGR2PTE7ZGNfdHJhbnNwYXJlbnQ9MTtkY19ydWk9MTtkY19lcHM9QUhhczhjQkN6amdOX3ZhdmlWSVlZNXRFUnVjeEJjS2RkajZiZjZFak1kU3dNVFhiSVhYN202TlE3VUFiZkw5YV9HOTJXbHJxNUs4VFFJQVZqYWZuYXc7ZGNfcHViaWQ9Nj9odHRwczovL2Fjcm9iYXQuYWRvYmUuY29tL3N0dWRlbnRzcGFjZXMvaG9tZT9zZGlkPVY2TlpLQ1M2Jm12PXNvY2lhbCZtdjI9cGFpZHNvYyZ4X2FwaV9jbGllbnRfaWQ9cGFpZG1lZGlhJnhfYXBpX2NsaWVudF9sb2NhdGlvbj1hZHNfVjZOWktDUzYmZ2FkX3NvdXJjZT0ysBPj7qgkuBP___________8BiBQIsBQDwBWBgIBA0BUB2BUBmBYBqBYBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRdXv8ICGj4Y8LoXBigAMAA4AdAYAfAYAQ&ase=2&gclid=EAIaIQobChMIvYW7se2YmAMVEAApAR3fzAGpEAEYASAAEgJwg_D_BwE&num=1&cid=CAASqgHkaO-fW-Ljiua6awgD38cCWRS2CgIclGyv_pvQIDTujee6TcoiRiTl7EH58odlUipdqyas1RBypnMY_w7oToyXpcOnJj08aJRxSG63RKg1CBBA_MXBCPJBkDQcmOLtWFrosXBBHVcYaiCXHGaSm5cOJW9d08p5zEQfaswKkUKgbCRyKKo2ORElmSeixUz8XOkptIma16ZnYmaj69-p6Qfd25XjBP6VRO0GzA&ad_cpn=%5BCPN%5D&sig=AOD64_2cTHlenybrzs-QEMDG6oksksLcBQ&ctype=110&video_id=VdDiEf6YJnQ&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Adobe",
+        "thumbnail": "https://yt3.ggpht.com/proxy/MOuz2I13I1fAnFfngtXtL_W4we9dtMgr0pZOHx9ZvXrWe0TzDLTj2mq2_seyh8bAOYiFhihUkC0bcCbQ2Rr3ROUyAm-g7fKx7ikqVy2aYwv8ap82JEQltB0uNj5JlrrMcTbQ-wFlNo0DfytWwYBrrCyx4-VnwgCwx-dn0fy6KEEwJzLjssuJHIvXA-MdWMvBvChh3bzxW7-sQCuvX2mDwrBOQUGt_eZzMbPzNL_oO6Ke1vjjr2458wPYmALVc80eUKLvvs8=w68-h68-nd"
+      },
+      "description": "Student Spaces is a smarter way to study. Free for students.",
+      "thumbnail": {
+        "static": "https://tpc.googlesyndication.com/simgad/16682586792110191416"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Mercedes-AMG PETRONAS F1 Team strategists analyze more possibilities in less time",
+      "link": "https://www.youtube.com/watch?v=beeVOhTvKc0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=beeVOhTvKc0",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CjxCnjXIBa_2KG5CApLkP35mHyAqx9aKPiwHy0I_NxRbdq6T6zkgQAiAAYMm2mY3spLQRggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAcCKxvVDqAMEyAMKqgTgAk_QTbB-aTtNgC1ibAzRLZ1OwNaqEuErj81Swbn4tPjEpGda2vliDLSwFFXwpg49frvntEP_LIy4Bs7EtA11DlUQhb0QffsYyUQqycxb87XmgAup-XCKW562N68NodMyXE7ZMpOG47_KVPIZthagwO-x35kPqEelodOIRjb_gOvzL4c_8-kITt-7WKaXbJiwl2QIgAwecgWUjZkZ16nP-Bx6QnFWb-6STu62zWB3bKlkCD1uexJQ9IPZicQrx2hnFN7XceWOjo-tQ_Pdgv6pEBO4IAkPhtGM7g7G3hBFk2_89YGNeneGcRIqSa0j2RaVPToVLxdi3iNRtMJ7_-Z8hAaMvWLTZHAIyCpTBaz3RXc0FnCo4GRJ4CpSbEoAkAR8fGMp-gnjQ1Hd6IWNawqd1mmEpGyPx_7lSiSvWM3Ex9VGvvWgJWK-fw388wPdQNRokzqoaRk1_X6xEPM_e5uQr1WIBevnpMhakgUICBN4weft-h6gBqEBgAfAwpbVHpAHBKgHpc-xAqgH552xAqgH6J2xAqgHg_axAqgH-dOxAqgHydqxAqgHqeCxAqgHqNIbqAex3BuoB7CbsQKoB_2ysQKoB8jPsQKoB8nPsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB57qsQKoB5_qsQKoB_jrsQKoB7zqsQKoB-_xsQKoB_yvsQKoB9XOG6gHvtmxAqgHv9mxAqgHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECkggLYmVlVk9oVHZLYzCoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAYSNmg0jVQFFjI0Lqx7ZiYA2ABmglPaHR0cHM6Ly9henVyZS5taWNyb3NvZnQuY29tL2VuLXVzL3ByaWNpbmcvcHVyY2hhc2Utb3B0aW9ucy9henVyZS1hY2NvdW50L3NlYXJjaLEJwqgl6mA3SoTICRfICY8ByAnCAcgJlwK6Cz4IAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAtgBA4ACAYgCEboDCXZpYXRsemFhYdALEuALAdIMAhAB2gwlCgoQwJnQ48Ok36hwEgIBAxoNGOvnpMhaIM-Cxd_mBUABSgIQH5oNARKqDQJVU8gNAdINnQVodHRwczovL2FkLmRvdWJsZWNsaWNrLm5ldC9kZG0vdHJhY2tjbGsvTjU3MjYwOC4xMzU1MzM5R09PR0xFLkNPTURETUJJRE0vQjM2ODY1NjQyLjQ1Nzg1OTA5ODtkY190cmtfYWlkPTY1MjQyNTgyNTtkY190cmtfY2lkPTI2NTI1MDEyMDtkY19kYm1fdG9rZW49QU9qZUxORUFBQUE4Q2pRS0RBZ0FGUUFBQUFBZEFBQUFBQklNQ0FBVkFBQUFBQjBBQUFBQUloUUk2LWVreUZxb0FzSG43Zm9lc0FMOHpQWHJBMEE3RUtIQV83SWRjbHpYNEV0Z1VxTlZ5RUF1dVVfQ1pBPT07ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07bHRkPTtkY190ZHY9MTs7ZGNfdHJhbnNwYXJlbnQ9MTtkY19ydWk9MTtkY19lcHM9QUhhczhjRG5fR0VKVXZqOTEyTkpyRGZZUXE0R3k3V0FqUUpNazNrMzRaSGpQNmNVN05pdVdyZzgzNUI0UlJBd1lKWG5uX0VrcTRDWlpIYVJTRzdTTEE7ZGNfcHViaWQ9Nj9odHRwczovL2F6dXJlLm1pY3Jvc29mdC5jb20vZW4tdXMvcHJpY2luZy9wdXJjaGFzZS1vcHRpb25zL2F6dXJlLWFjY291bnQvc2VhcmNoP2NpZD1mb3JtdWxhMSZPQ0lEPUFJRGNtbWxnN281dmI4X09MQV8zNjg2NTY0Ml80NTc4NTkwOThfMjY1MjUwMTIwJnNpdGVJRD0xMDY0NTAxMyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjQzMTA3ODkwOTmwE8CEzSa4E____________wGIFAOwFAPAFYGAgEDQFQHYFQGYFgGoFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXhAYh0dMcTF66FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMIvYW7se2YmAMVEAApAR3fzAGpEAEYAiAAEgLvavD_BwE&num=2&cid=CAASqgHkaO-fW-Ljiua6awgD38cCWRS2CgIclGyv_pvQIDTujee6TcoiRiTl7EH58odlUipdqyas1RBypnMY_w7oToyXpcOnJj08aJRxSG63RKg1CBBA_MXBCPJBkDQcmOLtWFrosXBBHVcYaiCXHGaSm5cOJW9d08p5zEQfaswKkUKgbCRyKKo2ORElmSeixUz8XOkptIma16ZnYmaj69-p6Qfd25XjBP6VRO0GzA&ad_cpn=%5BCPN%5D&sig=AOD64_1JYM8j02caTEMj9Xqju2_qnbp-jQ&ctype=110&video_id=beeVOhTvKc0&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Microsoft",
+        "thumbnail": "https://yt3.ggpht.com/proxy/HcDIKi6hGUt23dHJXoGqjYsnW-Yx9b_rvzKby486R6qMUMB5Rj4f1gTieN0_putXXLoa3-WRmWkl6sG9uNJxyUKxT05R36YayKaL6mPwyYsceZVtV43-hJXD6Vdcwr-f9TTB2p4MuxHVP_MYMdnkd1T-00ZPKAq1UisX070t8eIHTbn0wr8tIAwBLSzPe1a1lfAxuCvhiPlF0mN5w-KEfkrLLRdu2y16PNlmNSxm4ASe8xaThWiP6wugAt2DNl21sdoTc3c=w68-h68-nd"
+      },
+      "description": "Run simulations in seconds with Azure Batch. Start experimenting with an Azure free trial.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/beeVOhTvKc0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA68mHfdTYYoDr6fqC1wh1oz0UFQg"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Validate terrain and site conditions with easy-to-use analysis tools.",
+      "link": "https://www.youtube.com/watch?v=dueh4LNA3X4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=dueh4LNA3X4",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=C4TxUjXIBa_2KG5CApLkP35mHyAqN5rHDigGiwKjf0RawkB8QAyAAYMm2mY3spLQRggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAcvxyvcDqAMEyAMKqgTAAk_QTbB-aTtNgC1ibAzRLZ1OwNaqEuErj81Swbn4tPjEpGda2vliDLSwFFXwpg49frvntEP_LIy4Bs7EtA11DlUQhb0QffsYyUQqycxb87XmgAup-XCKW562N68NodMyXE7ZMpOG47_KVPIZthagwO-x35kPqEelodOIRjb_gOvzL4c_8-kITt-7WKaXbJiwl2QIgAwecgWUjZkZ16nP-Bx6QnFWb-6STu62zWB3bKlkCD1uexJQ9IPZicQrx2hnFN7XceWOjo-tQ_Pdgv6pEBO4IAkPhtGM7g7G3hBFk2_89YGNeneGcRIqSa0j2RaVPToVLxdi3iNRtMJ7_69ghAaGvWKsDHUe9zhQv0ciSroszllWx_xAAqyaMdFghOt8DVL3ZurjpG1oyMY3YBOdIpNQ-Pk3ynsbrxehp-Odlh9diAXigtz2WpIFBwgTeLGp3AegBqEBgAedjrUIkAcEqAelz7ECqAfnnbECqAfonbECqAeD9rECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHnuqxAqgHn-qxAqgH-OuxAqgHvOqxAqgH7_GxAqgH_K-xAqgH1c4bqAe-2bECqAe_2bECqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAtkdWVoNExOQTNYNKgIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBhI2aDSNVAUWMjQurHtmJgDYAGaCSFodHRwczovL2VhcnRoLmdvb2dsZS5jb20vd2ViL2hvbWWxCX-zqnhUcS5OyAkXyAmPAcgJwgG6Cz4IAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAtgBBoACAYgCBboDCXZpYXRsemFhYdALEuALAaIMGWoSChBjb20uZ29vZ2xlLmVhcnRoeACIAQDSDAIQAdoMJgoLENCXq6Wbq4KGnwESAgEDGg0Y4oLc9log-fbnvOwFQAFKAhAfmg0BEqoNAlVTyA0B0g3MA2h0dHBzOi8vYWQuZG91YmxlY2xpY2submV0L3NlYXJjaGFkcy9saW5rL2NsaWNrP2xpZD01ODcwMDAwOTE1MDU3NTMyNCZkc19hX2NpZD0xNjE5MjY4OSZkc19hX2NhaWQ9MjQ0MDgxNjI2NTgmZHNfYV9hZ2lkPTIwMDkxNzI1Mjk4NSZkc19hX2ZpaWQ9JmRzX2FfbGlkPWF1ZC0yNTA5MzQ2OTM5MjEwJmRzX2FfZXh0aWQ9JiZkc19lX2FkaWQ9ODI5NjQ2NzMyODI5JmRzX2VfbWF0Y2h0eXBlPWNvbnRlbnQmZHNfZV9kZXZpY2U9YyZkc19lX25ldHdvcms9eXRpZiYmZHNfdXJsX3Y9MiZkc19kZXN0X3VybD1odHRwczovL2VhcnRoLmdvb2dsZS5jb20vd2ViL2hvbWU_dXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT1kaXNwbGF5JnV0bV9jYW1wYWlnbj1lYXJ0aDI2X2RnZW5fdjImdXRtX2NvbnRlbnQ9Y29uY2VwdF81JmdjbHNyYz1hdy5kcyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjQ0MDgxNjI2NTi4E____________wGIFASwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAboXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMIvYW7se2YmAMVEAApAR3fzAGpEAEYAyAAEgKr1PD_BwE&num=3&cid=CAASqgHkaO-fW-Ljiua6awgD38cCWRS2CgIclGyv_pvQIDTujee6TcoiRiTl7EH58odlUipdqyas1RBypnMY_w7oToyXpcOnJj08aJRxSG63RKg1CBBA_MXBCPJBkDQcmOLtWFrosXBBHVcYaiCXHGaSm5cOJW9d08p5zEQfaswKkUKgbCRyKKo2ORElmSeixUz8XOkptIma16ZnYmaj69-p6Qfd25XjBP6VRO0GzA&ad_cpn=%5BCPN%5D&sig=AOD64_0RcPzfBbCNFEFFhxCvTmqXypm1hA&ctype=110&video_id=dueh4LNA3X4&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Google Earth",
+        "thumbnail": "https://yt3.ggpht.com/proxy/JsmwS_kO0-J8bGHsT5OZBkuOBEGRZRqbrqKnRNOnJ01_6T4Almg693EBgQtOee8mtXTKHtardX5t5Mm0teWJQEcv-86bjt6PSHLsvAKVkJY6j3VRAai_q3jpQEvhR6tAXiGopAU8kr2YfBI7SaGkcNPskyAI1NTILjtl966WYSsGhWgqlRVg5iURdO9SjHzBVnEe5W0rWMTI2j8O4ld-m7guLijgIOfmWs8BUeuJDdID6KZNzqPApPCslJCTA6WvPCvT7lM=w68-h68-nd"
+      },
+      "description": "Easily detect change, classify land, and analyze terrain from your desk to save time.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/dueh4LNA3X4/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLAA9L-iWJfDOL_U36g_tH3QlOpWcw"
+      }
+    }
+  ],
+  "video_results": [
+    {
+      "position_on_page": 2,
+      "title": "HTML Tutorial for Beginners: HTML Crash Course",
+      "link": "https://www.youtube.com/watch?v=qz0aGYrrlhU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=qz0aGYrrlhU",
+      "video_id": "qz0aGYrrlhU",
+      "channel": {
+        "name": "Programming with Mosh",
+        "channel_id": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "link": "https://www.youtube.com/@programmingwithmosh",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 11349515,
+      "length": "1:09:34",
+      "description": "Start your web development career with HTML/CSS! This beginner-friendly tutorial covers the essentials. Want to master ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/qz0aGYrrlhU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxt_YyZzaZ3R5t9iKdBPxalGgFqA",
+        "rich": "https://i.ytimg.com/an_webp/qz0aGYrrlhU/mqdefault_6s.webp?du=3000&sqp=CPnihdgG&rs=AOn4CLAaIEJcDxjeNVOjVXmfRf8rdifBew"
+      },
+      "chapters": [
+        {
+          "title": "Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/qz0aGYrrlhU/hqdefault_13933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-wR9P9UC5jMGHvK2SqZFrkb4o3A",
+          "time_start": 0
+        },
+        {
+          "title": "What You Need",
+          "thumbnail": "https://i.ytimg.com/vi/qz0aGYrrlhU/hqdefault_69466.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxivi7vReEPdvfxdA3Mh06HUcziA",
+          "time_start": 69
+        },
+        {
+          "title": "Languages and Tools of Web Development",
+          "thumbnail": "https://i.ytimg.com/vi/qz0aGYrrlhU/hqdefault_222933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0BVkpNB_wNYTlYJJoC18Ax54Y4w",
+          "time_start": 222
+        },
+        {
+          "title": "How the Web Works",
+          "thumbnail": "https://i.ytimg.com/vi/qz0aGYrrlhU/hqdefault_576900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWxE03DVAd1bNBAJ9Y_AcLPxeyfA",
+          "time_start": 576
+        },
+        {
+          "title": "Inspecting HTTP Requests and Responses",
+          "thumbnail": "https://i.ytimg.com/vi/qz0aGYrrlhU/hqdefault_868866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHMPX3o-Hq3y_x3patBnJ3BRoJLg",
+          "time_start": 867
+        },
+        {
+          "title": "HTML Basics",
+          "thumbnail": "https://i.ytimg.com/vi/qz0aGYrrlhU/hqdefault_1110833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUvdrLivRPljlXyxtv7LyvgdpPBg",
+          "time_start": 1110
+        },
+        {
+          "title": "CSS Basics",
+          "thumbnail": "https://i.ytimg.com/vi/qz0aGYrrlhU/hqdefault_1541800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAafft6kzPKzYSp_o2JiBDeb8SfmQ",
+          "time_start": 1541
+        },
+        {
+          "title": "Formatting Code",
+          "thumbnail": "https://i.ytimg.com/vi/qz0aGYrrlhU/hqdefault_1836266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTC5Me5elT9s8YTC5WJrdm0xAaDg",
+          "time_start": 1835
+        },
+        {
+          "title": "Inspecting Pages Using DevTools",
+          "thumbnail": "https://i.ytimg.com/vi/qz0aGYrrlhU/hqdefault_1974100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOhnKVrYcslY_eupUKpx9xNWIbvw",
+          "time_start": 1971
+        },
+        {
+          "title": "Validating Web Pages",
+          "thumbnail": "https://i.ytimg.com/vi/qz0aGYrrlhU/hqdefault_2105200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1QlxhTk7zx9dWW11Rn4UOdJY_Ig",
+          "time_start": 2104
+        },
+        {
+          "title": "The Head Section",
+          "thumbnail": "https://i.ytimg.com/vi/qz0aGYrrlhU/hqdefault_2386166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDALRMlK_u1YTFr9Egz8zQekU5rcA",
+          "time_start": 2385
+        },
+        {
+          "title": "Text",
+          "thumbnail": "https://i.ytimg.com/vi/qz0aGYrrlhU/hqdefault_2614133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEdd8-NOtQzHqRMKMeRX2qyvMhYA",
+          "time_start": 2613
+        },
+        {
+          "title": "Entities",
+          "thumbnail": "https://i.ytimg.com/vi/qz0aGYrrlhU/hqdefault_3014100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLa_uascQOgsv4UIfSmdkxVuQnnQ",
+          "time_start": 3013
+        },
+        {
+          "title": "Hyperlinks",
+          "thumbnail": "https://i.ytimg.com/vi/qz0aGYrrlhU/hqdefault_3223033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8hDTUYfbOPoJaP-DlzQUMUYLX8w",
+          "time_start": 3222
+        },
+        {
+          "title": "Images",
+          "thumbnail": "https://i.ytimg.com/vi/qz0aGYrrlhU/hqdefault_3795900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0BmUW6elDr-d4ejr-n_ya6I3Qdw",
+          "time_start": 3792
+        }
+      ]
+    },
+    {
+      "position_on_page": 3,
+      "title": "HTML & CSS Full Course - Beginner to Pro",
+      "link": "https://www.youtube.com/watch?v=G3e-cpL7ofc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=G3e-cpL7ofc",
+      "video_id": "G3e-cpL7ofc",
+      "channel": {
+        "name": "SuperSimpleDev",
+        "channel_id": "UCB6dvaWu0N8uVq2yKsZ5s5g",
+        "link": "https://www.youtube.com/@SuperSimpleDev",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_laf9dDyNATE1_RdVUKthwnwT9TSm9N0my0jL2H8gCvjw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 20389261,
+      "length": "6:31:16",
+      "description": "Get a certificate for this course: https://courses.supersimple.dev/courses/html-css or Frontend Bundle (React, JS, HTML CSS): ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/G3e-cpL7ofc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDU0mSki3dTR7OF2ypmZff7aVVB0g",
+        "rich": "https://i.ytimg.com/an_webp/G3e-cpL7ofc/mqdefault_6s.webp?du=3000&sqp=CPvbhdgG&rs=AOn4CLD7fG-nY5jo5S8-IS5DKypC7qlbsw"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 0
+        },
+        {
+          "title": "1. HTML Basics",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 62
+        },
+        {
+          "title": "2. CSS Basics",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 1062
+        },
+        {
+          "title": "3. Hovers, Transitions, Shadows",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 2679
+        },
+        {
+          "title": "4. Chrome DevTools & CSS Box Model",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 3790
+        },
+        {
+          "title": "5. Text Styles",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 4650
+        },
+        {
+          "title": "6. The HTML Structure",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 6738
+        },
+        {
+          "title": "7. Images and Text Boxes",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 7868
+        },
+        {
+          "title": "8. CSS Display Property",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 8742
+        },
+        {
+          "title": "9. The div Element",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 9298
+        },
+        {
+          "title": "10. Nested Layouts Technique",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 10015
+        },
+        {
+          "title": "11. CSS Grid",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 11818
+        },
+        {
+          "title": "12. Flexbox",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 13438
+        },
+        {
+          "title": "13. Nested Flexbox",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 15321
+        },
+        {
+          "title": "14. CSS Position",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 17076
+        },
+        {
+          "title": "15. Position Absolute and Relative",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 18434
+        },
+        {
+          "title": "16. Finish the Project",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 20029
+        },
+        {
+          "title": "17. More CSS Features",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 22066
+        },
+        {
+          "title": "Outro",
+          "thumbnail": "https://i.ytimg.com/vi/G3e-cpL7ofc/hqdefault.jpg",
+          "time_start": 23421
+        }
+      ]
+    },
+    {
+      "position_on_page": 5,
+      "title": "html tutorial for beginners to learn html for beginners html tutorial for beginners",
+      "link": "https://www.youtube.com/watch?v=u5vWFfZ6Csc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=u5vWFfZ6Csc",
+      "video_id": "u5vWFfZ6Csc",
+      "channel": {
+        "name": "The Syntax Squad01",
+        "channel_id": "UCGdS4VIVfwQojEV5X0t_HxQ",
+        "link": "https://www.youtube.com/@TheSyntaxSquad01",
+        "thumbnail": "https://yt3.ggpht.com/lD543lFFxXboTiiHLG6qmf1s1IixPtn66MzcdORZPBMznymMcxy2WM_ITLWgq_rMrn1jg69ppA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 4013366,
+      "length": "0:05",
+      "description": "hello please support me #shortsvideo #codewithharry @CodeWithHarry @code.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/u5vWFfZ6Csc/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAArgIigIMCAAQARhlIGUoZTAP&rs=AOn4CLC4QrSgL1NC62JIezWnwoaF1XZBRA"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Frontend Development Full Course 2025 | HTML, CSS, JavaScript, React, TypeScript, TailwindCSS, Git",
+      "link": "https://www.youtube.com/watch?v=diIOefCsvtc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=diIOefCsvtc",
+      "video_id": "diIOefCsvtc",
+      "channel": {
+        "name": "BraveHub",
+        "channel_id": "UC9FcsPgPHlgFbeEulFPvAUg",
+        "link": "https://www.youtube.com/@bravehub",
+        "thumbnail": "https://yt3.ggpht.com/t6oU0IMfFips5Gzn3oHZl_toPY4S27kQaLBzvD6rbgwmTTFSKVnsK1-7ErvruefCE1RKfpTRVi0=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 4039,
+      "length": "5:05:43",
+      "description": "Frontend Development Full Course 2025 | HTML, CSS, JavaScript, React, TypeScript, TailwindCSS, Git and Github Frontend ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/diIOefCsvtc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWTq-fTpnDU4Fxrmt8j4TcTQZyaA",
+        "rich": "https://i.ytimg.com/an_webp/diIOefCsvtc/mqdefault_6s.webp?du=3000&sqp=CPbThdgG&rs=AOn4CLDGDoDkKKdkA4DE6SMCIBuRe9JZbg"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "html tutorial for beginners | CSS | html full course | css full course | web development full course",
+      "link": "https://www.youtube.com/watch?v=ducPBTDWrog",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ducPBTDWrog",
+      "video_id": "ducPBTDWrog",
+      "channel": {
+        "name": "CodingWithSamim",
+        "channel_id": "UCK0p_uVzVmvWo7UnbEDw3Lw",
+        "link": "https://www.youtube.com/@CodingWithSamim",
+        "thumbnail": "https://yt3.ggpht.com/CySv5EsaZqIvvpulO5R5eqM9Ibo9SDobWNUqD6aGgYjxf9NgUzh6I19P_KKeAwefnfEXKU4zmUM=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 1599653,
+      "length": "0:10",
+      "description": "Top Searches: responsive design tutorial css responsive design tutorial how to make website responsive for all devices footer ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ducPBTDWrog/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAvIOigIMCAAQARh_IB0oKDAP&rs=AOn4CLB2cKJBFOB5pHGlvjIUCkroeWcwlg"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "The 2019 Frontend Developer Crash Course - HTML & CSS Tutorial for Beginners",
+      "link": "https://www.youtube.com/watch?v=8gNrZ4lAnAw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=8gNrZ4lAnAw",
+      "video_id": "8gNrZ4lAnAw",
+      "channel": {
+        "name": "DesignCourse",
+        "channel_id": "UCVyRiMvfUNMA1UPlDPzG5Ow",
+        "link": "https://www.youtube.com/@DesignCourse",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ieTt1p2twEf4cz0vhOtB-0UXPN4vk9-8HM8OqxcX8sRU3nm5Di8sohyFOvxR3M-pN_bo4rnL=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 751876,
+      "length": "2:40:39",
+      "description": "https://skl.sh/designcourse19 - First 500 people to sign up will get their first 2 months free! -- Welcome to this lengthy crash course ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/8gNrZ4lAnAw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAf8zmcfr9SmK8bHeKY7YT23pwKFQ",
+        "rich": "https://i.ytimg.com/an_webp/8gNrZ4lAnAw/mqdefault_6s.webp?du=3000&sqp=CITdhdgG&rs=AOn4CLD-67pfh8TAW7NkKC_dlSHvKCTjBA"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/8gNrZ4lAnAw/hqdefault_28200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDavBA_VviCDomu1TXJYtH5zNOgg",
+          "time_start": 0
+        },
+        {
+          "title": "Welcome",
+          "thumbnail": "https://i.ytimg.com/vi/8gNrZ4lAnAw/hqdefault_113933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZFFXz2GXBlVmeMY1DVmtWYKFnCw",
+          "time_start": 109
+        },
+        {
+          "title": "What is Frontend",
+          "thumbnail": "https://i.ytimg.com/vi/8gNrZ4lAnAw/hqdefault_130833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8z1g5DI7jCbC1b1VEVLnvD-l_ug",
+          "time_start": 120
+        },
+        {
+          "title": "Code Editors",
+          "thumbnail": "https://i.ytimg.com/vi/8gNrZ4lAnAw/hqdefault_197933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6lI2fDfTfvtlTHsbBkxQqtIn3IA",
+          "time_start": 176
+        },
+        {
+          "title": "HTML Basics",
+          "thumbnail": "https://i.ytimg.com/vi/8gNrZ4lAnAw/hqdefault_240933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8OGiGusntHqFmLdICjOUDsbGyQA",
+          "time_start": 212
+        },
+        {
+          "title": "Body Element",
+          "thumbnail": "https://i.ytimg.com/vi/8gNrZ4lAnAw/hqdefault_336400.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwx6dBdMvDaf70VJt5B7pXGRg05Q",
+          "time_start": 336
+        },
+        {
+          "title": "HTML Attributes",
+          "thumbnail": "https://i.ytimg.com/vi/8gNrZ4lAnAw/hqdefault_465166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB077KRCPUp_NkywX0WcUo1l9BhOw",
+          "time_start": 442
+        },
+        {
+          "title": "Class ID Attributes",
+          "thumbnail": "https://i.ytimg.com/vi/8gNrZ4lAnAw/hqdefault_525000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB04qJkvYP6VuZM-FsJC9nORMMsnw",
+          "time_start": 501
+        },
+        {
+          "title": "Div Element",
+          "thumbnail": "https://i.ytimg.com/vi/8gNrZ4lAnAw/hqdefault_565866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEpz-dpjOAD5C-6Z3StN1XE4NKEQ",
+          "time_start": 556
+        },
+        {
+          "title": "Semantic Elements",
+          "thumbnail": "https://i.ytimg.com/vi/8gNrZ4lAnAw/hqdefault_614933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBklXky7wCQGcYN0UPNNBTnYAA-AQ",
+          "time_start": 586
+        },
+        {
+          "title": "HTML Validation",
+          "thumbnail": "https://i.ytimg.com/vi/8gNrZ4lAnAw/hqdefault_660266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnJo7Jru5xQz2Mi3R-VAjFZG2zsQ",
+          "time_start": 631
+        },
+        {
+          "title": "HTML Elements",
+          "thumbnail": "https://i.ytimg.com/vi/8gNrZ4lAnAw/hqdefault_709633.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALYZ-AwVOWP3CtTnB9pH0wHy90Aw",
+          "time_start": 680
+        },
+        {
+          "title": "CSS",
+          "thumbnail": "https://i.ytimg.com/vi/8gNrZ4lAnAw/hqdefault_728033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA10erGuQKRWuoSMhvr7WNxCYyW9w",
+          "time_start": 723
+        },
+        {
+          "title": "CSS Units",
+          "thumbnail": "https://i.ytimg.com/vi/8gNrZ4lAnAw/hqdefault_881833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqH0ipTPF0x-nRHSjD_PV9khVnRg",
+          "time_start": 880
+        },
+        {
+          "title": "CSS Absolute Units",
+          "thumbnail": "https://i.ytimg.com/vi/8gNrZ4lAnAw/hqdefault_919133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxQvLwxtDGl819zCH2wnvlF7Wk5g",
+          "time_start": 909
+        },
+        {
+          "title": "CSS Relative Units",
+          "thumbnail": "https://i.ytimg.com/vi/8gNrZ4lAnAw/hqdefault_952166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt1YWGqR2Q9_NrECbXrUCC8xx5kA",
+          "time_start": 938
+        },
+        {
+          "title": "Animations",
+          "thumbnail": "https://i.ytimg.com/vi/8gNrZ4lAnAw/hqdefault_1103966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWeLOFbXLdzElsoYnVtwFoD5eCGQ",
+          "time_start": 1079
+        },
+        {
+          "title": "Media Queries",
+          "thumbnail": "https://i.ytimg.com/vi/8gNrZ4lAnAw/hqdefault_1141000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtCao25GTKIOwcVzIxTOaEGIXZYQ",
+          "time_start": 1132
+        },
+        {
+          "title": "JavaScript",
+          "thumbnail": "https://i.ytimg.com/vi/8gNrZ4lAnAw/hqdefault_1265066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_YR5-xvpHcnlOi257SiivyR5nuw",
+          "time_start": 1252
+        },
+        {
+          "title": "Creating a folder",
+          "thumbnail": "https://i.ytimg.com/vi/8gNrZ4lAnAw/hqdefault_1450000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSAJj9Jll_JNgMafWzq2ISNuUu6Q",
+          "time_start": 1450
+        },
+        {
+          "title": "Writing HTML",
+          "thumbnail": "https://i.ytimg.com/vi/8gNrZ4lAnAw/hqdefault_1593933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_mqBM9WUHdGMFqBe6Htv04oeSoQ",
+          "time_start": 1573
+        },
+        {
+          "title": "UI Design",
+          "thumbnail": "https://i.ytimg.com/vi/8gNrZ4lAnAw/hqdefault_2047866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4vM-UwKyyGegCollT0F2aaMLsgg",
+          "time_start": 2046
+        },
+        {
+          "title": "Container Design",
+          "thumbnail": "https://i.ytimg.com/vi/8gNrZ4lAnAw/hqdefault_2159866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2obUj_LuBUzRnK-wKaoKgdQyfwA",
+          "time_start": 2146
+        },
+        {
+          "title": "Navigation",
+          "thumbnail": "https://i.ytimg.com/vi/8gNrZ4lAnAw/hqdefault_2429066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmkNRb2ZwI2a9ftMia8BagMozhJA",
+          "time_start": 2406
+        },
+        {
+          "title": "Hide Desktop",
+          "thumbnail": "https://i.ytimg.com/vi/8gNrZ4lAnAw/hqdefault_2571033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWelfrdJy9mG-jCwNvMnG9_xzKcg",
+          "time_start": 2556
+        },
+        {
+          "title": "Toggle Device Toolbar",
+          "thumbnail": "https://i.ytimg.com/vi/8gNrZ4lAnAw/hqdefault_2737033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwAEG9aTnzKiRF64iJYhNG9T8MQg",
+          "time_start": 2736
+        },
+        {
+          "title": "Scale Device Toolbar",
+          "thumbnail": "https://i.ytimg.com/vi/8gNrZ4lAnAw/hqdefault_2794966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRAjbzuyCE-iUxCBX-3vLFlTatVg",
+          "time_start": 2766
+        },
+        {
+          "title": "In Contact",
+          "thumbnail": "https://i.ytimg.com/vi/8gNrZ4lAnAw/hqdefault_2954233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBY_Y-2jVCgUlVYqrAQQfMhsNzK8w",
+          "time_start": 2929
+        },
+        {
+          "title": "Header",
+          "thumbnail": "https://i.ytimg.com/vi/8gNrZ4lAnAw/hqdefault_3093233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAR4sENTg405rCrRwzEm9wPROBeQQ",
+          "time_start": 3069
+        },
+        {
+          "title": "Section",
+          "thumbnail": "https://i.ytimg.com/vi/8gNrZ4lAnAw/hqdefault_3183766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAgKei4xEdlOqmE42jYK1rBxMKIw",
+          "time_start": 3165
+        },
+        {
+          "title": "Subhead",
+          "thumbnail": "https://i.ytimg.com/vi/8gNrZ4lAnAw/hqdefault_3287966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnIfZFrZhFoixUqqdwOH_6X324Ww",
+          "time_start": 3282
+        }
+      ]
+    },
+    {
+      "position_on_page": 16,
+      "title": "The Complete Frontend Developer Roadmap",
+      "link": "https://www.youtube.com/watch?v=Tef1e9FiSR0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Tef1e9FiSR0",
+      "video_id": "Tef1e9FiSR0",
+      "channel": {
+        "name": "Programming with Mosh",
+        "channel_id": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "link": "https://www.youtube.com/@programmingwithmosh",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 710485,
+      "length": "8:54",
+      "description": "Go from zero to a frontend developer in 12 months. This step-by-step roadmap covers the essential skills and latest technologies ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Tef1e9FiSR0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBD1bo0eloK7etTvfWQWJivyXQs_Q",
+        "rich": "https://i.ytimg.com/an_webp/Tef1e9FiSR0/mqdefault_6s.webp?du=3000&sqp=CLvghdgG&rs=AOn4CLDy5XXrAXhByT-_J3AkpCM_4ztSiA"
+      },
+      "chapters": [
+        {
+          "title": "Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_21933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJb1fR95DXey4ezdE-DWZ8P58TNw",
+          "time_start": 0
+        },
+        {
+          "title": "Basics of web development",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_49866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzHCPheXMfqWeTZcAQTqTfyhX4YQ",
+          "time_start": 23
+        },
+        {
+          "title": "How long it takes to become a front-end developer",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_60300.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUu5aMzXt8kXYCCol_6JvUBRD4GA",
+          "time_start": 56
+        },
+        {
+          "title": "The complete front-end roadmap (PDF)",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_91966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxgh8wia7s2IYnFnZqyP1fIEnBSg",
+          "time_start": 70
+        },
+        {
+          "title": "Basics of front-end development",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_97933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUK9-TH-6hGtfBf0apyYKmmQ8dHg",
+          "time_start": 93
+        },
+        {
+          "title": "Version control (Git)",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_227900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsyUOiLI-frp1FQA22UEXXy7DV3g",
+          "time_start": 213
+        },
+        {
+          "title": "TypeScript",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_247800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYu9dNDmluRYW-8Fzs4cWc9SuR5w",
+          "time_start": 233
+        },
+        {
+          "title": "UI libraries/frameworks",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_285900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQfQ3m7FKwzkYaP5OKmcOhRQ7csA",
+          "time_start": 258
+        },
+        {
+          "title": "CSS preprocessors",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_364900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhWVF2lztxxbJz2IxQcJNeXIAoUw",
+          "time_start": 341
+        },
+        {
+          "title": "CSS frameworks",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_396833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9C20qLCQwYH4GsB6lDLJ9OfY2fg",
+          "time_start": 382
+        },
+        {
+          "title": "Automated testing frameworks",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_424200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJoXyVjE62GTJluUqzvQxJocSmFQ",
+          "time_start": 421
+        },
+        {
+          "title": "Meta-frameworks",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_482066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBQXSSx1fqOa7KIApuYhuz3zkNoQ",
+          "time_start": 463
+        },
+        {
+          "title": "Mobile development",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_504233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD13iuPbYI1-bKHe6DFc6MLwPhnYA",
+          "time_start": 500
+        }
+      ]
+    },
+    {
+      "position_on_page": 19,
+      "title": "Become a Front-End Developer in 100 Days !",
+      "link": "https://www.youtube.com/watch?v=ZUXKG3JFszc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ZUXKG3JFszc",
+      "video_id": "ZUXKG3JFszc",
+      "channel": {
+        "name": "Shweta",
+        "channel_id": "UCXZbWIMCp0S6-hGwegxhwFQ",
+        "link": "https://www.youtube.com/@code-avenger",
+        "thumbnail": "https://yt3.ggpht.com/urp1b0B_qAlnx9wTI_tewHGqf0Ow-uQ80OZvkHQTvWo0NO9-Ezih9qWLh2QCCw7qv77sBYXg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 1735790,
+      "length": "0:05",
+      "description": "Become a Front-End Developer in 100 Days ! #frontenddeveloper #html #css #javascript #webdeveloper #backenddeveloper ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ZUXKG3JFszc/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhlIGUoZTAP&rs=AOn4CLBUfjHdGdtEi1FX1KF06Qo8MVkFDA"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Become a Frontend Developer from Scratch – Full Beginner’s Tutorial (HTML, CSS, JavaScript, React)",
+      "link": "https://www.youtube.com/watch?v=brap7oBm_4c",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=brap7oBm_4c",
+      "video_id": "brap7oBm_4c",
+      "channel": {
+        "name": "Iman Musa",
+        "channel_id": "UCOVbwa5XMcZiSeTiJt4fIGQ",
+        "link": "https://www.youtube.com/@imanwmusa",
+        "thumbnail": "https://yt3.ggpht.com/3qz7J4v35MWY8z-B7v6tx2bRyFI8IpglQBuD4puxKKQkIInnZOMZF53wZdvSq4kTlcI1XuJggQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8mo ago",
+      "views": 46181,
+      "length": "10:29:35",
+      "description": "Learn how to work with me to get into your first coding job: ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/brap7oBm_4c/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDicMANbxJZtd09VSnwG0wqhGplgQ",
+        "rich": "https://i.ytimg.com/an_webp/brap7oBm_4c/mqdefault_6s.webp?du=3000&sqp=CM-3hdgG&rs=AOn4CLBCEBH5y7o3HzlVqXkUynd0HVJHyw"
+      },
+      "chapters": [
+        {
+          "title": "Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/brap7oBm_4c/hqdefault_23933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkLQ27m-fY9IKkG3ocZTC0fjSFSA",
+          "time_start": 0
+        },
+        {
+          "title": "Environment Setup",
+          "thumbnail": "https://i.ytimg.com/vi/brap7oBm_4c/hqdefault_50133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAg7FGUVHD0hrMOLDY32sViQFvKdQ",
+          "time_start": 50
+        },
+        {
+          "title": "HTML Crash Course",
+          "thumbnail": "https://i.ytimg.com/vi/brap7oBm_4c/hqdefault_198933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsmLMe0KP52bPm4u-DmS2gsAXReg",
+          "time_start": 170
+        },
+        {
+          "title": "CSS Crash Course",
+          "thumbnail": "https://i.ytimg.com/vi/brap7oBm_4c/hqdefault_3671900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByxA8Cj6ccB8qqt7FbYogX2aowMQ",
+          "time_start": 3656
+        },
+        {
+          "title": "JavaScript Crash Course",
+          "thumbnail": "https://i.ytimg.com/vi/brap7oBm_4c/hqdefault_10828733.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSi41JK7MkDir_nbicFBG1CegjKA",
+          "time_start": 10800
+        },
+        {
+          "title": "React Crash Course",
+          "thumbnail": "https://i.ytimg.com/vi/brap7oBm_4c/hqdefault_26833200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANQd9mAPmzkh5q5gwwPmvfrat9Zw",
+          "time_start": 26820
+        },
+        {
+          "title": "Outro",
+          "thumbnail": "https://i.ytimg.com/vi/brap7oBm_4c/hqdefault_37747800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0Eim_tlFdUIB9c42Ai3bZ_lk59w",
+          "time_start": 37745
+        }
+      ]
+    },
+    {
+      "position_on_page": 22,
+      "title": "HTML Tutorial for Beginners",
+      "link": "https://www.youtube.com/watch?v=FQdaUv95mR8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=FQdaUv95mR8",
+      "video_id": "FQdaUv95mR8",
+      "channel": {
+        "name": "Kevin Stratvert",
+        "channel_id": "UCfJT_eYDTmDE-ovKaxVE1ig",
+        "link": "https://www.youtube.com/@KevinStratvert",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/FHaircC3fnPqOhk3M4POJQlPF2_yVnCj5W60SNbFL_zK5jzmJ5mNyFVaoLKZufC4uPo4WP8gQw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 1543370,
+      "length": "39:06",
+      "description": "In this step-by-step tutorial, learn how to create a simple web page using HTML. You'll learn the basics of HTML, from how to ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/FQdaUv95mR8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBp1aP1CoIQri80F_PVAhAg_9Kczg",
+        "rich": "https://i.ytimg.com/an_webp/FQdaUv95mR8/mqdefault_6s.webp?du=3000&sqp=CNDchdgG&rs=AOn4CLD92VdZTwQCdhSlpU2xXg4i_Utzkg"
+      },
+      "chapters": [
+        {
+          "title": "Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/FQdaUv95mR8/hqdefault_14866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGpGjT_Nk8DcFOKubwxm1bFknDfQ",
+          "time_start": 0
+        },
+        {
+          "title": "Create HTML file",
+          "thumbnail": "https://i.ytimg.com/vi/FQdaUv95mR8/hqdefault_75300.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJyhyPD1zjcnbCGaVpuyrYowxWJA",
+          "time_start": 75
+        },
+        {
+          "title": "Edit HTML file",
+          "thumbnail": "https://i.ytimg.com/vi/FQdaUv95mR8/hqdefault_213800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgA-7-Xyy9PNrunQeIRVpvmYynCQ",
+          "time_start": 191
+        },
+        {
+          "title": "Declarative language",
+          "thumbnail": "https://i.ytimg.com/vi/FQdaUv95mR8/hqdefault_353866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhdrsxYK0ghm25QfzryAl93kkKWg",
+          "time_start": 333
+        },
+        {
+          "title": "Header element",
+          "thumbnail": "https://i.ytimg.com/vi/FQdaUv95mR8/hqdefault_411733.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBI0F5Ox_F5iQZET5nhxWJaA0oWQ",
+          "time_start": 383
+        },
+        {
+          "title": "Paragraph element",
+          "thumbnail": "https://i.ytimg.com/vi/FQdaUv95mR8/hqdefault_561200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnaZL4uovuUemtrQPwM3qgZioZzA",
+          "time_start": 550
+        },
+        {
+          "title": "In line & nested elements",
+          "thumbnail": "https://i.ytimg.com/vi/FQdaUv95mR8/hqdefault_626166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6gozFEoqbtHqun2EmAt2xe5rQRw",
+          "time_start": 626
+        },
+        {
+          "title": "Markup language",
+          "thumbnail": "https://i.ytimg.com/vi/FQdaUv95mR8/hqdefault_803133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCurk0hxo8Y04qJqvZtakEPztaGDw",
+          "time_start": 785
+        },
+        {
+          "title": "Section element and indentation",
+          "thumbnail": "https://i.ytimg.com/vi/FQdaUv95mR8/hqdefault_835100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByAcYOYYjTK-GOiPRPoRQHnhh78A",
+          "time_start": 823
+        },
+        {
+          "title": "Unordered list",
+          "thumbnail": "https://i.ytimg.com/vi/FQdaUv95mR8/hqdefault_959633.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCM8lERr6B1wqkQEH2va1gnX06JCg",
+          "time_start": 930
+        },
+        {
+          "title": "Ordered list",
+          "thumbnail": "https://i.ytimg.com/vi/FQdaUv95mR8/hqdefault_1031033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXI2CWs9DnFQRpRA1Rq7fFWEFn8Q",
+          "time_start": 1031
+        },
+        {
+          "title": "Line breaks",
+          "thumbnail": "https://i.ytimg.com/vi/FQdaUv95mR8/hqdefault_1136066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGJaTtk_LoVfZE80L-l2N5-tuA4g",
+          "time_start": 1125
+        },
+        {
+          "title": "Comments",
+          "thumbnail": "https://i.ytimg.com/vi/FQdaUv95mR8/hqdefault_1199966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVzg84zwhq7T8afaYliA-JUFHgXA",
+          "time_start": 1196
+        },
+        {
+          "title": "Links and anchor",
+          "thumbnail": "https://i.ytimg.com/vi/FQdaUv95mR8/hqdefault_1291933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBybzeEkgZjE-RmqxA2QBpbi8Y7uQ",
+          "time_start": 1282
+        },
+        {
+          "title": "Images",
+          "thumbnail": "https://i.ytimg.com/vi/FQdaUv95mR8/hqdefault_1505033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjD8kIYpHEJ_-dNKTlPQb09H-dew",
+          "time_start": 1488
+        },
+        {
+          "title": "Audio and video",
+          "thumbnail": "https://i.ytimg.com/vi/FQdaUv95mR8/hqdefault_1725933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5CFdVvsb4rbcyQ2wSysiN0oYtJg",
+          "time_start": 1697
+        },
+        {
+          "title": "Tables",
+          "thumbnail": "https://i.ytimg.com/vi/FQdaUv95mR8/hqdefault_1783833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB28_scEK3SfYDYalTKTafno92Jxw",
+          "time_start": 1772
+        },
+        {
+          "title": "Forms",
+          "thumbnail": "https://i.ytimg.com/vi/FQdaUv95mR8/hqdefault_1977800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBuSteRspkl5QVg8kstp1TeKhWfiA",
+          "time_start": 1975
+        },
+        {
+          "title": "Structure HTML page",
+          "thumbnail": "https://i.ytimg.com/vi/FQdaUv95mR8/hqdefault_2080766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlUF0UtYChWj3mxsd9PEhALoEpWQ",
+          "time_start": 2057
+        },
+        {
+          "title": "Wrap up",
+          "thumbnail": "https://i.ytimg.com/vi/FQdaUv95mR8/hqdefault_2311200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQ1cT6aCuCJ5h_8rV9AYf-hvKu7w",
+          "time_start": 2298
+        }
+      ]
+    },
+    {
+      "position_on_page": 23,
+      "title": "Web Development with HTML & CSS – Full Course for Beginners (2026)",
+      "link": "https://www.youtube.com/watch?v=lI3iZ5xMII8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lI3iZ5xMII8",
+      "video_id": "lI3iZ5xMII8",
+      "channel": {
+        "name": "Iman Musa",
+        "channel_id": "UCOVbwa5XMcZiSeTiJt4fIGQ",
+        "link": "https://www.youtube.com/@imanwmusa",
+        "thumbnail": "https://yt3.ggpht.com/3qz7J4v35MWY8z-B7v6tx2bRyFI8IpglQBuD4puxKKQkIInnZOMZF53wZdvSq4kTlcI1XuJggQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "10mo ago",
+      "views": 40060,
+      "length": "3:00:08",
+      "description": "Learn how to work with me to get into your first coding job: ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/lI3iZ5xMII8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdrO3eBXI00HQyj8bCX0OSd9g6rQ",
+        "rich": "https://i.ytimg.com/an_webp/lI3iZ5xMII8/mqdefault_6s.webp?du=3000&sqp=CKbLhdgG&rs=AOn4CLA3j4OEHT0hNZk-dmtgySMlVR9izQ"
+      },
+      "chapters": [
+        {
+          "title": "Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/lI3iZ5xMII8/hqdefault_1966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChRgzYR5f3CQfAOf2mZjT_uzm7Ew",
+          "time_start": 0
+        },
+        {
+          "title": "Environment Setup",
+          "thumbnail": "https://i.ytimg.com/vi/lI3iZ5xMII8/hqdefault_54000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmy-AE2HXutcORN4odMuT1nqXp3g",
+          "time_start": 27
+        },
+        {
+          "title": "HTML Crash Course",
+          "thumbnail": "https://i.ytimg.com/vi/lI3iZ5xMII8/hqdefault_163833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVUOsBddaJleWiYiuLzz_9ilbrTg",
+          "time_start": 147
+        },
+        {
+          "title": "CSS Crash Course",
+          "thumbnail": "https://i.ytimg.com/vi/lI3iZ5xMII8/hqdefault_3634366.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3Afy1JCUVExK5CtKYJdQtdSPc9w",
+          "time_start": 3634
+        },
+        {
+          "title": "Outro",
+          "thumbnail": "https://i.ytimg.com/vi/lI3iZ5xMII8/hqdefault_10780166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8fYWXr6lbAw3XKfROxNe4fNYCCg",
+          "time_start": 10776
+        }
+      ]
+    }
+  ],
+  "playlist_results": [
+    {
+      "position_on_page": 6,
+      "title": "Frontend Developer Bootcamp: Master HTML, CSS, JavaScript, and Modern Frameworks",
+      "link": "https://www.youtube.com/playlist?list=PL6QREj8te1P4-o8tvI3RF5NOEe0Amzd30",
+      "channel": {
+        "name": "JavaScript Mastery",
+        "channel_id": "UCmXmlB4-HJytD7wek0Uo97A",
+        "link": "https://www.youtube.com/@javascriptmastery"
+      },
+      "videos": [
+        {
+          "title": "I Built a SaaS App Landing Page in 3 Hours Here's What I Learned",
+          "length": "2:49:04",
+          "link": "https://www.youtube.com/watch?v=ukiGFmZ32YA&list=PL6QREj8te1P4-o8tvI3RF5NOEe0Amzd30"
+        },
+        {
+          "title": "Build & Deploy an Amazing 3D Portfolio with React.js & Three.js | Beginner Three.js Tutorial",
+          "length": "4:28:45",
+          "link": "https://www.youtube.com/watch?v=kt0FrkQgw8w&list=PL6QREj8te1P4-o8tvI3RF5NOEe0Amzd30"
+        }
+      ],
+      "video_count": 10,
+      "thumbnail": "https://i.ytimg.com/vi/ukiGFmZ32YA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAUFw8XiELlGC9_2ukcZ0FogyWx2A"
+    },
+    {
+      "position_on_page": 8,
+      "title": "HTML & CSS Crash Course Tutorial",
+      "link": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G",
+      "channel": {
+        "name": "Net Ninja",
+        "channel_id": "UCW5YeuERMmlnqo4oq8vwUpg",
+        "link": "https://www.youtube.com/@NetNinja"
+      },
+      "videos": [
+        {
+          "title": "HTML & CSS Crash Course Tutorial #1 - Introduction",
+          "length": "20:00",
+          "link": "https://www.youtube.com/watch?v=hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G"
+        },
+        {
+          "title": "HTML & CSS Crash Course Tutorial #2 - HTML Basics",
+          "length": "19:52",
+          "link": "https://www.youtube.com/watch?v=mbeT8mpmtHA&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G"
+        }
+      ],
+      "video_count": 11,
+      "thumbnail": "https://i.ytimg.com/vi/hu-q2zYwEYs/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAGk0wNMi8PXFsVpMiUvRGgDdlFrw"
+    },
+    {
+      "position_on_page": 9,
+      "title": "HTML and CSS Tutorials",
+      "link": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbnSe1qUNMG7AbPmjIG54u88",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "link": "https://www.youtube.com/@freecodecamp"
+      },
+      "videos": [
+        {
+          "title": "Learn HTML – Full Tutorial for Beginners",
+          "length": "4:07:30",
+          "link": "https://www.youtube.com/watch?v=kUMe1FH4CHE&list=PLWKjhJtqVAbnSe1qUNMG7AbPmjIG54u88"
+        },
+        {
+          "title": "Learn HTML & CSS – Full Course for Beginners",
+          "length": "5:21:44",
+          "link": "https://www.youtube.com/watch?v=a_iQb1lnAEQ&list=PLWKjhJtqVAbnSe1qUNMG7AbPmjIG54u88"
+        }
+      ],
+      "video_count": 10,
+      "thumbnail": "https://i.ytimg.com/vi/kUMe1FH4CHE/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDpKbxkI_S5G7qNOCET2i3qJpgGGA"
+    },
+    {
+      "position_on_page": 13,
+      "title": "Front End Developer Learning Path",
+      "link": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbmMuZ3saqRIBimAKIMYkt0E",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "link": "https://www.youtube.com/@freecodecamp"
+      },
+      "videos": [
+        {
+          "title": "Front End Developer Roadmap",
+          "length": "12:09",
+          "link": "https://www.youtube.com/watch?v=9He4UBLyk8Y&list=PLWKjhJtqVAbmMuZ3saqRIBimAKIMYkt0E"
+        },
+        {
+          "title": "HTML Tutorial - Website Crash Course for Beginners",
+          "length": "45:20",
+          "link": "https://www.youtube.com/watch?v=916GWv2Qs08&list=PLWKjhJtqVAbmMuZ3saqRIBimAKIMYkt0E"
+        }
+      ],
+      "video_count": 22,
+      "thumbnail": "https://i.ytimg.com/vi/9He4UBLyk8Y/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAUoUjvLRM9C5x2jKy_STBVH-UUaA"
+    },
+    {
+      "position_on_page": 14,
+      "title": "Complete FrontEnd/Web Development in 45 Hours with 13 Projects",
+      "link": "https://www.youtube.com/playlist?list=PL78RhpUUKSwfYr_bKHq7SWfTCBGad_xxP",
+      "channel": {
+        "name": "Complete Coding by Prashant Sir",
+        "channel_id": "UC7uzuZJIYzcxV9JJ1yAtHHg",
+        "link": "https://www.youtube.com/@CompleteCodingByPrashantSir"
+      },
+      "videos": [
+        {
+          "title": "🚀 🔥 HTML Complete Course (2024) for Beginners | Projects | Notes | Github | Certification",
+          "length": "4:14:36",
+          "link": "https://www.youtube.com/watch?v=rklidcZ-aLU&list=PL78RhpUUKSwfYr_bKHq7SWfTCBGad_xxP"
+        },
+        {
+          "title": "🚀 🔥 CSS Complete Course (2024) for Beginners | Myntra Project | Notes | GitHub | Certification",
+          "length": "7:48:27",
+          "link": "https://www.youtube.com/watch?v=OpWjt_wbV4E&list=PL78RhpUUKSwfYr_bKHq7SWfTCBGad_xxP"
+        }
+      ],
+      "video_count": 6,
+      "thumbnail": "https://i.ytimg.com/vi/rklidcZ-aLU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA3IPwjaRhVfT0GiQw0dWC2OPVfWQ"
+    },
+    {
+      "position_on_page": 15,
+      "title": "HTML,CSS,JavaScript, Project, Git & GitHub",
+      "link": "https://www.youtube.com/playlist?list=PLfqMhTWNBTe0PY9xunOzsP5kmYIz2Hu7i",
+      "channel": {
+        "name": "Apna College",
+        "channel_id": "UCBwmMxybNva6P_5VmxjzwqA",
+        "link": "https://www.youtube.com/@ApnaCollegeOfficial"
+      },
+      "videos": [
+        {
+          "title": "HTML Tutorial for Beginners | Complete HTML with Notes & Code",
+          "length": "2:06:00",
+          "link": "https://www.youtube.com/watch?v=HcOc7P5BMi4&list=PLfqMhTWNBTe0PY9xunOzsP5kmYIz2Hu7i"
+        },
+        {
+          "title": "CSS Tutorial for Beginners | Complete CSS with Project, Notes & Code",
+          "length": "7:18:24",
+          "link": "https://www.youtube.com/watch?v=ESnrn1kAD4E&list=PLfqMhTWNBTe0PY9xunOzsP5kmYIz2Hu7i"
+        }
+      ],
+      "video_count": 18,
+      "thumbnail": "https://i.ytimg.com/vi/HcOc7P5BMi4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC1vfDhlSu_PM9sNV1envKX9X1c5w"
+    },
+    {
+      "position_on_page": 17,
+      "title": "HTML Tutorial",
+      "link": "https://www.youtube.com/playlist?list=PLP9IO4UYNF0VdAajP_5pYG-jG2JRrG72s",
+      "channel": {
+        "name": "w3schools.com",
+        "channel_id": "UCv9bWHC0DIn-Xb7ALNoOGWQ",
+        "link": "https://www.youtube.com/@w3schools"
+      },
+      "videos": [
+        {
+          "title": "HTML - Introduction - W3Schools.com",
+          "length": "3:14",
+          "link": "https://www.youtube.com/watch?v=it1rTvBcfRg&list=PLP9IO4UYNF0VdAajP_5pYG-jG2JRrG72s"
+        },
+        {
+          "title": "HTML - Editors - W3Schools.com",
+          "length": "1:28",
+          "link": "https://www.youtube.com/watch?v=bBP0ckEln4Y&list=PLP9IO4UYNF0VdAajP_5pYG-jG2JRrG72s&pp=0gcJCRYF0aJEHMZM"
+        }
+      ],
+      "video_count": 23,
+      "thumbnail": "https://i.ytimg.com/vi/it1rTvBcfRg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAhbHSkU33B5-LZlNTKUC8KK5enMA"
+    },
+    {
+      "position_on_page": 18,
+      "title": "Frontend Web Developer Full Course in Telugu by Telugu Web Guru",
+      "link": "https://www.youtube.com/playlist?list=PLh6Yk2rpZu2J2Mcp2fBhslwhPWe7WjEET",
+      "channel": {
+        "name": "telugu web guru",
+        "channel_id": "UCwD6wSolY9DYNGvR9KgHN-w",
+        "link": "https://www.youtube.com/@teluguwebguru"
+      },
+      "videos": [
+        {
+          "title": "Frontend Webdeveloper Full Course in Telugu | teluguwebguru",
+          "length": "4:48",
+          "link": "https://www.youtube.com/watch?v=ql93sjl_WWY&list=PLh6Yk2rpZu2J2Mcp2fBhslwhPWe7WjEET"
+        },
+        {
+          "title": "What is internet explained in telugu | HTML Tutorial in Telugu | telugu web guru",
+          "length": "16:18",
+          "link": "https://www.youtube.com/watch?v=Bjx5Mh6eFIM&list=PLh6Yk2rpZu2J2Mcp2fBhslwhPWe7WjEET"
+        }
+      ],
+      "video_count": 66,
+      "thumbnail": "https://i.ytimg.com/vi/ql93sjl_WWY/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCBHcTmVJdcrwbjUHQjnLADvKXsEw"
+    },
+    {
+      "position_on_page": 21,
+      "title": "Web Development Tutorials For Beginners In Hindi: HTML, CSS, JavaScript & More",
+      "link": "https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg",
+      "channel": {
+        "name": "CodeWithHarry",
+        "channel_id": "UCeVMnSShP_Iviwkknt83cww",
+        "link": "https://www.youtube.com/@CodeWithHarry"
+      },
+      "videos": [
+        {
+          "title": "Introduction to HTML, CSS, JavaScript & How websites work? | Web Development Tutorials #1",
+          "length": "18:27",
+          "link": "https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg"
+        },
+        {
+          "title": "HTML Tutorial: Installing VS Code & Live Server | Web Development Tutorials #2",
+          "length": "17:50",
+          "link": "https://www.youtube.com/watch?v=TeZdo8mx0gc&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg"
+        }
+      ],
+      "video_count": 103,
+      "thumbnail": "https://i.ytimg.com/vi/6mbwJ2xhgzM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB085kwvsBJFypluFZKzCiUBDXLAg"
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=HTML+full+course+tutorial+for+Frontend+Developer&gl=in&hl=en",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=HTML%20full%20course%20tutorial%20for%20Frontend%20Developer&sp=SBSCAQtxejBhR1lycmxoVYIBC0czZS1jcEw3b2ZjggELdTV2V0ZmWjZDc2OCASJQTDZRUkVqOHRlMVA0LW84dHZJM1JGNU5PRWUwQW16ZDMwggEiUEw0Y1V4ZUdrY0M5aXZCZl9lS0NQSUFZWFd6TGxQQW02R4IBIlBMV0tqaEp0cVZBYm5TZTFxVU5NRzdBYlBtaklHNTR1ODiCAQtkaUlPZWZDc3Z0Y4IBC2R1Y1BCVERXcm9nggELOGdOclo0bEFuQXeCASJQTFdLamhKdHFWQWJtTXVaM3NhcVJJQmltQUtJTVlrdDBFggEiUEw3OFJocFVVS1N3ZllyX2JLSHE3U1dmVENCR2FkX3h4UIIBIlBMZnFNaFRXTkJUZTBQWTl4dW5PenNQNWttWUl6Mkh1N2mCAQtUZWYxZTlGaVNSMIIBIlBMUDlJTzRVWU5GMFZkQWFqUF81cFlHLWpHMkpSckc3MnOCASJQTGg2WWsycnBadTJKMk1jcDJmQmhzbHdoUFdlN1dqRUVUggELWlVYS0czSkZzemOCAQticmFwN29CbV80Y4IBIlBMdTBXXzlsSUk5YWdpQ1VaWVJzdnRHVFhkeGt6UHlJdGeCAQtGUWRhVXY5NW1SOIIBC2xJM2laNXhNSUk4sgEGCgQIGRAC",
+    "next_page_token": "SBSCAQtxejBhR1lycmxoVYIBC0czZS1jcEw3b2ZjggELdTV2V0ZmWjZDc2OCASJQTDZRUkVqOHRlMVA0LW84dHZJM1JGNU5PRWUwQW16ZDMwggEiUEw0Y1V4ZUdrY0M5aXZCZl9lS0NQSUFZWFd6TGxQQW02R4IBIlBMV0tqaEp0cVZBYm5TZTFxVU5NRzdBYlBtaklHNTR1ODiCAQtkaUlPZWZDc3Z0Y4IBC2R1Y1BCVERXcm9nggELOGdOclo0bEFuQXeCASJQTFdLamhKdHFWQWJtTXVaM3NhcVJJQmltQUtJTVlrdDBFggEiUEw3OFJocFVVS1N3ZllyX2JLSHE3U1dmVENCR2FkX3h4UIIBIlBMZnFNaFRXTkJUZTBQWTl4dW5PenNQNWttWUl6Mkh1N2mCAQtUZWYxZTlGaVNSMIIBIlBMUDlJTzRVWU5GMFZkQWFqUF81cFlHLWpHMkpSckc3MnOCASJQTGg2WWsycnBadTJKMk1jcDJmQmhzbHdoUFdlN1dqRUVUggELWlVYS0czSkZzemOCAQticmFwN29CbV80Y4IBIlBMdTBXXzlsSUk5YWdpQ1VaWVJzdnRHVFhkeGt6UHlJdGeCAQtGUWRhVXY5NW1SOIIBC2xJM2laNXhNSUk4sgEGCgQIGRAC"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=HTML+full+course+tutorial+for+Frontend+Developer",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=HTML+full+course+tutorial+for+Frontend+Developer&sp=SBSCAQtxejBhR1lycmxoVYIBC0czZS1jcEw3b2ZjggELdTV2V0ZmWjZDc2OCASJQTDZRUkVqOHRlMVA0LW84dHZJM1JGNU5PRWUwQW16ZDMwggEiUEw0Y1V4ZUdrY0M5aXZCZl9lS0NQSUFZWFd6TGxQQW02R4IBIlBMV0tqaEp0cVZBYm5TZTFxVU5NRzdBYlBtaklHNTR1ODiCAQtkaUlPZWZDc3Z0Y4IBC2R1Y1BCVERXcm9nggELOGdOclo0bEFuQXeCASJQTFdLamhKdHFWQWJtTXVaM3NhcVJJQmltQUtJTVlrdDBFggEiUEw3OFJocFVVS1N3ZllyX2JLSHE3U1dmVENCR2FkX3h4UIIBIlBMZnFNaFRXTkJUZTBQWTl4dW5PenNQNWttWUl6Mkh1N2mCAQtUZWYxZTlGaVNSMIIBIlBMUDlJTzRVWU5GMFZkQWFqUF81cFlHLWpHMkpSckc3MnOCASJQTGg2WWsycnBadTJKMk1jcDJmQmhzbHdoUFdlN1dqRUVUggELWlVYS0czSkZzemOCAQticmFwN29CbV80Y4IBIlBMdTBXXzlsSUk5YWdpQ1VaWVJzdnRHVFhkeGt6UHlJdGeCAQtGUWRhVXY5NW1SOIIBC2xJM2laNXhNSUk4sgEGCgQIGRAC",
+    "next_page_token": "SBSCAQtxejBhR1lycmxoVYIBC0czZS1jcEw3b2ZjggELdTV2V0ZmWjZDc2OCASJQTDZRUkVqOHRlMVA0LW84dHZJM1JGNU5PRWUwQW16ZDMwggEiUEw0Y1V4ZUdrY0M5aXZCZl9lS0NQSUFZWFd6TGxQQW02R4IBIlBMV0tqaEp0cVZBYm5TZTFxVU5NRzdBYlBtaklHNTR1ODiCAQtkaUlPZWZDc3Z0Y4IBC2R1Y1BCVERXcm9nggELOGdOclo0bEFuQXeCASJQTFdLamhKdHFWQWJtTXVaM3NhcVJJQmltQUtJTVlrdDBFggEiUEw3OFJocFVVS1N3ZllyX2JLSHE3U1dmVENCR2FkX3h4UIIBIlBMZnFNaFRXTkJUZTBQWTl4dW5PenNQNWttWUl6Mkh1N2mCAQtUZWYxZTlGaVNSMIIBIlBMUDlJTzRVWU5GMFZkQWFqUF81cFlHLWpHMkpSckc3MnOCASJQTGg2WWsycnBadTJKMk1jcDJmQmhzbHdoUFdlN1dqRUVUggELWlVYS0czSkZzemOCAQticmFwN29CbV80Y4IBIlBMdTBXXzlsSUk5YWdpQ1VaWVJzdnRHVFhkeGt6UHlJdGeCAQtGUWRhVXY5NW1SOIIBC2xJM2laNXhNSUk4sgEGCgQIGRAC"
+  }
+}

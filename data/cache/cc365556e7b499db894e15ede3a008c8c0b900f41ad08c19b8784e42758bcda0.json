@@ -1,0 +1,1857 @@
+{
+  "search_metadata": {
+    "id": "6b01728c6ee47a73c6adc5c3",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/_J2q7XAl6z39PZudJLQ12b46I3jfDtXMLYf3se8FH-Q/6b01728c6ee47a73c6adc5c3.json",
+    "markdown_endpoint": "https://serpapi.com/searches/_J2q7XAl6z39PZudJLQ12b46I3jfDtXMLYf3se8FH-Q/6b01728c6ee47a73c6adc5c3.md",
+    "created_at": "2026-11-21 10:29:32 UTC",
+    "processed_at": "2026-11-21 10:29:32 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=JavaScript+full+course+tutorial+for+Frontend+Developer&gl=in&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/_J2q7XAl6z39PZudJLQ12b46I3jfDtXMLYf3se8FH-Q/6b01728c6ee47a73c6adc5c3.html",
+    "total_time_taken": 2.83
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "JavaScript full course tutorial for Frontend Developer",
+    "gl": "in",
+    "hl": "en"
+  },
+  "search_information": {
+    "total_results": 3098854,
+    "video_results_state": "Results for exact spelling"
+  },
+  "ads_results": [
+    {
+      "position_on_page": 1,
+      "title": "Devour knowledge with Student Spaces",
+      "link": "https://www.youtube.com/watch?v=VdDiEf6YJnQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=VdDiEf6YJnQ",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=C0JR9jXIBa9nGCOz-kNAP4OPkqQWXouaPiwGH_-O_vBWwkB8QASAAYMmGgIDkpIgUggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAbH6_-oCqAMEyAMKqgT0Ak_QFcs3KhziHCohdQW9JWBjjjIg5BTHcDeWJtDrJwgRA754aQo5mc_ynRQB-lOiTGGYrqIFd2rrah4kQ4PjK5uQp5Joy4eWFBKi9O-OLJvaSwEOXNhDFiTRaiRFgCy04-5QuXCOtK5mK7SPZxDvWH-A7dIQQGgDWSJdh0GZWEBCQnUjPHytq-pIXDdsxsvL7nVEeXkbH3t3fQ4emxhhhNRvJMInF_rlHyx7JADmVOe2tQdZj_PAXEDN88pv5mlkk-Aj614GSBNp2s-EcJfvUhlIirCSqTvEl75zxCl2GkEal_ymtvaVXr4CdAmJLeluEhF4xBs093ffEv5m9T1TmqXR8hJiuLKiFyxslxOLE2evjjaW2D5kOkDxDxa0jkjL3mKH05D_jLU8voAzPx8Vu8fA-Ylk5Ovm-SzMLfNjlzPiHaYWHsPKxUhNQ2OAlyH0qN795uDzPhooL7UKSnNLABAnvmERoynI_CBHTlIeJCWjSrmQw4gF5tDvrViSBQgIE3j6zZ-VAaAGoQGAB7eFgJUBkAcEqAelz7ECqAfnnbECqAfonbECqAeD9rECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHnuqxAqgHn-qxAqgH-OuxAqgHvOqxAqgH7_GxAqgH_K-xAqgH1c4bqAe-2bECqAe_2bECqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKSCAtWZERpRWY2WUpuUagIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBhI2aDSNVAUWNCwqLHtmJgDYAGaCSxodHRwczovL2Fjcm9iYXQuYWRvYmUuY29tL3N0dWRlbnRzcGFjZXMvaG9tZbEJgbAQJz0tqWHICRfICY8ByAnCAboLOggDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AIC2AEDgAIBiAISugMFdmljYmbQCxPgCwGiDB9iGAoWY29tLmFkb2JlLmVjaG9zaWduLmlvc3gAiAEA0gwCEAGaDQETqg0CVVPIDQHSDekEaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL045NzI5NTIuMjc5MzgyQklETUFOQUdFUl9ERkFTSVRFL0IyMjM0NDQxMy4yNDE1MzkzMjE7ZGNfdHJrX2FpZD00MzgxMjg2MjI7ZGNfdHJrX2NpZD0xMTI4ODQ2MTM7ZGNfZGJtX3Rva2VuPUFPamVMTkVBQUFBNkNqTUtEQWdBRlFBQUFBQWRBQUFBQUJJTUNBQVZBQUFBQUIwQUFBQUFJaE1JNXREdnJWaW9Bc080OUFHd0FzeVc0dWtEUURzUWwtZTZBYXBTbzNMajY5SHFtUlNHRDdObEp0Yz07ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07bHRkPTtkY190ZHY9MTtkY190cmFuc3BhcmVudD0xO2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNDSWlqbkFnRGdWdDNULXBrTHRRNjFaMUNKa1ZlYzdZcVNpek05YnBCS2szak1MUHF6TjhPZ2M3S0VyeS1EWkFFUi1MdjlXOC1xSGdDbFJCQTtkY19wdWJpZD02P2h0dHBzOi8vYWNyb2JhdC5hZG9iZS5jb20vc3R1ZGVudHNwYWNlcy9ob21lP3NkaWQ9VjZOWktDUzYmbXY9c29jaWFsJm12Mj1wYWlkc29jJnhfYXBpX2NsaWVudF9pZD1wYWlkbWVkaWEmeF9hcGlfY2xpZW50X2xvY2F0aW9uPWFkc19WNk5aS0NTNiZnYWRfc291cmNlPTKwE-PuqCS4E____________wGIFAiwFAPAFYGAgEDQFQHYFQGYFgGoFgGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF1e_wgIaPhjwuhcGKAAwADgB0BgB8BgB&gclid=EAIaIQobChMImcGose2YmAMVbD8EBB3gMTlVEAEYASAAEgJEFPD_BwE&num=1&cid=CAASqgHkaPcRwjMUru_fSnAVVq2tDjkRZnQ3lRGhzJzLFgo0SezgsUib02f85TvvkAXP3QV9yotH8p8Jm5A89FpXODOiQNbansBkhsLmdkEBI8mCU0I7V7eRHL0EcnvttAHXdn27ypAeRi6t8LABz9DVuCDML4MldBgU3agXNLhAPXSgILwkEPk6nYwJto8URMx_TeDuMTzXarGPqDlMsVDbxWR0hSTdqYERhu-VQQ&ad_cpn=%5BCPN%5D&sig=AOD64_2ZzNQg-RSK0ZmBUyt1b-IA8GXnMg&ctype=110&video_id=VdDiEf6YJnQ&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Adobe",
+        "thumbnail": "https://yt3.ggpht.com/proxy/MOuz2I13I1fAnFfngtXtL_W4we9dtMgr0pZOHx9ZvXrWe0TzDLTj2mq2_seyh8bAOYiFhihUkC0bcCbQ2Rr3ROUyAm-g7fKx7ikqVy2aYwv8ap82JEQltB0uNj5JlrrMcTbQ-wFlNo0DfytWwYBrrCyx4-VnwgCwx-dn0fy6KEEwJzLjssuJHIvXA-MdWMvBvChh3bzxW7-sQCuvX2mDwrBOQUGt_eZzMbPzNL_oO6Ke1vjjr2458wPYmALVc80eUKLvvs8=w68-h68-nd"
+      },
+      "description": "Student Spaces is a smarter way to study. Free for students.",
+      "thumbnail": {
+        "static": "https://tpc.googlesyndication.com/simgad/16682586792110191416"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Exit tickets that show what students learned, and how your teaching landed with them.",
+      "link": "https://www.youtube.com/watch?v=vvU1IeXv0bw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=vvU1IeXv0bw",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=COkNFjXIBa9nGCOz-kNAP4OPkqQW1iJX7igGE1vDykhawkB8QAiAAYMmGgIDkpIgUggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAe6_h9FEqAMEyAMKqgTYAk_QFcs3KhziHCohdQW9JWBjjjIg5BTHcDeWJtDrJwgRA754aQo5mc_ynRQB-lOiTGGYrqIFd2rrah4kQ4PjK5uQp5Joy4eWFBKi9O-OLJvaSwEOXNhDFiTRaiRFgCy04-5QuXCOtK5mK7SPZxDvWH-A7dIQQGgDWSJdh0GZWEBCQnUjPHytq-pIXDdsxsvL7nVEeXkbH3t3fQ4emxhhhNRvJMInF_rlHyx7JADmVOe2tQdZj_PAXEDN88pv5mlkk-Aj614GSBNp2s-EcJfvUhlIirCSqTvEl75zxCl2GkEal_ymtvaVXr4CdAmJLeluEhF4xBs093ffEv5m9T1Lmnzk8yF3cHioeP4ius6LCYvrBvGYBDGqGkHhKSmMgLCGSHptHwKQ4gbEqja0hR4TZfFAgIlbyNbE0AQc1C-Nryv3EJgHH-F-UZmy1uw-ZhLWocY1ULekurUaiAXVyaqRW5IFCAgTeILP4NkfoAahAYAH7vfXsB-QBwSoB6XPsQKoB-edsQKoB-idsQKoB4P2sQKoB_nTsQKoB8nasQKoB6ngsQKoB6jSG6gHsdwbqAewm7ECqAf9srECqAfIz7ECqAfJz7ECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAee6rECqAef6rECqAf467ECqAe86rECqAfv8bECqAf8r7ECqAfVzhuoB77ZsQKoB7_ZsQKoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgHwsixApIIC3Z2VTFJZVh2MGJ3qAgB0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAGEjZoNI1UBRY0LCose2YmANgAZoJH2h0dHBzOi8vd3d3LmZlZWRiYWNrZm9yd2FyZC5vcmexCZE2IG7JQOU_yAkXyAmPAcgJwgG6CzoIAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAtgBAYACAYgCEroDBXZpY2Jm0AsT4AsB0gwCEAGaDQETqg0CVVPIDQHSDbEBaHR0cHM6Ly93d3cuZmVlZGJhY2tmb3J3YXJkLm9yZy8_dXRtX3NvdXJjZT1nb29nbGVhZHMmdXRtX21lZGl1bT1wYWlkX21lZGlhJnV0bV9jYW1wYWlnbj1mZWVkYmFjay1mb3J3YXJkJnV0bV9jb250ZW50PXZpZGVvLWRlaG1lci0yNjExMTMmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTI0NDYzOTc1NjM3uBP___________8BiBQHsBQDwBWBgIBA0BUB2BUBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRdHvcopH5_q87oXBigAMAA4AdAYAfAYAcIZAggB&gclid=EAIaIQobChMImcGose2YmAMVbD8EBB3gMTlVEAEYAiAAEgL9iPD_BwE&num=2&cid=CAASqgHkaPcRwjMUru_fSnAVVq2tDjkRZnQ3lRGhzJzLFgo0SezgsUib02f85TvvkAXP3QV9yotH8p8Jm5A89FpXODOiQNbansBkhsLmdkEBI8mCU0I7V7eRHL0EcnvttAHXdn27ypAeRi6t8LABz9DVuCDML4MldBgU3agXNLhAPXSgILwkEPk6nYwJto8URMx_TeDuMTzXarGPqDlMsVDbxWR0hSTdqYERhu-VQQ&ad_cpn=%5BCPN%5D&sig=AOD64_2sEd7-5R8-IEaFutw504onCSaGhA&ctype=110&video_id=vvU1IeXv0bw&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Feedback Forward",
+        "thumbnail": "https://yt3.ggpht.com/proxy/nRPaM_7XwuZ_XeqBBx7HJp0_OVtPK0iqPJWkw7exwGU2p_qMANaJ1dSF9OPgKGk1kxyRHZ9zb3kbC4TslH2B4YKLztS9xdcTL69-_PiQa59iZe4E7xL1krucWvjgzyNmCtetd6KamePwaKL4-EaeszqfXLCuDXrvdOXmQXP_87ZUPDJ9IuEdn9aAlI3LhWeLmMTnzmRO0C1M_Sc0mf2yaT562x8QXVwSdYKoiiO-sDMZdUKNq9ugJP9WbZi-xSNrUTaV=w68-h68-nd"
+      },
+      "description": "Spot what students missed. Hear how your lesson felt. Know where to start tomorrow.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/vvU1IeXv0bw/hq720.jpg?sqp=-oaymwFBCOgCEMoBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-DoACuAiKAgwIABABGEogUChlMA8=&rs=AOn4CLD0J6ZLogPBR1dfhPnIP-i8l3r0cQ"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Paper - design tool for teams & agents",
+      "link": "https://www.youtube.com/watch?v=IPtUwAF_2Hw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=IPtUwAF_2Hw",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=C9apojXIBa9nGCOz-kNAP4OPkqQXmhNjGigGejfOdmBawkB8QAyAAYMmGgIDkpIgUggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAaHM18VEqAMEyAMKqgTYAk_QFcs3KhziHCohdQW9JWBjjjIg5BTHcDeWJtDrJwgRA754aQo5mc_ynRQB-lOiTGGYrqIFd2rrah4kQ4PjK5uQp5Joy4eWFBKi9O-OLJvaSwEOXNhDFiTRaiRFgCy04-5QuXCOtK5mK7SPZxDvWH-A7dIQQGgDWSJdh0GZWEBCQnUjPHytq-pIXDdsxsvL7nVEeXkbH3t3fQ4emxhhhNRvJMInF_rlHyx7JADmVOe2tQdZj_PAXEDN88pv5mlkk-Aj614GSBNp2s-EcJfvUhlIirCSqTvEl75zxCl2GkEal_ymtvaVXr4CdAmJLeluEhF4xBs093ffEv5m9T1Lmnzk82dAcHioeP5GysaQCYvrbPTxEzGqGt9FUimMgLCGSAEeAQKQ4ga4_XzZhh4QdaVzgYk6nY660AQc1C-Nryv0AMw0HuF-UZmyt7lmGBLWocY1UMvz8NgZiAWaw8H2WpIFCAgTeOjKic4foAahAYAHoYSopR-QBwSoB6XPsQKoB-edsQKoB-idsQKoB4P2sQKoB_nTsQKoB8nasQKoB6ngsQKoB6jSG6gHsdwbqAewm7ECqAf9srECqAfIz7ECqAfJz7ECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAee6rECqAef6rECqAf467ECqAe86rECqAfv8bECqAf8r7ECqAfVzhuoB77ZsQKoB7_ZsQKoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxApIIC0lQdFV3QUZfMkh3qAgB0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAGEjZoNI1UBRY0LCose2YmANgAZoJFWh0dHBzOi8vcGFwZXIuZGVzaWduL7EJPTorMJJzv9jICRfICY8ByAnCAZgLAboLOggDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AIC2AEIgAIBiAISugMFdmljYmbQCxPSDAIQAZoNAROqDQJVU8gNAdINogFodHRwczovL3BhcGVyLmRlc2lnbi8_dXRtX3NvdXJjZT15b3V0dWJlJnV0bV9tZWRpdW09cHJvbW8mdXRtX2NhbXBhaWduPXdlbGNvbWUtdG8tcGFwZXItdXMmdXRtX2NvbnRlbnQ9d2VsY29tZS10by1wYXBlci11cyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjQ0MDc3Mjg1Mzi4E____________wGwFAPAFYGAgEDQFQHYFQGYFgGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF3Gi3MUy7YYuuhcGKAAwADgB0BgB8BgBwhkCCAE&gclid=EAIaIQobChMImcGose2YmAMVbD8EBB3gMTlVEAEYAyAAEgIEtPD_BwE&num=3&cid=CAASqgHkaPcRwjMUru_fSnAVVq2tDjkRZnQ3lRGhzJzLFgo0SezgsUib02f85TvvkAXP3QV9yotH8p8Jm5A89FpXODOiQNbansBkhsLmdkEBI8mCU0I7V7eRHL0EcnvttAHXdn27ypAeRi6t8LABz9DVuCDML4MldBgU3agXNLhAPXSgILwkEPk6nYwJto8URMx_TeDuMTzXarGPqDlMsVDbxWR0hSTdqYERhu-VQQ&ad_cpn=%5BCPN%5D&sig=AOD64_3-I3EFR6-zyMsG0M4zbcrAexAsbw&ctype=110&video_id=IPtUwAF_2Hw&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Paper Design",
+        "thumbnail": "https://yt3.ggpht.com/Di3Pxjp8YgrEw4FpVuGnKd3Hg5yj2ri03JcJZc-Zp4sdqG-DsZyktb6U8AwekwGF2vkuWByz=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "description": "Walk through a full Paper workflow from connecting to Paper's MCP to shipping back to code",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/IPtUwAF_2Hw/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAALgawHZO2eN1Wy_eCqRD0zzYSoQ"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Turn long lectures into clear、structured knowledge summaries.",
+      "link": "https://www.youtube.com/watch?v=ihn1m9AoiBc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ihn1m9AoiBc",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CSa63jXIBa9nGCOz-kNAP4OPkqQWJnqOHiwG6ofv_6BWwkB8QBCAAYMmGgIDkpIgUggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAcrdkKNEqAMEyAMKqgTIAk_QFcs3KhziHCohdQW9JWBjjjIg5BTHcDeWJtDrJwgRA754aQo5mc_ynRQB-lOiTGGYrqIFd2rrah4kQ4PjK5uQp5Joy4eWFBKi9O-OLJvaSwEOXNhDFiTRaiRFgCy04-5QuXCOtK5mK7SPZxDvWH-A7dIQQGgDWSJdh0GZWEBCQnUjPHytq-pIXDdsxsvL7nVEeXkbH3t3fQ4emxhhhNRvJMInF_rlHyx7JADmVOe2tQdZj_PAXEDN88pv5mlkk-Aj614GSBNp2s-EcJfvUhlIirCSqTvEl75zxCl2GkEal_ymtvaVXr4CdAmJLeluEhF4xBs093ffEv5m9T1Lmnzk8zJ9cHiteP4i2o_ANovrNLyUdDGqGjdO3CmMgLCGSEtBEQKQ8gbv2UfUhB4YH-MlgKH0TWEX7zTzQehglREkszKd9BrItqaIBeXs0_ZakgUICBN4sILsqR-gBqEBgAfKleGCH5AHBKgHpc-xAqgH552xAqgH6J2xAqgHg_axAqgH-dOxAqgHydqxAqgHqeCxAqgHqNIbqAex3BuoB7CbsQKoB_2ysQKoB8jPsQKoB8nPsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB57qsQKoB5_qsQKoB_jrsQKoB7zqsQKoB-_xsQKoB_yvsQKoB9XOG6gHvtmxAqgHv9mxAqgHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECkggLaWhuMW05QW9pQmOoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAYSNmg0jVQFFjQsKix7ZiYA2ABmgkraHR0cHM6Ly9lY2hvLm1lZXR3aGFsZS5haS9wcm9kdWN0cy9lY2hvLXByb7EJk687fjR_-f_ICRfICY8ByAnCAZgLAboLOggDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AIC2AEBgAIBiAISugMFdmljYmbQCxPSDAIQAZoNAROqDQJVU8gNAdINU2h0dHBzOi8vZWNoby5tZWV0d2hhbGUuYWkvcHJvZHVjdHMvZWNoby1wcm8_Z2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTI0NDA4MDI4NzczuBP___________8BiBQBsBQDwBWBgIBA0BUB2BUBmBYBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRch8Yi11IieMLoXBigAMAA4AdAYAfAYAcIZAggB&gclid=EAIaIQobChMImcGose2YmAMVbD8EBB3gMTlVEAEYBCAAEgLhnPD_BwE&num=4&cid=CAASqgHkaPcRwjMUru_fSnAVVq2tDjkRZnQ3lRGhzJzLFgo0SezgsUib02f85TvvkAXP3QV9yotH8p8Jm5A89FpXODOiQNbansBkhsLmdkEBI8mCU0I7V7eRHL0EcnvttAHXdn27ypAeRi6t8LABz9DVuCDML4MldBgU3agXNLhAPXSgILwkEPk6nYwJto8URMx_TeDuMTzXarGPqDlMsVDbxWR0hSTdqYERhu-VQQ&ad_cpn=%5BCPN%5D&sig=AOD64_0UwI1m-E-HxFjmihvxBz5HE8VPGA&ctype=110&video_id=ihn1m9AoiBc&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Whale Echo",
+        "thumbnail": "https://yt3.ggpht.com/proxy/Tb9NoK22jFeIDpBXbZw0kppL5kKISf2V5yoVx7WrdRTleDgf_Y24S6UbB7-k6NY_wowZVcJfGW9wxUBeTH3osJ0hZD2fSI13bWJBWgVMBl7Vlos2HvmMxJZXuybILTWRQ1RI3U0xfqmPlKtoCcqAa6peIDlplY85hy8FppWEbaOpO7BOGivR1j6ivSXv2WkHZUYcCwUqiKZUgIIrZivHLRt0ZR7cuBVqadOpmupFgPNhzVNcVQMBvCd9zZ850DQ3NrBlESc=w68-h68-nd"
+      },
+      "description": "Echo: AI study sidekick saves your lecture audio and study notes",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ihn1m9AoiBc/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDFZrnUnLmR3tY6Ep-N7BjCFKoRdg"
+      }
+    }
+  ],
+  "video_results": [
+    {
+      "position_on_page": 2,
+      "title": "JavaScript Tutorial Full Course - Beginner to Pro",
+      "link": "https://www.youtube.com/watch?v=EerdGm-ehJQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=EerdGm-ehJQ",
+      "video_id": "EerdGm-ehJQ",
+      "channel": {
+        "name": "SuperSimpleDev",
+        "channel_id": "UCB6dvaWu0N8uVq2yKsZ5s5g",
+        "link": "https://www.youtube.com/@SuperSimpleDev",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_laf9dDyNATE1_RdVUKthwnwT9TSm9N0my0jL2H8gCvjw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 10066938,
+      "length": "22:15:57",
+      "description": "Get a certificate for this course: https://courses.supersimple.dev/courses/javascript or Frontend Bundle (React, JS, HTML CSS): ...",
+      "extensions": [
+        "Lecture"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/EerdGm-ehJQ/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBQkiEYfVHfEvavyYUOXWae89vSvA",
+        "rich": "https://i.ytimg.com/an_webp/EerdGm-ehJQ/mqdefault_6s.webp?du=3000&sqp=CJiohdgG&rs=AOn4CLBsqIhwKdNM9KOQxoOKWcx9J9hTPw"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/EerdGm-ehJQ/hqdefault.jpg",
+          "time_start": 0
+        },
+        {
+          "title": "1 JavaScript Basics",
+          "thumbnail": "https://i.ytimg.com/vi/EerdGm-ehJQ/hqdefault.jpg",
+          "time_start": 121
+        },
+        {
+          "title": "2 Numbers and Math",
+          "thumbnail": "https://i.ytimg.com/vi/EerdGm-ehJQ/hqdefault.jpg",
+          "time_start": 888
+        },
+        {
+          "title": "3 Strings",
+          "thumbnail": "https://i.ytimg.com/vi/EerdGm-ehJQ/hqdefault.jpg",
+          "time_start": 2606
+        },
+        {
+          "title": "4 HTML CSS Review, console.log",
+          "thumbnail": "https://i.ytimg.com/vi/EerdGm-ehJQ/hqdefault.jpg",
+          "time_start": 4052
+        },
+        {
+          "title": "5 Variables",
+          "thumbnail": "https://i.ytimg.com/vi/EerdGm-ehJQ/hqdefault.jpg",
+          "time_start": 6666
+        },
+        {
+          "title": "6 Booleans and If-Statements",
+          "thumbnail": "https://i.ytimg.com/vi/EerdGm-ehJQ/hqdefault.jpg",
+          "time_start": 9175
+        },
+        {
+          "title": "7 Functions",
+          "thumbnail": "https://i.ytimg.com/vi/EerdGm-ehJQ/hqdefault.jpg",
+          "time_start": 12852
+        },
+        {
+          "title": "8 Objects",
+          "thumbnail": "https://i.ytimg.com/vi/EerdGm-ehJQ/hqdefault.jpg",
+          "time_start": 15345
+        },
+        {
+          "title": "9 Document Object Model (DOM)",
+          "thumbnail": "https://i.ytimg.com/vi/EerdGm-ehJQ/hqdefault.jpg",
+          "time_start": 19546
+        },
+        {
+          "title": "10 HTML, CSS, and JavaScript Together",
+          "thumbnail": "https://i.ytimg.com/vi/EerdGm-ehJQ/hqdefault.jpg",
+          "time_start": 23931
+        },
+        {
+          "title": "11 Arrays and Loops",
+          "thumbnail": "https://i.ytimg.com/vi/EerdGm-ehJQ/hqdefault.jpg",
+          "time_start": 27748
+        },
+        {
+          "title": "11 (Part 2) Arrays and Loops",
+          "thumbnail": "https://i.ytimg.com/vi/EerdGm-ehJQ/hqdefault.jpg",
+          "time_start": 31384
+        },
+        {
+          "title": "12 Advanced Functions",
+          "thumbnail": "https://i.ytimg.com/vi/EerdGm-ehJQ/hqdefault.jpg",
+          "time_start": 34106
+        },
+        {
+          "title": "12 (Part 2) Advanced Functions",
+          "thumbnail": "https://i.ytimg.com/vi/EerdGm-ehJQ/hqdefault.jpg",
+          "time_start": 36622
+        },
+        {
+          "title": "13 Start the Amazon Project and Intro to Git",
+          "thumbnail": "https://i.ytimg.com/vi/EerdGm-ehJQ/hqdefault.jpg",
+          "time_start": 39537
+        },
+        {
+          "title": "14 Modules",
+          "thumbnail": "https://i.ytimg.com/vi/EerdGm-ehJQ/hqdefault.jpg",
+          "time_start": 44880
+        },
+        {
+          "title": "15 External Libraries",
+          "thumbnail": "https://i.ytimg.com/vi/EerdGm-ehJQ/hqdefault.jpg",
+          "time_start": 50193
+        },
+        {
+          "title": "16 Testing",
+          "thumbnail": "https://i.ytimg.com/vi/EerdGm-ehJQ/hqdefault.jpg",
+          "time_start": 56077
+        },
+        {
+          "title": "Testing Frameworks",
+          "thumbnail": "https://i.ytimg.com/vi/EerdGm-ehJQ/hqdefault.jpg",
+          "time_start": 57504
+        },
+        {
+          "title": "17 Object-Oriented Programming",
+          "thumbnail": "https://i.ytimg.com/vi/EerdGm-ehJQ/hqdefault.jpg",
+          "time_start": 63390
+        },
+        {
+          "title": "Classes",
+          "thumbnail": "https://i.ytimg.com/vi/EerdGm-ehJQ/hqdefault.jpg",
+          "time_start": 65169
+        },
+        {
+          "title": "Inheritance",
+          "thumbnail": "https://i.ytimg.com/vi/EerdGm-ehJQ/hqdefault.jpg",
+          "time_start": 67910
+        },
+        {
+          "title": "18 Intro to Backend, Callbacks, Async Await",
+          "thumbnail": "https://i.ytimg.com/vi/EerdGm-ehJQ/hqdefault.jpg",
+          "time_start": 70379
+        },
+        {
+          "title": "Promises and fetch",
+          "thumbnail": "https://i.ytimg.com/vi/EerdGm-ehJQ/hqdefault.jpg",
+          "time_start": 73857
+        },
+        {
+          "title": "Async Await",
+          "thumbnail": "https://i.ytimg.com/vi/EerdGm-ehJQ/hqdefault.jpg",
+          "time_start": 76367
+        },
+        {
+          "title": "Next steps after this course",
+          "thumbnail": "https://i.ytimg.com/vi/EerdGm-ehJQ/hqdefault.jpg",
+          "time_start": 80048
+        }
+      ]
+    },
+    {
+      "position_on_page": 5,
+      "title": "JavaScript Course for Beginners – Your First Step to Web Development",
+      "link": "https://www.youtube.com/watch?v=W6NZfCO5SIk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=W6NZfCO5SIk",
+      "video_id": "W6NZfCO5SIk",
+      "channel": {
+        "name": "Programming with Mosh",
+        "channel_id": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "link": "https://www.youtube.com/@programmingwithmosh",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8y ago",
+      "views": 15477003,
+      "length": "48:17",
+      "description": "Learn JavaScript basics with this quick, beginner-friendly course! ⚡ Perfect for new coders ready to build real skills and start ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/W6NZfCO5SIk/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBGhCIxgF1aCVal6aKL7YbnPApE8Q",
+        "rich": "https://i.ytimg.com/an_webp/W6NZfCO5SIk/mqdefault_6s.webp?du=3000&sqp=CIbkhdgG&rs=AOn4CLCSvvZfmKdowqwEaeY2nzAyTwHknw"
+      },
+      "chapters": [
+        {
+          "title": "What is JavaScript",
+          "thumbnail": "https://i.ytimg.com/vi/W6NZfCO5SIk/hqdefault_866.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB_xpmccj12-5Th5cveVLRPRRuDOA",
+          "time_start": 0
+        },
+        {
+          "title": "Setting Up the Development Environment",
+          "thumbnail": "https://i.ytimg.com/vi/W6NZfCO5SIk/hqdefault_282933.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC6y1GUhz6tXw2OQwwUKT8eqB9_9Q",
+          "time_start": 281
+        },
+        {
+          "title": "JavaScript in Browsers",
+          "thumbnail": "https://i.ytimg.com/vi/W6NZfCO5SIk/hqdefault_474800.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLChWQqO_NMx4hzbgS7JhmtZlBoZ1g",
+          "time_start": 472
+        },
+        {
+          "title": "Separation of Concerns",
+          "thumbnail": "https://i.ytimg.com/vi/W6NZfCO5SIk/hqdefault_702800.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLACLVJdL268TX2RYsmH8Rd8ZGL5CA",
+          "time_start": 701
+        },
+        {
+          "title": "JavaScript in Node",
+          "thumbnail": "https://i.ytimg.com/vi/W6NZfCO5SIk/hqdefault_828233.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBtX_kIcvJ_CumDJX8ABFPuvkDTWQ",
+          "time_start": 827
+        },
+        {
+          "title": "Variables",
+          "thumbnail": "https://i.ytimg.com/vi/W6NZfCO5SIk/hqdefault_979200.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDZK_3R8ILJue4bFyQ2_5aNNXBROQ",
+          "time_start": 971
+        },
+        {
+          "title": "Constants",
+          "thumbnail": "https://i.ytimg.com/vi/W6NZfCO5SIk/hqdefault_1311166.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBmaDckauLSnRttEhfqKEaSk2rn3Q",
+          "time_start": 1309
+        },
+        {
+          "title": "Primitive Types",
+          "thumbnail": "https://i.ytimg.com/vi/W6NZfCO5SIk/hqdefault_1418133.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBlCrD9ZsVfqRfBYv1j_fVIucBXww",
+          "time_start": 1415
+        },
+        {
+          "title": "Dynamic Typing",
+          "thumbnail": "https://i.ytimg.com/vi/W6NZfCO5SIk/hqdefault_1613100.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDPbDfi4F7FVv3Pk7ylrq4bUoJRNg",
+          "time_start": 1607
+        },
+        {
+          "title": "Objects",
+          "thumbnail": "https://i.ytimg.com/vi/W6NZfCO5SIk/hqdefault_1810066.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC4np72FzSgZjUOpOVb2iztwbuEZw",
+          "time_start": 1806
+        },
+        {
+          "title": "Arrays",
+          "thumbnail": "https://i.ytimg.com/vi/W6NZfCO5SIk/hqdefault_2125033.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCzq4M9Xtlwoc5vGdmtxounJESYCw",
+          "time_start": 2122
+        },
+        {
+          "title": "Functions",
+          "thumbnail": "https://i.ytimg.com/vi/W6NZfCO5SIk/hqdefault_2384133.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBHD27yS0sV7iCrR0uxk49S6cF5jg",
+          "time_start": 2381
+        },
+        {
+          "title": "Types of Functions",
+          "thumbnail": "https://i.ytimg.com/vi/W6NZfCO5SIk/hqdefault_2665966.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDusu3KUEdly7Nt1zNTdg7IyaAc0A",
+          "time_start": 2662
+        }
+      ]
+    },
+    {
+      "position_on_page": 6,
+      "title": "JavaScript Tutorial for Beginners - Learn in 15 Minutes ( Crash Course 2026 )",
+      "link": "https://www.youtube.com/watch?v=TioxU0wdMQg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=TioxU0wdMQg",
+      "video_id": "TioxU0wdMQg",
+      "channel": {
+        "name": "ITower",
+        "channel_id": "UCafv9tGHlEhZjqGkw7DFFCA",
+        "link": "https://www.youtube.com/@ITowerAcademy",
+        "thumbnail": "https://yt3.ggpht.com/Di1sBaZLOzkncU9UKdB-iSdZ_kmktZJEAfvXpEqEyscqlOuqQyS2nkmIx_9aG1zxRfgfUeZJrUI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 129894,
+      "length": "13:49",
+      "description": "In this video, we're taking a beginner-friendly dive into JavaScript - the perfect starting point if you're new to coding. This is a ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/TioxU0wdMQg/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBED4iMXFYCYhd54hfNMl5OtqeMmQ",
+        "rich": "https://i.ytimg.com/an_webp/TioxU0wdMQg/mqdefault_6s.webp?du=3000&sqp=CJjYhdgG&rs=AOn4CLBrpXzMxbT1FKZxm4qsf4g5IZvEZg"
+      },
+      "chapters": [
+        {
+          "title": "Welcome to JavaScript in 15 Minutes",
+          "thumbnail": "https://i.ytimg.com/vi/TioxU0wdMQg/hqdefault_12900.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAecfg_-oxGJjQmNPbrGdNTqY8sGQ",
+          "time_start": 0
+        },
+        {
+          "title": "What is JavaScript and why should you learn it?",
+          "thumbnail": "https://i.ytimg.com/vi/TioxU0wdMQg/hqdefault_25000.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC1OYbFdRR3Ak8-_0gY6o5sDKosdg",
+          "time_start": 17
+        },
+        {
+          "title": "Like this video? Don’t forget to hit SUBSCRIBE!",
+          "thumbnail": "https://i.ytimg.com/vi/TioxU0wdMQg/hqdefault_40000.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCCCfS_eUP-dS0uCi7PD6b3WBRATw",
+          "time_start": 36
+        },
+        {
+          "title": "JavaScript’s single-threaded and asynchronous behavior",
+          "thumbnail": "https://i.ytimg.com/vi/TioxU0wdMQg/hqdefault_61866.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBGhs9t16ldYyLVAOvnaQlZb-GOmQ",
+          "time_start": 47
+        },
+        {
+          "title": "Declaring variables and understanding let, const, and var",
+          "thumbnail": "https://i.ytimg.com/vi/TioxU0wdMQg/hqdefault_90866.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBBFcGutnzBIrH4VKCCR5hJ5IkMKg",
+          "time_start": 65
+        },
+        {
+          "title": "How memory works in JavaScript",
+          "thumbnail": "https://i.ytimg.com/vi/TioxU0wdMQg/hqdefault_120866.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCdC9OdHk1teLXJV2Dsf1j_6DB2UQ",
+          "time_start": 113
+        },
+        {
+          "title": "JavaScript data types",
+          "thumbnail": "https://i.ytimg.com/vi/TioxU0wdMQg/hqdefault_185800.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAgvrlTIawjTAX9Pb-b0udUGK8Jhw",
+          "time_start": 164
+        },
+        {
+          "title": "Writing and using functions",
+          "thumbnail": "https://i.ytimg.com/vi/TioxU0wdMQg/hqdefault_340833.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBhVhTly0rYqDGa1NQUn9IUPgGWUg",
+          "time_start": 327
+        },
+        {
+          "title": "Making decisions with if statements",
+          "thumbnail": "https://i.ytimg.com/vi/TioxU0wdMQg/hqdefault_490833.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCxCu1YLP348VToe-R5UYnYbS5h9g",
+          "time_start": 486
+        },
+        {
+          "title": "Using loops with practical examples",
+          "thumbnail": "https://i.ytimg.com/vi/TioxU0wdMQg/hqdefault_557733.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD8-hjy4AKM3UopsFf7vaS-H_zcnA",
+          "time_start": 528
+        },
+        {
+          "title": "A quick intro to asynchronous JavaScript",
+          "thumbnail": "https://i.ytimg.com/vi/TioxU0wdMQg/hqdefault_651300.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB8hb94RzSTrxXQ8BuQvZJvEnvWCQ",
+          "time_start": 624
+        },
+        {
+          "title": "Arrow functions and a bit about writing more efficient code",
+          "thumbnail": "https://i.ytimg.com/vi/TioxU0wdMQg/hqdefault_709266.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCzW27B-lFgHHpC35VbQwbwf5x9oA",
+          "time_start": 692
+        },
+        {
+          "title": "Putting it all together",
+          "thumbnail": "https://i.ytimg.com/vi/TioxU0wdMQg/hqdefault_735133.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCYEPuaDegMbGR_QQMTL6FH8tf6Pw",
+          "time_start": 735
+        },
+        {
+          "title": "Final thoughts",
+          "thumbnail": "https://i.ytimg.com/vi/TioxU0wdMQg/hqdefault_786066.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBeKjZ8YNZY92dD7QdhKcykHt68NA",
+          "time_start": 780
+        }
+      ]
+    },
+    {
+      "position_on_page": 8,
+      "title": "Learn JavaScript - Full Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=PkZNo7MFNFg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=PkZNo7MFNFg",
+      "video_id": "PkZNo7MFNFg",
+      "channel": {
+        "name": "freeCodeCamp.org and Beau Carnes",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 21188567,
+      "length": "3:26:43",
+      "description": "This complete 134-part JavaScript tutorial for beginners will teach you everything you need to know to get started with the ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/PkZNo7MFNFg/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA5FDkpYs-G0v64d2KMJ4g3WMX6bQ",
+        "rich": "https://i.ytimg.com/an_webp/PkZNo7MFNFg/mqdefault_6s.webp?du=3000&sqp=CIjihdgG&rs=AOn4CLBs8y1jvt-FHOcKw3tJhl2sUVyNlA"
+      },
+      "chapters": [
+        {
+          "title": "Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_1333.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDIKXpjX_tkMi8FiHL5nuwFq-xV6A",
+          "time_start": 0
+        },
+        {
+          "title": "Running JavaScript",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_84833.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDI3xoBGrKQ59ouwRTBKTlBwvyauw",
+          "time_start": 84
+        },
+        {
+          "title": "Comment Your Code",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_263300.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCtyORyoNG8Ha1Fwj3qmL63EAKkbQ",
+          "time_start": 263
+        },
+        {
+          "title": "Declare Variables",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_356266.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB7D3k-zdDUER2fj7UFcpc9dqA5RQ",
+          "time_start": 356
+        },
+        {
+          "title": "Storing Values with the Assignment Operator",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_380900.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBwwG37dZQD_cJc6UyLtbjgDLqe9Q",
+          "time_start": 375
+        },
+        {
+          "title": "Initializing Variables with the Assignment Operator",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_691233.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDunDnfoCBnxoqtJthxHS3hzDX87Q",
+          "time_start": 691
+        },
+        {
+          "title": "Uninitialized Variables",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_718233.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLByKUPzsnhDFRAKHAa6Lpb9iI2KOw",
+          "time_start": 718
+        },
+        {
+          "title": "Case Sensitivity in Variables",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_760833.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBBDi3TUAx1QAa4FAq_DbqZi7LC6w",
+          "time_start": 760
+        },
+        {
+          "title": "Basic Math",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_846166.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBaKTnXHpYG_od56qkvvl7Vyg0wiA",
+          "time_start": 845
+        },
+        {
+          "title": "Increment and Decrement",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_930133.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAtZAiwfJv9pnnh3-Lh-_c7pOCnFA",
+          "time_start": 930
+        },
+        {
+          "title": "Decimal Numbers",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_982233.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDedwSPMbL9cBrzdOyh7fSqRIJeCg",
+          "time_start": 982
+        },
+        {
+          "title": "Multiply Two Decimals",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_1008100.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB7uunJ4SHV26fqAu4wbvLMB1LMmw",
+          "time_start": 1008
+        },
+        {
+          "title": "Divide Decimals",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_1052200.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDCN1IS6UhyyiS-aLNLblf8b26w_A",
+          "time_start": 1038
+        },
+        {
+          "title": "Finding a Remainder",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_1054100.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC04bZXe_TD_ZFiISC0FxN-_UsMbA",
+          "time_start": 1053
+        },
+        {
+          "title": "Augmented Math Operations",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_1102066.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDsOLJfK3LF97MAGrwdupNetDgD3Q",
+          "time_start": 1102
+        },
+        {
+          "title": "Declare String Variables",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_1280033.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDWuzIzuINLMwFpcfz_OSXsM9GgFw",
+          "time_start": 1279
+        },
+        {
+          "title": "Escaping Literal Quotes",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_1323000.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBpce4X9ZbsqfppHgypD_ssBYRCUw",
+          "time_start": 1321
+        },
+        {
+          "title": "Quoting Strings with Single Quotes",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_1426000.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC67n08lKqCgBK6U0ZhDi10ntad2A",
+          "time_start": 1424
+        },
+        {
+          "title": "Escape Sequences",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_1518000.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCBx5-hiffdn1i9PNNDxe1NXWkXvg",
+          "time_start": 1518
+        },
+        {
+          "title": "Plus Operator",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_1607900.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA98keI1QOruLO034wSiPmhZPGwIg",
+          "time_start": 1606
+        },
+        {
+          "title": "Plus Equals Operator",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_1669866.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLASQz5O0tVq7YKcu-tGq8NF6BIIjw",
+          "time_start": 1669
+        },
+        {
+          "title": "Constructing Strings with Variables",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_1741333.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB13Q6B9vw65U9kKcb2DF4EbogFxQ",
+          "time_start": 1741
+        },
+        {
+          "title": "Appending Variables to Strings",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_1814300.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA8vc44uwfifzFrbmz6FrIeOvBqTA",
+          "time_start": 1814
+        },
+        {
+          "title": "Length of a String",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_1871800.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCtS3uk5YBaPZUWAM_HWUp-TvvFUw",
+          "time_start": 1871
+        },
+        {
+          "title": "Bracket Notation",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_1921866.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCPurI_e1GOhLfFjj37_FtWOzvPWQ",
+          "time_start": 1921
+        },
+        {
+          "title": "Understand String Immutability",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_2007200.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCZFaJbuT-68k2yW6R2iCeGfJXiRg",
+          "time_start": 2007
+        },
+        {
+          "title": "Find the Nth Character",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_2063166.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAF8a1itPuZHSZ2qOJx2OXlnQuZaQ",
+          "time_start": 2063
+        },
+        {
+          "title": "Word Blanks",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_2190133.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCthsSAUSpu8IWYxIzm9yOX7Bs7wA",
+          "time_start": 2188
+        },
+        {
+          "title": "Arrays",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_2447100.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBDzFHHS1PGv_EE11eA00bow7DzMQ",
+          "time_start": 2444
+        },
+        {
+          "title": "Nest Arrays",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_2506066.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB99Pjadlqh5IQnil9TyTscpx3pfA",
+          "time_start": 2503
+        },
+        {
+          "title": "Access Array Data",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_2555033.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDYMf44w91naALdsdh1Rv99Q_xerw",
+          "time_start": 2553
+        },
+        {
+          "title": "Modify Array Data",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_2617000.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDNqXckIrY4s68UVUNkWlLYtOT30w",
+          "time_start": 2614
+        },
+        {
+          "title": "Access Multi-Dimensional Arrays",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_2688000.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCvrJ81-OgLo16YP83f9T2FSQ97aA",
+          "time_start": 2688
+        },
+        {
+          "title": "push()",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_2791933.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCzcSJlM1_evNiA4GTSF3HQIQQVKg",
+          "time_start": 2790
+        },
+        {
+          "title": "pop()",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_2852033.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCllBRhMiTyzCkqcOVZn-xj-mddeQ",
+          "time_start": 2849
+        },
+        {
+          "title": "shift()",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_2914866.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD3KFplBznLvqu9VA3LGCl7sASGeg",
+          "time_start": 2913
+        },
+        {
+          "title": "unshift()",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_2963400.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCauViMxSkLmDlzIJWCQkOsaqPs_A",
+          "time_start": 2963
+        },
+        {
+          "title": "Shopping List",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_3036800.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLACLJ-e475R5eKKg5DiD72zpMJzJQ",
+          "time_start": 3036
+        },
+        {
+          "title": "Write Reusable with Functions",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_3101266.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCC5QzPu6ByfzPAjKSorExGq1IYVA",
+          "time_start": 3101
+        },
+        {
+          "title": "Arguments",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_3224233.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDBiTpbq8v_0x673JA3n8k7GcrE8w",
+          "time_start": 3221
+        },
+        {
+          "title": "Global Scope",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_3343200.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCuzMG9o1OqjltLkUub5K8MrjQ3oA",
+          "time_start": 3343
+        },
+        {
+          "title": "Local Scope",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_3571200.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBBUKf_h5UGy0fvJwqbkVhA3DV5_g",
+          "time_start": 3571
+        },
+        {
+          "title": "Global vs Local Scope in Functions",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_3647133.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA2Z0RjCjw2QyH6AHAE5U30fAIALg",
+          "time_start": 3646
+        },
+        {
+          "title": "Return a Value from a Function",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_3760233.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD7S5XuccMJsQpPZV3PZMG_DdGE6Q",
+          "time_start": 3760
+        },
+        {
+          "title": "Undefined Value returned",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_3837066.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAaCDIboDn6xXc6dqRmAahER8w-CQ",
+          "time_start": 3835
+        },
+        {
+          "title": "Assignment with a Returned Value",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_3895033.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCPki4W3Q5QvGJNeNsVOvcN6X_4CA",
+          "time_start": 3892
+        },
+        {
+          "title": "Stand in Line",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_3952000.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAsoRGMZVPWxm-toEaA-pvNAdEQ_g",
+          "time_start": 3952
+        },
+        {
+          "title": "Boolean Values",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_4121966.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBpS2FBfl2XOKggWUCVjBecif_K2Q",
+          "time_start": 4121
+        },
+        {
+          "title": "If Statements",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_4164000.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAGTJq0N95x0M_V7bw41pgsfuT1ag",
+          "time_start": 4164
+        },
+        {
+          "title": "Equality Operators",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_4312900.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCSSDyoOdr6ohQYiKwL9JdwKBewMw",
+          "time_start": 4311
+        },
+        {
+          "title": "And / Or Operators",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_4758933.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCTD5UAqvB4fZ1GViiQ5Bo6xQ9dBg",
+          "time_start": 4757
+        },
+        {
+          "title": "Else Statements",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_4897333.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDDRkRtj7MIm19IQPziitEu_ijivw",
+          "time_start": 4897
+        },
+        {
+          "title": "Else If Statements",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_4947800.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB6Z9xbmYBstmw70qjR3G3pvSQyow",
+          "time_start": 4947
+        },
+        {
+          "title": "Logical Order in If Else Statements",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_5012766.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAlEeAwyV8v9r8CRiUx8It--52EYg",
+          "time_start": 5010
+        },
+        {
+          "title": "Chaining If Else Statements",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_5085233.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDlV988rltQ8ENIwTBYJNxwP9wmgQ",
+          "time_start": 5085
+        },
+        {
+          "title": "Golf Code",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_5265200.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLABIhmGKmej1-J1FK4LYlrdsBD-4w",
+          "time_start": 5265
+        },
+        {
+          "title": "Switch Statements",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_5536166.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAbeWJogQHQiGTFW5zEv_r1tl1dSQ",
+          "time_start": 5535
+        },
+        {
+          "title": "Returning Boolean Values from Functions",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_6074133.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAJzxV6gMNYeJLez6HpHKPN1usMcg",
+          "time_start": 6071
+        },
+        {
+          "title": "Return Early Pattern for Functions",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_6140200.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAv7Q4-rpaQKv3uyhczIGtmnycm5A",
+          "time_start": 6140
+        },
+        {
+          "title": "Counting Cards",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_6221166.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDdDIYgvCbyROeIQzX4_D7_CF19VQ",
+          "time_start": 6218
+        },
+        {
+          "title": "Build Objects",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_6551033.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDbZvYjUk5hXwa97CVLTbN9WeCheA",
+          "time_start": 6551
+        },
+        {
+          "title": "Dot Notation",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_6648000.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBQ6o7CuusEulYMhI1S_WLyDRahkg",
+          "time_start": 6646
+        },
+        {
+          "title": "Bracket Notation",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_6693966.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAv74A9vePMHPmPWljn9QmAdY5w-Q",
+          "time_start": 6693
+        },
+        {
+          "title": "Variables",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_6768933.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAm3Pe9o4GMFMrcdn_EJVw3wUBvYw",
+          "time_start": 6767
+        },
+        {
+          "title": "Updating Object Properties",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_6814000.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDVEpMhnZbbYLuDQUPRGZ5SIHJNFA",
+          "time_start": 6814
+        },
+        {
+          "title": "Add New Properties to Object",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_6870000.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDZkgLuwkb-LqHB6kleuLstYWFRbw",
+          "time_start": 6870
+        },
+        {
+          "title": "Delete Properties from Object",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_6920900.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDHQoL2y4PemWxyJDkCf7n5Qh0Nmw",
+          "time_start": 6919
+        },
+        {
+          "title": "Objects for Lookups",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_6954300.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDZrv-vgekvZ_33pNeKExcnC9OD2w",
+          "time_start": 6954
+        },
+        {
+          "title": "Testing Objects for Properties",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_7063266.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBi89RKLc13tMYsa1JltO4P_BEZYA",
+          "time_start": 7063
+        },
+        {
+          "title": "Manipulating Complex Objects",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_7156233.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD2SD_KhaeqRC9T7LB8_6f2Sl8nFg",
+          "time_start": 7155
+        },
+        {
+          "title": "Nested Objects",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_7262200.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBql2wpAgLIwMy-4z7wiM-Bnfftuw",
+          "time_start": 7260
+        },
+        {
+          "title": "Nested Arrays",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_7315233.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCtRuSdQTvZC8fa5J1zy0mic-tRiw",
+          "time_start": 7313
+        },
+        {
+          "title": "Record Collection",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_7387133.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCtE_wxKgQ9EUI2E7N_ZKNc4o8gTw",
+          "time_start": 7386
+        },
+        {
+          "title": "While Loops",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_7815100.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCcIc8tk5VZJGWnsbqL1hKMIpcydg",
+          "time_start": 7815
+        },
+        {
+          "title": "For Loops",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_7896166.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDIx7HgndDd0hzY0A0KQoGMlnIukA",
+          "time_start": 7895
+        },
+        {
+          "title": "Odd Numbers With a For Loop",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_8036033.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAKA6zD6p9wedQJx1S0lS-sNVcNjQ",
+          "time_start": 8036
+        },
+        {
+          "title": "Count Backwards With a For Loop",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_8128000.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCuyiao11ayG5Ams_hhPK0hdZcYGg",
+          "time_start": 8128
+        },
+        {
+          "title": "Iterate Through an Array with a For Loop",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_8230966.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAo28QaWXl5xwdTepvx6I19eri6VQ",
+          "time_start": 8228
+        },
+        {
+          "title": "Nesting For Loops",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_8383933.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDTnoAXusXTMYX6y3unVm5xRKw-PQ",
+          "time_start": 8383
+        },
+        {
+          "title": "Do...While Loops",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_8565000.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBP1jQ41WZ929-gZ3Omqn8WoZAxAQ",
+          "time_start": 8565
+        },
+        {
+          "title": "Profile Lookup",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_8653900.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAVQI_4NarbE6lLU2MEO9Ba-jw8nA",
+          "time_start": 8652
+        },
+        {
+          "title": "Random Fractions and Whole Numbers",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_8898833.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCrlYN2qr9N0pPJrmkfdkbbRrBtcQ",
+          "time_start": 8898
+        },
+        {
+          "title": "parseInt Function",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_9108800.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBQl5tnyEx4A2ryeHXhfjDh4hmMLQ",
+          "time_start": 9106
+        },
+        {
+          "title": "Ternary Operator",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_9211800.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCiH0c8UtFf7JmWh0yqnzSL3UB1rw",
+          "time_start": 9209
+        },
+        {
+          "title": "Multiple Ternary Operators",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_9297233.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBT197CylFjgMua8Y8wqJRyPyD8FA",
+          "time_start": 9297
+        },
+        {
+          "title": "var vs let",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_9417200.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCf15S7YViIaOZUq2J3p9ePoRkb0Q",
+          "time_start": 9417
+        },
+        {
+          "title": "const Keyword",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_9692166.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDq8bw7mFJhoolKNblBoIMdlV4gUA",
+          "time_start": 9692
+        },
+        {
+          "title": "Mutate an Array Declared with const",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_9820200.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBI0VmNUplCab11-R6teUzZxK_njA",
+          "time_start": 9820
+        },
+        {
+          "title": "Prevent Object Mutation",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_9893100.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBqBLAYX4a8O6tvjwC9A4TxpgVHjw",
+          "time_start": 9892
+        },
+        {
+          "title": "Arrow Functions",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_10037066.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB4I1TpUZDDRpAbcawT0jztVo-Eew",
+          "time_start": 10037
+        },
+        {
+          "title": "Default Parameters",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_10384166.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAT6S-jP5fhwJ3b9D5YaXO9uGY_9w",
+          "time_start": 10384
+        },
+        {
+          "title": "Rest Operator",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_10442000.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCUL3GmAtGXOms6FbPwq7EZlYH-BA",
+          "time_start": 10440
+        },
+        {
+          "title": "Spread Operator",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_10531966.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBf-7CotYY0CK-re93PzlORiygxSw",
+          "time_start": 10531
+        },
+        {
+          "title": "Destructuring Assignment",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_10641066.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCT2PGSVTBLeR0i1cNxnpjlbybRfQ",
+          "time_start": 10638
+        },
+        {
+          "title": "Template Literals",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_11199000.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDy03z8QIS_OLh_EINbKwSW80SWGg",
+          "time_start": 11199
+        },
+        {
+          "title": "Simple Fields",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_11443000.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCcNCYkT23fWtpAbpVEcc2todTPKA",
+          "time_start": 11443
+        },
+        {
+          "title": "Declarative Functions",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_11544333.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD-AtToNlB510YtyyESo31GtiygEw",
+          "time_start": 11544
+        },
+        {
+          "title": "class Syntax",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_11577800.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCX3hRnM9r8JPRCWzdAv9ekX2lHOA",
+          "time_start": 11576
+        },
+        {
+          "title": "getters and setters",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_11711266.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC_aAIZS86rz8T1ep4hWaV6eOveRw",
+          "time_start": 11711
+        },
+        {
+          "title": "import and export",
+          "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault_12025300.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDEOSWhYrnjKgozVNJCpYji5FteOQ",
+          "time_start": 12025
+        }
+      ]
+    },
+    {
+      "position_on_page": 12,
+      "title": "JavaScript for Beginners - How I Wish I was Taught",
+      "link": "https://www.youtube.com/watch?v=GxW1Ei8yvSQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=GxW1Ei8yvSQ",
+      "video_id": "GxW1Ei8yvSQ",
+      "channel": {
+        "name": "Sajjaad Khader",
+        "channel_id": "UC7zZ2-Q_oxbUaoMVL0z51wg",
+        "link": "https://www.youtube.com/@SajjaadKhader",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/cs-8bhqefhiquqoe94NFueqi3z1t4Yrm_sQN09wbKi1fRwWX7GWAi4lfH0QU2bDGomYVsBXp=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6mo ago",
+      "views": 33709,
+      "length": "13:32",
+      "description": "If I had to learn JavaScript again from scratch and learn it FAST - this is exactly how I'd do it. Check out Genspark: ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/GxW1Ei8yvSQ/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLARHcmPREwggtxYuDV2kGigmZHVjQ",
+        "rich": "https://i.ytimg.com/an_webp/GxW1Ei8yvSQ/mqdefault_6s.webp?du=3000&sqp=CJDNhdgG&rs=AOn4CLCqU45GfpWaCD-7kSMlhcs-wVhNQQ"
+      },
+      "chapters": [
+        {
+          "title": "How To Learn Javascript FAST",
+          "thumbnail": "https://i.ytimg.com/vi/GxW1Ei8yvSQ/hqdefault_15866.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCjLW4n3Rje8Wo1azzyZKQZMNX1RA",
+          "time_start": 0
+        },
+        {
+          "title": "The 5-Level JavaScript Pyramid",
+          "thumbnail": "https://i.ytimg.com/vi/GxW1Ei8yvSQ/hqdefault_17966.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC6eUpRTA9eDcmzb9iw_LHLLWqOUw",
+          "time_start": 16
+        },
+        {
+          "title": "Layer 1: Foundations",
+          "thumbnail": "https://i.ytimg.com/vi/GxW1Ei8yvSQ/hqdefault_54333.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDwWgscIJzJ9VNlCMi-fMvlYNsEnA",
+          "time_start": 42
+        },
+        {
+          "title": "Think Like a Problem Solver",
+          "thumbnail": "https://i.ytimg.com/vi/GxW1Ei8yvSQ/hqdefault_91100.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCJt6FAshVERSXN-hZF-QQoY3ELBg",
+          "time_start": 78
+        },
+        {
+          "title": "Understand How JavaScript Thinks",
+          "thumbnail": "https://i.ytimg.com/vi/GxW1Ei8yvSQ/hqdefault_109066.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBRQn6njp4tyxtXuPr7aYrNNX3scg",
+          "time_start": 103
+        },
+        {
+          "title": "Build with Intention (70/30 Rule)",
+          "thumbnail": "https://i.ytimg.com/vi/GxW1Ei8yvSQ/hqdefault_127966.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDjGzwyhscOmetOlA0ZAr_PLiWjEg",
+          "time_start": 124
+        },
+        {
+          "title": "Layer 2: Environment & First Builds",
+          "thumbnail": "https://i.ytimg.com/vi/GxW1Ei8yvSQ/hqdefault_190866.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA8c-eZh1HTo2QCciBxTj6Fhnz_kg",
+          "time_start": 181
+        },
+        {
+          "title": "Setting Up Your Dev Environment",
+          "thumbnail": "https://i.ytimg.com/vi/GxW1Ei8yvSQ/hqdefault_206900.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBzURjrtak3jdrfzz6x4BXLE60Wgg",
+          "time_start": 194
+        },
+        {
+          "title": "Your First Project (BMI Calculator)",
+          "thumbnail": "https://i.ytimg.com/vi/GxW1Ei8yvSQ/hqdefault_222100.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDu6OXroL8huiuQm6vVnOfBmd_ZXg",
+          "time_start": 217
+        },
+        {
+          "title": "Layer 3: Frontend with React",
+          "thumbnail": "https://i.ytimg.com/vi/GxW1Ei8yvSQ/hqdefault_378066.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAddT7JCy_8Z9APXdHOr3-N7MfGvQ",
+          "time_start": 365
+        },
+        {
+          "title": "Components",
+          "thumbnail": "https://i.ytimg.com/vi/GxW1Ei8yvSQ/hqdefault_391866.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCsKMoh5PeKDzzmeRlBKCohjY0P_A",
+          "time_start": 383
+        },
+        {
+          "title": "State Management",
+          "thumbnail": "https://i.ytimg.com/vi/GxW1Ei8yvSQ/hqdefault_448900.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDIzrWlOyQ2Vfkc9-140qYW_k91bQ",
+          "time_start": 423
+        },
+        {
+          "title": "Props & Data Flow",
+          "thumbnail": "https://i.ytimg.com/vi/GxW1Ei8yvSQ/hqdefault_477933.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAPuv3QD2e0Ek9EeQvcdjwNmXruCA",
+          "time_start": 450
+        },
+        {
+          "title": "Async Behavior",
+          "thumbnail": "https://i.ytimg.com/vi/GxW1Ei8yvSQ/hqdefault_493033.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCdsFlmhjYAvDUrOmaS27NpTt5eDw",
+          "time_start": 479
+        },
+        {
+          "title": "Layer 4: Backend with Node & Express",
+          "thumbnail": "https://i.ytimg.com/vi/GxW1Ei8yvSQ/hqdefault_540900.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDnzHAiSDLqXGcASWaEZ4INeOu9pw",
+          "time_start": 532
+        },
+        {
+          "title": "Request & Response Cycle",
+          "thumbnail": "https://i.ytimg.com/vi/GxW1Ei8yvSQ/hqdefault_561866.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDQFwZ_1-1n91LcAGT9rUkLj8YRnA",
+          "time_start": 554
+        },
+        {
+          "title": "Routing",
+          "thumbnail": "https://i.ytimg.com/vi/GxW1Ei8yvSQ/hqdefault_595033.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDDJ1LdWRZQIZx_NWUUfPkcmvr4eg",
+          "time_start": 580
+        },
+        {
+          "title": "Databases & Data Persistence",
+          "thumbnail": "https://i.ytimg.com/vi/GxW1Ei8yvSQ/hqdefault_610000.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAmgbeYc6kQCsiXbQaO2jDI4v5aBQ",
+          "time_start": 597
+        },
+        {
+          "title": "Authentication & Access Control",
+          "thumbnail": "https://i.ytimg.com/vi/GxW1Ei8yvSQ/hqdefault_640100.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDMvIWl3jUZJciuHC2RU-23K3Y3Lg",
+          "time_start": 615
+        },
+        {
+          "title": "Layer 5: Production & Real-World Engineering",
+          "thumbnail": "https://i.ytimg.com/vi/GxW1Ei8yvSQ/hqdefault_679933.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBh1Z9zU0XrA6Qmsye3tO4RFbJiTA",
+          "time_start": 675
+        },
+        {
+          "title": "Full-Stack Integration",
+          "thumbnail": "https://i.ytimg.com/vi/GxW1Ei8yvSQ/hqdefault_701833.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCa1OWgp8pyOvg0D1Vs5Gsvxka5Fg",
+          "time_start": 699
+        },
+        {
+          "title": "Deployment",
+          "thumbnail": "https://i.ytimg.com/vi/GxW1Ei8yvSQ/hqdefault_732800.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDvG1S4buZDdDXhOQos6OTzrp9gfw",
+          "time_start": 721
+        },
+        {
+          "title": "Debugging & Testing",
+          "thumbnail": "https://i.ytimg.com/vi/GxW1Ei8yvSQ/hqdefault_752766.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCho2xKlnafrfYL3zXwbvg8zcgOmw",
+          "time_start": 742
+        },
+        {
+          "title": "Git & Version Control",
+          "thumbnail": "https://i.ytimg.com/vi/GxW1Ei8yvSQ/hqdefault_783066.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC2ZjWq4iYMOkkhWLR0muiMOkQ9Cw",
+          "time_start": 767
+        }
+      ]
+    },
+    {
+      "position_on_page": 17,
+      "title": "Complete JavaScript Course for Beginners in 4 Hours (2026)",
+      "link": "https://www.youtube.com/watch?v=aIWqy-0LT6w",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=aIWqy-0LT6w",
+      "video_id": "aIWqy-0LT6w",
+      "channel": {
+        "name": "Frontend Mastery",
+        "channel_id": "UCTIhNlyXK4mKXR6N13K_NeQ",
+        "link": "https://www.youtube.com/@frontend-masterys",
+        "thumbnail": "https://yt3.ggpht.com/fY0qLmYWC--cLVx0Y5F1LSdkBzbQ93VurQNhOtQA6zpjeKQuGyLYyusOuoWTUvjWu1mn-_-N=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3mo ago",
+      "views": 15193,
+      "length": "4:00:07",
+      "description": "Master JavaScript from the basics to advanced, modern ES6+ syntax in this complete 4-hour course. Includes hands-on practice ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/aIWqy-0LT6w/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD6LIoINz5EY9oZ_jIE4wJT4bpgHg",
+        "rich": "https://i.ytimg.com/an_webp/aIWqy-0LT6w/mqdefault_6s.webp?du=3000&sqp=CITThdgG&rs=AOn4CLAhJ8XGMyHJBQ96ENAl76Cmof7iGQ"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/aIWqy-0LT6w/hqdefault_9900.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCRZ7ZX2sJfjRd0x3DPnFJ2Q8zdUw",
+          "time_start": 0
+        },
+        {
+          "title": "What is JavaScript?",
+          "thumbnail": "https://i.ytimg.com/vi/aIWqy-0LT6w/hqdefault_33966.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBfSW_QiZSELcm3HeqCZ3Zg4GuOqA",
+          "time_start": 32
+        },
+        {
+          "title": "Variables",
+          "thumbnail": "https://i.ytimg.com/vi/aIWqy-0LT6w/hqdefault_401900.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA6PjlhRJRIDpDoykmdClZrjITfew",
+          "time_start": 394
+        },
+        {
+          "title": "Data Types",
+          "thumbnail": "https://i.ytimg.com/vi/aIWqy-0LT6w/hqdefault_1225766.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDY7e6pJbqMEMTQ7zIzfk_npIklUg",
+          "time_start": 1203
+        },
+        {
+          "title": "Conditionals",
+          "thumbnail": "https://i.ytimg.com/vi/aIWqy-0LT6w/hqdefault_2071800.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC9nclF7UA_oCqqqaRhakBz9Uk5GA",
+          "time_start": 2042
+        },
+        {
+          "title": "Loops",
+          "thumbnail": "https://i.ytimg.com/vi/aIWqy-0LT6w/hqdefault_2550200.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBa_Shj1YysFuFr4m66rVjNpQF6UQ",
+          "time_start": 2532
+        },
+        {
+          "title": "Functions & Parameters",
+          "thumbnail": "https://i.ytimg.com/vi/aIWqy-0LT6w/hqdefault_3165200.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCR6H3CUVaSPf9Fae-HjkiMJglsYQ",
+          "time_start": 3162
+        },
+        {
+          "title": "Arrays",
+          "thumbnail": "https://i.ytimg.com/vi/aIWqy-0LT6w/hqdefault_3441133.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBoo34JGAl0GQ4Agynn4LMMMvnNiQ",
+          "time_start": 3440
+        },
+        {
+          "title": "Objects",
+          "thumbnail": "https://i.ytimg.com/vi/aIWqy-0LT6w/hqdefault_3891200.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDM6ct_2VhhW8X9ZwqF29rc1RGCvA",
+          "time_start": 3863
+        },
+        {
+          "title": "DOM",
+          "thumbnail": "https://i.ytimg.com/vi/aIWqy-0LT6w/hqdefault_4441066.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBdQtUfYRhyWerZSjp5TkUmw-HCwA",
+          "time_start": 4436
+        },
+        {
+          "title": "Currency Converter Project",
+          "thumbnail": "https://i.ytimg.com/vi/aIWqy-0LT6w/hqdefault_4834033.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDQKJA4JqqYj_uIR_BoUVP3OshzFw",
+          "time_start": 4829
+        },
+        {
+          "title": "Custom Dropdown Logic",
+          "thumbnail": "https://i.ytimg.com/vi/aIWqy-0LT6w/hqdefault_5733000.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCrg2HIDHtfk_EKWCfiSeAdypC1Gw",
+          "time_start": 5710
+        },
+        {
+          "title": "Variable Scoping",
+          "thumbnail": "https://i.ytimg.com/vi/aIWqy-0LT6w/hqdefault_6806966.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA8VVJL30XmGaY4H7F8WcFuRXTSWQ",
+          "time_start": 6780
+        },
+        {
+          "title": "Closures",
+          "thumbnail": "https://i.ytimg.com/vi/aIWqy-0LT6w/hqdefault_7010033.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDregXu6jBeaZAEUq2LcMV3depuNw",
+          "time_start": 6998
+        },
+        {
+          "title": "Arrow Functions",
+          "thumbnail": "https://i.ytimg.com/vi/aIWqy-0LT6w/hqdefault_7135000.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBeMuPoFadF2JxsOJ2gd0Vg1agP8g",
+          "time_start": 7128
+        },
+        {
+          "title": "Default Parameters",
+          "thumbnail": "https://i.ytimg.com/vi/aIWqy-0LT6w/hqdefault_7300866.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDa6ToCOMww6t4dlbfHw-lif7i02A",
+          "time_start": 7294
+        },
+        {
+          "title": "Rest & Spread Parameters",
+          "thumbnail": "https://i.ytimg.com/vi/aIWqy-0LT6w/hqdefault_7395833.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDXjT5TgraAc8rS8k5mpsaTVEwoNg",
+          "time_start": 7390
+        },
+        {
+          "title": "Template Literals",
+          "thumbnail": "https://i.ytimg.com/vi/aIWqy-0LT6w/hqdefault_7535833.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDdIpKszuupDjz3M_31K7qYFGNIYg",
+          "time_start": 7526
+        },
+        {
+          "title": "Destructuring",
+          "thumbnail": "https://i.ytimg.com/vi/aIWqy-0LT6w/hqdefault_7645833.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA8Y2DFJZb_pkkRWd3xdFpPhBhj2Q",
+          "time_start": 7640
+        },
+        {
+          "title": "Ternary Operator",
+          "thumbnail": "https://i.ytimg.com/vi/aIWqy-0LT6w/hqdefault_7956233.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBVusl2i8N9ko3xni6IurtrH-o2ZA",
+          "time_start": 7932
+        },
+        {
+          "title": "Enhanced Object Literals",
+          "thumbnail": "https://i.ytimg.com/vi/aIWqy-0LT6w/hqdefault_8180833.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAqlysC-tslEEyszDCGRKs05yzyNA",
+          "time_start": 8173
+        },
+        {
+          "title": "Array Methods Deep Dive",
+          "thumbnail": "https://i.ytimg.com/vi/aIWqy-0LT6w/hqdefault_8368300.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCRJx6lyQxsRzNmfvBNPAFn1jiG_w",
+          "time_start": 8368
+        },
+        {
+          "title": "Callback & Higher-Order Functions",
+          "thumbnail": "https://i.ytimg.com/vi/aIWqy-0LT6w/hqdefault_10320133.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD3mCDDyaxaaeGhsFZi1Fl56w6OEQ",
+          "time_start": 10300
+        },
+        {
+          "title": "Iterators",
+          "thumbnail": "https://i.ytimg.com/vi/aIWqy-0LT6w/hqdefault_10559100.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB-kVAR5Vc3ymC-6ccidTVfqU3ZVg",
+          "time_start": 10539
+        },
+        {
+          "title": "Generators",
+          "thumbnail": "https://i.ytimg.com/vi/aIWqy-0LT6w/hqdefault_10776066.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAr7xFZVLxX5xxCmIXb0jcVMnyDwQ",
+          "time_start": 10775
+        },
+        {
+          "title": "Optional Chaining",
+          "thumbnail": "https://i.ytimg.com/vi/aIWqy-0LT6w/hqdefault_10911166.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAr5pW-YPBGK3hLJA2h6gtXx1LxDQ",
+          "time_start": 10906
+        },
+        {
+          "title": "The \"this\" Keyword Explained",
+          "thumbnail": "https://i.ytimg.com/vi/aIWqy-0LT6w/hqdefault_11070133.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBdE94q4Y6iuZaDHbWPj2GiSmzbew",
+          "time_start": 11066
+        },
+        {
+          "title": "call, apply & bind",
+          "thumbnail": "https://i.ytimg.com/vi/aIWqy-0LT6w/hqdefault_11610966.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCvmCb5GJ6D09qEkLL-Z-Yt2UBcaA",
+          "time_start": 11592
+        },
+        {
+          "title": "Constructor function",
+          "thumbnail": "https://i.ytimg.com/vi/aIWqy-0LT6w/hqdefault_11943000.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAYkhSvuLc9lIEaIKpRQAhNaEofOw",
+          "time_start": 11942
+        },
+        {
+          "title": "Callbacks vs Promises vs Async/Await",
+          "thumbnail": "https://i.ytimg.com/vi/aIWqy-0LT6w/hqdefault_12093966.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA07W9kHwQTQRqRf6-0unH6ZkOinQ",
+          "time_start": 12070
+        },
+        {
+          "title": "API Integration — Fetching Live Exchange Rates",
+          "thumbnail": "https://i.ytimg.com/vi/aIWqy-0LT6w/hqdefault_13042000.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAkYCrkRnR59Ymu7IGvijbpixxKfQ",
+          "time_start": 13042
+        },
+        {
+          "title": "Swap Button Logic",
+          "thumbnail": "https://i.ytimg.com/vi/aIWqy-0LT6w/hqdefault_14018966.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBJGNX6NVeWnjzOJS6FKVSjhOQkLg",
+          "time_start": 13990
+        },
+        {
+          "title": "Final Touches",
+          "thumbnail": "https://i.ytimg.com/vi/aIWqy-0LT6w/hqdefault_14269866.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAiSrMUyI5NJtoYZGZAjGiYWsvutA",
+          "time_start": 14248
+        },
+        {
+          "title": "Wrap-Up & What's Next",
+          "thumbnail": "https://i.ytimg.com/vi/aIWqy-0LT6w/hqdefault_14370766.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBox0qhRZnkb7ncOjKqqjfcwQoTBA",
+          "time_start": 14362
+        }
+      ]
+    },
+    {
+      "position_on_page": 19,
+      "title": "100+ JavaScript Concepts you Need to Know",
+      "link": "https://www.youtube.com/watch?v=lkIFF4maKMU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lkIFF4maKMU",
+      "video_id": "lkIFF4maKMU",
+      "channel": {
+        "name": "Fireship",
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "link": "https://www.youtube.com/@Fireship",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/3fPNbkf_xPyCleq77ZhcxyeorY97NtMHVNUbaAON_RBDH9ydL4hJkjxC8x_4mpuopkB8oI7Ct6Y=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 3141455,
+      "length": "12:24",
+      "description": "The ultimate 10 minute JavaScript course that quickly breaks down over 100 key concepts every web developer should know.",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/lkIFF4maKMU/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCeVOilwFfxqcuGxGvxH-9yLdVFNw",
+        "rich": "https://i.ytimg.com/an_webp/lkIFF4maKMU/mqdefault_6s.webp?du=3000&sqp=CIrLhdgG&rs=AOn4CLA1UhY14pQgH3CodBkaye1zDy4rfg"
+      }
+    },
+    {
+      "position_on_page": 21,
+      "title": "How I Would Learn JavaScript If I Could Start Over",
+      "link": "https://www.youtube.com/watch?v=X_FfHxMkkos",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=X_FfHxMkkos",
+      "video_id": "X_FfHxMkkos",
+      "channel": {
+        "name": "Phillip Choi",
+        "channel_id": "UCadUgezGZkA5IknHj2C89yg",
+        "link": "https://www.youtube.com/@letphil",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/o_-GrwynOVO0bARViLP9_nbhhs8ed_6lA9oZbGEUJF4nUCugO6AV34FuS7ymSQGXetBJ5kNoHg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 94665,
+      "length": "18:25",
+      "description": "Discover how to make $8000 a month in tech: https://letphil.com/ Let Phil's FREE Community Discord Channel: ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/X_FfHxMkkos/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBUIDJ_VQBsoRkUJKX__TSnXu1LCQ",
+        "rich": "https://i.ytimg.com/an_webp/X_FfHxMkkos/mqdefault_6s.webp?du=3000&sqp=COvhhdgG&rs=AOn4CLB3JHuquNi2XF9xYch57YLCWwHQ5g"
+      }
+    },
+    {
+      "position_on_page": 22,
+      "title": "JavaScript tutorial for beginners 🌐",
+      "link": "https://www.youtube.com/watch?v=Ihy0QziLDf0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Ihy0QziLDf0",
+      "video_id": "Ihy0QziLDf0",
+      "channel": {
+        "name": "Bro Code",
+        "channel_id": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "link": "https://www.youtube.com/@BroCodez",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mPFVsxROj1dOtTWc9iNBwDYV4z42Q8LPokBSewiW9pCSg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 1024794,
+      "length": "12:03",
+      "description": "JavaScript #tutorial #course 00:00:00 introduction 00:01:12 VS Code 00:01:30 website folder 00:02:55 HTML setup 00:04:09 Live ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Ihy0QziLDf0/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAX0_uE2ZNqBmIQ-NviGm4sa9JOPg",
+        "rich": "https://i.ytimg.com/an_webp/Ihy0QziLDf0/mqdefault_6s.webp?du=3000&sqp=CIm_hdgG&rs=AOn4CLDT6VdkzdgzIvDFngJjy7MLvMYGQw"
+      },
+      "chapters": [
+        {
+          "title": "introduction",
+          "thumbnail": "https://i.ytimg.com/vi/Ihy0QziLDf0/hqdefault_22933.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBlDFGQAJoG30Wi4RNQ15fxnVJPcw",
+          "time_start": 0
+        },
+        {
+          "title": "VS Code",
+          "thumbnail": "https://i.ytimg.com/vi/Ihy0QziLDf0/hqdefault_78833.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDe3mxCPVmjvozp3K4h9Y_DevSttQ",
+          "time_start": 72
+        },
+        {
+          "title": "website folder",
+          "thumbnail": "https://i.ytimg.com/vi/Ihy0QziLDf0/hqdefault_94833.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDiKhn-sjhCl84LjLnhvaqjiZoFMg",
+          "time_start": 90
+        },
+        {
+          "title": "HTML setup",
+          "thumbnail": "https://i.ytimg.com/vi/Ihy0QziLDf0/hqdefault_180800.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD46L0a4IYMnmFZLEBxGEyec1-Aew",
+          "time_start": 175
+        },
+        {
+          "title": "Live Server extension",
+          "thumbnail": "https://i.ytimg.com/vi/Ihy0QziLDf0/hqdefault_267866.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB4Rh5Z62s1Uf2qbWlq6sw95Tt9Lw",
+          "time_start": 249
+        },
+        {
+          "title": "HTML elements",
+          "thumbnail": "https://i.ytimg.com/vi/Ihy0QziLDf0/hqdefault_300733.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCHsZFRMvi8UjOdKl66-1F4Y0gebg",
+          "time_start": 300
+        },
+        {
+          "title": "CSS properties",
+          "thumbnail": "https://i.ytimg.com/vi/Ihy0QziLDf0/hqdefault_347833.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCcLnEmZ-EC_lP7Mvodounadd7KrA",
+          "time_start": 332
+        },
+        {
+          "title": "script tag",
+          "thumbnail": "https://i.ytimg.com/vi/Ihy0QziLDf0/hqdefault_389233.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCXJFtBOicYSvB8apq38-NpS8nhDw",
+          "time_start": 371
+        },
+        {
+          "title": "console.log()",
+          "thumbnail": "https://i.ytimg.com/vi/Ihy0QziLDf0/hqdefault_418200.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDmUobFCnH_feHEYRrEyA09S84n-g",
+          "time_start": 394
+        },
+        {
+          "title": "window.alert()",
+          "thumbnail": "https://i.ytimg.com/vi/Ihy0QziLDf0/hqdefault_479166.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBIR-9NmtEiJUoUDa5rWfsMjeilnQ",
+          "time_start": 472
+        },
+        {
+          "title": "comments",
+          "thumbnail": "https://i.ytimg.com/vi/Ihy0QziLDf0/hqdefault_528166.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAH4Gx6rQfF_WRXeCWjWqId0V75dw",
+          "time_start": 513
+        },
+        {
+          "title": "document.getElementById()",
+          "thumbnail": "https://i.ytimg.com/vi/Ihy0QziLDf0/hqdefault_595666.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBxN_p1Ors60KMi7Kx9j1cnN6l4Fw",
+          "time_start": 566
+        },
+        {
+          "title": "conclusion",
+          "thumbnail": "https://i.ytimg.com/vi/Ihy0QziLDf0/hqdefault_721166.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDvSFANo1W5xfmi_oSHvBm8B2rabg",
+          "time_start": 693
+        }
+      ]
+    },
+    {
+      "position_on_page": 23,
+      "title": "How to Learn JavaScript FAST in 2026",
+      "link": "https://www.youtube.com/watch?v=xB3ZmUH6GqU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xB3ZmUH6GqU",
+      "video_id": "xB3ZmUH6GqU",
+      "channel": {
+        "name": "Catherine Li",
+        "channel_id": "UCfbNkHkjYUjRGV67vVCOVsQ",
+        "link": "https://www.youtube.com/@catherinelijs",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lFbTPvt9tEmhrzD6NKBG-C1ioBVcQNvaa7_J5dgdnRLZs=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 238127,
+      "length": "12:32",
+      "description": "If you want to get an easy introduction to JavaScript to help you take your code to the next level, check out this free resource from ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/xB3ZmUH6GqU/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBkthrAOIOiKMHycTR11Ge8zRDOYg",
+        "rich": "https://i.ytimg.com/an_webp/xB3ZmUH6GqU/mqdefault_6s.webp?du=3000&sqp=CLKihdgG&rs=AOn4CLB1OO7w0xzAxtsuLoMBNpThAybZrA"
+      }
+    },
+    {
+      "position_on_page": 24,
+      "title": "JavaScript Speed Course - Learn JavaScript in ~75 Minutes",
+      "link": "https://www.youtube.com/watch?v=TjjKcgtlsY8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=TjjKcgtlsY8",
+      "video_id": "TjjKcgtlsY8",
+      "channel": {
+        "name": "Tech With Tim",
+        "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
+        "link": "https://www.youtube.com/@TechWithTim",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k15oXl74WcnpdL-uVBv6IHBgAfXEEnpUiS-IoEyV1auyY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 258210,
+      "length": "1:16:06",
+      "description": "This JavaScript Speed course will teach you JavaScript as efficiently as possible in about 75 minutes. Checkout this free resource ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/TjjKcgtlsY8/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDKqInZGauDjmseNxYxgLbsgWbTAQ",
+        "rich": "https://i.ytimg.com/an_webp/TjjKcgtlsY8/mqdefault_6s.webp?du=3000&sqp=CLCThdgG&rs=AOn4CLAPpXZMVbcZKH8GzgSNZ3tnxUL72Q"
+      },
+      "chapters": [
+        {
+          "title": "Video Overview",
+          "thumbnail": "https://i.ytimg.com/vi/TjjKcgtlsY8/hqdefault_3266.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAf6wVcDF1mmf90HZiZFKeaUzAkzQ",
+          "time_start": 0
+        },
+        {
+          "title": "Free JS Guide",
+          "thumbnail": "https://i.ytimg.com/vi/TjjKcgtlsY8/hqdefault_76966.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA5xY7pkAtLcKbAbmSd3qwMPgcu4g",
+          "time_start": 50
+        },
+        {
+          "title": "Basic JS Info/Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/TjjKcgtlsY8/hqdefault_126100.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAi2B_0pQil6tdygq8jPjQCyfALiQ",
+          "time_start": 98
+        },
+        {
+          "title": "Running JS Code/Setup",
+          "thumbnail": "https://i.ytimg.com/vi/TjjKcgtlsY8/hqdefault_203066.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCIkufne36_kvHs8eOC9n3fFgwLSw",
+          "time_start": 203
+        },
+        {
+          "title": "Running JS With Node.js",
+          "thumbnail": "https://i.ytimg.com/vi/TjjKcgtlsY8/hqdefault_350233.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDJz53bY3bl--6SozjxqeIEIIEvfg",
+          "time_start": 340
+        },
+        {
+          "title": "Console Output & Comments",
+          "thumbnail": "https://i.ytimg.com/vi/TjjKcgtlsY8/hqdefault_390333.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD8V1ax3rPvY0aVwvW_2HGAlkpWcQ",
+          "time_start": 390
+        },
+        {
+          "title": "User Input in Node",
+          "thumbnail": "https://i.ytimg.com/vi/TjjKcgtlsY8/hqdefault_480166.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDiJW446utBvpXOQySFhjddgLPlkg",
+          "time_start": 480
+        },
+        {
+          "title": "Data Types",
+          "thumbnail": "https://i.ytimg.com/vi/TjjKcgtlsY8/hqdefault_636266.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDokxRfqB9EEW5tgGtmtF_ldDJh5Q",
+          "time_start": 626
+        },
+        {
+          "title": "Variables (let, const, var)",
+          "thumbnail": "https://i.ytimg.com/vi/TjjKcgtlsY8/hqdefault_752233.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBGCrU_gTYnD2xJ6WjCkSbnLUL8JA",
+          "time_start": 751
+        },
+        {
+          "title": "Block vs Function Scoped",
+          "thumbnail": "https://i.ytimg.com/vi/TjjKcgtlsY8/hqdefault_862100.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAvXy7KOFhOz4c3QOLWOu07uPxIfA",
+          "time_start": 858
+        },
+        {
+          "title": "Arithmetic Operators & Type Coercion",
+          "thumbnail": "https://i.ytimg.com/vi/TjjKcgtlsY8/hqdefault_995033.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCyn7nqWVHkwMbmYcu4WBTPHq3yXQ",
+          "time_start": 995
+        },
+        {
+          "title": "Type Conversions",
+          "thumbnail": "https://i.ytimg.com/vi/TjjKcgtlsY8/hqdefault_1247100.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDAbnUUQUMMpTv413vEcH47we6T6w",
+          "time_start": 1243
+        },
+        {
+          "title": "Comparison Operators",
+          "thumbnail": "https://i.ytimg.com/vi/TjjKcgtlsY8/hqdefault_1381966.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCHSqzbeZFKndYCkZA3S_aHmu0Wig",
+          "time_start": 1364
+        },
+        {
+          "title": "Logical Operators",
+          "thumbnail": "https://i.ytimg.com/vi/TjjKcgtlsY8/hqdefault_1591000.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAK5JYB1FCqAvbuQy19nwjufDoGCw",
+          "time_start": 1591
+        },
+        {
+          "title": "Conditionals (if/else if/else)",
+          "thumbnail": "https://i.ytimg.com/vi/TjjKcgtlsY8/hqdefault_1796933.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB3MTIHmNy8WCJal1bmj_cPWa4TZA",
+          "time_start": 1774
+        },
+        {
+          "title": "Switch Statement",
+          "thumbnail": "https://i.ytimg.com/vi/TjjKcgtlsY8/hqdefault_1925000.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAyWM-l_0Be5g9RSGTiFhRBbcIG-Q",
+          "time_start": 1924
+        },
+        {
+          "title": "Arrays",
+          "thumbnail": "https://i.ytimg.com/vi/TjjKcgtlsY8/hqdefault_2084333.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD8GmZXinCr82Kxr2FivHpl0DWurQ",
+          "time_start": 2084
+        },
+        {
+          "title": "Array Destructing and Spread",
+          "thumbnail": "https://i.ytimg.com/vi/TjjKcgtlsY8/hqdefault_2526433.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD9JV0inZ7CDFMKWrHbKBJip0-PHg",
+          "time_start": 2526
+        },
+        {
+          "title": "While Loops/Do While",
+          "thumbnail": "https://i.ytimg.com/vi/TjjKcgtlsY8/hqdefault_2665400.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBqcYDzwamIiIkXGz997SpGNPGtzQ",
+          "time_start": 2665
+        },
+        {
+          "title": "For Loops",
+          "thumbnail": "https://i.ytimg.com/vi/TjjKcgtlsY8/hqdefault_2721366.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLANiQXpdqjX4wbhj4XDTkDZsLX0Aw",
+          "time_start": 2721
+        },
+        {
+          "title": "Objects",
+          "thumbnail": "https://i.ytimg.com/vi/TjjKcgtlsY8/hqdefault_2894300.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCvzh3QQJwpBSzdgkuS9lS6G17mEA",
+          "time_start": 2894
+        },
+        {
+          "title": "Sets",
+          "thumbnail": "https://i.ytimg.com/vi/TjjKcgtlsY8/hqdefault_3286233.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC0gX69KDOEygJBD4Xss6P1kDTL6g",
+          "time_start": 3286
+        },
+        {
+          "title": "Maps",
+          "thumbnail": "https://i.ytimg.com/vi/TjjKcgtlsY8/hqdefault_3408266.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCKnelkLUbB-7EyLfHILwVWWSfCMA",
+          "time_start": 3407
+        },
+        {
+          "title": "Error Handling",
+          "thumbnail": "https://i.ytimg.com/vi/TjjKcgtlsY8/hqdefault_3537100.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAev9AK_HOYdjWHuzdvJlVYOcdUNg",
+          "time_start": 3532
+        },
+        {
+          "title": "Functions",
+          "thumbnail": "https://i.ytimg.com/vi/TjjKcgtlsY8/hqdefault_3598133.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDISn4rZT0gpdankWcfO9A9_Iz3PQ",
+          "time_start": 3598
+        },
+        {
+          "title": "Map, Filter, Reduce",
+          "thumbnail": "https://i.ytimg.com/vi/TjjKcgtlsY8/hqdefault_3793033.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCqt84H1WbiokVpXQY96mz1eJhT7w",
+          "time_start": 3793
+        },
+        {
+          "title": "this Keyword & Scope",
+          "thumbnail": "https://i.ytimg.com/vi/TjjKcgtlsY8/hqdefault_3960133.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAXIWVRPugmPi8BcLju8bzmnOIgLQ",
+          "time_start": 3959
+        },
+        {
+          "title": "Promises",
+          "thumbnail": "https://i.ytimg.com/vi/TjjKcgtlsY8/hqdefault_4131966.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCWXBovOjnyIzoAiqS3cW_cHoHJyg",
+          "time_start": 4130
+        }
+      ]
+    }
+  ],
+  "playlist_results": [
+    {
+      "position_on_page": 3,
+      "title": "JavaScript Full Course (2025-26) - Beginners to Pro",
+      "link": "https://www.youtube.com/playlist?list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW",
+      "channel": {
+        "name": "Shradha Khapra",
+        "channel_id": "UC1XBh-m27kkgwLAwu_SRJBg",
+        "link": "https://www.youtube.com/@shradhaKD"
+      },
+      "videos": [
+        {
+          "title": "JavaScript Full Course ❤️ | Variables & Data Types | Lecture 1",
+          "length": "1:21:11",
+          "link": "https://www.youtube.com/watch?v=ajdRvxDWH4w&list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW"
+        },
+        {
+          "title": "Lecture 2 : Operators and Conditional Statements | JavaScript Full Course",
+          "length": "1:16:47",
+          "link": "https://www.youtube.com/watch?v=Zg4-uSjxosE&list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW"
+        }
+      ],
+      "video_count": 14,
+      "thumbnail": "https://i.ytimg.com/vi/ajdRvxDWH4w/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAeOhQXpCPK8lTE7tX5mqrBwBrN1Q"
+    },
+    {
+      "position_on_page": 9,
+      "title": "JavaScript Tutorials",
+      "link": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "link": "https://www.youtube.com/@freecodecamp"
+      },
+      "videos": [
+        {
+          "title": "Learn JavaScript - Full Course for Beginners",
+          "length": "3:26:43",
+          "link": "https://www.youtube.com/watch?v=PkZNo7MFNFg&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V"
+        },
+        {
+          "title": "JavaScript DOM Manipulation – Full Course for Beginners",
+          "length": "2:41:21",
+          "link": "https://www.youtube.com/watch?v=5fb2aPlgoys&list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V"
+        }
+      ],
+      "video_count": 9,
+      "thumbnail": "https://i.ytimg.com/vi/PkZNo7MFNFg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAorrhnltmRM2YkXPjHMPItNjyyJw"
+    },
+    {
+      "position_on_page": 10,
+      "title": "Complete JavaScript Course | 2025",
+      "link": "https://www.youtube.com/playlist?list=PLU83Ru7iGtAtTlQ8MRGHCBu4tzATiRfmY",
+      "channel": {
+        "name": "TAP ACADEMY",
+        "channel_id": "UCvT21bzLRHrnAc-F1SRqRSw",
+        "link": "https://www.youtube.com/@TAPACADEMY"
+      },
+      "videos": [
+        {
+          "title": "Intoduction to JavaScript | Complete JavaScript Crash Course | Tap Academy",
+          "length": "13:03",
+          "link": "https://www.youtube.com/watch?v=jSeI6OfifCI&list=PLU83Ru7iGtAtTlQ8MRGHCBu4tzATiRfmY"
+        },
+        {
+          "title": "Programming Basics | HLL, MLL, ALL | Complete JavaScript Crash Course | Tap Academy",
+          "length": "18:55",
+          "link": "https://www.youtube.com/watch?v=UhprM4WsZ2I&list=PLU83Ru7iGtAtTlQ8MRGHCBu4tzATiRfmY"
+        }
+      ],
+      "video_count": 40,
+      "thumbnail": "https://i.ytimg.com/vi/jSeI6OfifCI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBVKuTHQ-vmazFTGjVObijaTJFCXw"
+    },
+    {
+      "position_on_page": 11,
+      "title": "JavaScript Tutorial for Beginners",
+      "link": "https://www.youtube.com/playlist?list=PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+      "channel": {
+        "name": "Telusko",
+        "channel_id": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "link": "https://www.youtube.com/@Telusko"
+      },
+      "videos": [
+        {
+          "title": "#0 JavaScript Tutorial for Beginners | Introduction",
+          "length": "6:13",
+          "link": "https://www.youtube.com/watch?v=PlbupGCBV6w&list=PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4"
+        },
+        {
+          "title": "#1 Getting Started | JavaScript Tutorial for Beginners",
+          "length": "10:23",
+          "link": "https://www.youtube.com/watch?v=POPLF-Qc0OU&list=PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4&pp=0gcJCRYF0aJEHMZM"
+        }
+      ],
+      "video_count": 43,
+      "thumbnail": "https://i.ytimg.com/vi/PlbupGCBV6w/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAZbD-Hmd33vgncSRh3AXZdBuvWOg"
+    },
+    {
+      "position_on_page": 14,
+      "title": "Frontend Developer Bootcamp: Master HTML, CSS, JavaScript, and Modern Frameworks",
+      "link": "https://www.youtube.com/playlist?list=PL6QREj8te1P4-o8tvI3RF5NOEe0Amzd30",
+      "channel": {
+        "name": "JavaScript Mastery",
+        "channel_id": "UCmXmlB4-HJytD7wek0Uo97A",
+        "link": "https://www.youtube.com/@javascriptmastery"
+      },
+      "videos": [
+        {
+          "title": "I Built a SaaS App Landing Page in 3 Hours Here's What I Learned",
+          "length": "2:49:04",
+          "link": "https://www.youtube.com/watch?v=ukiGFmZ32YA&list=PL6QREj8te1P4-o8tvI3RF5NOEe0Amzd30"
+        },
+        {
+          "title": "Build & Deploy an Amazing 3D Portfolio with React.js & Three.js | Beginner Three.js Tutorial",
+          "length": "4:28:45",
+          "link": "https://www.youtube.com/watch?v=kt0FrkQgw8w&list=PL6QREj8te1P4-o8tvI3RF5NOEe0Amzd30"
+        }
+      ],
+      "video_count": 10,
+      "thumbnail": "https://i.ytimg.com/vi/ukiGFmZ32YA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAUFw8XiELlGC9_2ukcZ0FogyWx2A"
+    },
+    {
+      "position_on_page": 15,
+      "title": "JavaScript tutorial for beginners 🌐",
+      "link": "https://www.youtube.com/playlist?list=PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+      "channel": {
+        "name": "Bro Code",
+        "channel_id": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "link": "https://www.youtube.com/@BroCodez"
+      },
+      "videos": [
+        {
+          "title": "JavaScript tutorial for beginners 🌐",
+          "length": "12:03",
+          "link": "https://www.youtube.com/watch?v=Ihy0QziLDf0&list=PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv"
+        },
+        {
+          "title": "JavaScript VARIABLES are easy! 📦",
+          "length": "12:49",
+          "link": "https://www.youtube.com/watch?v=nbX0MIV7-Ek&list=PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv"
+        }
+      ],
+      "video_count": 80,
+      "thumbnail": "https://i.ytimg.com/vi/Ihy0QziLDf0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBxIl-_NPYspuLjdam4KgB5xw57Nw"
+    },
+    {
+      "position_on_page": 16,
+      "title": "Namaste 🙏 JavaScript",
+      "link": "https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP",
+      "channel": {
+        "name": "Akshay Saini",
+        "channel_id": "UC3N9i_KvKZYP4F84FPIzgPQ",
+        "link": "https://www.youtube.com/@akshaymarch7"
+      },
+      "videos": [
+        {
+          "title": "Namaste JavaScript 🙏 Course - JS Video Tutorials by Akshay Saini",
+          "length": "2:13",
+          "link": "https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP"
+        },
+        {
+          "title": "How JavaScript Works 🔥& Execution Context | Namaste JavaScript Ep.1",
+          "length": "4:54",
+          "link": "https://www.youtube.com/watch?v=ZvbzSrg0afE&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP"
+        }
+      ],
+      "video_count": 23,
+      "thumbnail": "https://i.ytimg.com/vi/pN6jk0uUrD8/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDcltMFkj9w8vsCO2wLIobsQMZ9AQ"
+    },
+    {
+      "position_on_page": 18,
+      "title": "JavaScript Tutorials for Beginners in Hindi",
+      "link": "https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR",
+      "channel": {
+        "name": "CodeWithHarry",
+        "channel_id": "UCeVMnSShP_Iviwkknt83cww",
+        "link": "https://www.youtube.com/@CodeWithHarry"
+      },
+      "videos": [
+        {
+          "title": "Introduction to JavaScript + Setup | JavaScript Tutorial in Hindi #1",
+          "length": "13:46",
+          "link": "https://www.youtube.com/watch?v=ER9SspLe4Hg&list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR"
+        },
+        {
+          "title": "Variables in JavaScript | JavaScript Tutorial in Hindi #2",
+          "length": "13:34",
+          "link": "https://www.youtube.com/watch?v=Q4p8vRQX8uY&list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR"
+        }
+      ],
+      "video_count": 103,
+      "thumbnail": "https://i.ytimg.com/vi/ER9SspLe4Hg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBplIqwpTX93g9XT6q5Xi1f_cJuGQ"
+    },
+    {
+      "position_on_page": 20,
+      "title": "The Complete JavaScript Course | Zero to Advanced in 65 Hours",
+      "link": "https://www.youtube.com/playlist?list=PLfEr2kn3s-bo4LwlbyZugHPavhcdW8YMC",
+      "channel": {
+        "name": "Anurag Singh ProCodrr",
+        "channel_id": "UCbK5xfFYH99Hu2pl4CBarNg",
+        "link": "https://www.youtube.com/@procodrr"
+      },
+      "videos": [
+        {
+          "title": "The Complete JavaScript Course | Trailer | Zero to Advanced",
+          "length": "7:35",
+          "link": "https://www.youtube.com/watch?v=9P9h5h9kBmU&list=PLfEr2kn3s-bo4LwlbyZugHPavhcdW8YMC"
+        },
+        {
+          "title": "ProCodrr JavaScript Course | Good or Bad?",
+          "length": "5:51",
+          "link": "https://www.youtube.com/watch?v=wQdYlkIZIz4&list=PLfEr2kn3s-bo4LwlbyZugHPavhcdW8YMC"
+        }
+      ],
+      "video_count": 100,
+      "thumbnail": "https://i.ytimg.com/vi/9P9h5h9kBmU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA3otYYijf_aelvFgbx8suBneplAA"
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=JavaScript+full+course+tutorial+for+Frontend+Developer&gl=in&hl=en",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=JavaScript%20full%20course%20tutorial%20for%20Frontend%20Developer&sp=SBSCAQtFZXJkR20tZWhKUYIBIlBMR2pwbE5FUTFpdF9vVHZ1TFJOcVhmel92XzBwcTZ1bleCAQtXNk5aZkNPNVNJa4IBC1Rpb3hVMHdkTVFnggELUGtaTm83TUZORmeCASJQTFdLamhKdHFWQWJsZURlM19aQThoM0FPMnJYYXItcTJWggEiUExVODNSdTdpR3RBdFRsUThNUkdIQ0J1NHR6QVRpUmZtWYIBIlBMc3llb2J6V3hsN3JydmdHN01MTklNU1R6VkNEWlpjVDSCAQtHeFcxRWk4eXZTUYIBIlBMNlFSRWo4dGUxUDQtbzh0dkkzUkY1Tk9FZTBBbXpkMzCCASJQTFpQWnEwcl9SWk9PMXprZ080YklkZnVMcGl6Q2VIWUt2ggEiUExsYXNYZXU4NUU5Y1EzMmdMQ3ZBdnI5dk5hVWNjUFZOUIIBC2FJV3F5LTBMVDZ3ggEiUEx1MFdfOWxJSTlhaFIxYmxXWHhnU2xMNHk5aVFCbkxwUoIBC2xrSUZGNG1hS01VggEiUExmRXIya24zcy1ibzRMd2xieVp1Z0hQYXZoY2RXOFlNQ4IBC1hfRmZIeE1ra29zggELSWh5MFF6aUxEZjCCAQt4QjNabVVINkdxVYIBC1RqaktjZ3Rsc1k4sgEGCgQIGRAC",
+    "next_page_token": "SBSCAQtFZXJkR20tZWhKUYIBIlBMR2pwbE5FUTFpdF9vVHZ1TFJOcVhmel92XzBwcTZ1bleCAQtXNk5aZkNPNVNJa4IBC1Rpb3hVMHdkTVFnggELUGtaTm83TUZORmeCASJQTFdLamhKdHFWQWJsZURlM19aQThoM0FPMnJYYXItcTJWggEiUExVODNSdTdpR3RBdFRsUThNUkdIQ0J1NHR6QVRpUmZtWYIBIlBMc3llb2J6V3hsN3JydmdHN01MTklNU1R6VkNEWlpjVDSCAQtHeFcxRWk4eXZTUYIBIlBMNlFSRWo4dGUxUDQtbzh0dkkzUkY1Tk9FZTBBbXpkMzCCASJQTFpQWnEwcl9SWk9PMXprZ080YklkZnVMcGl6Q2VIWUt2ggEiUExsYXNYZXU4NUU5Y1EzMmdMQ3ZBdnI5dk5hVWNjUFZOUIIBC2FJV3F5LTBMVDZ3ggEiUEx1MFdfOWxJSTlhaFIxYmxXWHhnU2xMNHk5aVFCbkxwUoIBC2xrSUZGNG1hS01VggEiUExmRXIya24zcy1ibzRMd2xieVp1Z0hQYXZoY2RXOFlNQ4IBC1hfRmZIeE1ra29zggELSWh5MFF6aUxEZjCCAQt4QjNabVVINkdxVYIBC1RqaktjZ3Rsc1k4sgEGCgQIGRAC"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=JavaScript+full+course+tutorial+for+Frontend+Developer",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=JavaScript+full+course+tutorial+for+Frontend+Developer&sp=SBSCAQtFZXJkR20tZWhKUYIBIlBMR2pwbE5FUTFpdF9vVHZ1TFJOcVhmel92XzBwcTZ1bleCAQtXNk5aZkNPNVNJa4IBC1Rpb3hVMHdkTVFnggELUGtaTm83TUZORmeCASJQTFdLamhKdHFWQWJsZURlM19aQThoM0FPMnJYYXItcTJWggEiUExVODNSdTdpR3RBdFRsUThNUkdIQ0J1NHR6QVRpUmZtWYIBIlBMc3llb2J6V3hsN3JydmdHN01MTklNU1R6VkNEWlpjVDSCAQtHeFcxRWk4eXZTUYIBIlBMNlFSRWo4dGUxUDQtbzh0dkkzUkY1Tk9FZTBBbXpkMzCCASJQTFpQWnEwcl9SWk9PMXprZ080YklkZnVMcGl6Q2VIWUt2ggEiUExsYXNYZXU4NUU5Y1EzMmdMQ3ZBdnI5dk5hVWNjUFZOUIIBC2FJV3F5LTBMVDZ3ggEiUEx1MFdfOWxJSTlhaFIxYmxXWHhnU2xMNHk5aVFCbkxwUoIBC2xrSUZGNG1hS01VggEiUExmRXIya24zcy1ibzRMd2xieVp1Z0hQYXZoY2RXOFlNQ4IBC1hfRmZIeE1ra29zggELSWh5MFF6aUxEZjCCAQt4QjNabVVINkdxVYIBC1RqaktjZ3Rsc1k4sgEGCgQIGRAC",
+    "next_page_token": "SBSCAQtFZXJkR20tZWhKUYIBIlBMR2pwbE5FUTFpdF9vVHZ1TFJOcVhmel92XzBwcTZ1bleCAQtXNk5aZkNPNVNJa4IBC1Rpb3hVMHdkTVFnggELUGtaTm83TUZORmeCASJQTFdLamhKdHFWQWJsZURlM19aQThoM0FPMnJYYXItcTJWggEiUExVODNSdTdpR3RBdFRsUThNUkdIQ0J1NHR6QVRpUmZtWYIBIlBMc3llb2J6V3hsN3JydmdHN01MTklNU1R6VkNEWlpjVDSCAQtHeFcxRWk4eXZTUYIBIlBMNlFSRWo4dGUxUDQtbzh0dkkzUkY1Tk9FZTBBbXpkMzCCASJQTFpQWnEwcl9SWk9PMXprZ080YklkZnVMcGl6Q2VIWUt2ggEiUExsYXNYZXU4NUU5Y1EzMmdMQ3ZBdnI5dk5hVWNjUFZOUIIBC2FJV3F5LTBMVDZ3ggEiUEx1MFdfOWxJSTlhaFIxYmxXWHhnU2xMNHk5aVFCbkxwUoIBC2xrSUZGNG1hS01VggEiUExmRXIya24zcy1ibzRMd2xieVp1Z0hQYXZoY2RXOFlNQ4IBC1hfRmZIeE1ra29zggELSWh5MFF6aUxEZjCCAQt4QjNabVVINkdxVYIBC1RqaktjZ3Rsc1k4sgEGCgQIGRAC"
+  }
+}

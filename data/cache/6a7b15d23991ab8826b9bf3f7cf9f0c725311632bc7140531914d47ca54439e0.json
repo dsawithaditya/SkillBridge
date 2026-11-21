@@ -1,0 +1,18 @@
+{
+  "skills": [
+    "Python",
+    "FastAPI",
+    "Django",
+    "Flask",
+    "REST API",
+    "Microservices",
+    "SQL",
+    "PostgreSQL",
+    "MySQL",
+    "Docker",
+    "Kubernetes",
+    "Apache Kafka",
+    "RabbitMQ",
+    "CI/CD"
+  ]
+}

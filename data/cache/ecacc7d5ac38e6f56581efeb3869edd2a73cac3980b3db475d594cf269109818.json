@@ -1,0 +1,1305 @@
+{
+  "search_metadata": {
+    "id": "6b01728c37a2c64aeb8edccc",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/cXzl2QLqD_OnfR6srPdbwUPycPHi7_qLg3t6ULwtB3o/6b01728c37a2c64aeb8edccc.json",
+    "markdown_endpoint": "https://serpapi.com/searches/cXzl2QLqD_OnfR6srPdbwUPycPHi7_qLg3t6ULwtB3o/6b01728c37a2c64aeb8edccc.md",
+    "created_at": "2026-11-21 10:29:32 UTC",
+    "processed_at": "2026-11-21 10:29:32 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=React+full+course+tutorial+for+Frontend+Developer&gl=in&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/cXzl2QLqD_OnfR6srPdbwUPycPHi7_qLg3t6ULwtB3o/6b01728c37a2c64aeb8edccc.html",
+    "total_time_taken": 2.81
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "React full course tutorial for Frontend Developer",
+    "gl": "in",
+    "hl": "en"
+  },
+  "search_information": {
+    "total_results": 3098706,
+    "video_results_state": "Results for exact spelling"
+  },
+  "ads_results": [
+    {
+      "position_on_page": 1,
+      "title": "Devour knowledge with Student Spaces",
+      "link": "https://www.youtube.com/watch?v=VdDiEf6YJnQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=VdDiEf6YJnQ",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CCeNejHIBa_eeIb7ly_sP5KDGsAOXouaPiwGH_-O_vBWwkB8QASAAYMm25Yq0pNgPggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAbH6_-oCqAMEyAMKqgTvAk_Qd_UF-h9oaeEYLYy_WLZ_yZ0opD3uYC_Y-PPL6RJHp3VwCVK5IKAmwwXe9egeAu7YIS3jOYLC_dOFf1cZYkyPydBtyS5NLgUDdNmWv60ww8jLxYmP4pBbU05JKkqG2Y9J8Ggk81P8OLo0r99C6RvG6NuUKdAh92AfHhEe86-um1GYB0wFMWoEfqHh7SwMRwTHzmXGR07Ti_SsdNiPDcJdFHewQ8T6AimL9QcqcyBM6XGwIoFF-13k2DTxqPc-Cg_FQ1U7YZkL2Zw-354N4iUYBgbnP_noQ_DbrKgX5rW7M9q2VHyScVsnTByL6_W7tocLl3JHFB_dHQTsotv8Wktpl8RXmySgUe2K4-Ol_-Tw-9lQ6z0CwdmqK4EKu9NckFPBYL_gJjSI3hBPN02DCRJSU683WqL4KMgiStWTt_grymjkDK7R9PKIq_0HC_N1hgbrqcXjDRLARuC9UHHmZiPHiDQU13PR8EGlxyuap8uIBebQ761YkgUICBN4-s2flQGgBqEBgAe3hYCVAZAHBKgHpc-xAqgH552xAqgH6J2xAqgHg_axAqgH-dOxAqgHydqxAqgHqeCxAqgHqNIbqAex3BuoB7CbsQKoB_2ysQKoB8jPsQKoB8nPsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB57qsQKoB5_qsQKoB_jrsQKoB7zqsQKoB-_xsQKoB_yvsQKoB9XOG6gHvtmxAqgHv9mxAqgHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECkggLVmREaUVmNllKblGoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAYSNmg0jVQFFiQ4YOx7ZiYA2ABmgksaHR0cHM6Ly9hY3JvYmF0LmFkb2JlLmNvbS9zdHVkZW50c3BhY2VzL2hvbWWxCYGwECc9LalhyAkXyAmPAcgJwgG6Cz4IAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAtgBA4ACAYgCEroDCXZpYXRsemFhYdALE-ALAaIMH2IYChZjb20uYWRvYmUuZWNob3NpZ24uaW9zeACIAQDSDAIQAZoNAROqDQJVU8gNAdIN6QRodHRwczovL2FkLmRvdWJsZWNsaWNrLm5ldC9kZG0vdHJhY2tjbGsvTjk3Mjk1Mi4yNzkzODJCSURNQU5BR0VSX0RGQVNJVEUvQjIyMzQ0NDEzLjI0MTUzOTMyMTtkY190cmtfYWlkPTQzODEyODYyMjtkY190cmtfY2lkPTExMjg4NDYxMztkY19kYm1fdG9rZW49QU9qZUxORUFBQUE2Q2pNS0RBZ0FGUUFBQUFBZEFBQUFBQklNQ0FBVkFBQUFBQjBBQUFBQUloTUk1dER2clZpb0FzTzQ5QUd3QXN5VzR1a0RRRHNRbC1lNkFhcFNvM0xqNjlIcW1SU0dEN05sSnRjPTtkY19sYXQ9O2RjX3JkaWQ9O3RhZ19mb3JfY2hpbGRfZGlyZWN0ZWRfdHJlYXRtZW50PTt0ZnVhPTtsdGQ9O2RjX3Rkdj0xO2RjX3RyYW5zcGFyZW50PTE7ZGNfcnVpPTE7ZGNfZXBzPUFIYXM4Y0FiU1ZlcVV6U2otb3JJRGJMcjRxZUdQUzJaMXdLMDVINzF6QkdUdVRfVHViRWI3SmVSVWhiYXdzdjV4aFlCWE5VRGZXSkNmTVdkc0dBb0hRO2RjX3B1YmlkPTY_aHR0cHM6Ly9hY3JvYmF0LmFkb2JlLmNvbS9zdHVkZW50c3BhY2VzL2hvbWU_c2RpZD1WNk5aS0NTNiZtdj1zb2NpYWwmbXYyPXBhaWRzb2MmeF9hcGlfY2xpZW50X2lkPXBhaWRtZWRpYSZ4X2FwaV9jbGllbnRfbG9jYXRpb249YWRzX1Y2TlpLQ1M2JmdhZF9zb3VyY2U9MrAT4-6oJLgT____________AYgUCLAUA8AVgYCAQNAVAdgVAZgWAagWAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXV7_CAho-GPC6FwYoADAAOAHQGAHwGAE&gclid=EAIaIQobChMI95SEse2YmAMVvvJyCR1kkBE2EAEYASAAEgJBq_D_BwE&num=1&cid=CAASwgHkaFROEwpPM-dU9buim35uUpjKLDrsg7bAwjPm9PXcQ0Vu7Zu6GQHa3n19tGKW-YfwP0dW-NaDwDoIn9DPuNlTb2ZWXX_9i2UmT-pWHz5KE5hoe_3smywHDIkhN9DfQKrR6RICb7tp6U5OaXkmVvC4QCwRYmkTWzu7fnhYZROl3sc0msvRhuN9_xjEvGG5gohp1FiyNOk9U2hfjHQvfsgGCRfcP4X_HOGsLpRjgI49tlsCp1KYUivx37HkQON7hoHFlA&ad_cpn=%5BCPN%5D&sig=AOD64_3gqNT1hQDqj467qEU_rZf6_WPg2w&ctype=110&video_id=VdDiEf6YJnQ&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Adobe",
+        "thumbnail": "https://yt3.ggpht.com/proxy/MOuz2I13I1fAnFfngtXtL_W4we9dtMgr0pZOHx9ZvXrWe0TzDLTj2mq2_seyh8bAOYiFhihUkC0bcCbQ2Rr3ROUyAm-g7fKx7ikqVy2aYwv8ap82JEQltB0uNj5JlrrMcTbQ-wFlNo0DfytWwYBrrCyx4-VnwgCwx-dn0fy6KEEwJzLjssuJHIvXA-MdWMvBvChh3bzxW7-sQCuvX2mDwrBOQUGt_eZzMbPzNL_oO6Ke1vjjr2458wPYmALVc80eUKLvvs8=w68-h68-nd"
+      },
+      "description": "Student Spaces is a smarter way to study. Free for students.",
+      "thumbnail": {
+        "static": "https://tpc.googlesyndication.com/simgad/16682586792110191416"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Ask Agent Alivia anything from your meetings. Build your personal study knowledge base.",
+      "link": "https://www.youtube.com/watch?v=ihn1m9AoiBc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ihn1m9AoiBc",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CEh9hjHIBa_eeIb7ly_sP5KDGsAOt7vyGiwGSyrLpvRawkB8QAiAAYMm25Yq0pNgPggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAcrdkKNEqAMEyAMKqgTDAk_Qd_UF-h9oaeEYLYy_WLZ_yZ0opD3uYC_Y-PPL6RJHp3VwCVK5IKAmwwXe9egeAu7YIS3jOYLC_dOFf1cZYkyPydBtyS5NLgUDdNmWv60ww8jLxYmP4pBbU05JKkqG2Y9J8Ggk81P8OLo0r99C6RvG6NuUKdAh92AfHhEe86-um1GYB0wFMWoEfqHh7SwMRwTHzmXGR07Ti_SsdNiPDcJdFHewQ8T6AimL9QcqcyBM6XGwIoFF-13k2DTxqPc-Cg_FQ1U7YZkL2Zw-354N4iUYBgbnP_noQ_DbrKgX5rW7M9q2VHyScVsnTByL6_W7tocLl3JHFB_dBQRA19jvUoOjmKuF1Wk8Gshmp1kv_Uj_NflLK2s9-ddSZhcjfRHO_y1y5uAtwY-J07Rr0jSrmbvYorkvMPbpK8oAjHsHPBLyyBsKiAWg39bgWpIFCAgTeLCC7KkfoAahAYAHypXhgh-QBwSoB6XPsQKoB-edsQKoB-idsQKoB4P2sQKoB_nTsQKoB8nasQKoB6ngsQKoB6jSG6gHsdwbqAewm7ECqAf9srECqAfIz7ECqAfJz7ECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAee6rECqAef6rECqAf467ECqAe86rECqAfv8bECqAf8r7ECqAfVzhuoB77ZsQKoB7_ZsQKoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxApIIC2lobjFtOUFvaUJjqAgB0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAGEjZoNI1UBRYkOGDse2YmANgAZoJK2h0dHBzOi8vZWNoby5tZWV0d2hhbGUuYWkvcHJvZHVjdHMvZWNoby1wcm-xCZOvO340f_n_yAkXyAmPAcgJwgGYCwG6Cz4IAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAtgBAYACAYgCEroDCXZpYXRsemFhYdALE9IMAhABmg0BE6oNAlVTyA0B0g1TaHR0cHM6Ly9lY2hvLm1lZXR3aGFsZS5haS9wcm9kdWN0cy9lY2hvLXBybz9nYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjQzNjE5Mzg4NDi4E____________wGIFAGwFAPAFYGAgEDQFQHYFQGYFgGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpFyHxiLXUiJ4wuhcGKAAwADgB0BgB8BgBwhkCCAE&gclid=EAIaIQobChMI95SEse2YmAMVvvJyCR1kkBE2EAEYAiAAEgJ1efD_BwE&num=2&cid=CAASwgHkaFROEwpPM-dU9buim35uUpjKLDrsg7bAwjPm9PXcQ0Vu7Zu6GQHa3n19tGKW-YfwP0dW-NaDwDoIn9DPuNlTb2ZWXX_9i2UmT-pWHz5KE5hoe_3smywHDIkhN9DfQKrR6RICb7tp6U5OaXkmVvC4QCwRYmkTWzu7fnhYZROl3sc0msvRhuN9_xjEvGG5gohp1FiyNOk9U2hfjHQvfsgGCRfcP4X_HOGsLpRjgI49tlsCp1KYUivx37HkQON7hoHFlA&ad_cpn=%5BCPN%5D&sig=AOD64_3FR1Ep7BL7txcbobhkdX7Ziy1N2w&ctype=110&video_id=ihn1m9AoiBc&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Whale Echo",
+        "thumbnail": "https://yt3.ggpht.com/proxy/Tb9NoK22jFeIDpBXbZw0kppL5kKISf2V5yoVx7WrdRTleDgf_Y24S6UbB7-k6NY_wowZVcJfGW9wxUBeTH3osJ0hZD2fSI13bWJBWgVMBl7Vlos2HvmMxJZXuybILTWRQ1RI3U0xfqmPlKtoCcqAa6peIDlplY85hy8FppWEbaOpO7BOGivR1j6ivSXv2WkHZUYcCwUqiKZUgIIrZivHLRt0ZR7cuBVqadOpmupFgPNhzVNcVQMBvCd9zZ850DQ3NrBlESc=w68-h68-nd"
+      },
+      "description": "Echo: AI study sidekick saves your lecture audio and study notes",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ihn1m9AoiBc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNbzyMcIzSzpFTp8jSlrvIvcb4dw"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Copilot can help take on complex work in less time.",
+      "link": "https://www.youtube.com/watch?v=O9UkpFWK7W8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=O9UkpFWK7W8",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CQyl0jHIBa_eeIb7ly_sP5KDGsAOh0vzHigG5ztDhuRawkB8QAyAAYMm25Yq0pNgPggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAenqov1DqAMEyAMKqgThAk_Qd_UF-h9oaeEYLYy_WLZ_yZ0opD3uYC_Y-PPL6RJHp3VwCVK5IKAmwwXe9egeAu7YIS3jOYLC_dOFf1cZYkyPydBtyS5NLgUDdNmWv60ww8jLxYmP4pBbU05JKkqG2Y9J8Ggk81P8OLo0r99C6RvG6NuUKdAh92AfHhEe86-um1GYB0wFMWoEfqHh7SwMRwTHzmXGR07Ti_SsdNiPDcJdFHewQ8T6AimL9QcqcyBM6XGwIoFF-13k2DTxqPc-Cg_FQ1U7YZkL2Zw-354N4iUYBgbnP_noQ_DbrKgX5rW7M9q2VHyScVsnTByL6_W7tocLl3JHFB_dBQRA19jJXYOjmKuF4nIKF_d0pOLvGOng6PKYNmRDID9WKZl4OAGZ_evRXVkwLLYBCrigpwW4kC0PLwcHg-zPJFcRjNLlnwMYVngwyZ359sghR0_W_n_vFTjRPC4Ku_g5mg6CasUx54lDiAW2-JrlWpIFCAgTeM-H54IfoAahAYAH6aLz3B6QBwSoB6XPsQKoB-edsQKoB-idsQKoB4P2sQKoB_nTsQKoB8nasQKoB6ngsQKoB6jSG6gHsdwbqAewm7ECqAf9srECqAfIz7ECqAfJz7ECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAee6rECqAef6rECqAf467ECqAe86rECqAfv8bECqAf8r7ECqAfVzhuoB77ZsQKoB7_ZsQKoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxApIIC085VWtwRldLN1c4qAgB0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAGEjZoNI1UBRYkOGDse2YmANgAZoJNWh0dHBzOi8vd3d3Lm1pY3Jvc29mdC5jb20vZW4tdXMvY29waWxvdC93b3JrL2J1c2luZXNzsQnBjI3-lGhuDsgJF8gJjwHICcIByAmXAroLPggDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AIC2AEDgAIBiAIFugMJdmlhdGx6YWFh0AsS4AsB0gwCEAGaDQESqg0CVVPIDQHSDfYEaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL041NzI2MDguNDEwMTAzNllPVVRVQkVWSUFEVjM2MEFVL0IzNjk5NDkxOC40NjA3MDU2NDI7ZGNfdHJrX2FpZD02NTU1MzIzNDg7ZGNfdHJrX2NpZD0yNjg4NTMyMjM7ZGNfZGJtX3Rva2VuPUFPamVMTkVBQUFBOENqUUtEQWdBRlFBQUFBQWRBQUFBQUJJTUNBQVZBQUFBQUIwQUFBQUFJaFFJdHZpYTVWcW9Bcy1INTRJZnNBTEw1UFRyQTBBN0VLSEFfN0lkU2FCaWNuTEpyWEUyc1RSVUlBRmhsdz09O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2x0ZD07ZGNfdGR2PTE7O2RjX3RyYW5zcGFyZW50PTE7ZGNfcnVpPTE7ZGNfZXBzPUFIYXM4Y0RmVFJIMzh6QXBvdkFXOG5mSUlvZmxfWWg4clZSb2cwNjVoLVJXeFg4YVNuQzh5RHpiNFFfaGxScjRMRVZiT0VwV05rSUYzWlZxU3FldHRBO2RjX3B1YmlkPTY_aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy9jb3BpbG90L3dvcmsvYnVzaW5lc3M_T0NJRD1BSURjbW1sNWFyam96bl9PTEFfMzY5OTQ5MThfNDYwNzA1NjQyXzI2ODg1MzIyMyZzaXRlSUQ9MTA2NTc5NTUmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTI0MzcxNDQ0NzkwsBOZtqUmuBP___________8BiBQBsBQDwBWBgIBA0BUB2BUBqBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF4QGIdHTHExeuhcGKAAwADgB0BgB8BgBwhkCCAE&gclid=EAIaIQobChMI95SEse2YmAMVvvJyCR1kkBE2EAEYAyAAEgIERPD_BwE&num=3&cid=CAASwgHkaFROEwpPM-dU9buim35uUpjKLDrsg7bAwjPm9PXcQ0Vu7Zu6GQHa3n19tGKW-YfwP0dW-NaDwDoIn9DPuNlTb2ZWXX_9i2UmT-pWHz5KE5hoe_3smywHDIkhN9DfQKrR6RICb7tp6U5OaXkmVvC4QCwRYmkTWzu7fnhYZROl3sc0msvRhuN9_xjEvGG5gohp1FiyNOk9U2hfjHQvfsgGCRfcP4X_HOGsLpRjgI49tlsCp1KYUivx37HkQON7hoHFlA&ad_cpn=%5BCPN%5D&sig=AOD64_0phKORhq0jz86pkcaGPBLUUemdGQ&ctype=110&video_id=O9UkpFWK7W8&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Microsoft Copilot",
+        "thumbnail": "https://yt3.ggpht.com/proxy/QZsKF8uymkSSgcIQLIQR24pXjFAAm9dvPTDfUaFKTKVhufA2nyuKNgKVJ73VlYIcXjZEP9v4jeIWvI_odsUd2vLGbwu2LBXFzREk6wueOsaeosEuFlEckTDTqpmm9hHvSVQiZIKMrYJzz_HqIvZPEstVdqmRJvG1lrA307PP6MnUFR6Utes5ybs3BElWa4CfsoUiaChSBwkQDXJf0MefcdVXul4Z5ziGzUlo9MDI4y5V8ofhmMJC2VZqMKUUHkKMYci6=w68-h68-nd"
+      },
+      "description": "Intelligence Built for Work",
+      "thumbnail": {
+        "static": "https://tpc.googlesyndication.com/simgad/4762556500269628886"
+      }
+    }
+  ],
+  "video_results": [
+    {
+      "position_on_page": 2,
+      "title": "React Tutorial for Beginners",
+      "link": "https://www.youtube.com/watch?v=SqcY0GlETPk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=SqcY0GlETPk",
+      "video_id": "SqcY0GlETPk",
+      "channel": {
+        "name": "Programming with Mosh",
+        "channel_id": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "link": "https://www.youtube.com/@programmingwithmosh",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 6331394,
+      "length": "1:20:04",
+      "description": "Master React 18 with TypeScript! ⚛️ Build amazing front-end apps with this beginner-friendly tutorial. Want the ultimate React ...",
+      "extensions": [
+        "Beginner"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/SqcY0GlETPk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChbr7yRBFhR7K-rqbSJIbfKCCnzQ",
+        "rich": "https://i.ytimg.com/an_webp/SqcY0GlETPk/mqdefault_6s.webp?du=3000&sqp=COWVhdgG&rs=AOn4CLCrxFtcjpqSfcbeQowE9OCqMCnxxg"
+      },
+      "chapters": [
+        {
+          "title": "Course Intro",
+          "thumbnail": "https://i.ytimg.com/vi/SqcY0GlETPk/hqdefault_23000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQkUuosF8rweZy3HSeetVn8Cv4ZA",
+          "time_start": 0
+        },
+        {
+          "title": "Prerequisites",
+          "thumbnail": "https://i.ytimg.com/vi/SqcY0GlETPk/hqdefault_117933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmBQnQq6qJvfw2tBKZf2blT06fwQ",
+          "time_start": 115
+        },
+        {
+          "title": "What is React?",
+          "thumbnail": "https://i.ytimg.com/vi/SqcY0GlETPk/hqdefault_187833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDFGY-pb59s4gK6Bz38kyNyLP1XA",
+          "time_start": 163
+        },
+        {
+          "title": "Setting Up the Development Environment",
+          "thumbnail": "https://i.ytimg.com/vi/SqcY0GlETPk/hqdefault_298833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWhLZeYzsFvQapTMS_2e0Hb3pWnQ",
+          "time_start": 297
+        },
+        {
+          "title": "Creating a React App",
+          "thumbnail": "https://i.ytimg.com/vi/SqcY0GlETPk/hqdefault_386866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBF-Rsp3OvwAd_D0rTugnxhu-8nFg",
+          "time_start": 384
+        },
+        {
+          "title": "Project Structure",
+          "thumbnail": "https://i.ytimg.com/vi/SqcY0GlETPk/hqdefault_558833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxjzGTeuiRoam9jc-1fmWfd8jABQ",
+          "time_start": 557
+        },
+        {
+          "title": "Creating a React Component",
+          "thumbnail": "https://i.ytimg.com/vi/SqcY0GlETPk/hqdefault_685200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVTUGFoZ-_Q6cUNY8U4nQo55aQUA",
+          "time_start": 680
+        },
+        {
+          "title": "How React Works",
+          "thumbnail": "https://i.ytimg.com/vi/SqcY0GlETPk/hqdefault_1002233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6pISwUE1dm7c3dxe9SnUY8VKQIg",
+          "time_start": 1001
+        },
+        {
+          "title": "React Ecosystem",
+          "thumbnail": "https://i.ytimg.com/vi/SqcY0GlETPk/hqdefault_1143233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHmiYPWSX00-AI4WtmbG6yQWiPgA",
+          "time_start": 1140
+        },
+        {
+          "title": "Building Components",
+          "thumbnail": "https://i.ytimg.com/vi/SqcY0GlETPk/hqdefault_1264066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlBGK5L4NAB_W8-iXuZCTnBRTpSw",
+          "time_start": 1264
+        },
+        {
+          "title": "Creating a ListGroup Component",
+          "thumbnail": "https://i.ytimg.com/vi/SqcY0GlETPk/hqdefault_1302166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCR1-dMqCRcS1vmHs2xqB7umXRdnQ",
+          "time_start": 1300
+        },
+        {
+          "title": "Fragments",
+          "thumbnail": "https://i.ytimg.com/vi/SqcY0GlETPk/hqdefault_1636100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBoIQA3zsCIZtN02PSR2WZ8MzWK_Q",
+          "time_start": 1635
+        },
+        {
+          "title": "Rendering Lists",
+          "thumbnail": "https://i.ytimg.com/vi/SqcY0GlETPk/hqdefault_1786966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoF66OnUFGIBD0UOLwwz1b_NskSg",
+          "time_start": 1782
+        },
+        {
+          "title": "Conditional Rendering",
+          "thumbnail": "https://i.ytimg.com/vi/SqcY0GlETPk/hqdefault_1993033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClXy2eKrDUd4vq4thONlgfAjrKvg",
+          "time_start": 1991
+        },
+        {
+          "title": "Handling Events",
+          "thumbnail": "https://i.ytimg.com/vi/SqcY0GlETPk/hqdefault_2317033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASUrwXkdATA6EZejeQQlNIE4FtDw",
+          "time_start": 2316
+        },
+        {
+          "title": "Managing State",
+          "thumbnail": "https://i.ytimg.com/vi/SqcY0GlETPk/hqdefault_2684000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9Kc2rn4AHs10s9AVV2DzEV-DfXw",
+          "time_start": 2683
+        },
+        {
+          "title": "Passing Data Via Props",
+          "thumbnail": "https://i.ytimg.com/vi/SqcY0GlETPk/hqdefault_3044966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArF5X_Skym_7QEIUJKswlUqyS77Q",
+          "time_start": 3044
+        },
+        {
+          "title": "Passing Functions Via Props",
+          "thumbnail": "https://i.ytimg.com/vi/SqcY0GlETPk/hqdefault_3286800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB04A3QJiOhhovJWejK-OYkvcQqng",
+          "time_start": 3282
+        },
+        {
+          "title": "State Vs Props",
+          "thumbnail": "https://i.ytimg.com/vi/SqcY0GlETPk/hqdefault_3507900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAo_g2AB9AqGNh5Qw08bZCEvYqdjw",
+          "time_start": 3507
+        },
+        {
+          "title": "Passing Children",
+          "thumbnail": "https://i.ytimg.com/vi/SqcY0GlETPk/hqdefault_3600866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAf0SJOBhl03SY06Fzai8M-Xu9nRQ",
+          "time_start": 3600
+        },
+        {
+          "title": "Inspecting Components with React Dev Tools",
+          "thumbnail": "https://i.ytimg.com/vi/SqcY0GlETPk/hqdefault_3908833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2mVi1gycbpfhg_N3ETkrrzBH0FA",
+          "time_start": 3904
+        },
+        {
+          "title": "Exercise: Building a Button Component",
+          "thumbnail": "https://i.ytimg.com/vi/SqcY0GlETPk/hqdefault_4036800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClnRQJOH2OfJwCbyWKQftu2aLDvg",
+          "time_start": 4034
+        },
+        {
+          "title": "Exercise: Showing an Alert",
+          "thumbnail": "https://i.ytimg.com/vi/SqcY0GlETPk/hqdefault_4456266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6ywOrSNzmc6Vnc_OJKpRnQtW6BA",
+          "time_start": 4455
+        }
+      ]
+    },
+    {
+      "position_on_page": 3,
+      "title": "React Tutorial Full Course - Beginner to Pro (React 19, 2025)",
+      "link": "https://www.youtube.com/watch?v=TtPXvEcE11E",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=TtPXvEcE11E",
+      "video_id": "TtPXvEcE11E",
+      "channel": {
+        "name": "SuperSimpleDev",
+        "channel_id": "UCB6dvaWu0N8uVq2yKsZ5s5g",
+        "link": "https://www.youtube.com/@SuperSimpleDev",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_laf9dDyNATE1_RdVUKthwnwT9TSm9N0my0jL2H8gCvjw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 1659063,
+      "length": "11:32:04",
+      "description": "In this React tutorial and React full course, build websites and projects with React. React Premium Course: ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/TtPXvEcE11E/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjW8efKq7IYnmNcMTQcsYwCiY88A",
+        "rich": "https://i.ytimg.com/an_webp/TtPXvEcE11E/mqdefault_6s.webp?du=3000&sqp=CPqshdgG&rs=AOn4CLBeJ-WEJ1ZUMnsh2C05QKmVcUto7w"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/TtPXvEcE11E/hqdefault.jpg",
+          "time_start": 0
+        },
+        {
+          "title": "1. React Basics, JSX",
+          "thumbnail": "https://i.ytimg.com/vi/TtPXvEcE11E/hqdefault.jpg",
+          "time_start": 80
+        },
+        {
+          "title": "2. Components, Props, Start the Chatbot Project",
+          "thumbnail": "https://i.ytimg.com/vi/TtPXvEcE11E/hqdefault.jpg",
+          "time_start": 2416
+        },
+        {
+          "title": "3. State, Event Handlers, Chatbot Project Features",
+          "thumbnail": "https://i.ytimg.com/vi/TtPXvEcE11E/hqdefault.jpg",
+          "time_start": 5809
+        },
+        {
+          "title": "4. CSS with React, Hooks, Finish Chatbot Project",
+          "thumbnail": "https://i.ytimg.com/vi/TtPXvEcE11E/hqdefault.jpg",
+          "time_start": 9761
+        },
+        {
+          "title": "5. Proper React Setup with Vite",
+          "thumbnail": "https://i.ytimg.com/vi/TtPXvEcE11E/hqdefault.jpg",
+          "time_start": 13729
+        },
+        {
+          "title": "6. React Router, Git, Start the Ecommerce Project",
+          "thumbnail": "https://i.ytimg.com/vi/TtPXvEcE11E/hqdefault.jpg",
+          "time_start": 17969
+        },
+        {
+          "title": "7. React with Backend, Data Fetching, Load Ecommerce Project Data",
+          "thumbnail": "https://i.ytimg.com/vi/TtPXvEcE11E/hqdefault.jpg",
+          "time_start": 22199
+        },
+        {
+          "title": "8. Data Mutation, Update Ecommerce Project Data",
+          "thumbnail": "https://i.ytimg.com/vi/TtPXvEcE11E/hqdefault.jpg",
+          "time_start": 28858
+        },
+        {
+          "title": "9. Automated Tests in React with Vitest",
+          "thumbnail": "https://i.ytimg.com/vi/TtPXvEcE11E/hqdefault.jpg",
+          "time_start": 31810
+        },
+        {
+          "title": "10. Deploy React to the Internet, Intro to AWS",
+          "thumbnail": "https://i.ytimg.com/vi/TtPXvEcE11E/hqdefault.jpg",
+          "time_start": 35431
+        },
+        {
+          "title": "11. React 19 Updates",
+          "thumbnail": "https://i.ytimg.com/vi/TtPXvEcE11E/hqdefault.jpg",
+          "time_start": 38466
+        },
+        {
+          "title": "TypeScript with React",
+          "thumbnail": "https://i.ytimg.com/vi/TtPXvEcE11E/hqdefault.jpg",
+          "time_start": 39013
+        },
+        {
+          "title": "AI with React",
+          "thumbnail": "https://i.ytimg.com/vi/TtPXvEcE11E/hqdefault.jpg",
+          "time_start": 41052
+        },
+        {
+          "title": "Conclusion and Next Steps",
+          "thumbnail": "https://i.ytimg.com/vi/TtPXvEcE11E/hqdefault.jpg",
+          "time_start": 41469
+        }
+      ]
+    },
+    {
+      "position_on_page": 10,
+      "title": "React JS Explained In 10 Minutes",
+      "link": "https://www.youtube.com/watch?v=s2skans2dP4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=s2skans2dP4",
+      "video_id": "s2skans2dP4",
+      "channel": {
+        "name": "Dennis Ivy",
+        "channel_id": "UCTZRcDjjkVajGL6wd76UnGg",
+        "link": "https://www.youtube.com/@DennisIvy",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lG_SmL2Lu2Y6RK47pciKeQ_h3KbNANRuicbm-imxKYl5c=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 935994,
+      "length": "10:00",
+      "description": "A list of the core concepts every React developer should have a solid grasp on. React Course: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/s2skans2dP4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxoYMOwhTpXgXkeuZWkatGdGgYlw",
+        "rich": "https://i.ytimg.com/an_webp/s2skans2dP4/mqdefault_6s.webp?du=3000&sqp=CMadhdgG&rs=AOn4CLAW6EwqSdQAu41U_7BpnzchweXKkw"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/s2skans2dP4/hqdefault_19966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtc4tDyZQZ092rMDWwQNMNqGYyBQ",
+          "time_start": 0
+        },
+        {
+          "title": "What is React",
+          "thumbnail": "https://i.ytimg.com/vi/s2skans2dP4/hqdefault_70866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3_kbRtmvG2tg-oUXoqkFPked2XQ",
+          "time_start": 50
+        },
+        {
+          "title": "Components",
+          "thumbnail": "https://i.ytimg.com/vi/s2skans2dP4/hqdefault_91866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVe0LOzv9SVB5Wpp0HvXLm9doE8w",
+          "time_start": 90
+        },
+        {
+          "title": "JSX",
+          "thumbnail": "https://i.ytimg.com/vi/s2skans2dP4/hqdefault_145766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCG8qyGwPLQ7mlewj7Fr1yTiupNw",
+          "time_start": 143
+        },
+        {
+          "title": "Router",
+          "thumbnail": "https://i.ytimg.com/vi/s2skans2dP4/hqdefault_190233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLkiPNfCxO0qBwBbp-pv29sMDr-g",
+          "time_start": 188
+        },
+        {
+          "title": "Prop",
+          "thumbnail": "https://i.ytimg.com/vi/s2skans2dP4/hqdefault_225766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6pHe0cUTZg5a8Hd_9nVj8rhGuew",
+          "time_start": 209
+        },
+        {
+          "title": "State",
+          "thumbnail": "https://i.ytimg.com/vi/s2skans2dP4/hqdefault_252233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0yzu0lZ0r1GezTIBHEfj3M5pj7A",
+          "time_start": 234
+        },
+        {
+          "title": "Component Life Cycle",
+          "thumbnail": "https://i.ytimg.com/vi/s2skans2dP4/hqdefault_288833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADAy_srulCAlWc9Odt75oOc2_J5Q",
+          "time_start": 275
+        },
+        {
+          "title": "React Hooks",
+          "thumbnail": "https://i.ytimg.com/vi/s2skans2dP4/hqdefault_340166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuvViaPZzHzHT4HrQXt4xrKWsniQ",
+          "time_start": 323
+        },
+        {
+          "title": "Global State",
+          "thumbnail": "https://i.ytimg.com/vi/s2skans2dP4/hqdefault_376166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9A8y9s8eZeYqtVxhljB_yKn_Kww",
+          "time_start": 364
+        },
+        {
+          "title": "Virtual DOM",
+          "thumbnail": "https://i.ytimg.com/vi/s2skans2dP4/hqdefault_430100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxq-Z7ThhWhUz_mqLNqo0howhvrQ",
+          "time_start": 409
+        },
+        {
+          "title": "Key Prop",
+          "thumbnail": "https://i.ytimg.com/vi/s2skans2dP4/hqdefault_445166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBC8m73JLaEQkOjMnPgh2WaESQP6g",
+          "time_start": 445
+        },
+        {
+          "title": "Handling Events",
+          "thumbnail": "https://i.ytimg.com/vi/s2skans2dP4/hqdefault_487066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIRyQI29wGwW8ZCJmI3LCi2hJxDg",
+          "time_start": 468
+        },
+        {
+          "title": "Handling Forms",
+          "thumbnail": "https://i.ytimg.com/vi/s2skans2dP4/hqdefault_489066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYkGBo3qfE9NvGAv9CqrfIXVvTFA",
+          "time_start": 489
+        },
+        {
+          "title": "Conditional Rendering",
+          "thumbnail": "https://i.ytimg.com/vi/s2skans2dP4/hqdefault_528033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDshcNO1J_UrNdF8rM2gP1XTY9_Lw",
+          "time_start": 525
+        },
+        {
+          "title": "Common Commands",
+          "thumbnail": "https://i.ytimg.com/vi/s2skans2dP4/hqdefault_558133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiCdeuPUTeuHMb4jPkgKNB6-IAbg",
+          "time_start": 557
+        }
+      ]
+    },
+    {
+      "position_on_page": 11,
+      "title": "React JS 19 Full Course 2025 | Build an App and Master React in 2 Hours",
+      "link": "https://www.youtube.com/watch?v=dCLhUialKPQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=dCLhUialKPQ",
+      "video_id": "dCLhUialKPQ",
+      "channel": {
+        "name": "JavaScript Mastery",
+        "channel_id": "UCmXmlB4-HJytD7wek0Uo97A",
+        "link": "https://www.youtube.com/@javascriptmastery",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ek0JxMA0h1uXpnYKFL_dYo1ny3LWzAuLwGvaqQwb9Qh2oEQJIPNEPjDrY9yKsvMmIrq_Ooq_=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 2420985,
+      "length": "2:07:19",
+      "description": "Dive straight into React—from basic JSX to advanced hooks—and build a real, modern app in this hands-on crash course!",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/dCLhUialKPQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPtEAAqCf4jX1eMPq3RvjdYj_iaQ",
+        "rich": "https://i.ytimg.com/an_webp/dCLhUialKPQ/mqdefault_6s.webp?du=3000&sqp=CJy7hdgG&rs=AOn4CLDoq44_ai5sOXUmJootjymJ_KohtA"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/dCLhUialKPQ/hqdefault_4033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXFUNS4Zvpe1N8W_4f0IUMFx0brw",
+          "time_start": 0
+        },
+        {
+          "title": "Crash Course",
+          "thumbnail": "https://i.ytimg.com/vi/dCLhUialKPQ/hqdefault_103900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCz7yAz0fqd5Mdqd1dDJfmrI5pxwA",
+          "time_start": 101
+        },
+        {
+          "title": "React Setup",
+          "thumbnail": "https://i.ytimg.com/vi/dCLhUialKPQ/hqdefault_320900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCP8R_UunVbttJ5DTP49HtSKRm2Nw",
+          "time_start": 308
+        },
+        {
+          "title": "Create React.js Project",
+          "thumbnail": "https://i.ytimg.com/vi/dCLhUialKPQ/hqdefault_453466.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDx_SHsgJFxtcqokZkMsWwX_ZDtMQ",
+          "time_start": 453
+        },
+        {
+          "title": "Components",
+          "thumbnail": "https://i.ytimg.com/vi/dCLhUialKPQ/hqdefault_920233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBh29hF5-2JZR45AXCdWDiHvDtk1g",
+          "time_start": 912
+        },
+        {
+          "title": "Props",
+          "thumbnail": "https://i.ytimg.com/vi/dCLhUialKPQ/hqdefault_1076200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDovxrFQMmq5Eqf-M3tH7M9a3o2hQ",
+          "time_start": 1075
+        },
+        {
+          "title": "Styles",
+          "thumbnail": "https://i.ytimg.com/vi/dCLhUialKPQ/hqdefault_1227800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCq3HsDSXAreqdOn8hJQIi094uZWQ",
+          "time_start": 1203
+        },
+        {
+          "title": "States and Hooks",
+          "thumbnail": "https://i.ytimg.com/vi/dCLhUialKPQ/hqdefault_1579266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWCWgodCznNyNFYuO9nVP2w_opwA",
+          "time_start": 1575
+        },
+        {
+          "title": "UseEffect Hook",
+          "thumbnail": "https://i.ytimg.com/vi/dCLhUialKPQ/hqdefault_2118233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdSOUYvVfNFzy8KrVgF_8WJMfayA",
+          "time_start": 2118
+        },
+        {
+          "title": "React Snippets",
+          "thumbnail": "https://i.ytimg.com/vi/dCLhUialKPQ/hqdefault_2589066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8F7yRBMSC4BCL75_QNU35Jdw1Eg",
+          "time_start": 2560
+        },
+        {
+          "title": "About the Project",
+          "thumbnail": "https://i.ytimg.com/vi/dCLhUialKPQ/hqdefault_2607200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZN9QyTChTUj9yUBlrqu8aJtqwLQ",
+          "time_start": 2607
+        },
+        {
+          "title": "Tailwind CSS setup",
+          "thumbnail": "https://i.ytimg.com/vi/dCLhUialKPQ/hqdefault_2789000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZsv_MkvDZy4k9BHq81ssDxwanqQ",
+          "time_start": 2788
+        },
+        {
+          "title": "Assets & styles",
+          "thumbnail": "https://i.ytimg.com/vi/dCLhUialKPQ/hqdefault_3007066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwGlKyepaz-IRG_UKcKQawzepHiA",
+          "time_start": 2995
+        },
+        {
+          "title": "Develop header",
+          "thumbnail": "https://i.ytimg.com/vi/dCLhUialKPQ/hqdefault_3060433.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC37EMYa_UxchbA6SIcUOX390jIKA",
+          "time_start": 3060
+        },
+        {
+          "title": "The Movie DB API",
+          "thumbnail": "https://i.ytimg.com/vi/dCLhUialKPQ/hqdefault_3776433.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpH8TsEhPaUZIdtQ88BeG8onn0pg",
+          "time_start": 3776
+        },
+        {
+          "title": "Develop movie card component",
+          "thumbnail": "https://i.ytimg.com/vi/dCLhUialKPQ/hqdefault_4978366.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5D3x5lvVs57wMOHkxHg-BioFcWQ",
+          "time_start": 4978
+        },
+        {
+          "title": "Implement search",
+          "thumbnail": "https://i.ytimg.com/vi/dCLhUialKPQ/hqdefault_5412900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVCFEIKfaVKbF-H234LFOKlhHCCQ",
+          "time_start": 5412
+        },
+        {
+          "title": "Optimize search",
+          "thumbnail": "https://i.ytimg.com/vi/dCLhUialKPQ/hqdefault_5618833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZ8L_tldDib4KdhYJKwW0iFqxGXQ",
+          "time_start": 5618
+        },
+        {
+          "title": "Trending Movies Feature",
+          "thumbnail": "https://i.ytimg.com/vi/dCLhUialKPQ/hqdefault_5947300.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8PtFxeUy-1eCo0V-G_j6I7oXuyA",
+          "time_start": 5947
+        },
+        {
+          "title": "Show Trending Movies",
+          "thumbnail": "https://i.ytimg.com/vi/dCLhUialKPQ/hqdefault_6841233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXvFsGu5eiuXA7ksIqHD_e1RBAVg",
+          "time_start": 6841
+        },
+        {
+          "title": "Deployment",
+          "thumbnail": "https://i.ytimg.com/vi/dCLhUialKPQ/hqdefault_7438200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhayNKKTAdbuhZI648EJu86s0NCg",
+          "time_start": 7438
+        }
+      ]
+    },
+    {
+      "position_on_page": 13,
+      "title": "React Full Course for free ⚛️",
+      "link": "https://www.youtube.com/watch?v=CgkZ7MvWUAA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=CgkZ7MvWUAA",
+      "video_id": "CgkZ7MvWUAA",
+      "channel": {
+        "name": "Bro Code",
+        "channel_id": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "link": "https://www.youtube.com/@BroCodez",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mPFVsxROj1dOtTWc9iNBwDYV4z42Q8LPokBSewiW9pCSg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 4091466,
+      "length": "4:43:02",
+      "description": "reactjs #course #tutorial This is a beginners React JS course that should be enough to get you started using the React Library.",
+      "extensions": [
+        "Fundraiser"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/CgkZ7MvWUAA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_K_nnIgcDPnxS4ANajCJ0iIVYDA",
+        "rich": "https://i.ytimg.com/an_webp/CgkZ7MvWUAA/mqdefault_6s.webp?du=3000&sqp=CODEhdgG&rs=AOn4CLCVTs24hjmHaJgk4sylXBQpcKCbvg"
+      },
+      "chapters": [
+        {
+          "title": "1..React tutorial for beginners ⚛️",
+          "thumbnail": "https://i.ytimg.com/vi/CgkZ7MvWUAA/hqdefault_11933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBp26-egJOwayNvQNejPQl2TLFxKw",
+          "time_start": 0
+        },
+        {
+          "title": "2..card components",
+          "thumbnail": "https://i.ytimg.com/vi/CgkZ7MvWUAA/hqdefault_1239933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0_jVZ2CKkpRG8JgHbrSfRoyub1A",
+          "time_start": 1226
+        },
+        {
+          "title": "3..add CSS styles",
+          "thumbnail": "https://i.ytimg.com/vi/CgkZ7MvWUAA/hqdefault_1944300.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZ4P53OBAkDtq4HWn9uIikJdfHSw",
+          "time_start": 1944
+        },
+        {
+          "title": "4..props📧 *(defaultProps are now deprecated in React 19+ )",
+          "thumbnail": "https://i.ytimg.com/vi/CgkZ7MvWUAA/hqdefault_2469766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDkcgsxAOHse5PvuuXN4O7QBSZWQ",
+          "time_start": 2440
+        },
+        {
+          "title": "5..conditional rendering",
+          "thumbnail": "https://i.ytimg.com/vi/CgkZ7MvWUAA/hqdefault_3192233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6FTHjWs60WjEqZTlsDdzzK6OqaQ",
+          "time_start": 3169
+        },
+        {
+          "title": "6..render lists",
+          "thumbnail": "https://i.ytimg.com/vi/CgkZ7MvWUAA/hqdefault_3797700.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7iHRz39KjfaJ6tDq-TLn6zXD2yQ",
+          "time_start": 3784
+        },
+        {
+          "title": "7..click events",
+          "thumbnail": "https://i.ytimg.com/vi/CgkZ7MvWUAA/hqdefault_5383266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-7tSOcJzItG1yYePKHQ2I01V6AQ",
+          "time_start": 5383
+        },
+        {
+          "title": "8..useState() hook",
+          "thumbnail": "https://i.ytimg.com/vi/CgkZ7MvWUAA/hqdefault_6124200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzeM6tTFGQ0G6iF2IYFrSdiVzdzQ",
+          "time_start": 6124
+        },
+        {
+          "title": "9..onChange event handler",
+          "thumbnail": "https://i.ytimg.com/vi/CgkZ7MvWUAA/hqdefault_7116100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtLqkk1sFeynuRqzjL-NJfZhRU0g",
+          "time_start": 7116
+        },
+        {
+          "title": "10..color picker app",
+          "thumbnail": "https://i.ytimg.com/vi/CgkZ7MvWUAA/hqdefault_7996166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBF9TvFhIDk_jwQKXoN4FEiY-Bs_A",
+          "time_start": 7996
+        },
+        {
+          "title": "11..updater functions",
+          "thumbnail": "https://i.ytimg.com/vi/CgkZ7MvWUAA/hqdefault_8611166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzLVxr4DFbclvMDl_g9pSLa1jAdA",
+          "time_start": 8611
+        },
+        {
+          "title": "12..update OBJECTS in state",
+          "thumbnail": "https://i.ytimg.com/vi/CgkZ7MvWUAA/hqdefault_9045000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPj59UFKFxzndHHYFz5Ur7NTfryA",
+          "time_start": 9045
+        },
+        {
+          "title": "13..update ARRAYS in state",
+          "thumbnail": "https://i.ytimg.com/vi/CgkZ7MvWUAA/hqdefault_9596033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDP_xDYuHnrRCXVqt3esVpMynF6gA",
+          "time_start": 9595
+        },
+        {
+          "title": "14..update ARRAY of OBJECTS in state",
+          "thumbnail": "https://i.ytimg.com/vi/CgkZ7MvWUAA/hqdefault_10136966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD91V5Cmep4y1R5-aH5a1wcgFFbrA",
+          "time_start": 10135
+        },
+        {
+          "title": "15..to-do list app",
+          "thumbnail": "https://i.ytimg.com/vi/CgkZ7MvWUAA/hqdefault_10912966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNa1r5v4-47DH1Wu3WDHjODZCgGw",
+          "time_start": 10902
+        },
+        {
+          "title": "16..useEffect() hook",
+          "thumbnail": "https://i.ytimg.com/vi/CgkZ7MvWUAA/hqdefault_12257366.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzCYx_hpnq4MRYZ5hvZXioCBhxVA",
+          "time_start": 12257
+        },
+        {
+          "title": "17..digital clock app",
+          "thumbnail": "https://i.ytimg.com/vi/CgkZ7MvWUAA/hqdefault_13448400.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzjHflnTm3kICQbac6Nj9p8gCL4g",
+          "time_start": 13448
+        },
+        {
+          "title": "18..useContext() hook 🧗‍♂️",
+          "thumbnail": "https://i.ytimg.com/vi/CgkZ7MvWUAA/hqdefault_14428933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgPYhaH7iqp04bzJUw3EGZtoAwrw",
+          "time_start": 14408
+        },
+        {
+          "title": "19..useRef() hook 🗳️",
+          "thumbnail": "https://i.ytimg.com/vi/CgkZ7MvWUAA/hqdefault_15104366.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA83JeZQNiOPLgbB8SC_LAzahDDpg",
+          "time_start": 15104
+        },
+        {
+          "title": "20..stopwatch app",
+          "thumbnail": "https://i.ytimg.com/vi/CgkZ7MvWUAA/hqdefault_15781333.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLzBsd9YPuwUgERGUazrUXHhImnw",
+          "time_start": 15781
+        }
+      ]
+    },
+    {
+      "position_on_page": 14,
+      "title": "Every React Concept Explained in 12 Minutes",
+      "link": "https://www.youtube.com/watch?v=wIyHSOugGGw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=wIyHSOugGGw",
+      "video_id": "wIyHSOugGGw",
+      "channel": {
+        "name": "Code Bootcamp",
+        "channel_id": "UC-kHm7pG884IYQiYwqJWv9A",
+        "link": "https://www.youtube.com/@TheCodeBootcamp",
+        "thumbnail": "https://yt3.ggpht.com/f6JRugd0pxGhDtbPy8TZXpGsTMn3oWX3k2_uxmwNv0TGEAumkezVGISaIQOHTo3cP5iOwXbjfw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 1951655,
+      "length": "11:53",
+      "description": "My React course: https://reactbootcamp.dev Chapters 0:00 - Intro 0:11 - Components 0:29 - JSX 1:02 - Curly Braces 1:29 ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/wIyHSOugGGw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-VFABDYtJgeNddxhu-cEuGOcHUQ",
+        "rich": "https://i.ytimg.com/an_webp/wIyHSOugGGw/mqdefault_6s.webp?du=3000&sqp=CIjZhdgG&rs=AOn4CLBTUgWNN90QGIWiedsCaAOluMZO_g"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/wIyHSOugGGw/hqdefault_4866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTjjF2_-fcsu9oEyNPD9OWWJahWw",
+          "time_start": 0
+        },
+        {
+          "title": "Components",
+          "thumbnail": "https://i.ytimg.com/vi/wIyHSOugGGw/hqdefault_13866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBukRhrSYdHqQPQx8x5QVOkoSgI6g",
+          "time_start": 11
+        },
+        {
+          "title": "JSX",
+          "thumbnail": "https://i.ytimg.com/vi/wIyHSOugGGw/hqdefault_38000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmCRhAAJbwHoe0sQbgIFywBhtoaw",
+          "time_start": 29
+        },
+        {
+          "title": "Curly Braces",
+          "thumbnail": "https://i.ytimg.com/vi/wIyHSOugGGw/hqdefault_68833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRH6VEUczsSORrQV8ki6woYzsX9g",
+          "time_start": 62
+        },
+        {
+          "title": "Fragments",
+          "thumbnail": "https://i.ytimg.com/vi/wIyHSOugGGw/hqdefault_97833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDETf6YLootrzLFeitCFZ19e2qUxw",
+          "time_start": 89
+        },
+        {
+          "title": "Props",
+          "thumbnail": "https://i.ytimg.com/vi/wIyHSOugGGw/hqdefault_112833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBv9tyEwbJSEqE9tFd5n-TvHvri2A",
+          "time_start": 109
+        },
+        {
+          "title": "Children",
+          "thumbnail": "https://i.ytimg.com/vi/wIyHSOugGGw/hqdefault_154800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCANzaKeXWAkhXRgU8DCRmuPeGPvA",
+          "time_start": 140
+        },
+        {
+          "title": "Keys",
+          "thumbnail": "https://i.ytimg.com/vi/wIyHSOugGGw/hqdefault_180766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfRXVNzhJEeEUizXQZbNnDw0EH3g",
+          "time_start": 174
+        },
+        {
+          "title": "Rendering",
+          "thumbnail": "https://i.ytimg.com/vi/wIyHSOugGGw/hqdefault_214233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjHEr7EBLMR-Reg8gtLt-0GD3OFQ",
+          "time_start": 207
+        },
+        {
+          "title": "Event Handling",
+          "thumbnail": "https://i.ytimg.com/vi/wIyHSOugGGw/hqdefault_274033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwbn2SGghNP3Q_s9VcjOsvJMo3Og",
+          "time_start": 274
+        },
+        {
+          "title": "State",
+          "thumbnail": "https://i.ytimg.com/vi/wIyHSOugGGw/hqdefault_309300.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDr5KDMCeja8f83l9lwUh0ruKjRbQ",
+          "time_start": 305
+        },
+        {
+          "title": "Controlled Components",
+          "thumbnail": "https://i.ytimg.com/vi/wIyHSOugGGw/hqdefault_358166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCurHifMbDGos1EO1rY8wdYutnsnA",
+          "time_start": 354
+        },
+        {
+          "title": "Hooks",
+          "thumbnail": "https://i.ytimg.com/vi/wIyHSOugGGw/hqdefault_397100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1RsGEJo-mLDPme6xcovxDn6qNMA",
+          "time_start": 391
+        },
+        {
+          "title": "Purity",
+          "thumbnail": "https://i.ytimg.com/vi/wIyHSOugGGw/hqdefault_453066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcI10UwuSoPKxDlhG5JupJs-I41Q",
+          "time_start": 441
+        },
+        {
+          "title": "Strict Mode",
+          "thumbnail": "https://i.ytimg.com/vi/wIyHSOugGGw/hqdefault_494100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABUi6gljuGwXA3NooFapqdzj2rtg",
+          "time_start": 483
+        },
+        {
+          "title": "Effects",
+          "thumbnail": "https://i.ytimg.com/vi/wIyHSOugGGw/hqdefault_515033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4m16DjgLfGBTF9M5M6EAdxWM1cA",
+          "time_start": 502
+        },
+        {
+          "title": "Refs",
+          "thumbnail": "https://i.ytimg.com/vi/wIyHSOugGGw/hqdefault_558000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpdykJNvanKss5BrBc_4NChSkGUA",
+          "time_start": 543
+        },
+        {
+          "title": "Context",
+          "thumbnail": "https://i.ytimg.com/vi/wIyHSOugGGw/hqdefault_583000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmPruv61Av8cDdIKx6HEQQsqZTLg",
+          "time_start": 570
+        },
+        {
+          "title": "Portals",
+          "thumbnail": "https://i.ytimg.com/vi/wIyHSOugGGw/hqdefault_620100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARibiDTMnzY4B6rKSws4KOeFnuAg",
+          "time_start": 610
+        },
+        {
+          "title": "Suspense",
+          "thumbnail": "https://i.ytimg.com/vi/wIyHSOugGGw/hqdefault_665933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYZgQ_HEiRme2SRr4kTBSjEL2vpw",
+          "time_start": 641
+        },
+        {
+          "title": "Error Boundaries",
+          "thumbnail": "https://i.ytimg.com/vi/wIyHSOugGGw/hqdefault_666933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAy3aMzaHKbaUP8iKRk1p-7n5wX1Q",
+          "time_start": 666
+        },
+        {
+          "title": "Learn More",
+          "thumbnail": "https://i.ytimg.com/vi/wIyHSOugGGw/hqdefault_701066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOrYkXTJlC0btQ4xDOiplfitDtoQ",
+          "time_start": 695
+        }
+      ]
+    },
+    {
+      "position_on_page": 18,
+      "title": "The Complete Frontend Developer Roadmap",
+      "link": "https://www.youtube.com/watch?v=Tef1e9FiSR0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Tef1e9FiSR0",
+      "video_id": "Tef1e9FiSR0",
+      "channel": {
+        "name": "Programming with Mosh",
+        "channel_id": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "link": "https://www.youtube.com/@programmingwithmosh",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 710444,
+      "length": "8:54",
+      "description": "Go from zero to a frontend developer in 12 months. This step-by-step roadmap covers the essential skills and latest technologies ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Tef1e9FiSR0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBD1bo0eloK7etTvfWQWJivyXQs_Q",
+        "rich": "https://i.ytimg.com/an_webp/Tef1e9FiSR0/mqdefault_6s.webp?du=3000&sqp=CLvghdgG&rs=AOn4CLDy5XXrAXhByT-_J3AkpCM_4ztSiA"
+      },
+      "chapters": [
+        {
+          "title": "Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_21933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJb1fR95DXey4ezdE-DWZ8P58TNw",
+          "time_start": 0
+        },
+        {
+          "title": "Basics of web development",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_49866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzHCPheXMfqWeTZcAQTqTfyhX4YQ",
+          "time_start": 23
+        },
+        {
+          "title": "How long it takes to become a front-end developer",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_60300.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUu5aMzXt8kXYCCol_6JvUBRD4GA",
+          "time_start": 56
+        },
+        {
+          "title": "The complete front-end roadmap (PDF)",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_91966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxgh8wia7s2IYnFnZqyP1fIEnBSg",
+          "time_start": 70
+        },
+        {
+          "title": "Basics of front-end development",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_97933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUK9-TH-6hGtfBf0apyYKmmQ8dHg",
+          "time_start": 93
+        },
+        {
+          "title": "Version control (Git)",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_227900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsyUOiLI-frp1FQA22UEXXy7DV3g",
+          "time_start": 213
+        },
+        {
+          "title": "TypeScript",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_247800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYu9dNDmluRYW-8Fzs4cWc9SuR5w",
+          "time_start": 233
+        },
+        {
+          "title": "UI libraries/frameworks",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_285900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQfQ3m7FKwzkYaP5OKmcOhRQ7csA",
+          "time_start": 258
+        },
+        {
+          "title": "CSS preprocessors",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_364900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhWVF2lztxxbJz2IxQcJNeXIAoUw",
+          "time_start": 341
+        },
+        {
+          "title": "CSS frameworks",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_396833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9C20qLCQwYH4GsB6lDLJ9OfY2fg",
+          "time_start": 382
+        },
+        {
+          "title": "Automated testing frameworks",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_424200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJoXyVjE62GTJluUqzvQxJocSmFQ",
+          "time_start": 421
+        },
+        {
+          "title": "Meta-frameworks",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_482066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBQXSSx1fqOa7KIApuYhuz3zkNoQ",
+          "time_start": 463
+        },
+        {
+          "title": "Mobile development",
+          "thumbnail": "https://i.ytimg.com/vi/Tef1e9FiSR0/hqdefault_504233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD13iuPbYI1-bKHe6DFc6MLwPhnYA",
+          "time_start": 500
+        }
+      ]
+    },
+    {
+      "position_on_page": 19,
+      "title": "Learn React JS - Full Beginner’s Tutorial & Practice Projects",
+      "link": "https://www.youtube.com/watch?v=x4rFhThSX04",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=x4rFhThSX04",
+      "video_id": "x4rFhThSX04",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 1173284,
+      "length": "15:40:54",
+      "description": "Learn modern React basics in the most interactive, hands-on way possible in the full course for beginners. Throughout this tutorial ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/x4rFhThSX04/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2HLfukCTJg3w6Agji7NwA7u3WgQ",
+        "rich": "https://i.ytimg.com/an_webp/x4rFhThSX04/mqdefault_6s.webp?du=3000&sqp=CI66hdgG&rs=AOn4CLCOaZeZqLs-S1ztxdPV7YxhTE9MAg"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "React tutorial for beginners ⚛️",
+      "link": "https://www.youtube.com/watch?v=hn80mWvP-9g",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=hn80mWvP-9g",
+      "video_id": "hn80mWvP-9g",
+      "channel": {
+        "name": "Bro Code",
+        "channel_id": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "link": "https://www.youtube.com/@BroCodez",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mPFVsxROj1dOtTWc9iNBwDYV4z42Q8LPokBSewiW9pCSg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 675180,
+      "length": "20:27",
+      "description": "00:00:00 introduction 00:01:41 installation 00:02:48 new project 00:05:00 how to restart dev server 00:05:36 project folder ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/hn80mWvP-9g/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCZT5kxjEVG1uxmhot0hT_4KZ9tA",
+        "rich": "https://i.ytimg.com/an_webp/hn80mWvP-9g/mqdefault_6s.webp?du=3000&sqp=CMilhdgG&rs=AOn4CLA387Dmo8L8YKzpwFvtuT6BVyuylg"
+      },
+      "chapters": [
+        {
+          "title": "introduction",
+          "thumbnail": "https://i.ytimg.com/vi/hn80mWvP-9g/hqdefault_11933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCO8v91v2WoZiNCrLtq-hFxBy5RdQ",
+          "time_start": 0
+        },
+        {
+          "title": "installation",
+          "thumbnail": "https://i.ytimg.com/vi/hn80mWvP-9g/hqdefault_101400.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZ9Ub0sSUxDhxg-XIyoBUDcFoXYQ",
+          "time_start": 101
+        },
+        {
+          "title": "new project",
+          "thumbnail": "https://i.ytimg.com/vi/hn80mWvP-9g/hqdefault_187933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAi-srSOlbPxTkk1veU38wzHKbb2g",
+          "time_start": 168
+        },
+        {
+          "title": "how to restart dev server",
+          "thumbnail": "https://i.ytimg.com/vi/hn80mWvP-9g/hqdefault_300400.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZFrOlabD6PLfICJnlmOG2Zg0BlQ",
+          "time_start": 300
+        },
+        {
+          "title": "project folder explanation",
+          "thumbnail": "https://i.ytimg.com/vi/hn80mWvP-9g/hqdefault_338800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOC6_yL41kT0vx_Oz0ZITUMjqPTg",
+          "time_start": 336
+        },
+        {
+          "title": "App component",
+          "thumbnail": "https://i.ytimg.com/vi/hn80mWvP-9g/hqdefault_503766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDv8hUOYrx1Ez9t4L9y7sGOwExbWQ",
+          "time_start": 493
+        },
+        {
+          "title": "new Header component",
+          "thumbnail": "https://i.ytimg.com/vi/hn80mWvP-9g/hqdefault_558200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0v2kuwRVvpqFpEu41STOdJJZUKg",
+          "time_start": 554
+        },
+        {
+          "title": "new Footer component",
+          "thumbnail": "https://i.ytimg.com/vi/hn80mWvP-9g/hqdefault_815266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDX9hUppN1hIqw943fAWnv9_sUFmA",
+          "time_start": 810
+        },
+        {
+          "title": "new Food component",
+          "thumbnail": "https://i.ytimg.com/vi/hn80mWvP-9g/hqdefault_1003233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1U5nKhYvUXAk_hjd7hXp6jk8Ccw",
+          "time_start": 992
+        },
+        {
+          "title": "conclusion",
+          "thumbnail": "https://i.ytimg.com/vi/hn80mWvP-9g/hqdefault_1191600.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQ7s2_ADgKMxhwsI3G1gScVVvNpA",
+          "time_start": 1162
+        }
+      ]
+    },
+    {
+      "position_on_page": 21,
+      "title": "React Explained in 8 Minutes",
+      "link": "https://www.youtube.com/watch?v=V1PxgjIhTw0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=V1PxgjIhTw0",
+      "video_id": "V1PxgjIhTw0",
+      "channel": {
+        "name": "Coding2GO",
+        "channel_id": "UCGpoeEhUBQBaaKZ_a8HB67Q",
+        "link": "https://www.youtube.com/@coding2go",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/DDvCeQPtcL0K2b96Q8cP0x-d5RWX-tXCUDAxvQUvD0_m26Jt1gyHuXCfxN9Xo1EQVckPF1miNDg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7mo ago",
+      "views": 46004,
+      "length": "8:01",
+      "description": "Full React Course → https://coding2go.com/products/react-masterclass In this React tutorial for beginners, you will learn the core ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/V1PxgjIhTw0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXRnr9pcR6qrACwIpx7Lc5KhIfpw",
+        "rich": "https://i.ytimg.com/an_webp/V1PxgjIhTw0/mqdefault_6s.webp?du=3000&sqp=CLK4hdgG&rs=AOn4CLBPb1iUbH2foVEupC_bwFmUrEJ6xQ"
+      },
+      "chapters": [
+        {
+          "title": "What problem does react solve?",
+          "thumbnail": "https://i.ytimg.com/vi/V1PxgjIhTw0/hqdefault_12966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCP5jLUJeCrPDLOFmLGh1eBPbn-dA",
+          "time_start": 0
+        },
+        {
+          "title": "Declarative Programming",
+          "thumbnail": "https://i.ytimg.com/vi/V1PxgjIhTw0/hqdefault_50333.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEbFCm0GfgVRhA3pMw39xhdviMOw",
+          "time_start": 50
+        },
+        {
+          "title": "React Components",
+          "thumbnail": "https://i.ytimg.com/vi/V1PxgjIhTw0/hqdefault_88800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAIRY2Nysvl6IHlgBfPzYExrNMdQ",
+          "time_start": 87
+        },
+        {
+          "title": "JSX",
+          "thumbnail": "https://i.ytimg.com/vi/V1PxgjIhTw0/hqdefault_138833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBz6wWugci7BzAmcb4yGyFSsfXJfA",
+          "time_start": 130
+        },
+        {
+          "title": "Single Page Applications",
+          "thumbnail": "https://i.ytimg.com/vi/V1PxgjIhTw0/hqdefault_157766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByz_LHV9dPUQh2PL7NOY0AVqDZcA",
+          "time_start": 157
+        },
+        {
+          "title": "Vite: Basic React Setup",
+          "thumbnail": "https://i.ytimg.com/vi/V1PxgjIhTw0/hqdefault_197233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGNjV8aLaTc87APo-suYs-6D2m-g",
+          "time_start": 197
+        },
+        {
+          "title": "State",
+          "thumbnail": "https://i.ytimg.com/vi/V1PxgjIhTw0/hqdefault_364200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDULm58rPIxEr6r6WspMIY3c7TXeg",
+          "time_start": 351
+        }
+      ]
+    }
+  ],
+  "playlist_results": [
+    {
+      "position_on_page": 5,
+      "title": "React 19 Complete Tutorial",
+      "link": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwg9D7EOSEBabuutIdKZN5V3",
+      "channel": {
+        "name": "Codevolution",
+        "channel_id": "UC80PWRj_ZU8Zu0HSMNVwKWw",
+        "link": "https://www.youtube.com/@Codevolution"
+      },
+      "videos": [
+        {
+          "title": "React 19 Tutorial - 1 - Introduction",
+          "length": "4:39",
+          "link": "https://www.youtube.com/watch?v=H6QAY_VqvUc&list=PLC3y8-rFHvwg9D7EOSEBabuutIdKZN5V3"
+        },
+        {
+          "title": "React 19 Tutorial - 2 - Your First React App",
+          "length": "4:22",
+          "link": "https://www.youtube.com/watch?v=32nwU4Gd8qE&list=PLC3y8-rFHvwg9D7EOSEBabuutIdKZN5V3"
+        }
+      ],
+      "video_count": 38,
+      "thumbnail": "https://i.ytimg.com/vi/H6QAY_VqvUc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCMFKtwBWYB1tm4MrR6ZtcPajXWUQ"
+    },
+    {
+      "position_on_page": 6,
+      "title": "Full Modern React Tutorial",
+      "link": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d",
+      "channel": {
+        "name": "Net Ninja",
+        "channel_id": "UCW5YeuERMmlnqo4oq8vwUpg",
+        "link": "https://www.youtube.com/@NetNinja"
+      },
+      "videos": [
+        {
+          "title": "Full React Tutorial #1 - Introduction",
+          "length": "6:07",
+          "link": "https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d"
+        },
+        {
+          "title": "Full React Tutorial #2 - Creating a React Application",
+          "length": "13:02",
+          "link": "https://www.youtube.com/watch?v=kVeOpcw4GWY&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&pp=0gcJCRYF0aJEHMZM"
+        }
+      ],
+      "video_count": 32,
+      "thumbnail": "https://i.ytimg.com/vi/j942wKiXFu8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBbGtddeJ5tUYHQ4sp-TxFi98iYuw"
+    },
+    {
+      "position_on_page": 8,
+      "title": "ReactJS Tutorial for Beginners",
+      "link": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3",
+      "channel": {
+        "name": "Codevolution",
+        "channel_id": "UC80PWRj_ZU8Zu0HSMNVwKWw",
+        "link": "https://www.youtube.com/@Codevolution"
+      },
+      "videos": [
+        {
+          "title": "ReactJS Tutorial - 1 - Introduction",
+          "length": "9:34",
+          "link": "https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3"
+        },
+        {
+          "title": "ReactJS Tutorial - 2 - Hello World",
+          "length": "4:54",
+          "link": "https://www.youtube.com/watch?v=9hb_0TZ_MVI&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3"
+        }
+      ],
+      "video_count": 120,
+      "thumbnail": "https://i.ytimg.com/vi/QFaFIcGhPoM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBxjQ3WRrxrWkZIs4UJ8lbT8uODng"
+    },
+    {
+      "position_on_page": 9,
+      "title": "ReactJS  Masterclass: Beginner To Advanced – Build Real Projects (85+ Videos)",
+      "link": "https://www.youtube.com/playlist?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza",
+      "channel": {
+        "name": "Code Stoic",
+        "channel_id": "UC6wN_7yMS0dmb4LkDSPkJ2g",
+        "link": "https://www.youtube.com/@ashutoshpawar"
+      },
+      "videos": [
+        {
+          "title": "ReactJS Tutorial 1 : Introduction To ReactJS",
+          "length": "15:58",
+          "link": "https://www.youtube.com/watch?v=MHn66JJH5zs&list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza"
+        },
+        {
+          "title": "ReactJS Tutorial 2: Installing Required Tools",
+          "length": "3:49",
+          "link": "https://www.youtube.com/watch?v=R1B1PaD0sWU&list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza"
+        }
+      ],
+      "video_count": 93,
+      "thumbnail": "https://i.ytimg.com/vi/MHn66JJH5zs/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB_C3RQdkJnORcghP7sZ_NqFvdxRw"
+    },
+    {
+      "position_on_page": 12,
+      "title": "🚀 React JS Full Course in Hindi (2026) | Complete React JS 19 Tutorial with Projects",
+      "link": "https://www.youtube.com/playlist?list=PL-CeQccLavFdWbvPJLg2ig-ImCNmf44mj",
+      "channel": {
+        "name": "Web Dev Mastery",
+        "channel_id": "UCQVE2WU-h_dszY5If6oFvFg",
+        "link": "https://www.youtube.com/@webdevmastery18"
+      },
+      "videos": [
+        {
+          "title": "React JS 19 Full Course in Hindi (2026) | Introduction + Installation | Lecture 1",
+          "length": "23:34",
+          "link": "https://www.youtube.com/watch?v=bVPX4cK68Bg&list=PL-CeQccLavFdWbvPJLg2ig-ImCNmf44mj"
+        },
+        {
+          "title": "🚀 React JS 19 Components & JSX | React JS 19 Complete Course in Hindi 2026 | #2",
+          "length": "29:25",
+          "link": "https://www.youtube.com/watch?v=wNduPucvdZE&list=PL-CeQccLavFdWbvPJLg2ig-ImCNmf44mj"
+        }
+      ],
+      "video_count": 29,
+      "thumbnail": "https://i.ytimg.com/vi/bVPX4cK68Bg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDFwRXKJMunocE4nDVLsnRmmiQB1g"
+    },
+    {
+      "position_on_page": 15,
+      "title": "React Js Tutorials in Hindi",
+      "link": "https://www.youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt",
+      "channel": {
+        "name": "CodeWithHarry",
+        "channel_id": "UCeVMnSShP_Iviwkknt83cww",
+        "link": "https://www.youtube.com/@CodeWithHarry"
+      },
+      "videos": [
+        {
+          "title": "Introduction to React Js + Installation | Complete React Course in Hindi #1",
+          "length": "16:51",
+          "link": "https://www.youtube.com/watch?v=-mJFZp84TIY&list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt"
+        },
+        {
+          "title": "Creating our first react app using create-react-app | Complete React Course in Hindi #2",
+          "length": "21:07",
+          "link": "https://www.youtube.com/watch?v=hnVOvvbQrwA&list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt"
+        }
+      ],
+      "video_count": 78,
+      "thumbnail": "https://i.ytimg.com/vi/-mJFZp84TIY/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAkGwI7KSZIfc-UPL1HxH-qfv5BuQ"
+    },
+    {
+      "position_on_page": 16,
+      "title": "🚀 ReactJS 19 Tutorial Course for Beginner to advanced in Hindi / Urdu",
+      "link": "https://www.youtube.com/playlist?list=PL0b6OzIxLPbzGtrDFaF6uoC33cPNHDmeV",
+      "channel": {
+        "name": "YOOBABA",
+        "channel_id": "UCuT0rj__qEq_ZO3kYwun4Qg",
+        "link": "https://www.youtube.com/@yoo-baba"
+      },
+      "videos": [
+        {
+          "title": "ReactJS Introduction Tutorial in Hindi / Urdu",
+          "length": "26:13",
+          "link": "https://www.youtube.com/watch?v=d4LvlpMhKgk&list=PL0b6OzIxLPbzGtrDFaF6uoC33cPNHDmeV"
+        },
+        {
+          "title": "ReactJS Installation Tutorial in Hindi / Urdu",
+          "length": "19:52",
+          "link": "https://www.youtube.com/watch?v=PeOZb7KBVYE&list=PL0b6OzIxLPbzGtrDFaF6uoC33cPNHDmeV"
+        }
+      ],
+      "video_count": 38,
+      "thumbnail": "https://i.ytimg.com/vi/d4LvlpMhKgk/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCooUILoURRUMoSs4cFYFphB9Jnsw"
+    },
+    {
+      "position_on_page": 17,
+      "title": "React Full course in Tamil",
+      "link": "https://www.youtube.com/playlist?list=PLhP5RsB7fhE0rPHU66lQltacKt9PeFYRt",
+      "channel": {
+        "name": "code io - Tamil",
+        "channel_id": "UCGoLw0tC_QAXy0b4KCoxYZw",
+        "link": "https://www.youtube.com/@codeio"
+      },
+      "videos": [
+        {
+          "title": "What is React ? | Virtual DOM | React Ep-1 | code io - Tamil",
+          "length": "16:02",
+          "link": "https://www.youtube.com/watch?v=UYFtY7Acngw&list=PLhP5RsB7fhE0rPHU66lQltacKt9PeFYRt"
+        },
+        {
+          "title": "Project Structure & Environment setup | React Ep-2 | code io - Tamil",
+          "length": "18:36",
+          "link": "https://www.youtube.com/watch?v=SAUBFF4e50k&list=PLhP5RsB7fhE0rPHU66lQltacKt9PeFYRt"
+        }
+      ],
+      "video_count": 29,
+      "thumbnail": "https://i.ytimg.com/vi/UYFtY7Acngw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDXPKAK13h1vhaQT4Q_OyWmfCeqYA"
+    },
+    {
+      "position_on_page": 22,
+      "title": "ReactJS Full Course",
+      "link": "https://www.youtube.com/playlist?list=PLQEaRBV9gAFvcKA4jL9BTLBfmBSGMWSOe",
+      "channel": {
+        "name": "Coder Army",
+        "channel_id": "UC-QLxQ7cFp-3CFnSZO6oXXw",
+        "link": "https://www.youtube.com/@CoderArmy9"
+      },
+      "videos": [
+        {
+          "title": "ReactJS Full Course | What is ReactJS | React JS Tutorial for Beginners | ReactJS Full Course #1",
+          "length": "1:08:14",
+          "link": "https://www.youtube.com/watch?v=TkHH-IHsEKQ&list=PLQEaRBV9gAFvcKA4jL9BTLBfmBSGMWSOe"
+        },
+        {
+          "title": "React JSX , Babel, React Components & Props Explained from Scratch | ReactJS Full Course #2",
+          "length": "1:05:59",
+          "link": "https://www.youtube.com/watch?v=JdFUNKGwWLw&list=PLQEaRBV9gAFvcKA4jL9BTLBfmBSGMWSOe"
+        }
+      ],
+      "video_count": 10,
+      "thumbnail": "https://i.ytimg.com/vi/TkHH-IHsEKQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCxwwXNPd-wREuFcftoJEBIicoAgA"
+    },
+    {
+      "position_on_page": 23,
+      "title": "Chai aur react | with projects",
+      "link": "https://www.youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige",
+      "channel": {
+        "name": "Chai aur Code",
+        "channel_id": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "link": "https://www.youtube.com/@chaiaurcode"
+      },
+      "videos": [
+        {
+          "title": "React JS roadmap | chai aur react series",
+          "length": "30:18",
+          "link": "https://www.youtube.com/watch?v=vz1RlUyrc3w&list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige"
+        },
+        {
+          "title": "Create react projects | chai aur react",
+          "length": "35:16",
+          "link": "https://www.youtube.com/watch?v=k3KqQvywToE&list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige"
+        }
+      ],
+      "video_count": 35,
+      "thumbnail": "https://i.ytimg.com/vi/vz1RlUyrc3w/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCsM0zWm8nNaGFVGLbmwaDoeXwqNg"
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=React+full+course+tutorial+for+Frontend+Developer&gl=in&hl=en",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=React%20full%20course%20tutorial%20for%20Frontend%20Developer&sp=SBSCAQtTcWNZMEdsRVRQa4IBC1R0UFh2RWNFMTFFggEiUExDM3k4LXJGSHZ3ZzlEN0VPU0VCYWJ1dXRJZEtaTjVWM4IBIlBMNGNVeGVHa2NDOWdaRC1Udndmb2QyZ2FJU3pmUmlQOWSCASJQTEMzeTgtckZIdndnZzN2YVlKZ0hHbk1vZEI1NHJ4T2szggEiUExTc0F6NXdmMmxrS19la2QwSl9fNDRLRzZRb1hldFp6YYIBC3Myc2thbnMyZFA0ggELZENMaFVpYWxLUFGCASJQTC1DZVFjY0xhdkZkV2J2UEpMZzJpZy1JbUNObWY0NG1qggELQ2drWjdNdldVQUGCAQt3SXlIU091Z0dHd4IBIlBMdTBXXzlsSUk5YWd4NjZvWm5UNkl5aGNNSWJVTU5NZHSCASJQTDBiNk96SXhMUGJ6R3RyREZhRjZ1b0MzM2NQTkhEbWVWggEiUExoUDVSc0I3ZmhFMHJQSFU2NmxRbHRhY0t0OVBlRllSdIIBC1RlZjFlOUZpU1IwggELeDRyRmhUaFNYMDSCAQtobjgwbVd2UC05Z4IBC1YxUHhnakloVHcwggEiUExRRWFSQlY5Z0FGdmNLQTRqTDlCVExCZm1CU0dNV1NPZYIBIlBMdTcxU0t4TmJmb0RxZ1BjaG12SXNMNGhUbkpJcnRpZ2WyAQYKBAgZEAI%253D",
+    "next_page_token": "SBSCAQtTcWNZMEdsRVRQa4IBC1R0UFh2RWNFMTFFggEiUExDM3k4LXJGSHZ3ZzlEN0VPU0VCYWJ1dXRJZEtaTjVWM4IBIlBMNGNVeGVHa2NDOWdaRC1Udndmb2QyZ2FJU3pmUmlQOWSCASJQTEMzeTgtckZIdndnZzN2YVlKZ0hHbk1vZEI1NHJ4T2szggEiUExTc0F6NXdmMmxrS19la2QwSl9fNDRLRzZRb1hldFp6YYIBC3Myc2thbnMyZFA0ggELZENMaFVpYWxLUFGCASJQTC1DZVFjY0xhdkZkV2J2UEpMZzJpZy1JbUNObWY0NG1qggELQ2drWjdNdldVQUGCAQt3SXlIU091Z0dHd4IBIlBMdTBXXzlsSUk5YWd4NjZvWm5UNkl5aGNNSWJVTU5NZHSCASJQTDBiNk96SXhMUGJ6R3RyREZhRjZ1b0MzM2NQTkhEbWVWggEiUExoUDVSc0I3ZmhFMHJQSFU2NmxRbHRhY0t0OVBlRllSdIIBC1RlZjFlOUZpU1IwggELeDRyRmhUaFNYMDSCAQtobjgwbVd2UC05Z4IBC1YxUHhnakloVHcwggEiUExRRWFSQlY5Z0FGdmNLQTRqTDlCVExCZm1CU0dNV1NPZYIBIlBMdTcxU0t4TmJmb0RxZ1BjaG12SXNMNGhUbkpJcnRpZ2WyAQYKBAgZEAI%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=React+full+course+tutorial+for+Frontend+Developer",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=React+full+course+tutorial+for+Frontend+Developer&sp=SBSCAQtTcWNZMEdsRVRQa4IBC1R0UFh2RWNFMTFFggEiUExDM3k4LXJGSHZ3ZzlEN0VPU0VCYWJ1dXRJZEtaTjVWM4IBIlBMNGNVeGVHa2NDOWdaRC1Udndmb2QyZ2FJU3pmUmlQOWSCASJQTEMzeTgtckZIdndnZzN2YVlKZ0hHbk1vZEI1NHJ4T2szggEiUExTc0F6NXdmMmxrS19la2QwSl9fNDRLRzZRb1hldFp6YYIBC3Myc2thbnMyZFA0ggELZENMaFVpYWxLUFGCASJQTC1DZVFjY0xhdkZkV2J2UEpMZzJpZy1JbUNObWY0NG1qggELQ2drWjdNdldVQUGCAQt3SXlIU091Z0dHd4IBIlBMdTBXXzlsSUk5YWd4NjZvWm5UNkl5aGNNSWJVTU5NZHSCASJQTDBiNk96SXhMUGJ6R3RyREZhRjZ1b0MzM2NQTkhEbWVWggEiUExoUDVSc0I3ZmhFMHJQSFU2NmxRbHRhY0t0OVBlRllSdIIBC1RlZjFlOUZpU1IwggELeDRyRmhUaFNYMDSCAQtobjgwbVd2UC05Z4IBC1YxUHhnakloVHcwggEiUExRRWFSQlY5Z0FGdmNLQTRqTDlCVExCZm1CU0dNV1NPZYIBIlBMdTcxU0t4TmJmb0RxZ1BjaG12SXNMNGhUbkpJcnRpZ2WyAQYKBAgZEAI%253D",
+    "next_page_token": "SBSCAQtTcWNZMEdsRVRQa4IBC1R0UFh2RWNFMTFFggEiUExDM3k4LXJGSHZ3ZzlEN0VPU0VCYWJ1dXRJZEtaTjVWM4IBIlBMNGNVeGVHa2NDOWdaRC1Udndmb2QyZ2FJU3pmUmlQOWSCASJQTEMzeTgtckZIdndnZzN2YVlKZ0hHbk1vZEI1NHJ4T2szggEiUExTc0F6NXdmMmxrS19la2QwSl9fNDRLRzZRb1hldFp6YYIBC3Myc2thbnMyZFA0ggELZENMaFVpYWxLUFGCASJQTC1DZVFjY0xhdkZkV2J2UEpMZzJpZy1JbUNObWY0NG1qggELQ2drWjdNdldVQUGCAQt3SXlIU091Z0dHd4IBIlBMdTBXXzlsSUk5YWd4NjZvWm5UNkl5aGNNSWJVTU5NZHSCASJQTDBiNk96SXhMUGJ6R3RyREZhRjZ1b0MzM2NQTkhEbWVWggEiUExoUDVSc0I3ZmhFMHJQSFU2NmxRbHRhY0t0OVBlRllSdIIBC1RlZjFlOUZpU1IwggELeDRyRmhUaFNYMDSCAQtobjgwbVd2UC05Z4IBC1YxUHhnakloVHcwggEiUExRRWFSQlY5Z0FGdmNLQTRqTDlCVExCZm1CU0dNV1NPZYIBIlBMdTcxU0t4TmJmb0RxZ1BjaG12SXNMNGhUbkpJcnRpZ2WyAQYKBAgZEAI%3D"
+  }
+}

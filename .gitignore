@@ -5,6 +5,9 @@ venv/
 # Secrets & environment variables
 .env
 
+# Transient scan history logs
+data/history/
+
 # Logs
 *.log
 npm-debug.log*

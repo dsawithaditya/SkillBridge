@@ -1,0 +1,1330 @@
+{
+  "search_metadata": {
+    "id": "6b0172671e760bfaa30b45a7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/acEoJD2Isa8zS2H1Vqk1epV5i40xPFQEn_ofmY4pixY/6b0172671e760bfaa30b45a7.json",
+    "markdown_endpoint": "https://serpapi.com/searches/acEoJD2Isa8zS2H1Vqk1epV5i40xPFQEn_ofmY4pixY/6b0172671e760bfaa30b45a7.md",
+    "created_at": "2026-11-21 10:28:55 UTC",
+    "processed_at": "2026-11-21 10:28:55 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Django+full+course+tutorial+for+Backend+Python+Developer&gl=in&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/acEoJD2Isa8zS2H1Vqk1epV5i40xPFQEn_ofmY4pixY/6b0172671e760bfaa30b45a7.html",
+    "total_time_taken": 3.49
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Django full course tutorial for Backend Python Developer",
+    "gl": "in",
+    "hl": "en"
+  },
+  "search_information": {
+    "total_results": 2898571,
+    "video_results_state": "Results for exact spelling"
+  },
+  "ads_results": [
+    {
+      "position_on_page": 1,
+      "title": "Mercedes-AMG PETRONAS F1 Team strategists analyze more possibilities in less time",
+      "link": "https://www.youtube.com/watch?v=beeVOhTvKc0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=beeVOhTvKc0",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CHSXFZ3IBa5zwKeniy_sPxOq_2Aax9aKPiwHy0I_NxRbdq6T6zkgQASAAYMnGqI3spPgRggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAcCKxvVDqAMEyAMKqgToAk_QKCDP-LkIVVXb5IF1QfKaKxkyw4irPqbP0Z4EreChx7_mtL5Ej1wT0goB1-vY0BCHSFxhcM6epdnsZeorALRAM0QfF5vPi6utAClRUnf_BCYwa8gaBdXVZ9XynxLaghYoIqLtIdEN7o2CzP7hdZzNsvShwbDYaa7IWmXmFCylolYPHMyvdmTf--gx4yiSy12ZubYRBdm-bfAVn1REifUpD0-OpMXxbtdc3rA_ypgmDdAdV8NUGx4Z_YygB-dz7nf6hR1wUQRXG0BzEx88zNe7UiOKRrjCm-5wb7eJCRyJYT_MRUD3adjb2sSMqkBFPJBQN-H0n3pmK7eai6BJENes0fM6Gdd-ygmwNSv0gS7O6Z8kZPKExRdSPNJwLv1Xc_QAKIYN4goC9a4t5jV2HtWHafs-RhbQp6YSlMjwDQcAHbd2DXVa6kJgPd7cVj45vFyuKpA8zapr2V-1M5TV8STLvUezRK6jsogF6-ekyFqSBQgIE3jB5-36HqAGoQGAB8DCltUekAcEqAelz7ECqAfnnbECqAfonbECqAeD9rECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHnuqxAqgHn-qxAqgH-OuxAqgHvOqxAqgH7_GxAqgH_K-xAqgH1c4bqAe-2bECqAe_2bECqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKSCAtiZWVWT2hUdktjMKgIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBhI2aDSNVAUWICQup_tmJgDYAGaCU9odHRwczovL2F6dXJlLm1pY3Jvc29mdC5jb20vZW4tdXMvcHJpY2luZy9wdXJjaGFzZS1vcHRpb25zL2F6dXJlLWFjY291bnQvc2VhcmNosQnCqCXqYDdKhMgJF8gJjwHICcIByAmXAroLPggDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AIC2AEDgAIBiAIRugMJdmlhdGx6YWFh0AsS4AsB0gwCEAGaDQESqg0CVVPIDQHSDZ0FaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL041NzI2MDguMTM1NTMzOUdPT0dMRS5DT01ERE1CSURNL0IzNjg2NTY0Mi40NTc4NTkwOTg7ZGNfdHJrX2FpZD02NTI0MjU4MjU7ZGNfdHJrX2NpZD0yNjUyNTAxMjA7ZGNfZGJtX3Rva2VuPUFPamVMTkVBQUFBOENqUUtEQWdBRlFBQUFBQWRBQUFBQUJJTUNBQVZBQUFBQUIwQUFBQUFJaFFJNi1la3lGcW9Bc0huN2ZvZXNBTDh6UFhyQTBBN0VLSEFfN0lkY2x6WDRFdGdVcU5WeUVBdXVVX0NaQT09O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2x0ZD07ZGNfdGR2PTE7O2RjX3RyYW5zcGFyZW50PTE7ZGNfcnVpPTE7ZGNfZXBzPUFIYXM4Y0JiQmVuYzhxYjU0elhIQkczQzFCUk43Z0QyeDJscFFWbmRGWDdZUUMzYlFRNlBVMlE3T0hjQmxYS2YxUGFBNThGVXc4WFdwbnh6UC1ISElBO2RjX3B1YmlkPTY_aHR0cHM6Ly9henVyZS5taWNyb3NvZnQuY29tL2VuLXVzL3ByaWNpbmcvcHVyY2hhc2Utb3B0aW9ucy9henVyZS1hY2NvdW50L3NlYXJjaD9jaWQ9Zm9ybXVsYTEmT0NJRD1BSURjbW1sZzdvNXZiOF9PTEFfMzY4NjU2NDJfNDU3ODU5MDk4XzI2NTI1MDEyMCZzaXRlSUQ9MTA2NDUwMTMmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTI0MzEwNzg5MDk5sBPAhM0muBP___________8BiBQDsBQDwBWBgIBA0BUB2BUBmBYBqBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF4QGIdHTHExeuhcGKAAwADgB0BgB8BgBwhkCCAE&gclid=EAIaIQobChMI3L-6n-2YmAMVafFyCR1E9Q9rEAEYASAAEgJVifD_BwE&num=1&cid=CAASwgHkaAWu8BIJEsuStPaUERm6ow5fch4v22wPbUfeXBUBlh07egxiyERXKU0Q-eViIl9tf4zah_AP67uMPogMJTLS0pY4IZ2u_odLcRaj6vi7Gwe4mya8C11v_GEW43eq39WLIrSutqDq9KWBDlxCSeHRUtn5A5bFEiEoEXQq0ggW130vgK3wpICp16N_d-wC4F3HETKqOHfMK_hzts3xMrhlmY419ZW4-McivuQJRW-nQJKUeFc8htosL4XNPT7aQuso0A&ad_cpn=%5BCPN%5D&sig=AOD64_1QzC4nCRVIuMW4tGvTfJU-3uf51w&ctype=110&video_id=beeVOhTvKc0&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Microsoft",
+        "thumbnail": "https://yt3.ggpht.com/proxy/HcDIKi6hGUt23dHJXoGqjYsnW-Yx9b_rvzKby486R6qMUMB5Rj4f1gTieN0_putXXLoa3-WRmWkl6sG9uNJxyUKxT05R36YayKaL6mPwyYsceZVtV43-hJXD6Vdcwr-f9TTB2p4MuxHVP_MYMdnkd1T-00ZPKAq1UisX070t8eIHTbn0wr8tIAwBLSzPe1a1lfAxuCvhiPlF0mN5w-KEfkrLLRdu2y16PNlmNSxm4ASe8xaThWiP6wugAt2DNl21sdoTc3c=w68-h68-nd"
+      },
+      "description": "Run simulations in seconds with Azure Batch. Start experimenting with an Azure free trial.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/beeVOhTvKc0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA68mHfdTYYoDr6fqC1wh1oz0UFQg"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Devour knowledge with Student Spaces",
+      "link": "https://www.youtube.com/watch?v=EJ_xkuarNEU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=EJ_xkuarNEU",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CUr4CZ3IBa5zwKeniy_sPxOq_2AaXouaPiwHPvoe0mBawkB8QAyAAYMnGqI3spPgRggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAbH6_-oCqAMEyAMKqgT1Ak_QKCDP-LkIVVXb5IF1QfKaKxkyw4irPqbP0Z4EreChx7_mtL5Ej1wT0goB1-vY0BCHSFxhcM6epdnsZeorALRAM0QfF5vPi6utAClRUnf_BCYwa8gaBdXVZ9XynxLaghYoIqLtIdEN7o2CzP7hdZzNsvShwbDYaa7IWmXmFCylolYPHMyvdmTf--gx4yiSy12ZubYRBdm-bfAVn1REifUpD0-OpMXxbtdc3rA_ypgmDdAdV8NUGx4Z_YygB-dz7nf6hR1wUQRXG0BzEx88zNe7UiOKRrjCm-5wb7eJCRyJYT_MRUD3adjb2sSMqkBFPJBQN-H0n3pmK7eai6BJEM-sWX34sth2yqGoox8ewYTdWZAnyP6cxi-xSRJojvpNuKpyxLEbo35Q5RoYPL19EqrMGyM85J2uoHCyfROIVerl6BkLXaq_bf4508_0XxchW5ZbCQ2EXphFwfsI96g9D8r6kV9Hvnq3FokstzH5eBhVRtNjEjCIBebQ761YkgUICBN4-s2flQGgBqEBgAe3hYCVAZAHBKgHpc-xAqgH552xAqgH6J2xAqgHg_axAqgH-dOxAqgHydqxAqgHqeCxAqgHqNIbqAex3BuoB7CbsQKoB_2ysQKoB8jPsQKoB8nPsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB57qsQKoB5_qsQKoB_jrsQKoB7zqsQKoB-_xsQKoB_yvsQKoB9XOG6gHvtmxAqgHv9mxAqgHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECkggLRUpfeGt1YXJORVWoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAYSNmg0jVQFFiAkLqf7ZiYA2ABmgksaHR0cHM6Ly9hY3JvYmF0LmFkb2JlLmNvbS9zdHVkZW50c3BhY2VzL2hvbWWxCWOYwqReJdfeyAkXyAmPAcgJwgG6Cz4IAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAtgBA4ACAYgCEroDCXZpYXRsemFhYdALE-ALAaIMH2IYChZjb20uYWRvYmUuZWNob3NpZ24uaW9zeACIAQDSDAIQAZoNAROqDQJVU8gNAdIN6QRodHRwczovL2FkLmRvdWJsZWNsaWNrLm5ldC9kZG0vdHJhY2tjbGsvTjk3Mjk1Mi4yNzkzODJCSURNQU5BR0VSX0RGQVNJVEUvQjIyMzQ0NDEzLjI0MTUzOTMyMTtkY190cmtfYWlkPTQzODEyODYyMjtkY190cmtfY2lkPTExMjg4NDYxMztkY19kYm1fdG9rZW49QU9qZUxORUFBQUE2Q2pNS0RBZ0FGUUFBQUFBZEFBQUFBQklNQ0FBVkFBQUFBQjBBQUFBQUloTUk1dER2clZpb0FzTzQ5QUd3QXN5VzR1a0RRRHNRbC1lNkFhcFNvM0xqNjlIcW1SU0dEN05sSnRjPTtkY19sYXQ9O2RjX3JkaWQ9O3RhZ19mb3JfY2hpbGRfZGlyZWN0ZWRfdHJlYXRtZW50PTt0ZnVhPTtsdGQ9O2RjX3Rkdj0xO2RjX3RyYW5zcGFyZW50PTE7ZGNfcnVpPTE7ZGNfZXBzPUFIYXM4Y0FtcWVRNXFiNTRhcE9LQUpUZGFoMmlGNkdKbGNTN1ZaUDRHSnV6TGkzeFlHX0EtVi03WWdpX21XX2JwN3ppOERJTms3VHFtY2lvVWRsUTZ3O2RjX3B1YmlkPTY_aHR0cHM6Ly9hY3JvYmF0LmFkb2JlLmNvbS9zdHVkZW50c3BhY2VzL2hvbWU_c2RpZD1WVEM1SlI0MSZtdj1zb2NpYWwmbXYyPXBhaWRzb2MmeF9hcGlfY2xpZW50X2lkPXBhaWRtZWRpYSZ4X2FwaV9jbGllbnRfbG9jYXRpb249YWRzX1ZUQzVKUjQxJmdhZF9zb3VyY2U9MrAT4-6oJLgT____________AYgUB7AUA8AVgYCAQNAVAdgVAZgWAagWAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXV7_CAho-GPC6FwYoADAAOAHQGAHwGAE&gclid=EAIaIQobChMI3L-6n-2YmAMVafFyCR1E9Q9rEAEYAyAAEgJs9_D_BwE&num=3&cid=CAASwgHkaAWu8BIJEsuStPaUERm6ow5fch4v22wPbUfeXBUBlh07egxiyERXKU0Q-eViIl9tf4zah_AP67uMPogMJTLS0pY4IZ2u_odLcRaj6vi7Gwe4mya8C11v_GEW43eq39WLIrSutqDq9KWBDlxCSeHRUtn5A5bFEiEoEXQq0ggW130vgK3wpICp16N_d-wC4F3HETKqOHfMK_hzts3xMrhlmY419ZW4-McivuQJRW-nQJKUeFc8htosL4XNPT7aQuso0A&ad_cpn=%5BCPN%5D&sig=AOD64_2pyQocwvLd5yPgliGIfraLXEpo2A&ctype=110&video_id=EJ_xkuarNEU&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Adobe",
+        "thumbnail": "https://yt3.ggpht.com/proxy/MOuz2I13I1fAnFfngtXtL_W4we9dtMgr0pZOHx9ZvXrWe0TzDLTj2mq2_seyh8bAOYiFhihUkC0bcCbQ2Rr3ROUyAm-g7fKx7ikqVy2aYwv8ap82JEQltB0uNj5JlrrMcTbQ-wFlNo0DfytWwYBrrCyx4-VnwgCwx-dn0fy6KEEwJzLjssuJHIvXA-MdWMvBvChh3bzxW7-sQCuvX2mDwrBOQUGt_eZzMbPzNL_oO6Ke1vjjr2458wPYmALVc80eUKLvvs8=w68-h68-nd"
+      },
+      "description": "Student Spaces is a smarter way to study. Free for students.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/EJ_xkuarNEU/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFIoRTAP&rs=AOn4CLCU57IhmW3dW5gLlSgxjM1DEB11sQ"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "If you can type it, you can see it – with new AI tools from Squarespace.",
+      "link": "https://www.youtube.com/watch?v=_BUE-O-ELdI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_BUE-O-ELdI",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=C_a4zZ3IBa5zwKeniy_sPxOq_2AaH6pOGiwGf37X-7xawkB8QBSAAYMnGqI3spPgRggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAfClvdICqAMEyAMKqgToAk_QKCDP-LkIVVXb5IF1QfKaKxkyw4irPqbP0Z4EreChx7_mtL5Ej1wT0goB1-vY0BCHSFxhcM6epdnsZeorALRAM0QfF5vPi6utAClRUnf_BCYwa8gaBdXVZ9XynxLaghYoIqLtIdEN7o2CzP7hdZzNsvShwbDYaa7IWmXmFCylolYPHMyvdmTf--gx4yiSy12ZubYRBdm-bfAVn1REifUpD0-OpMXxbtdc3rA_ypgmDdAdV8NUGx4Z_YygB-dz7nf6hR1wUQRXG0BzEx88zNe7UiOKRrjCm-5wb7eJCRyJYT_MRUD3adjb2sSMqkBFPJBQN-H0n3pmK7eai6BJENes0fM6ZNN-ygmwNWT09g_T6Z8kZPKExRdSPO53Lv1Xc5EeJNES4grEfhEt5jV2HtWLZPs-RhbF8fkiuMiUEjxMHLcOKERT6kJgPd7cVj45mzakZpE8zapr2WTlM53V8STLvUemEvGTnogFupKqolGSBQgIE3ik-eGtAaAGoQGAB_jZwq0BkAcEqAelz7ECqAfnnbECqAfonbECqAeD9rECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHnuqxAqgHn-qxAqgH-OuxAqgHvOqxAqgH7_GxAqgH_K-xAqgH1c4bqAe-2bECqAe_2bECqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKSCAtfQlVFLU8tRUxkSagIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBhI2aDSNVAUWICQup_tmJgDYAGaCTdodHRwczovL3d3dy5zcXVhcmVzcGFjZS5jb20vd2Vic2l0ZXMvYWktd2Vic2l0ZS1idWlsZGVysQmrfwLNsKK8wcgJF8gJjwHICcIByAmXAroLPggDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AIC2AEDgAIBiAIFugMJdmlhdGx6YWFh0AsS4AsBogxRYiAKHmNvbS5zcXVhcmVzcGFjZS5zcXVhcmVzcGFjZWFwcGooCiZjb20uc3F1YXJlc3BhY2UuYW5kcm9pZC5zcXVhcmVzcGFjZWFwcHgAiAEA0gwCEAGaDQESqg0CVVPIDQHSDeUFaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL043MTg2NzkuMzE1OUdPT0dMRS9CMzQ0NDU0ODkuNDU4MjM5NTY3O2RjX3Rya19haWQ9NjUyNjgzNzE2O2RjX3Rya19jaWQ9MjY1NTk3NzQ3O2RjX2RibV90b2tlbj1BT2plTE5FQUFBQTZDak1LREFnQUZRQUFBQUFkQUFBQUFCSU1DQUFWQUFBQUFCMEFBQUFBSWhNSXVwS3FvbEdvQW9QZ3RRS3dBdF9DOE9VRFFEc1F1NEMwQXNlMVJZN2ZkMXlJaXFtY0FFUGNNY0k9O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2x0ZD07ZGNfdGR2PTE7ZGNfdHJhbnNwYXJlbnQ9MTtkY19ydWk9MTtkY19lcHM9QUhhczhjQW90NThTZlBQZ2xDWFR5bmFQNDhTY0g3cHhPUW9OYVpxUXcxdXpxbmRuM2ZZS3pPemZwYUlVVHdDNWVUOWVzSC00cC1uTlNaNmU0Ym9qeWc7ZGNfcHViaWQ9Nj9odHRwczovL3d3dy5zcXVhcmVzcGFjZS5jb20vd2Vic2l0ZXMvYWktd2Vic2l0ZS1idWlsZGVyP2NoYW5uZWw9dmlkZW9fcHJvZ3JhbW1hdGljJnN1YmNoYW5uZWw9TjcxODY3OS4zMTU5R09PR0xFJmNhbXBhaWduPTM0NDQ1NDg5JnN1YmNhbXBhaWduPTQ1ODIzOTU2N182NTI2ODM3MTYmc291cmNlPTI2NTU5Nzc0NyZ1dG1fbWVkaXVtPXZpZGVvX3Byb2dyYW1tYXRpYyZ1dG1fc291cmNlPU43MTg2NzkuMzE1OUdPT0dMRSZ1dG1fY29udGVudD0mZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIxODE1MjY1NTk0sBPIju0kuBP___________8BiBQBsBQDwBWBgIBA0BUB2BUBmBYBqBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF82AU44bOY1YuhcGKAAwADgB0BgB8BgBwhkCCAE&gclid=EAIaIQobChMI3L-6n-2YmAMVafFyCR1E9Q9rEAEYBSAAEgIbRfD_BwE&num=5&cid=CAASwgHkaAWu8BIJEsuStPaUERm6ow5fch4v22wPbUfeXBUBlh07egxiyERXKU0Q-eViIl9tf4zah_AP67uMPogMJTLS0pY4IZ2u_odLcRaj6vi7Gwe4mya8C11v_GEW43eq39WLIrSutqDq9KWBDlxCSeHRUtn5A5bFEiEoEXQq0ggW130vgK3wpICp16N_d-wC4F3HETKqOHfMK_hzts3xMrhlmY419ZW4-McivuQJRW-nQJKUeFc8htosL4XNPT7aQuso0A&ad_cpn=%5BCPN%5D&sig=AOD64_0INVYm2AM6LLpIt1Lk54ixeXg-_w&ctype=110&video_id=_BUE-O-ELdI&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Squarespace",
+        "thumbnail": "https://yt3.ggpht.com/proxy/OV0yjYL3Kk9I_i7Omx09d9RPjt0_v4WbF7A4zOK17mKSTTLGS6IO5mPBrpBATxaPMOmf0MGg_Ub91n5qb0n0PLL_J9gidUb63dm9kE-Nwkg_7ZqLObNCs5G-E0YLi1MvkceqjxZndTLsAbHnJpP7OC_QAhOQZtbUFk8jZD838Uhn1Ibf0TfqBSYqRLc2WV7uen0op44FyOJoJOb0pAE2hP68C2i7Kf-ZIeH6Z7WWqDm3UWjzKA17dHtTZKxulgfXUtKJF44=w68-h68-nd"
+      },
+      "description": "See how your brand shows up online—right from your Squarespace dashboard",
+      "thumbnail": {
+        "static": "https://tpc.googlesyndication.com/simgad/8545328293470883753"
+      }
+    }
+  ],
+  "playlist_results": [
+    {
+      "position_on_page": 2,
+      "title": "Django Tutorial 2026 | Complete Django Course for 2026",
+      "link": "https://www.youtube.com/playlist?list=PLVBKjEIdL9bvCdI4l1Emvbezv10GjUaLk",
+      "channel": {
+        "name": "Coding for All ",
+        "channel_id": "UCjcju-aD_ZcWxiXF5lvqntg",
+        "link": "https://www.youtube.com/@codingforallnewtonschool"
+      },
+      "videos": [
+        {
+          "title": "Complete Django Course for 2023 - Zero to Hero in Python Django | Python Django Tutorial",
+          "length": "3:07",
+          "link": "https://www.youtube.com/watch?v=Mezody4yiXw&list=PLVBKjEIdL9bvCdI4l1Emvbezv10GjUaLk"
+        },
+        {
+          "title": "1. Django Pro Setup : Installing Django and setting up Dev Environment",
+          "length": "7:36",
+          "link": "https://www.youtube.com/watch?v=MLeVezRSjvU&list=PLVBKjEIdL9bvCdI4l1Emvbezv10GjUaLk"
+        }
+      ],
+      "video_count": 29,
+      "thumbnail": "https://i.ytimg.com/vi/Mezody4yiXw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAcxoohsoYx-FFIZH_s4jrTKVPyVA"
+    },
+    {
+      "position_on_page": 3,
+      "title": "Complete Django Tutorial",
+      "link": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9iqfAag3a_BKEX1N43uJutw",
+      "channel": {
+        "name": "Net Ninja",
+        "channel_id": "UCW5YeuERMmlnqo4oq8vwUpg",
+        "link": "https://www.youtube.com/@NetNinja"
+      },
+      "videos": [
+        {
+          "title": "Django Tutorial #1 - Introduction",
+          "length": "7:16",
+          "link": "https://www.youtube.com/watch?v=3EzKBFc9_MQ&list=PL4cUxeGkcC9iqfAag3a_BKEX1N43uJutw"
+        },
+        {
+          "title": "Django Tutorial #2 - Setup & Installation",
+          "length": "12:12",
+          "link": "https://www.youtube.com/watch?v=aAACOgAHg90&list=PL4cUxeGkcC9iqfAag3a_BKEX1N43uJutw"
+        }
+      ],
+      "video_count": 13,
+      "thumbnail": "https://i.ytimg.com/vi/3EzKBFc9_MQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAFX36eq-mGwdJx7tbrFBN-DLGiPA"
+    },
+    {
+      "position_on_page": 5,
+      "title": "Django Tutorial 2026 | Complete Django Course for Beginners",
+      "link": "https://www.youtube.com/playlist?list=PLsjpRo2EZP1K_glKX0lG6BkviJFxjuGls",
+      "channel": {
+        "name": "Mohit Decodes",
+        "channel_id": "UC00Ni0CJFFLpaPf3lyHx5NA",
+        "link": "https://www.youtube.com/@MohitDecodes"
+      },
+      "videos": [
+        {
+          "title": "Django Tutorial in Hindi #1 - Introduction | What is Django?",
+          "length": "7:53",
+          "link": "https://www.youtube.com/watch?v=K2QhLEzYBH8&list=PLsjpRo2EZP1K_glKX0lG6BkviJFxjuGls"
+        },
+        {
+          "title": "Django Tutorial in Hindi #2 - MVT Architecture Explained",
+          "length": "3:52",
+          "link": "https://www.youtube.com/watch?v=YMTS4GkxKvs&list=PLsjpRo2EZP1K_glKX0lG6BkviJFxjuGls"
+        }
+      ],
+      "video_count": 78,
+      "thumbnail": "https://i.ytimg.com/vi/K2QhLEzYBH8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBwLizxzLUkEAE9vF5x2JzABBOl-g"
+    },
+    {
+      "position_on_page": 9,
+      "title": "Django Tutorials",
+      "link": "https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p",
+      "channel": {
+        "name": "Corey Schafer",
+        "channel_id": "UCCezIgC97PvUuR4_gbFUs5g",
+        "link": "https://www.youtube.com/@coreyms"
+      },
+      "videos": [
+        {
+          "title": "Python Django Tutorial: Full-Featured Web App Part 1 - Getting Started",
+          "length": "15:32",
+          "link": "https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p"
+        },
+        {
+          "title": "Python Django Tutorial: Full-Featured Web App Part 2 - Applications and Routes",
+          "length": "20:27",
+          "link": "https://www.youtube.com/watch?v=a48xeeo5Vnk&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p"
+        }
+      ],
+      "video_count": 17,
+      "thumbnail": "https://i.ytimg.com/vi/UmljXZIypDc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDum7Jx_iVKBLul1QjUugfEdQhiwA"
+    },
+    {
+      "position_on_page": 11,
+      "title": "Complete Django Tutorial for Beginners to Advanced [Hindi]",
+      "link": "https://www.youtube.com/playlist?list=PLjVLYmrlmjGcyt3m6rt21nfjhYSWP_Ue_",
+      "channel": {
+        "name": "WsCube Tech",
+        "channel_id": "UC0T6MVd3wQDB5ICAe45OxaQ",
+        "link": "https://www.youtube.com/@wscubetech"
+      },
+      "videos": [
+        {
+          "title": "What is Django | What is a Framework | Django Tutorials for Beginners",
+          "length": "11:25",
+          "link": "https://www.youtube.com/watch?v=C1NgOmoOszc&list=PLjVLYmrlmjGcyt3m6rt21nfjhYSWP_Ue_"
+        },
+        {
+          "title": "Everything you need to know before Django - Prerequisite & Inside the Course | Django",
+          "length": "8:03",
+          "link": "https://www.youtube.com/watch?v=8TCg7-F1Jec&list=PLjVLYmrlmjGcyt3m6rt21nfjhYSWP_Ue_"
+        }
+      ],
+      "video_count": 52,
+      "thumbnail": "https://i.ytimg.com/vi/C1NgOmoOszc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAp7JkbbwonuL4FMqJTU1N7fL76lw"
+    },
+    {
+      "position_on_page": 12,
+      "title": "Python Django & RestAPI Bangla Tutorial (Basic to Advanced) Django Full Course for Web Development | Python Django",
+      "link": "https://www.youtube.com/playlist?list=PLKdU0fuY4OFfo3VgywUFoAUY7Udi3_6V6",
+      "channel": {
+        "name": "STUDY MART",
+        "channel_id": "UCH6wiF1uC7PhuV_UIR_28AA",
+        "link": "https://www.youtube.com/@StudyMart"
+      },
+      "videos": [
+        {
+          "title": "Stop Learning Randomly! Follow This Django & Backend API Roadmap 🧠",
+          "length": "14:31",
+          "link": "https://www.youtube.com/watch?v=IZs2S0h0_Ow&list=PLKdU0fuY4OFfo3VgywUFoAUY7Udi3_6V6&pp=0gcJCRYF0aJEHMZM"
+        },
+        {
+          "title": "Django & Backend API Development with Python কোর্সে 10+ Projects নিশ্চিত!",
+          "length": "11:50",
+          "link": "https://www.youtube.com/watch?v=Y741po--fy0&list=PLKdU0fuY4OFfo3VgywUFoAUY7Udi3_6V6&pp=0gcJCRYF0aJEHMZM"
+        }
+      ],
+      "video_count": 64,
+      "thumbnail": "https://i.ytimg.com/vi/IZs2S0h0_Ow/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAXnhKi9-o7sfQEsnd4xRl3CAbI6Q"
+    },
+    {
+      "position_on_page": 14,
+      "title": "Python Django Tutorials In Hindi",
+      "link": "https://www.youtube.com/playlist?list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9",
+      "channel": {
+        "name": "CodeWithHarry",
+        "channel_id": "UCeVMnSShP_Iviwkknt83cww",
+        "link": "https://www.youtube.com/@CodeWithHarry"
+      },
+      "videos": [
+        {
+          "title": "Django Course Announcement | Python Django Tutorials In Hindi #0",
+          "length": "4:30",
+          "link": "https://www.youtube.com/watch?v=5BDgKJFZMl8&list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9"
+        },
+        {
+          "title": "Django Installation & Getting Started | Python Django Tutorials In Hindi #1",
+          "length": "7:30",
+          "link": "https://www.youtube.com/watch?v=HdoPg2e_m9s&list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9"
+        }
+      ],
+      "video_count": 102,
+      "thumbnail": "https://i.ytimg.com/vi/5BDgKJFZMl8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAa-FL6kghvRgz7MhG_eyFbF47tQw"
+    },
+    {
+      "position_on_page": 15,
+      "title": "Django & React - Full Stack Web App Tutorial",
+      "link": "https://www.youtube.com/playlist?list=PLzMcBGfZo4-kCLWnGmK0jUBmGLaJxvi4j",
+      "channel": {
+        "name": "Tech With Tim",
+        "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
+        "link": "https://www.youtube.com/@TechWithTim"
+      },
+      "videos": [
+        {
+          "title": "Django & React Tutorial #1 - Full Stack Web App With Python & JavaScript",
+          "length": "19:16",
+          "link": "https://www.youtube.com/watch?v=JD-age0BPVo&list=PLzMcBGfZo4-kCLWnGmK0jUBmGLaJxvi4j"
+        },
+        {
+          "title": "Django & React Tutorial #2 - Django REST Framework",
+          "length": "19:33",
+          "link": "https://www.youtube.com/watch?v=uhSmgR1hEwg&list=PLzMcBGfZo4-kCLWnGmK0jUBmGLaJxvi4j&pp=0gcJCRYF0aJEHMZM"
+        }
+      ],
+      "video_count": 17,
+      "thumbnail": "https://i.ytimg.com/vi/JD-age0BPVo/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB229ivK7YkOJFDNZ7G9TWCAZ_Sxg"
+    },
+    {
+      "position_on_page": 16,
+      "title": "Django Tutorial for Beginners",
+      "link": "https://www.youtube.com/playlist?list=PLsyeobzWxl7r2ukVgTqIQcl-1T0C2mzau",
+      "channel": {
+        "name": "Telusko",
+        "channel_id": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "link": "https://www.youtube.com/@Telusko"
+      },
+      "videos": [
+        {
+          "title": "#1 Django tutorials | What is Django? | Python Web Framework",
+          "length": "5:13",
+          "link": "https://www.youtube.com/watch?v=SIyxjRJ8VNY&list=PLsyeobzWxl7r2ukVgTqIQcl-1T0C2mzau"
+        },
+        {
+          "title": "#2 Django tutorials | Setup",
+          "length": "11:16",
+          "link": "https://www.youtube.com/watch?v=VuETrwKYLTM&list=PLsyeobzWxl7r2ukVgTqIQcl-1T0C2mzau"
+        }
+      ],
+      "video_count": 26,
+      "thumbnail": "https://i.ytimg.com/vi/SIyxjRJ8VNY/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA0MaOXnawlUXsI9Mw7yFsKFvh8LA"
+    },
+    {
+      "position_on_page": 21,
+      "title": "Python Django Tutorials for Beginners",
+      "link": "https://www.youtube.com/playlist?list=PL0Zuz27SZ-6NamGNr7dEqzNFEcZ_FAUVX",
+      "channel": {
+        "name": "Dave Gray",
+        "channel_id": "UCY38RvRIxYODO4penyxUwTg",
+        "link": "https://www.youtube.com/@DaveGrayTeachesCode"
+      },
+      "videos": [
+        {
+          "title": "Python Django Introduction and Beginners Tutorial",
+          "length": "27:29",
+          "link": "https://www.youtube.com/watch?v=qcJZN1pvG6A&list=PL0Zuz27SZ-6NamGNr7dEqzNFEcZ_FAUVX"
+        },
+        {
+          "title": "Python Django App & Templates tutorial",
+          "length": "23:07",
+          "link": "https://www.youtube.com/watch?v=ZNrlc6TPcrU&list=PL0Zuz27SZ-6NamGNr7dEqzNFEcZ_FAUVX&pp=0gcJCRYF0aJEHMZM"
+        }
+      ],
+      "video_count": 13,
+      "thumbnail": "https://i.ytimg.com/vi/qcJZN1pvG6A/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDI-SALIrkjSeJk2JVa8bROhoHSBg"
+    },
+    {
+      "position_on_page": 22,
+      "title": "Chai aur Django",
+      "link": "https://www.youtube.com/playlist?list=PLu71SKxNbfoDOf-6vAcKmazT92uLnWAgy",
+      "channel": {
+        "name": "Chai aur Code",
+        "channel_id": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "link": "https://www.youtube.com/@chaiaurcode"
+      },
+      "videos": [
+        {
+          "title": "Chai aur Django | Launch",
+          "length": "9:18",
+          "link": "https://www.youtube.com/watch?v=j6szNSzw4BU&list=PLu71SKxNbfoDOf-6vAcKmazT92uLnWAgy"
+        },
+        {
+          "title": "Start a Django project and file structure",
+          "length": "22:58",
+          "link": "https://www.youtube.com/watch?v=CLDDcXV4H50&list=PLu71SKxNbfoDOf-6vAcKmazT92uLnWAgy"
+        }
+      ],
+      "video_count": 10,
+      "thumbnail": "https://i.ytimg.com/vi/j6szNSzw4BU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLALaplNF0XyFzJUVQkpHwEWkZNogw"
+    }
+  ],
+  "video_results": [
+    {
+      "position_on_page": 4,
+      "title": "Django Full Crash Course - The Professional Python Web Framework",
+      "link": "https://www.youtube.com/watch?v=u1GnZfDw5LU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=u1GnZfDw5LU",
+      "video_id": "u1GnZfDw5LU",
+      "channel": {
+        "name": "NeuralNine",
+        "channel_id": "UC8wZnXYK_CGKlBcZp-GxYPA",
+        "link": "https://www.youtube.com/@NeuralNine",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/l_2SPJx1Qd4IC01Fdlm-9cszWtmZv62ns80dOb-L-PyA5lcjdsSyjaz7LJRwBo4s9zDhtdiImw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "11mo ago",
+      "views": 66683,
+      "length": "1:37:40",
+      "description": "This video today is a full crash course on Django, the professional Python web framework that comes with many batteries included ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/u1GnZfDw5LU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAv1RP-HJnamhGS4mz2KG2z4zVYUw",
+        "rich": "https://i.ytimg.com/an_webp/u1GnZfDw5LU/mqdefault_6s.webp?du=3000&sqp=COu8hdgG&rs=AOn4CLBDfV5d3marhlyUboGvBZCXT8lM0A"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/u1GnZfDw5LU/hqdefault_13966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQGQglgzguaCDC77oZpHXleIYzcg",
+          "time_start": 0
+        },
+        {
+          "title": "Project Setup & Structure",
+          "thumbnail": "https://i.ytimg.com/vi/u1GnZfDw5LU/hqdefault_83833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAKkdCVIeN77V8aIJxMEwNaqUhEw",
+          "time_start": 54
+        },
+        {
+          "title": "Views & URL Paths",
+          "thumbnail": "https://i.ytimg.com/vi/u1GnZfDw5LU/hqdefault_537900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBz6883j4n0QmA0E881uX6aLCwyUw",
+          "time_start": 532
+        },
+        {
+          "title": "Rendering HTML",
+          "thumbnail": "https://i.ytimg.com/vi/u1GnZfDw5LU/hqdefault_1005833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfqzntuvSbUoGhxmS5MWLe1Lch_Q",
+          "time_start": 1002
+        },
+        {
+          "title": "URL Parameters",
+          "thumbnail": "https://i.ytimg.com/vi/u1GnZfDw5LU/hqdefault_1158233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzeFOFyIFXr_Toq3hCPjQauIqOwA",
+          "time_start": 1158
+        },
+        {
+          "title": "Query Parameters",
+          "thumbnail": "https://i.ytimg.com/vi/u1GnZfDw5LU/hqdefault_1363833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdx0mIGCPberYeNtJED7oWpkWX0A",
+          "time_start": 1356
+        },
+        {
+          "title": "Redirects",
+          "thumbnail": "https://i.ytimg.com/vi/u1GnZfDw5LU/hqdefault_1518200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1Gu4lN5bAYWbxg8OGTyJRv6qAAQ",
+          "time_start": 1502
+        },
+        {
+          "title": "POST Requests",
+          "thumbnail": "https://i.ytimg.com/vi/u1GnZfDw5LU/hqdefault_1618166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgH43lBl07DUV_MKgs4wtQibYhSw",
+          "time_start": 1596
+        },
+        {
+          "title": "Django Forms",
+          "thumbnail": "https://i.ytimg.com/vi/u1GnZfDw5LU/hqdefault_2184133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcpsAZe3QcZYpeR4r-_bzdv-u2Ag",
+          "time_start": 2184
+        },
+        {
+          "title": "Django Templates",
+          "thumbnail": "https://i.ytimg.com/vi/u1GnZfDw5LU/hqdefault_2585100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB03PM2az6vNlnx1Jes38wyZz1MTQ",
+          "time_start": 2562
+        },
+        {
+          "title": "Database Models & Migrations",
+          "thumbnail": "https://i.ytimg.com/vi/u1GnZfDw5LU/hqdefault_3157033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBMBjDB9j-XgX2bAIdvxynyF2Jyw",
+          "time_start": 3144
+        },
+        {
+          "title": "Django Admin Panel",
+          "thumbnail": "https://i.ytimg.com/vi/u1GnZfDw5LU/hqdefault_4641133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCa5xZBRcT51V89hzEQK8dU0GAwDQ",
+          "time_start": 4614
+        },
+        {
+          "title": "Django Shell",
+          "thumbnail": "https://i.ytimg.com/vi/u1GnZfDw5LU/hqdefault_4940966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwGO3QJm2QvO7FbyYUptcWXA5NMg",
+          "time_start": 4927
+        },
+        {
+          "title": "Static Files (CSS, JS)",
+          "thumbnail": "https://i.ytimg.com/vi/u1GnZfDw5LU/hqdefault_5019933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBV78EtWn-8azbtsUgIXk34Q3VLOg",
+          "time_start": 5009
+        },
+        {
+          "title": "Manually Editing Migrations",
+          "thumbnail": "https://i.ytimg.com/vi/u1GnZfDw5LU/hqdefault_5193033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOIuqzOGGdFSKMyctDX0VYClPn_A",
+          "time_start": 5192
+        },
+        {
+          "title": "Gunicorn & PostgreSQL with Docker",
+          "thumbnail": "https://i.ytimg.com/vi/u1GnZfDw5LU/hqdefault_5569466.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDM1m1atenRoq-Xtcd1xCh3otKtBw",
+          "time_start": 5569
+        },
+        {
+          "title": "Outro",
+          "thumbnail": "https://i.ytimg.com/vi/u1GnZfDw5LU/hqdefault_5798166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAB1wd-y2Pvijqcjuk55t5CE_GCBw",
+          "time_start": 5791
+        }
+      ]
+    },
+    {
+      "position_on_page": 7,
+      "title": "Django Tutorial for Beginners – Build Powerful Backends",
+      "link": "https://www.youtube.com/watch?v=rHux0gMZ3Eg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=rHux0gMZ3Eg",
+      "video_id": "rHux0gMZ3Eg",
+      "channel": {
+        "name": "Programming with Mosh",
+        "channel_id": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "link": "https://www.youtube.com/@programmingwithmosh",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 3548678,
+      "length": "1:02:36",
+      "description": "Learn Django and start building amazing back-ends! This beginner-friendly course guides you through Django's essentials, ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/rHux0gMZ3Eg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAr3nxFCcHFmhDXb2VpWGh6g_1nLQ",
+        "rich": "https://i.ytimg.com/an_webp/rHux0gMZ3Eg/mqdefault_6s.webp?du=3000&sqp=CLDBhdgG&rs=AOn4CLDQdU3kQEGVMp2kKr3sLYLhaYppSA"
+      },
+      "chapters": [
+        {
+          "title": "Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/rHux0gMZ3Eg/hqdefault_20933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoTul4Vzu_h7ZtoJ_ALBVJr99bQw",
+          "time_start": 0
+        },
+        {
+          "title": "Prerequisites",
+          "thumbnail": "https://i.ytimg.com/vi/rHux0gMZ3Eg/hqdefault_61866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEO3x2wjgKLB-sboHXfKydmSK6Tg",
+          "time_start": 58
+        },
+        {
+          "title": "How to Take this Course",
+          "thumbnail": "https://i.ytimg.com/vi/rHux0gMZ3Eg/hqdefault_105900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsrUMDUc4CQLXEc9zWP-H6kCvXGg",
+          "time_start": 98
+        },
+        {
+          "title": "Getting Started with Django",
+          "thumbnail": "https://i.ytimg.com/vi/rHux0gMZ3Eg/hqdefault_160133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACTBjzYMXju8a0B5kOEN-9mHkBCg",
+          "time_start": 160
+        },
+        {
+          "title": "What is Django?",
+          "thumbnail": "https://i.ytimg.com/vi/rHux0gMZ3Eg/hqdefault_204866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmjzjxbIvXv4rLef764nlytZeT4Q",
+          "time_start": 199
+        },
+        {
+          "title": "How the Web Works",
+          "thumbnail": "https://i.ytimg.com/vi/rHux0gMZ3Eg/hqdefault_368833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBA9YDPYmXIKeyhiGjAyE2SKpNuOw",
+          "time_start": 368
+        },
+        {
+          "title": "Setting Up the Development Environment",
+          "thumbnail": "https://i.ytimg.com/vi/rHux0gMZ3Eg/hqdefault_632800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYHrtXanE2EBrerQsZEMEymGc0sg",
+          "time_start": 632
+        },
+        {
+          "title": "Creating Your First Django Project",
+          "thumbnail": "https://i.ytimg.com/vi/rHux0gMZ3Eg/hqdefault_754233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAMaZDtOkz6y4QaxRG5xrVhAbvmw",
+          "time_start": 753
+        },
+        {
+          "title": "Using the Integrated Terminal in VSCode",
+          "thumbnail": "https://i.ytimg.com/vi/rHux0gMZ3Eg/hqdefault_1125233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDV3TVNpOFGBz5yj4Rz6dODpYFd0Q",
+          "time_start": 1124
+        },
+        {
+          "title": "Creating Your First App",
+          "thumbnail": "https://i.ytimg.com/vi/rHux0gMZ3Eg/hqdefault_1326200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAo62rl7dIXnFhTdQkHSwtRq39OzQ",
+          "time_start": 1325
+        },
+        {
+          "title": "Writing Views",
+          "thumbnail": "https://i.ytimg.com/vi/rHux0gMZ3Eg/hqdefault_1538166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBu5WZNN-DPYfAm4fyR9AKaZBuCZA",
+          "time_start": 1536
+        },
+        {
+          "title": "Mapping URLs to Views",
+          "thumbnail": "https://i.ytimg.com/vi/rHux0gMZ3Eg/hqdefault_1648133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyFH0ZJJU-1WdceXXIOmaKyDdvEw",
+          "time_start": 1647
+        },
+        {
+          "title": "Using Templates",
+          "thumbnail": "https://i.ytimg.com/vi/rHux0gMZ3Eg/hqdefault_1933100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCz6WYADTV7M-HFJ779wapDOGhOgQ",
+          "time_start": 1930
+        },
+        {
+          "title": "Debugging Django Applications in VSCode",
+          "thumbnail": "https://i.ytimg.com/vi/rHux0gMZ3Eg/hqdefault_2181033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLsAAPL6-BVz6N-7Jra0XfijQPjQ",
+          "time_start": 2179
+        },
+        {
+          "title": "Using Django Debug Toolbar",
+          "thumbnail": "https://i.ytimg.com/vi/rHux0gMZ3Eg/hqdefault_2653000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_jEx3vRElPXYA01VpDx5cBlv0JA",
+          "time_start": 2651
+        },
+        {
+          "title": "Building a Data Model",
+          "thumbnail": "https://i.ytimg.com/vi/rHux0gMZ3Eg/hqdefault_2924866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzrhRupK_a37F8UqSAKr4MJZkM2w",
+          "time_start": 2917
+        },
+        {
+          "title": "Introduction to Date Modeling",
+          "thumbnail": "https://i.ytimg.com/vi/rHux0gMZ3Eg/hqdefault_2961966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9GSztrhLQq9BDRa7a-UgjaEY-Dw",
+          "time_start": 2961
+        },
+        {
+          "title": "Building an E-Commerce Data Model",
+          "thumbnail": "https://i.ytimg.com/vi/rHux0gMZ3Eg/hqdefault_3120933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPjeV4yaOvkiOuRWrJoq1Z672guA",
+          "time_start": 3120
+        },
+        {
+          "title": "Organizing Models in Apps",
+          "thumbnail": "https://i.ytimg.com/vi/rHux0gMZ3Eg/hqdefault_3398900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSrM-VdDsqxsKRO6Ls0SutyyEA-g",
+          "time_start": 3395
+        }
+      ]
+    },
+    {
+      "position_on_page": 8,
+      "title": "Python Django Full Course for Beginners | Complete All-in-One Tutorial | 3 Hours",
+      "link": "https://www.youtube.com/watch?v=Rp5vd34d-z4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Rp5vd34d-z4",
+      "video_id": "Rp5vd34d-z4",
+      "channel": {
+        "name": "Dave Gray",
+        "channel_id": "UCY38RvRIxYODO4penyxUwTg",
+        "link": "https://www.youtube.com/@DaveGrayTeachesCode",
+        "thumbnail": "https://yt3.ggpht.com/Ki6y_thZRElVKoqzOUIGnihjRfVPkdVBqS0VsqNAbOl0sGAil5Zg_Dj0g2rftswpE_JCkGh2=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 434689,
+      "length": "3:19:49",
+      "description": "Web Dev Roadmap for Beginners (Free!): https://bit.ly/DaveGrayWebDevRoadmap This Python Django Full Course for Beginners ...",
+      "extensions": [
+        "Beginner",
+        "Overview"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Rp5vd34d-z4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBy4zY2uKnsFHGNiRuB1UOEaXbsA",
+        "rich": "https://i.ytimg.com/an_webp/Rp5vd34d-z4/mqdefault_6s.webp?du=3000&sqp=COyxhdgG&rs=AOn4CLBFF4V79LCePwkGlQ1QWadJTrQm1g"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/Rp5vd34d-z4/hqdefault_13866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCudStKjxdVnOcajzwM0z7iElRB8A",
+          "time_start": 0
+        },
+        {
+          "title": "Chapter 1: Start Here",
+          "thumbnail": "https://i.ytimg.com/vi/Rp5vd34d-z4/hqdefault_41833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDl3F8R2TKroZ7DStbvo3q_oR7mhA",
+          "time_start": 40
+        },
+        {
+          "title": "Chapter 2: Apps & Templates",
+          "thumbnail": "https://i.ytimg.com/vi/Rp5vd34d-z4/hqdefault_1673866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCz1HT963cgpL5j0tgM20WP3cWSdQ",
+          "time_start": 1673
+        },
+        {
+          "title": "Chapter 3: Models & Migrations",
+          "thumbnail": "https://i.ytimg.com/vi/Rp5vd34d-z4/hqdefault_3017766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEQRGW4diAbVi5On6R6-JAiuy6iQ",
+          "time_start": 3017
+        },
+        {
+          "title": "Chapter 4: Django ORM",
+          "thumbnail": "https://i.ytimg.com/vi/Rp5vd34d-z4/hqdefault_3455733.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmlgbCahvjpLZfAJnG2wwZ2FTEtw",
+          "time_start": 3455
+        },
+        {
+          "title": "Chapter 5: Django Admin",
+          "thumbnail": "https://i.ytimg.com/vi/Rp5vd34d-z4/hqdefault_3840700.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBq1-yOOcZWzFSzGpdQUQU3QrfeJA",
+          "time_start": 3840
+        },
+        {
+          "title": "Chapter 6: Pages, URLs & Slugs",
+          "thumbnail": "https://i.ytimg.com/vi/Rp5vd34d-z4/hqdefault_4756166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0DHjZ1Ht6UxuVrP8HLQHyvi9btg",
+          "time_start": 4748
+        },
+        {
+          "title": "Chapter 7: Upload Images",
+          "thumbnail": "https://i.ytimg.com/vi/Rp5vd34d-z4/hqdefault_5957233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCO3ncJCL5zchadFTXxh6paErhMIg",
+          "time_start": 5956
+        },
+        {
+          "title": "Chapter 8: Challenge",
+          "thumbnail": "https://i.ytimg.com/vi/Rp5vd34d-z4/hqdefault_6660833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsN269T5sSJPKU5j7rzF6yaNlRcA",
+          "time_start": 6643
+        },
+        {
+          "title": "Chapter 9: User Registration",
+          "thumbnail": "https://i.ytimg.com/vi/Rp5vd34d-z4/hqdefault_7220700.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-IzgHZ9viiP9NTxnC7OqaqrvJtw",
+          "time_start": 7200
+        },
+        {
+          "title": "Chapter 10: User Login & Auth",
+          "thumbnail": "https://i.ytimg.com/vi/Rp5vd34d-z4/hqdefault_8161133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCY9yWDB5oY7YRNTJ5IdALCRmLzpQ",
+          "time_start": 8160
+        },
+        {
+          "title": "Chapter 11: Authorization",
+          "thumbnail": "https://i.ytimg.com/vi/Rp5vd34d-z4/hqdefault_9082033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9-k9v884ufuvYTII3HoPqajZkSw",
+          "time_start": 9081
+        },
+        {
+          "title": "Chapter 12: Custom Forms",
+          "thumbnail": "https://i.ytimg.com/vi/Rp5vd34d-z4/hqdefault_10402033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMdxJfol17kHw8RylT2UmFFMcd2A",
+          "time_start": 10401
+        }
+      ]
+    },
+    {
+      "position_on_page": 10,
+      "title": "Python Django Explained In 8 Minutes",
+      "link": "https://www.youtube.com/watch?v=0sMtoedWaf0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=0sMtoedWaf0",
+      "video_id": "0sMtoedWaf0",
+      "channel": {
+        "name": "Dennis Ivy",
+        "channel_id": "UCTZRcDjjkVajGL6wd76UnGg",
+        "link": "https://www.youtube.com/@DennisIvy",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lG_SmL2Lu2Y6RK47pciKeQ_h3KbNANRuicbm-imxKYl5c=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 487363,
+      "length": "8:11",
+      "description": "A list of the 15 most important concepts every Django developer should have a solid grasp on. Django Courses: Django Complete ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/0sMtoedWaf0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARFFMnHQ-2Qen3JNNhmv5d_Q9y-w",
+        "rich": "https://i.ytimg.com/an_webp/0sMtoedWaf0/mqdefault_6s.webp?du=3000&sqp=CKLYhdgG&rs=AOn4CLDbAKhHhv_1u2NWII8hLqVoWSg40g"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Learn Django in 20 Minutes!!",
+      "link": "https://www.youtube.com/watch?v=nGIg40xs9e4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=nGIg40xs9e4",
+      "video_id": "nGIg40xs9e4",
+      "channel": {
+        "name": "Tech With Tim",
+        "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
+        "link": "https://www.youtube.com/@TechWithTim",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k15oXl74WcnpdL-uVBv6IHBgAfXEEnpUiS-IoEyV1auyY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 874875,
+      "length": "21:25",
+      "description": "GET MY FREE SOFTWARE DEVELOPMENT GUIDE   https://training.techwithtim.net/free-guide Learn how to build a simple ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/nGIg40xs9e4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvZLGv6ELl859-3dyiwdMg7fkUUQ",
+        "rich": "https://i.ytimg.com/an_webp/nGIg40xs9e4/mqdefault_6s.webp?du=3000&sqp=CM7PhdgG&rs=AOn4CLD0OrIR8f2YjPrAhcMXShOY3lbFUA"
+      },
+      "chapters": [
+        {
+          "title": "Overview",
+          "thumbnail": "https://i.ytimg.com/vi/nGIg40xs9e4/hqdefault_30000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNmU_sxr8Ae28p3BucRhdppUYnhw",
+          "time_start": 0
+        },
+        {
+          "title": "Django Project Setup",
+          "thumbnail": "https://i.ytimg.com/vi/nGIg40xs9e4/hqdefault_108833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAW2KpXawvZu3wdwbBQH5JXLK0g_w",
+          "time_start": 103
+        },
+        {
+          "title": "Pregenerated File Explanation",
+          "thumbnail": "https://i.ytimg.com/vi/nGIg40xs9e4/hqdefault_178933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxqMox4A9W68WkPc4jwkGjoElu_g",
+          "time_start": 152
+        },
+        {
+          "title": "Django Applications",
+          "thumbnail": "https://i.ytimg.com/vi/nGIg40xs9e4/hqdefault_240766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyeKFovjcclijTx8rS8PZ6ew35GQ",
+          "time_start": 219
+        },
+        {
+          "title": "URL Configuration",
+          "thumbnail": "https://i.ytimg.com/vi/nGIg40xs9e4/hqdefault_391733.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzTVlczOUw-qB2JCPI1k-ccFXzyw",
+          "time_start": 362
+        },
+        {
+          "title": "Running The Server",
+          "thumbnail": "https://i.ytimg.com/vi/nGIg40xs9e4/hqdefault_629233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYTXDLUiCGjSwgdy6oubjf5HPngA",
+          "time_start": 605
+        },
+        {
+          "title": "HTML Templates",
+          "thumbnail": "https://i.ytimg.com/vi/nGIg40xs9e4/hqdefault_673266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsHFpA5kAxT7T8COP60n_6zfCc2Q",
+          "time_start": 645
+        },
+        {
+          "title": "Database Models and ORM",
+          "thumbnail": "https://i.ytimg.com/vi/nGIg40xs9e4/hqdefault_815266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLbeAc3cExWes01IuOko9VUltW_A",
+          "time_start": 803
+        },
+        {
+          "title": "Django Migrations",
+          "thumbnail": "https://i.ytimg.com/vi/nGIg40xs9e4/hqdefault_920133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByhSkJfzPPXIkXylR-mHSKgs5ifQ",
+          "time_start": 916
+        },
+        {
+          "title": "Rendering Database Entries",
+          "thumbnail": "https://i.ytimg.com/vi/nGIg40xs9e4/hqdefault_1000066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiYIu7_9zW8rdRRBBIwodRq7gzcg",
+          "time_start": 983
+        },
+        {
+          "title": "Django Admin Panel",
+          "thumbnail": "https://i.ytimg.com/vi/nGIg40xs9e4/hqdefault_1192166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDY81EhduxcMM9XGJ1kHX_zCRsgwg",
+          "time_start": 1170
+        },
+        {
+          "title": "Next Steps",
+          "thumbnail": "https://i.ytimg.com/vi/nGIg40xs9e4/hqdefault_1277100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfrwWRQyBdy2XdZkTFe6jdKXcNlA",
+          "time_start": 1253
+        }
+      ]
+    },
+    {
+      "position_on_page": 18,
+      "title": "Python Django 7 Hour Course",
+      "link": "https://www.youtube.com/watch?v=PtQiiknWUcI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=PtQiiknWUcI",
+      "video_id": "PtQiiknWUcI",
+      "channel": {
+        "name": "Traversy Media",
+        "channel_id": "UC29ju8bIPH5as8OGnQzwJyA",
+        "link": "https://www.youtube.com/@TraversyMedia",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mLysKc36lc_FVk2j777olWvLOjgDz6NCNGdiQBnAKRENM=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 2265119,
+      "length": "7:10:05",
+      "description": "Build a discord-like application with Python Django. Visit the finished application at https://studybuddev.herokuapp.com/ Source ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/PtQiiknWUcI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkeuGALY2ts5-8wpoxE080Ax9tTQ",
+        "rich": "https://i.ytimg.com/an_webp/PtQiiknWUcI/mqdefault_6s.webp?du=3000&sqp=CP7ihdgG&rs=AOn4CLByn_wNfnm00-z6uCobJr0nwpf43A"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/PtQiiknWUcI/hqdefault.jpg",
+          "time_start": 0
+        },
+        {
+          "title": "Product Demo",
+          "thumbnail": "https://i.ytimg.com/vi/PtQiiknWUcI/hqdefault.jpg",
+          "time_start": 70
+        },
+        {
+          "title": "Prerequisites",
+          "thumbnail": "https://i.ytimg.com/vi/PtQiiknWUcI/hqdefault.jpg",
+          "time_start": 244
+        },
+        {
+          "title": "What is Django",
+          "thumbnail": "https://i.ytimg.com/vi/PtQiiknWUcI/hqdefault.jpg",
+          "time_start": 327
+        },
+        {
+          "title": "Resources & Environment Setup",
+          "thumbnail": "https://i.ytimg.com/vi/PtQiiknWUcI/hqdefault.jpg",
+          "time_start": 772
+        },
+        {
+          "title": "Installation & Setup",
+          "thumbnail": "https://i.ytimg.com/vi/PtQiiknWUcI/hqdefault.jpg",
+          "time_start": 959
+        },
+        {
+          "title": "Views & URL's",
+          "thumbnail": "https://i.ytimg.com/vi/PtQiiknWUcI/hqdefault.jpg",
+          "time_start": 1888
+        },
+        {
+          "title": "Templates",
+          "thumbnail": "https://i.ytimg.com/vi/PtQiiknWUcI/hqdefault.jpg",
+          "time_start": 2395
+        },
+        {
+          "title": "Database & Admin Panel",
+          "thumbnail": "https://i.ytimg.com/vi/PtQiiknWUcI/hqdefault.jpg",
+          "time_start": 3865
+        },
+        {
+          "title": "CRUD",
+          "thumbnail": "https://i.ytimg.com/vi/PtQiiknWUcI/hqdefault.jpg",
+          "time_start": 5940
+        },
+        {
+          "title": "Search",
+          "thumbnail": "https://i.ytimg.com/vi/PtQiiknWUcI/hqdefault.jpg",
+          "time_start": 7582
+        },
+        {
+          "title": "User Login",
+          "thumbnail": "https://i.ytimg.com/vi/PtQiiknWUcI/hqdefault.jpg",
+          "time_start": 8547
+        },
+        {
+          "title": "Flash Messages",
+          "thumbnail": "https://i.ytimg.com/vi/PtQiiknWUcI/hqdefault.jpg",
+          "time_start": 9145
+        },
+        {
+          "title": "User Logout",
+          "thumbnail": "https://i.ytimg.com/vi/PtQiiknWUcI/hqdefault.jpg",
+          "time_start": 9543
+        },
+        {
+          "title": "Restricted Pages",
+          "thumbnail": "https://i.ytimg.com/vi/PtQiiknWUcI/hqdefault.jpg",
+          "time_start": 9705
+        },
+        {
+          "title": "User registration",
+          "thumbnail": "https://i.ytimg.com/vi/PtQiiknWUcI/hqdefault.jpg",
+          "time_start": 10140
+        },
+        {
+          "title": "Chat Room Messages CRUD",
+          "thumbnail": "https://i.ytimg.com/vi/PtQiiknWUcI/hqdefault.jpg",
+          "time_start": 10885
+        },
+        {
+          "title": "Activity Feed",
+          "thumbnail": "https://i.ytimg.com/vi/PtQiiknWUcI/hqdefault.jpg",
+          "time_start": 12450
+        },
+        {
+          "title": "User Profile Page",
+          "thumbnail": "https://i.ytimg.com/vi/PtQiiknWUcI/hqdefault.jpg",
+          "time_start": 13380
+        },
+        {
+          "title": "Static Files",
+          "thumbnail": "https://i.ytimg.com/vi/PtQiiknWUcI/hqdefault.jpg",
+          "time_start": 14005
+        },
+        {
+          "title": "Theme Installation",
+          "thumbnail": "https://i.ytimg.com/vi/PtQiiknWUcI/hqdefault.jpg",
+          "time_start": 14535
+        },
+        {
+          "title": "Edit User Account Page",
+          "thumbnail": "https://i.ytimg.com/vi/PtQiiknWUcI/hqdefault.jpg",
+          "time_start": 18710
+        },
+        {
+          "title": "Mobile Responsiveness",
+          "thumbnail": "https://i.ytimg.com/vi/PtQiiknWUcI/hqdefault.jpg",
+          "time_start": 20102
+        },
+        {
+          "title": "Django REST Framework",
+          "thumbnail": "https://i.ytimg.com/vi/PtQiiknWUcI/hqdefault.jpg",
+          "time_start": 21180
+        },
+        {
+          "title": "Customizing User model",
+          "thumbnail": "https://i.ytimg.com/vi/PtQiiknWUcI/hqdefault.jpg",
+          "time_start": 23143
+        },
+        {
+          "title": "Integrating Custom User Model",
+          "thumbnail": "https://i.ytimg.com/vi/PtQiiknWUcI/hqdefault.jpg",
+          "time_start": 23855
+        }
+      ]
+    },
+    {
+      "position_on_page": 19,
+      "title": "Python Developers... Learn DJANGO",
+      "link": "https://www.youtube.com/watch?v=hl8QKaXE_Vg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=hl8QKaXE_Vg",
+      "video_id": "hl8QKaXE_Vg",
+      "channel": {
+        "name": "Tech With Tim",
+        "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
+        "link": "https://www.youtube.com/@TechWithTim",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k15oXl74WcnpdL-uVBv6IHBgAfXEEnpUiS-IoEyV1auyY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 399676,
+      "length": "0:35",
+      "description": "In this video I discuss why you should learn DJANGO as a Python developer... Watch the full video here: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/hl8QKaXE_Vg/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARhjIGUoSTAP&rs=AOn4CLAc4VQOPYOm3Thwr-Vlfw6Bw5IvPw",
+        "rich": "https://i.ytimg.com/an_webp/hl8QKaXE_Vg/mqdefault_6s.webp?du=3000&sqp=CPDJhdgG&rs=AOn4CLAq-Oy3ATx6MpxBZwAwmRDY1RMOFA"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Python Backend Web Development Course (with Django)",
+      "link": "https://www.youtube.com/watch?v=jBzwzrDvZ18",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=jBzwzrDvZ18",
+      "video_id": "jBzwzrDvZ18",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 2864958,
+      "length": "10:11:52",
+      "description": "This video is a full backend web development course with python. In the course, you will learn everything you need to know to ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/jBzwzrDvZ18/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXWgIc1ktvwsIj6cOEFdehY1hzng",
+        "rich": "https://i.ytimg.com/an_webp/jBzwzrDvZ18/mqdefault_6s.webp?du=3000&sqp=CPHOhdgG&rs=AOn4CLDwCmks9Wx9wJNdIBU960b--C-N4Q"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 0
+        },
+        {
+          "title": "Introduction To Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 118
+        },
+        {
+          "title": "Installation Of Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 159
+        },
+        {
+          "title": "Hello World In Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 390
+        },
+        {
+          "title": "Variables In Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 696
+        },
+        {
+          "title": "Strings In Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 1030
+        },
+        {
+          "title": "Numbers In Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 1597
+        },
+        {
+          "title": "Getting A User's Input",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 2239
+        },
+        {
+          "title": "Word Replacement Exercise",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 2554
+        },
+        {
+          "title": "List In Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 2828
+        },
+        {
+          "title": "List Methods",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 3785
+        },
+        {
+          "title": "Tuples In Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 4588
+        },
+        {
+          "title": "Functions In Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 4953
+        },
+        {
+          "title": "The Return Keyword",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 5706
+        },
+        {
+          "title": "IF Statements In Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 6045
+        },
+        {
+          "title": "Building An Even Number Checker Program",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 7401
+        },
+        {
+          "title": "Dictionaries In Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 7505
+        },
+        {
+          "title": "While Loops In Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 8020
+        },
+        {
+          "title": "For Loops In Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 8387
+        },
+        {
+          "title": "2D Lists",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 8977
+        },
+        {
+          "title": "Comments In Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 9252
+        },
+        {
+          "title": "Building A Basic Calculator",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 9458
+        },
+        {
+          "title": "Try Except In Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 9935
+        },
+        {
+          "title": "Reading Files",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 10408
+        },
+        {
+          "title": "Writing Files",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 11016
+        },
+        {
+          "title": "Classes and Objects In Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 11357
+        },
+        {
+          "title": "Inheritance In Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 11803
+        },
+        {
+          "title": "The Python Shell",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 11971
+        },
+        {
+          "title": "Building A Simple Login and SignUp System",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 12317
+        },
+        {
+          "title": "Modules and PIP In Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 12664
+        },
+        {
+          "title": "Introduction To Django",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 13108
+        },
+        {
+          "title": "Installation Of Django",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 13172
+        },
+        {
+          "title": "Url Routing And Django Apps",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 14389
+        },
+        {
+          "title": "Django Template Language",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 15261
+        },
+        {
+          "title": "Sending Data To Template File",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 15655
+        },
+        {
+          "title": "Building A Word Counter In Django",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 16092
+        },
+        {
+          "title": "Get vs Post In Django",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 16993
+        },
+        {
+          "title": "Static Files In Django",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 17361
+        },
+        {
+          "title": "Introduction To Django Models",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 18269
+        },
+        {
+          "title": "Django Admin Panel & Manipulation Of Database",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 19742
+        },
+        {
+          "title": "User Registration In Django",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 20798
+        },
+        {
+          "title": "User Login And Logout In Django",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 22126
+        },
+        {
+          "title": "Dynamic Url Routing In Django",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 23203
+        },
+        {
+          "title": "Postgresql Setup",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 23844
+        },
+        {
+          "title": "Building A Blog With Django - Part 1",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 24443
+        },
+        {
+          "title": "Building A Blog With Django - Part 2",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 25930
+        },
+        {
+          "title": "Building A Weather App With Django - Part 1",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 26748
+        },
+        {
+          "title": "Building A Weather App With Django - Part 2",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 27917
+        },
+        {
+          "title": "Building A Realtime Chat Application With Django - Part 1",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 28986
+        },
+        {
+          "title": "Building A Realtime Chat Application With Django - Part 2",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 31811
+        },
+        {
+          "title": "Django Rest Framework Crash Course",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 32879
+        }
+      ]
+    },
+    {
+      "position_on_page": 23,
+      "title": "Django Crash Course – Python Web Framework",
+      "link": "https://www.youtube.com/watch?v=0roB7wZMLqI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=0roB7wZMLqI",
+      "video_id": "0roB7wZMLqI",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 232516,
+      "length": "1:09:08",
+      "description": "In this Django crash course for beginners, you'll discover what makes Django powerful, how to set up your environment, and how ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/0roB7wZMLqI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgwLJFuE5gwWIY4FPxKdtlXS-oUw",
+        "rich": "https://i.ytimg.com/an_webp/0roB7wZMLqI/mqdefault_6s.webp?du=3000&sqp=CIDRhdgG&rs=AOn4CLAX4_EiiMlKn-qPo_jGBUtAHgOd0w"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/0roB7wZMLqI/hqdefault_16200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAxTdLoa9hMmB4l9cXAFRSb8nlrg",
+          "time_start": 0
+        },
+        {
+          "title": "Django-admin & manage.py",
+          "thumbnail": "https://i.ytimg.com/vi/0roB7wZMLqI/hqdefault_177933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZuat7rrKRr46Kc1iqC8DqGDoRwQ",
+          "time_start": 176
+        },
+        {
+          "title": "Creating Apps",
+          "thumbnail": "https://i.ytimg.com/vi/0roB7wZMLqI/hqdefault_281933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDd322s33mp7NfplZ3UNvmY-P0m1g",
+          "time_start": 280
+        },
+        {
+          "title": "Introduction to Web Frameworks",
+          "thumbnail": "https://i.ytimg.com/vi/0roB7wZMLqI/hqdefault_347833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDk5w0FFmqDLFWzFvEKS7vZJaL3VA",
+          "time_start": 347
+        },
+        {
+          "title": "MVT",
+          "thumbnail": "https://i.ytimg.com/vi/0roB7wZMLqI/hqdefault_406233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwGJX7lPGaUfFqymwcd7E3YPfE2w",
+          "time_start": 383
+        },
+        {
+          "title": "Views",
+          "thumbnail": "https://i.ytimg.com/vi/0roB7wZMLqI/hqdefault_485833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDW-8HerLz89kkswqTpzL5RfKGO9A",
+          "time_start": 456
+        },
+        {
+          "title": "Request and Response Objects",
+          "thumbnail": "https://i.ytimg.com/vi/0roB7wZMLqI/hqdefault_940766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDR-DlOXFiaan4-na9TxSp94xFMw",
+          "time_start": 938
+        },
+        {
+          "title": "Models",
+          "thumbnail": "https://i.ytimg.com/vi/0roB7wZMLqI/hqdefault_1034200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyernC29NygJ31okzAqyK_cA3BDA",
+          "time_start": 1032
+        },
+        {
+          "title": "Forms",
+          "thumbnail": "https://i.ytimg.com/vi/0roB7wZMLqI/hqdefault_1226166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA02fUtDKxHQR3UWZWvmF2Od6oAfg",
+          "time_start": 1223
+        },
+        {
+          "title": "Django Admin Panel",
+          "thumbnail": "https://i.ytimg.com/vi/0roB7wZMLqI/hqdefault_1477133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtg680UizuEVy5z4PpzXh5dC5xeQ",
+          "time_start": 1475
+        },
+        {
+          "title": "MySQL",
+          "thumbnail": "https://i.ytimg.com/vi/0roB7wZMLqI/hqdefault_1771066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAofgh7UysrQqPw-wDV5D7dFqz2Gg",
+          "time_start": 1768
+        },
+        {
+          "title": "Templates",
+          "thumbnail": "https://i.ytimg.com/vi/0roB7wZMLqI/hqdefault_2084066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxdrnYDv8VcjRKGWdnwDfUKU4DEQ",
+          "time_start": 2080
+        },
+        {
+          "title": "Full Django Project",
+          "thumbnail": "https://i.ytimg.com/vi/0roB7wZMLqI/hqdefault_2614033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDihILvc6th6LzRx6S9HanxY-w-vQ",
+          "time_start": 2611
+        },
+        {
+          "title": "Outro",
+          "thumbnail": "https://i.ytimg.com/vi/0roB7wZMLqI/hqdefault_4146000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2ExB-A-i20sOwFDsXEyaz2CTarw",
+          "time_start": 4134
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Django+full+course+tutorial+for+Backend+Python+Developer&gl=in&hl=en",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Django%20full%20course%20tutorial%20for%20Backend%20Python%20Developer&sp=SBSCASJQTFZCS2pFSWRMOWJ2Q2RJNGwxRW12YmV6djEwR2pVYUxrggEiUEw0Y1V4ZUdrY0M5aXFmQWFnM2FfQktFWDFONDN1SnV0d4IBC3UxR25aZkR3NUxVggEiUExzanBSbzJFWlAxS19nbEtYMGxHNkJrdmlKRnhqdUdsc4IBC3JIdXgwZ01aM0VnggELUnA1dmQzNGQtejSCASJQTC1vc2lFODBUZVR0b1FDS1owM1RVNWZOZngyVVk2VTRwggELMHNNdG9lZFdhZjCCASJQTGpWTFltcmxtakdjeXQzbTZydDIxbmZqaFlTV1BfVWVfggEiUExLZFUwZnVZNE9GZm8zVmd5d1VGb0FVWTdVZGkzXzZWNoIBC25HSWc0MHhzOWU0ggEiUEx1MFdfOWxJSTlhaDdERHRZdGZsZ3dNd3BUM3htalhZOYIBIlBMek1jQkdmWm80LWtDTFduR21LMGpVQm1HTGFKeHZpNGqCASJQTHN5ZW9ield4bDdyMnVrVmdUcUlRY2wtMVQwQzJtemF1ggELUHRRaWlrbldVY0mCAQtobDhRS2FYRV9WZ4IBC2pCend6ckR2WjE4ggEiUEwwWnV6MjdTWi02TmFtR05yN2RFcXpORkVjWl9GQVVWWIIBIlBMdTcxU0t4TmJmb0RPZi02dkFjS21helQ5MnVMbldBZ3mCAQswcm9CN3daTUxxSbIBBgoECBkQAg%253D%253D",
+    "next_page_token": "SBSCASJQTFZCS2pFSWRMOWJ2Q2RJNGwxRW12YmV6djEwR2pVYUxrggEiUEw0Y1V4ZUdrY0M5aXFmQWFnM2FfQktFWDFONDN1SnV0d4IBC3UxR25aZkR3NUxVggEiUExzanBSbzJFWlAxS19nbEtYMGxHNkJrdmlKRnhqdUdsc4IBC3JIdXgwZ01aM0VnggELUnA1dmQzNGQtejSCASJQTC1vc2lFODBUZVR0b1FDS1owM1RVNWZOZngyVVk2VTRwggELMHNNdG9lZFdhZjCCASJQTGpWTFltcmxtakdjeXQzbTZydDIxbmZqaFlTV1BfVWVfggEiUExLZFUwZnVZNE9GZm8zVmd5d1VGb0FVWTdVZGkzXzZWNoIBC25HSWc0MHhzOWU0ggEiUEx1MFdfOWxJSTlhaDdERHRZdGZsZ3dNd3BUM3htalhZOYIBIlBMek1jQkdmWm80LWtDTFduR21LMGpVQm1HTGFKeHZpNGqCASJQTHN5ZW9ield4bDdyMnVrVmdUcUlRY2wtMVQwQzJtemF1ggELUHRRaWlrbldVY0mCAQtobDhRS2FYRV9WZ4IBC2pCend6ckR2WjE4ggEiUEwwWnV6MjdTWi02TmFtR05yN2RFcXpORkVjWl9GQVVWWIIBIlBMdTcxU0t4TmJmb0RPZi02dkFjS21helQ5MnVMbldBZ3mCAQswcm9CN3daTUxxSbIBBgoECBkQAg%3D%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Django+full+course+tutorial+for+Backend+Python+Developer",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Django+full+course+tutorial+for+Backend+Python+Developer&sp=SBSCASJQTFZCS2pFSWRMOWJ2Q2RJNGwxRW12YmV6djEwR2pVYUxrggEiUEw0Y1V4ZUdrY0M5aXFmQWFnM2FfQktFWDFONDN1SnV0d4IBC3UxR25aZkR3NUxVggEiUExzanBSbzJFWlAxS19nbEtYMGxHNkJrdmlKRnhqdUdsc4IBC3JIdXgwZ01aM0VnggELUnA1dmQzNGQtejSCASJQTC1vc2lFODBUZVR0b1FDS1owM1RVNWZOZngyVVk2VTRwggELMHNNdG9lZFdhZjCCASJQTGpWTFltcmxtakdjeXQzbTZydDIxbmZqaFlTV1BfVWVfggEiUExLZFUwZnVZNE9GZm8zVmd5d1VGb0FVWTdVZGkzXzZWNoIBC25HSWc0MHhzOWU0ggEiUEx1MFdfOWxJSTlhaDdERHRZdGZsZ3dNd3BUM3htalhZOYIBIlBMek1jQkdmWm80LWtDTFduR21LMGpVQm1HTGFKeHZpNGqCASJQTHN5ZW9ield4bDdyMnVrVmdUcUlRY2wtMVQwQzJtemF1ggELUHRRaWlrbldVY0mCAQtobDhRS2FYRV9WZ4IBC2pCend6ckR2WjE4ggEiUEwwWnV6MjdTWi02TmFtR05yN2RFcXpORkVjWl9GQVVWWIIBIlBMdTcxU0t4TmJmb0RPZi02dkFjS21helQ5MnVMbldBZ3mCAQswcm9CN3daTUxxSbIBBgoECBkQAg%253D%253D",
+    "next_page_token": "SBSCASJQTFZCS2pFSWRMOWJ2Q2RJNGwxRW12YmV6djEwR2pVYUxrggEiUEw0Y1V4ZUdrY0M5aXFmQWFnM2FfQktFWDFONDN1SnV0d4IBC3UxR25aZkR3NUxVggEiUExzanBSbzJFWlAxS19nbEtYMGxHNkJrdmlKRnhqdUdsc4IBC3JIdXgwZ01aM0VnggELUnA1dmQzNGQtejSCASJQTC1vc2lFODBUZVR0b1FDS1owM1RVNWZOZngyVVk2VTRwggELMHNNdG9lZFdhZjCCASJQTGpWTFltcmxtakdjeXQzbTZydDIxbmZqaFlTV1BfVWVfggEiUExLZFUwZnVZNE9GZm8zVmd5d1VGb0FVWTdVZGkzXzZWNoIBC25HSWc0MHhzOWU0ggEiUEx1MFdfOWxJSTlhaDdERHRZdGZsZ3dNd3BUM3htalhZOYIBIlBMek1jQkdmWm80LWtDTFduR21LMGpVQm1HTGFKeHZpNGqCASJQTHN5ZW9ield4bDdyMnVrVmdUcUlRY2wtMVQwQzJtemF1ggELUHRRaWlrbldVY0mCAQtobDhRS2FYRV9WZ4IBC2pCend6ckR2WjE4ggEiUEwwWnV6MjdTWi02TmFtR05yN2RFcXpORkVjWl9GQVVWWIIBIlBMdTcxU0t4TmJmb0RPZi02dkFjS21helQ5MnVMbldBZ3mCAQswcm9CN3daTUxxSbIBBgoECBkQAg%3D%3D"
+  }
+}

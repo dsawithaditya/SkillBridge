@@ -1,0 +1,1163 @@
+{
+  "search_metadata": {
+    "id": "6b01726702e7f312dafceb3b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4rqvLWBFiOc0UDLSn8i2n5O20ATwRqIe7Ztn-JR0Hhk/6b01726702e7f312dafceb3b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/4rqvLWBFiOc0UDLSn8i2n5O20ATwRqIe7Ztn-JR0Hhk/6b01726702e7f312dafceb3b.md",
+    "created_at": "2026-11-21 10:28:55 UTC",
+    "processed_at": "2026-11-21 10:28:55 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Python+full+course+tutorial+for+Backend+Python+Developer&gl=in&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/4rqvLWBFiOc0UDLSn8i2n5O20ATwRqIe7Ztn-JR0Hhk/6b01726702e7f312dafceb3b.html",
+    "total_time_taken": 2.26
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Python full course tutorial for Backend Python Developer",
+    "gl": "in",
+    "hl": "en"
+  },
+  "search_information": {
+    "total_results": 2939567,
+    "video_results_state": "Results for exact spelling"
+  },
+  "ads_results": [
+    {
+      "position_on_page": 1,
+      "title": "Create standout content, on campus or off, with Student Spaces in Adobe Acrobat.",
+      "link": "https://www.youtube.com/watch?v=me8NQPMH3uk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=me8NQPMH3uk",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CG0Q0Z3IBa7euLJn9v8IP2LjryQ2XouaPiwG2z4_5iBawkB8QASAAYMmGgICApYAQggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAbH6_-oCqAMEyAMKqgT1Ak_Q3Xs_RSqbRZx750IqRV9YQtllxsfz3Qe2PJoTd8Vw1n30k-f3ybvfs981KymdXUbACLRLf2HR6W7MhgBRHmzMydUTAphHLxcRejuEKoD8QNDVMu97_vmNoO3WUhcgdPQqc06-kHPMgo7mLBVxUFp4GiujK4Kle4Qf76KR29sjvyE2X3XGrB9b5bbTlpnLWEAA5OF0YNYnJKdkQ_bm5jEXz8DLDA3dlEUGzxAzPh2vQgB9d8kZEEdfXlNt63ROtwyn10Y1eFuanoLF0MKEYmBi7JLaN7XFfjcCdTdXjDYpqtrmAoUi-BNBdZ16313IjcV6ArWOicfbBtW2749vjMEa3VRt-fwJiNW6rgbwa4pvEDmS3RSzDNrTjN-hxMzWxSjzwfDhF96IkiIoBiaVeP_23uoDhKgSjV6HF4sv-uEd8ktpYCEGWmSiaipMAmFD_fZ8KPTQ8GDnFt3Y7RjM2I4YMZM--RD5gzMjsYy_wP2CFeYyhgqIBebQ761YkgUICBN4-s2flQGgBqEBgAe3hYCVAZAHBKgHpc-xAqgH552xAqgH6J2xAqgHg_axAqgH-dOxAqgHydqxAqgHqeCxAqgHqNIbqAex3BuoB7CbsQKoB_2ysQKoB8jPsQKoB8nPsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB57qsQKoB5_qsQKoB_jrsQKoB7zqsQKoB-_xsQKoB_yvsQKoB9XOG6gHvtmxAqgHv9mxAqgHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECkggLbWU4TlFQTUgzdWuoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAYSNmg0jVQFFjQmbyf7ZiYA2ABmgksaHR0cHM6Ly9hY3JvYmF0LmFkb2JlLmNvbS9zdHVkZW50c3BhY2VzL2hvbWWxCWX8PVFcYOivyAkXyAmPAcgJwgG6CzoIAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAtgBA4ACAYgCEroDBXZpY2Jm0AsT4AsBogwfYhgKFmNvbS5hZG9iZS5lY2hvc2lnbi5pb3N4AIgBANIMAhABmg0BE6oNAlVTyA0B0g3pBGh0dHBzOi8vYWQuZG91YmxlY2xpY2submV0L2RkbS90cmFja2Nsay9OOTcyOTUyLjI3OTM4MkJJRE1BTkFHRVJfREZBU0lURS9CMjIzNDQ0MTMuMjQxNTM5MzIxO2RjX3Rya19haWQ9NDM4MTI4NjIyO2RjX3Rya19jaWQ9MTEyODg0NjEzO2RjX2RibV90b2tlbj1BT2plTE5FQUFBQTZDak1LREFnQUZRQUFBQUFkQUFBQUFCSU1DQUFWQUFBQUFCMEFBQUFBSWhNSTV0RHZyVmlvQXNPNDlBR3dBc3lXNHVrRFFEc1FsLWU2QWFwU28zTGo2OUhxbVJTR0Q3TmxKdGM9O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2x0ZD07ZGNfdGR2PTE7ZGNfdHJhbnNwYXJlbnQ9MTtkY19ydWk9MTtkY19lcHM9QUhhczhjQlF5OGNNd3YwMENnNUlMVDc2T2NIajFxUldHXzdKRjdrTV9fTmd4cm1DN0tiYW04R09WLUhCQWlWd0xTQkdocERGa2J1dVZtUndhZ25jU3c7ZGNfcHViaWQ9Nj9odHRwczovL2Fjcm9iYXQuYWRvYmUuY29tL3N0dWRlbnRzcGFjZXMvaG9tZT9zZGlkPUtRUVFUVENTJm12PXNvY2lhbCZtdjI9cGFpZHNvYyZ4X2FwaV9jbGllbnRfaWQ9cGFpZG1lZGlhJnhfYXBpX2NsaWVudF9sb2NhdGlvbj1hZHNfS1FRUVRUQ1MmZ2FkX3NvdXJjZT0ysBPj7qgkuBP___________8BiBQFsBQDwBWBgIBA0BUB2BUBmBYBqBYBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRdXv8ICGj4Y8LoXBigAMAA4AdAYAfAYAQ&gclid=EAIaIQobChMI9_28n-2YmAMVmf5PAh1Y3DrZEAEYASAAEgJxjfD_BwE&num=1&cid=CAASqgHkaGHrfg5HG-UlJ2XEW3V_Wu9_XccX6NRsRlBuQHAt8oTZWfT1M9dPMG9ZWmVmXwdJ8akjrvz76qpSgj_4CIvKAs_JLtLmk-r3feO5PnFpiTNIV4onYDxOxe8VCFlVdSEhZ2aGe8FBlOLq-9KRHRmREKJ2JFhS0AwyYIgd-T775pA53Rpnnt-XolhLaQJkyxszNANg_oFz29YwxN284NeM7KxiB4ebzXwsDA&ad_cpn=%5BCPN%5D&sig=AOD64_1bOyEluZRJIcHFqqHCQODZLeEp_g&ctype=110&video_id=me8NQPMH3uk&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Acrobat",
+        "thumbnail": "https://yt3.ggpht.com/proxy/MOuz2I13I1fAnFfngtXtL_W4we9dtMgr0pZOHx9ZvXrWe0TzDLTj2mq2_seyh8bAOYiFhihUkC0bcCbQ2Rr3ROUyAm-g7fKx7ikqVy2aYwv8ap82JEQltB0uNj5JlrrMcTbQ-wFlNo0DfytWwYBrrCyx4-VnwgCwx-dn0fy6KEEwJzLjssuJHIvXA-MdWMvBvChh3bzxW7-sQCuvX2mDwrBOQUGt_eZzMbPzNL_oO6Ke1vjjr2458wPYmALVc80eUKLvvs8=w68-h68-nd"
+      },
+      "description": "Turn your ideas into presentations for classes, clubs, and more.",
+      "thumbnail": {
+        "static": "https://tpc.googlesyndication.com/simgad/2765314983128031776"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "Dreamina Seedance 2.5",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CWAY3Z3IBa7euLJn9v8IP2LjryQ2psO2DiwH6pe2suxZkEAQgAGDJhoCAgKWAEIIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAGZ_LqiAqgDBMgDCqoE1wJP0GnMOmUqCUW0ezU6DG9MalXbf-TJ0fgUmGenQVHvY-Rq9onF-euT2YruJxI8nExexFeBGVlLwtt5zpwgaxsV2pvzPRW7RTM6FnUwnWWrskHDwjbVe8T6nbTrxwoaf1LuGkJAkdp6k5-f9CAAfWwODFJ0vjqQqW6ICu-mq5uqI6EhMFxyxqQAUvyo1Igb-uU2eOS4eiHaPCSxdA_wp-iEe0i24QxU09VJHc8GI3Ib7kxAYj3ICQ9GQBVTN_ljTK0wvv1SMmQUs9qm1MvEwGo-aPXV1XOj2HggWmRpV5YwL7nfrAjBNrwjC1SXfNpcjbmXXhOuiM3tlTTVrOWTZY48arx5rEP2zUpwZvLwYlcF8UzTnKehCJTv_tmfoASL9AC1_MoO4T5ms3jOKMJhZmWxZBQB5PQQsOJPpc5Q_wwYvNMMwNETBuDo0kGQuzdhQ_3-fCCVuKthiAWh4a26WpIFCAgTeJSwq5sdoAakAYAH-pD6-xyQBwSoB6XPsQKoB-edsQKoB-idsQKoB4P2sQKoB_nTsQKoB8nasQKoB6ngsQKoB6jSG6gHsdwbqAewm7ECqAf9srECqAfIz7ECqAfJz7ECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAee6rECqAef6rECqAf467ECqAe86rECqAfv8bECqAf8r7ECqAe-2bECqAe_2bECqAe3obECqAfVqbECqAfn2rECqAfetbEC0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAGEjZoNI1UBRY0Jm8n-2YmANgAZoJO2h0dHBzOi8vZHJlYW1pbmEuY2FwY3V0LmNvbS9wcmljaW5nL2RyZWFtaW5hLXNlZWRhbmNlLXByaWNlsQlTleiAGN_smcgJAJgLAboLOggDEAUYFiAIKAEwHEABSABYTmAAaABwAYgBAJgBAaIBCAoAqAIB2AIC2AEBgAIBiAIGugMFdmljYmbQCxKiDDViFgoUY29tLmxlbW9uLmx2b3ZlcnNlYXNqFgoUY29tLmxlbW9uLmx2b3ZlcnNlYXN4AIgBANIMAhABmg0BEqoNAlVTyA0B0g2vAmh0dHBzOi8vZHJlYW1pbmEuY2FwY3V0LmNvbS9wcmljaW5nL2RyZWFtaW5hLXNlZWRhbmNlLXByaWNlP3V0bV9tZWRpdW09cG1heCZ1dG1fc291cmNlPWdvb2dsZWFkd29yZHNfaW50JnV0bV9jYW1wYWlnbj1wcmljaW5nJnV0bV9jb250ZW50PXdlYiZwaWQ9NTEzNjQxJmNhbXBhaWduX2lkPTI0MjgxNTcyNTI4JmFkc2V0X2lkPTY3NjM4NTc4NzQmYWRfaWQ9JmtleXdvcmQ9Jm1hdGNodHlwZT0mY2hhbm5lbD14JnBsYWNlbWVudD15b3V0dWJlLmNvbSZ0YXJnZXQ9JmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yNDI4MTU3NTU4NbAO0o-hmRm4E____________wGwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXRLsWU-R47Um6FwYoADAAOAHQGAHwGAHCGQIIAQ&gclid=EAIaIQobChMI9_28n-2YmAMVmf5PAh1Y3DrZEAEYBCAAEgIdnPD_BwE&num=4&cid=CAASqgHkaGHrfg5HG-UlJ2XEW3V_Wu9_XccX6NRsRlBuQHAt8oTZWfT1M9dPMG9ZWmVmXwdJ8akjrvz76qpSgj_4CIvKAs_JLtLmk-r3feO5PnFpiTNIV4onYDxOxe8VCFlVdSEhZ2aGe8FBlOLq-9KRHRmREKJ2JFhS0AwyYIgd-T775pA53Rpnnt-XolhLaQJkyxszNANg_oFz29YwxN284NeM7KxiB4ebzXwsDA&sig=AOD64_1ievqtimiCifbOPoh9Brx1AllQOQ&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Dreamina",
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/JVZ9GQ-XjZ2YQGuwqh5jOSF56YB9W2Ll9DjB0ow8GDavh1GxOJ-JHgRp0WHezKBg6D2QLS30T20UQe4h3BdWAzaipAd2Mfuecw8wgQhR1UoEUZKr6rMte9LdoM5rXUXU"
+      },
+      "description": "Limited-time offer—start creating with Seedance today.",
+      "thumbnail": {
+        "static": "https://lh5.googleusercontent.com/proxy/JVZ9GQ-XjZ2YQGuwqh5jOSF56YB9W2Ll9DjB0ow8GDavh1GxOJ-JHgRp0WHezKBg6D2QLS30T20UQe4h3BdWAzaipAd2Mfuecw8wgQhR1UoEUZKr6rMte9LdoM5rXUXU"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "I Tested Whale Echo — This AI Recorder Actually Does the Work After Meetings",
+      "link": "https://www.youtube.com/watch?v=EN2f6DFE468",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=EN2f6DFE468",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CXUemZ3IBa7euLJn9v8IP2LjryQ3g36n9iQHUgfmcoBawkB8QBSAAYMmGgICApYAQggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAcrdkKNEqAMEyAMKqgTKAk_Q3Xs_RSqbRZx750IqRV9YQtllxsfz3Qe2PJoTd8Vw1n30k-f3ybvfs981KymdXUbACLRLf2HR6W7MhgBRHmzMydUTAphHLxcRejuEKoD8QNDVMu97_vmNoO3WUhcgdPQqc06-kHPMgo7mLBVxUFp4GiujK4Kle4Qf76KR29sjvyE2X3XGrB9b5bbTlpnLWEAA5OF0YNYnJKdkQ_bm5jEXz8DLDA3dlEUGzxAzPh2vQgB9d8kZEEdfXlNt63ROtwyn10Y1eFuanoLF0MKEYmBi7JLaN7XFfjcCdTdXjDYpqtrmAoUi-BNBdZ16313IjcV6ArWOicfbBtW2749vjNkaPeOvVuIBiH-iOChIBDZDsjUqsf0KED87K22jGxIkCjdvD7jwAagQp3XVim2mrVq9akcwNSq6fESL1tcOkhMvFuXz_QveN0aYvogF7c2Cx1qSBQgIE3iwguypH6AGoQGAB8qV4YIfkAcEqAelz7ECqAfnnbECqAfonbECqAeD9rECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHnuqxAqgHn-qxAqgH-OuxAqgHvOqxAqgH7_GxAqgH_K-xAqgH1c4bqAe-2bECqAe_2bECqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKSCAtFTjJmNkRGRTQ2OKgIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBhI2aDSNVAUWNCZvJ_tmJgDYAGaCRpodHRwczovL2VjaG8ubWVldHdoYWxlLmFpL7EJ6EDEvvox79fICRfICY8ByAnCAZgLAboLOggDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AIC2AEBgAIBiAISugMFdmljYmbQCxPSDAIQAZoNAROqDQJVU8gNAdINQmh0dHBzOi8vZWNoby5tZWV0d2hhbGUuYWkvP2dhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yNDMwODEzMTU2NbgT____________AYgUA7AUA8AVgYCAQNAVAdgVAZgWAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXIfGItdSInjC6FwYoADAAOAHQGAHwGAHCGQIIAQ&gclid=EAIaIQobChMI9_28n-2YmAMVmf5PAh1Y3DrZEAEYBSAAEgJLsfD_BwE&num=5&cid=CAASqgHkaGHrfg5HG-UlJ2XEW3V_Wu9_XccX6NRsRlBuQHAt8oTZWfT1M9dPMG9ZWmVmXwdJ8akjrvz76qpSgj_4CIvKAs_JLtLmk-r3feO5PnFpiTNIV4onYDxOxe8VCFlVdSEhZ2aGe8FBlOLq-9KRHRmREKJ2JFhS0AwyYIgd-T775pA53Rpnnt-XolhLaQJkyxszNANg_oFz29YwxN284NeM7KxiB4ebzXwsDA&ad_cpn=%5BCPN%5D&sig=AOD64_3PW0JR3bX4T61AUZHMWuWvdYZEpA&ctype=110&video_id=EN2f6DFE468&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Whale Echo",
+        "thumbnail": "https://yt3.ggpht.com/nYpJ9llcS4XVKFAiTiIDkVsh0Mn4sdQ7MfN30NhX3XkZeSL536p930ZifKrqF5MquI2X2pO8=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "description": "",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/EN2f6DFE468/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoqZNs0EBcwYg2dMPikN86QF7Vkg"
+      }
+    }
+  ],
+  "playlist_results": [
+    {
+      "position_on_page": 2,
+      "title": "Python Tutorial 2026 | Complete Python Course (Beginner to Advanced) | Telusko",
+      "link": "https://www.youtube.com/playlist?list=PLsyeobzWxl7omDoEYrrf3oXvXxa6MPgek",
+      "channel": {
+        "name": "Telusko",
+        "channel_id": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "link": "https://www.youtube.com/@Telusko"
+      },
+      "videos": [
+        {
+          "title": "Python Tutorial 2026",
+          "length": "5:21",
+          "link": "https://www.youtube.com/watch?v=YZkyL-f-YXY&list=PLsyeobzWxl7omDoEYrrf3oXvXxa6MPgek"
+        },
+        {
+          "title": "First Code in Python | 2",
+          "length": "4:00",
+          "link": "https://www.youtube.com/watch?v=koL06y7HpKo&list=PLsyeobzWxl7omDoEYrrf3oXvXxa6MPgek"
+        }
+      ],
+      "video_count": 54,
+      "thumbnail": "https://i.ytimg.com/vi/YZkyL-f-YXY/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDqwreruXZFgiuPOpWxK28x1IQUMQ"
+    },
+    {
+      "position_on_page": 3,
+      "title": "FastAPI Complete Playlist | Backend Development with Python FastAPI | FastAPI Tutorial",
+      "link": "https://www.youtube.com/playlist?list=PLUhY5ME1VdIumaSa-m5SQ-ztTL8NWY8Gh",
+      "channel": {
+        "name": "TechSimPlus Learnings",
+        "channel_id": "UCLgmvKM3Eu1LRXoMlgsmxYw",
+        "link": "https://www.youtube.com/@TechSimPlusLearnings"
+      },
+      "videos": [
+        {
+          "title": "#1 FastAPI Tutorial - Introduction | Complete FastAPI Course 2026 | Python Backend",
+          "length": "3:53",
+          "link": "https://www.youtube.com/watch?v=tMJA41xhBZM&list=PLUhY5ME1VdIumaSa-m5SQ-ztTL8NWY8Gh"
+        },
+        {
+          "title": "#2 How to setup FastAPI | FastAPI Setup in VS Code | FastAPI Tutorial",
+          "length": "4:02",
+          "link": "https://www.youtube.com/watch?v=rjoaQ7lnTNg&list=PLUhY5ME1VdIumaSa-m5SQ-ztTL8NWY8Gh"
+        }
+      ],
+      "video_count": 26,
+      "thumbnail": "https://i.ytimg.com/vi/tMJA41xhBZM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLASdacRh06D3Vx-NV6VFeZk6b16sw"
+    },
+    {
+      "position_on_page": 4,
+      "title": "FastAPI Tutorial | Python Web Framework",
+      "link": "https://www.youtube.com/playlist?list=PLsyeobzWxl7qF4ASwCZZDXor_Y0YJ3Qfc",
+      "channel": {
+        "name": "Telusko",
+        "channel_id": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "link": "https://www.youtube.com/@Telusko"
+      },
+      "videos": [
+        {
+          "title": "#1 FastAPI - Python Web Framework",
+          "length": "6:55",
+          "link": "https://www.youtube.com/watch?v=02dzgC_Ba70&list=PLsyeobzWxl7qF4ASwCZZDXor_Y0YJ3Qfc"
+        },
+        {
+          "title": "#2 FastAPI Setup in VS Code",
+          "length": "13:02",
+          "link": "https://www.youtube.com/watch?v=Rf9jbnzt2UU&list=PLsyeobzWxl7qF4ASwCZZDXor_Y0YJ3Qfc"
+        }
+      ],
+      "video_count": 13,
+      "thumbnail": "https://i.ytimg.com/vi/02dzgC_Ba70/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAj06bnIrdlVnsdaWaJJmI82XT3Eg"
+    },
+    {
+      "position_on_page": 6,
+      "title": "Full Stack Python || Website Development || Training || Complete Course || 2k26",
+      "link": "https://www.youtube.com/playlist?list=PLryYKs02mpdIMPfxxN29PjIFktQMuiHUm",
+      "channel": {
+        "name": "Mohd Navaid",
+        "channel_id": "UCwFLl5noBwBK2lctHvNCHjQ",
+        "link": "https://www.youtube.com/@navaidmails"
+      },
+      "videos": [
+        {
+          "title": "🚀 Full Stack Python Web Development || A Training Course || Part 01 🌐🐍🔧📚🐍 ✨Notes Included!",
+          "length": "20:17",
+          "link": "https://www.youtube.com/watch?v=RT6IHsuriMI&list=PLryYKs02mpdIMPfxxN29PjIFktQMuiHUm"
+        },
+        {
+          "title": "🚀 Full Stack Python || Pt-02: Demystifying Programming Fundamentals ✨📚🐍 Notes Included!",
+          "length": "22:50",
+          "link": "https://www.youtube.com/watch?v=jfMRCrY0NGk&list=PLryYKs02mpdIMPfxxN29PjIFktQMuiHUm"
+        }
+      ],
+      "video_count": 100,
+      "thumbnail": "https://i.ytimg.com/vi/RT6IHsuriMI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDymf8--Faxs0w-u529uBJXVEaeDg"
+    },
+    {
+      "position_on_page": 7,
+      "title": "Python for Beginners (Full Course) | Programming Tutorial",
+      "link": "https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3",
+      "channel": {
+        "name": "Telusko",
+        "channel_id": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "link": "https://www.youtube.com/@Telusko"
+      },
+      "videos": [
+        {
+          "title": "#0 Python for Beginners | Programming Tutorial",
+          "length": "1:06",
+          "link": "https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3"
+        },
+        {
+          "title": "#1 Python Tutorial for Beginners | Introduction to Python",
+          "length": "4:13",
+          "link": "https://www.youtube.com/watch?v=hEgO047GxaQ&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3"
+        }
+      ],
+      "video_count": 124,
+      "thumbnail": "https://i.ytimg.com/vi/QXeEoD0pB3E/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB0rOknPZGuoCIf-6EgHKR1A6TxTA"
+    },
+    {
+      "position_on_page": 9,
+      "title": "Back End Developer Learning Path",
+      "link": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbn21gs5UnLhCQ82f923WCgM",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "link": "https://www.youtube.com/@freecodecamp"
+      },
+      "videos": [
+        {
+          "title": "Back End Developer Roadmap",
+          "length": "10:30",
+          "link": "https://www.youtube.com/watch?v=tN6oJu2DqCM&list=PLWKjhJtqVAbn21gs5UnLhCQ82f923WCgM"
+        },
+        {
+          "title": "Full Stack Web Development for Beginners (Full Course on HTML, CSS, JavaScript, Node.js, MongoDB)",
+          "length": "7:29:12",
+          "link": "https://www.youtube.com/watch?v=nu_pCVPKzTk&list=PLWKjhJtqVAbn21gs5UnLhCQ82f923WCgM"
+        }
+      ],
+      "video_count": 17,
+      "thumbnail": "https://i.ytimg.com/vi/tN6oJu2DqCM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBevwmBHo4IMd-9LC4kXMc9XG2qSg"
+    },
+    {
+      "position_on_page": 10,
+      "title": "Python Tutorials",
+      "link": "https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "link": "https://www.youtube.com/@freecodecamp"
+      },
+      "videos": [
+        {
+          "title": "Python for Beginners – Full Course [Programming Tutorial]",
+          "length": "4:40:00",
+          "link": "https://www.youtube.com/watch?v=eWRfhZUzrAc&list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB"
+        },
+        {
+          "title": "Intermediate Python Programming Course",
+          "length": "5:55:47",
+          "link": "https://www.youtube.com/watch?v=HGOBQPFzWKo&list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB"
+        }
+      ],
+      "video_count": 12,
+      "thumbnail": "https://i.ytimg.com/vi/eWRfhZUzrAc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDnKF1QFVtOMyKOoyxJEEwK1krMAA"
+    },
+    {
+      "position_on_page": 13,
+      "title": "Python Tutorials",
+      "link": "https://www.youtube.com/playlist?list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f",
+      "channel": {
+        "name": "Programming with Mosh",
+        "channel_id": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "link": "https://www.youtube.com/@programmingwithmosh"
+      },
+      "videos": [
+        {
+          "title": "Python Full Course for Beginners",
+          "length": "6:14:07",
+          "link": "https://www.youtube.com/watch?v=_uQrJ0TkZlc&list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f&pp=0gcJCRYF0aJEHMZM"
+        },
+        {
+          "title": "Learn Python Programming - Python Course",
+          "length": "1:48:05",
+          "link": "https://www.youtube.com/watch?v=f79MRyMsjrQ&list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f"
+        }
+      ],
+      "video_count": 23,
+      "thumbnail": "https://i.ytimg.com/vi/_uQrJ0TkZlc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBzxHQjj_9xpSxgV1w6-XmWU4N11A"
+    },
+    {
+      "position_on_page": 14,
+      "title": "Python Tutorials",
+      "link": "https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU",
+      "channel": {
+        "name": "Corey Schafer",
+        "channel_id": "UCCezIgC97PvUuR4_gbFUs5g",
+        "link": "https://www.youtube.com/@coreyms"
+      },
+      "videos": [
+        {
+          "title": "Python Tutorial for Beginners 1: Install and Setup for Mac and Windows",
+          "length": "15:29",
+          "link": "https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU"
+        },
+        {
+          "title": "Python Tutorial for Beginners 2: Strings - Working with Textual Data",
+          "length": "21:12",
+          "link": "https://www.youtube.com/watch?v=k9TUPpGqYTo&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&pp=0gcJCRYF0aJEHMZM"
+        }
+      ],
+      "video_count": 158,
+      "thumbnail": "https://i.ytimg.com/vi/YYXdXT2l-Gg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB62tKrSiLOsKgSqTEWX05gsbf03g"
+    },
+    {
+      "position_on_page": 16,
+      "title": "Python Full Course in Tamil – Complete Beginner to Advanced Tutorial | Learn Python Step-by-Step",
+      "link": "https://www.youtube.com/playlist?list=PLoM4uAkd4g6_rYHZyfvVVQf5EyTth-L3G",
+      "channel": {
+        "name": "BTree Systems",
+        "channel_id": "UC3CWkAYRbqUFLq6wQF-VyPw",
+        "link": "https://www.youtube.com/@btreesystems"
+      },
+      "videos": [
+        {
+          "title": "Python Tutorial For Beginners In Tamil | Want to Master Python in Tamil? Start with This!",
+          "length": "15:20:29",
+          "link": "https://www.youtube.com/watch?v=EWLFJg1twLo&list=PLoM4uAkd4g6_rYHZyfvVVQf5EyTth-L3G"
+        },
+        {
+          "title": "5 Python Features in Tamil | Python Tutorial In Tamil",
+          "length": "26:03",
+          "link": "https://www.youtube.com/watch?v=qs4c3fx4wHU&list=PLoM4uAkd4g6_rYHZyfvVVQf5EyTth-L3G"
+        }
+      ],
+      "video_count": 19,
+      "thumbnail": "https://i.ytimg.com/vi/EWLFJg1twLo/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCTxeHcBOWVn09oEsTNuOuItuB4TQ"
+    },
+    {
+      "position_on_page": 18,
+      "title": "Python for Beginners (Full Course) | #100DaysOfCode Programming Tutorial in Hindi",
+      "link": "https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg",
+      "channel": {
+        "name": "CodeWithHarry",
+        "channel_id": "UCeVMnSShP_Iviwkknt83cww",
+        "link": "https://www.youtube.com/@CodeWithHarry"
+      },
+      "videos": [
+        {
+          "title": "Introduction to Programming & Python | Python Tutorial - Day #1",
+          "length": "11:50",
+          "link": "https://www.youtube.com/watch?v=7wnove7K-ZQ&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg"
+        },
+        {
+          "title": "Some Amazing Python Programs - The Power of Python | Python Tutorial - Day #2",
+          "length": "8:38",
+          "link": "https://www.youtube.com/watch?v=Tto8TS-fJQU&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg"
+        }
+      ],
+      "video_count": 100,
+      "thumbnail": "https://i.ytimg.com/vi/7wnove7K-ZQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBUXoJQ_bg8VrqiU-vbL8a90-mmOQ"
+    },
+    {
+      "position_on_page": 19,
+      "title": "Python Language Full Course (2026)",
+      "link": "https://www.youtube.com/playlist?list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0",
+      "channel": {
+        "name": "Shradha Khapra",
+        "channel_id": "UC1XBh-m27kkgwLAwu_SRJBg",
+        "link": "https://www.youtube.com/@shradhaKD"
+      },
+      "videos": [
+        {
+          "title": "Python Full Course❤️ | Variables & Data Types | Lecture 1",
+          "length": "1:22:19",
+          "link": "https://www.youtube.com/watch?v=t2_Q2BRzeEE&list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0"
+        },
+        {
+          "title": "Lecture 2 : Strings & Conditional Statements | Python Full Course",
+          "length": "55:41",
+          "link": "https://www.youtube.com/watch?v=lIId8IDP6TU&list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0"
+        }
+      ],
+      "video_count": 9,
+      "thumbnail": "https://i.ytimg.com/vi/t2_Q2BRzeEE/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBm5_nQyrAnm5zyJ2FBA9l3BKyzMA"
+    },
+    {
+      "position_on_page": 22,
+      "title": "Python Programming Tutorial Series 📚| In Tamil | You can become a Python Developer.",
+      "link": "https://www.youtube.com/playlist?list=PLvepBxfiuao1hO1vPOskQ1X4dbjGXF9bm",
+      "channel": {
+        "name": "Error Makes Clever",
+        "channel_id": "UCwr-evhuzGZgDFrq_1pLt_A",
+        "link": "https://www.youtube.com/@ErrorMakesClever"
+      },
+      "videos": [
+        {
+          "title": "#01 Python Programming Tutorial Series 📚| Introduction to Python 🧑‍💻| EMC ACADEMY 💪",
+          "length": "1:53",
+          "link": "https://www.youtube.com/watch?v=BVIoAILnZ4Q&list=PLvepBxfiuao1hO1vPOskQ1X4dbjGXF9bm"
+        },
+        {
+          "title": "#02 Variables and DataTypes Explained 🔋| In Tamil | Python Tutorial Series 🚀| EMC Academy",
+          "length": "8:48",
+          "link": "https://www.youtube.com/watch?v=Rtmgt2Qfqr4&list=PLvepBxfiuao1hO1vPOskQ1X4dbjGXF9bm"
+        }
+      ],
+      "video_count": 27,
+      "thumbnail": "https://i.ytimg.com/vi/BVIoAILnZ4Q/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBs8HOUF1Opsn9RLB0jIb1L_njX3g"
+    }
+  ],
+  "video_results": [
+    {
+      "position_on_page": 5,
+      "title": "Python Full Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=K5KVEU3aaeQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=K5KVEU3aaeQ",
+      "video_id": "K5KVEU3aaeQ",
+      "channel": {
+        "name": "Programming with Mosh",
+        "channel_id": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "link": "https://www.youtube.com/@programmingwithmosh",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 8205319,
+      "length": "2:02:21",
+      "description": "Master Python from scratch No fluff—just clear, practical coding skills to kickstart your journey! Want to dive deeper? - Check ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXbPvWkQhvRSOYWD6mp9EVbfWSYg",
+        "rich": "https://i.ytimg.com/an_webp/K5KVEU3aaeQ/mqdefault_6s.webp?du=3000&sqp=CJzChdgG&rs=AOn4CLC6Pp4Bh6Lx_7Q3g9IryYe5QZb_Zg"
+      },
+      "chapters": [
+        {
+          "title": "Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_26866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4-8JL41at5KzmN7PV73femAg7MA",
+          "time_start": 0
+        },
+        {
+          "title": "What is Python?",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_57900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHvhpwPGcLWWeSYZwVntOAcJLL7Q",
+          "time_start": 56
+        },
+        {
+          "title": "Installing Python",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_251366.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3BIf5o-pRUfAKfQPWFCHEM-95aw",
+          "time_start": 251
+        },
+        {
+          "title": "Python Interpreter",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_336766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5yZF86WNNgoJ1Ydgp_8Gg3oGJ9A",
+          "time_start": 336
+        },
+        {
+          "title": "Code Editors",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_451766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqmU1Q85N9zkzVRTcEfkUCiKDQOA",
+          "time_start": 450
+        },
+        {
+          "title": "Your First Python Program",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_533200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0-5X9tnI2IPd3LRnyt4fKLStROA",
+          "time_start": 529
+        },
+        {
+          "title": "Python Extension",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_749166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwp4DkRzfGoIB5KBSkVuzP8qSWmg",
+          "time_start": 745
+        },
+        {
+          "title": "Linting Python Code",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_870133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbiobgQnkuKBdq1NUCiNLSHny_8w",
+          "time_start": 866
+        },
+        {
+          "title": "Formatting Python Code",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_1124166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiWPy929fFtlkM_JoFDTaU9IS8YA",
+          "time_start": 1120
+        },
+        {
+          "title": "Running Python Code",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_1374200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDahb9qDNhaJjrEQBum8nzo5YNXbA",
+          "time_start": 1371
+        },
+        {
+          "title": "Python Implementations",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_1475066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCH5xmcQXcsPQga4V6-N7kOcNkTHA",
+          "time_start": 1470
+        },
+        {
+          "title": "How Python Code is Executed",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_1621033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfGzIfbPnnoLPChVgpBfzfCz99TQ",
+          "time_start": 1619
+        },
+        {
+          "title": "Quiz",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_1788066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJxVoSwIugjO0xMAdNJG9dHy0QJw",
+          "time_start": 1785
+        },
+        {
+          "title": "Python Mastery Course",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_1880966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwQ92VhEuZEG3FbvNALcQ5vNQrvA",
+          "time_start": 1877
+        },
+        {
+          "title": "Variables",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_1906933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA99OvdcfB6HkBmh_2rb0rDuGG4nQ",
+          "time_start": 1904
+        },
+        {
+          "title": "Variable Names",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_2090900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWw6jb-68k5KxC2ApxasTGaDohAQ",
+          "time_start": 2088
+        },
+        {
+          "title": "Strings",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_2272933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBP8KQyjxRnI1sD_X106lWKgHHahg",
+          "time_start": 2271
+        },
+        {
+          "title": "Escape Sequences",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_2601833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANvwcTIarp1XKlcubNNfVEah0l1A",
+          "time_start": 2600
+        },
+        {
+          "title": "Formatted Strings",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_2763800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_7ooaVAKUL1Lzq6IHgF8wFHI_yA",
+          "time_start": 2761
+        },
+        {
+          "title": "String Methods",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_2891766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJ_vBn83wnCgZQjvblzdvIYTSAkQ",
+          "time_start": 2889
+        },
+        {
+          "title": "Numbers",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_3245233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHWT84fxrmihGe64kTR5R1rqX7Sg",
+          "time_start": 3243
+        },
+        {
+          "title": "Working With Numbers",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_3411200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCepzshEW8eLl-zJ0I84iMaB2Gg1A",
+          "time_start": 3410
+        },
+        {
+          "title": "Type Conversion",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_3542266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUD5VRcDGcQg3L2UbbMr6u0xfWeA",
+          "time_start": 3539
+        },
+        {
+          "title": "Quiz",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_3845266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEi5k1bkOlCFmBD_KKOErWKv-Wdw",
+          "time_start": 3843
+        },
+        {
+          "title": "Comparison Operators",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_4004200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_fWgFDZiWlRbrhMUEuJXrWi2Nuw",
+          "time_start": 4003
+        },
+        {
+          "title": "Conditional Statements",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_4129066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1YFcn8kHXwVA10VU6ekBxKOhWqg",
+          "time_start": 4126
+        },
+        {
+          "title": "Ternary Operator",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_4378033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZpWv4kXWWTbLs5yHLSmzttIuCPg",
+          "time_start": 4376
+        },
+        {
+          "title": "Logical Operators",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_4506133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9_6SInTAABChqtSFmX-F9dJywXQ",
+          "time_start": 4504
+        },
+        {
+          "title": "Short-circuit Evaluations",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_4748966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9MfXZavZo9DahP7QzxvqrBRKmqQ",
+          "time_start": 4747
+        },
+        {
+          "title": "Chaining Comparison Operators",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_4875933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBb9sMZc185-jNL9ujUq261ORlLIw",
+          "time_start": 4873
+        },
+        {
+          "title": "Quiz",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_4957900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYO6qGn_m5DYkyuVxyIcW9cgdTXA",
+          "time_start": 4955
+        },
+        {
+          "title": "For Loops",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_5060866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYaMlYcazhSOGh5bT7fPjzNRqCag",
+          "time_start": 5058
+        },
+        {
+          "title": "For..Else",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_5277866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArdfQErflnNGPGCmldjKNxA5IIAQ",
+          "time_start": 5276
+        },
+        {
+          "title": "Nested Loops",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_5444800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWJcsT9_9D3zx4WEENjLrVrADsvg",
+          "time_start": 5442
+        },
+        {
+          "title": "Iterables",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_5607866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsJDy0wq1Cp7Puhq0olR9f7jAIXA",
+          "time_start": 5606
+        },
+        {
+          "title": "While Loops",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_5796733.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBy-bERr2D__tebsiCdq05xKI8qPQ",
+          "time_start": 5794
+        },
+        {
+          "title": "Infinite Loops",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_6094833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3goGp43lMMOF7NWo8K-d08ujmIQ",
+          "time_start": 6093
+        },
+        {
+          "title": "Exercise",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_6192166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCz-VsTZUyZp2yxbG24QGtsh_obMw",
+          "time_start": 6190
+        },
+        {
+          "title": "Defining Functions",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_6316133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMMyoXGnE0j1u1l1cAJBxVuWIoxQ",
+          "time_start": 6313
+        },
+        {
+          "title": "Arguments",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_6458100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_B94BHLXJzC1Eh9a2AjC8l0Lh4Q",
+          "time_start": 6457
+        },
+        {
+          "title": "Types of Functions",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_6599066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5chh9w73ExygSvFuMrqgkI2c5Jw",
+          "time_start": 6597
+        },
+        {
+          "title": "Keyword Arguments",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_6842066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMcKPSwJO-OO3cplwV4r7U5LjYOA",
+          "time_start": 6839
+        },
+        {
+          "title": "Default Arguments",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_6963000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3p3gzCPQwdDrCn5cJkbve4EBwNw",
+          "time_start": 6959
+        },
+        {
+          "title": "xargs",
+          "thumbnail": "https://i.ytimg.com/vi/K5KVEU3aaeQ/hqdefault_7056966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcg82s8hBSf_7dD-6il8FWDbwIQw",
+          "time_start": 7054
+        }
+      ]
+    },
+    {
+      "position_on_page": 8,
+      "title": "Learn Python Backend Development by Building 3 Projects [Full Course]",
+      "link": "https://www.youtube.com/watch?v=ftKiHCDVwfA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ftKiHCDVwfA",
+      "video_id": "ftKiHCDVwfA",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 384838,
+      "length": "10:08:02",
+      "description": "This video is a full project-based backend web development course. In this course, you will learn how to build 3 full backend web ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ftKiHCDVwfA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhzojFliXh5gdbXCn4aXCv5ohHiA",
+        "rich": "https://i.ytimg.com/an_webp/ftKiHCDVwfA/mqdefault_6s.webp?du=3000&sqp=CLDGhdgG&rs=AOn4CLBfk-iT6NX2GVtNxvc81MRV8qe3XQ"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi_webp/ftKiHCDVwfA/hqdefault.webp",
+          "time_start": 0
+        },
+        {
+          "title": "AI Web App",
+          "thumbnail": "https://i.ytimg.com/vi_webp/ftKiHCDVwfA/hqdefault.webp",
+          "time_start": 90
+        },
+        {
+          "title": "Netflix Clone",
+          "thumbnail": "https://i.ytimg.com/vi_webp/ftKiHCDVwfA/hqdefault.webp",
+          "time_start": 11255
+        },
+        {
+          "title": "Spotify Clone - Part 1",
+          "thumbnail": "https://i.ytimg.com/vi_webp/ftKiHCDVwfA/hqdefault.webp",
+          "time_start": 22293
+        },
+        {
+          "title": "Spotify Clone - Part 2",
+          "thumbnail": "https://i.ytimg.com/vi_webp/ftKiHCDVwfA/hqdefault.webp",
+          "time_start": 23605
+        },
+        {
+          "title": "Spotify Clone - Part 3",
+          "thumbnail": "https://i.ytimg.com/vi_webp/ftKiHCDVwfA/hqdefault.webp",
+          "time_start": 24945
+        },
+        {
+          "title": "Spotify Clone - Part 4",
+          "thumbnail": "https://i.ytimg.com/vi_webp/ftKiHCDVwfA/hqdefault.webp",
+          "time_start": 35421
+        },
+        {
+          "title": "Outro",
+          "thumbnail": "https://i.ytimg.com/vi_webp/ftKiHCDVwfA/hqdefault.webp",
+          "time_start": 36468
+        }
+      ]
+    },
+    {
+      "position_on_page": 12,
+      "title": "What To Learn To Become a Python Backend Developer",
+      "link": "https://www.youtube.com/watch?v=W3_5Tuur0o8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=W3_5Tuur0o8",
+      "video_id": "W3_5Tuur0o8",
+      "channel": {
+        "name": "Tech With Tim",
+        "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
+        "link": "https://www.youtube.com/@TechWithTim",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k15oXl74WcnpdL-uVBv6IHBgAfXEEnpUiS-IoEyV1auyY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 107808,
+      "length": "10:54",
+      "description": "Finally enjoy preparing for coding interviews with Pgrammer! https://pgrammer.com/tim In this video, I'll be sharing what you need ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/W3_5Tuur0o8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEODeTDaf5lUCDQRZV_HFnV9Iexw",
+        "rich": "https://i.ytimg.com/an_webp/W3_5Tuur0o8/mqdefault_6s.webp?du=3000&sqp=CKjkhdgG&rs=AOn4CLB6eJJclqkIoDCV7TmLV3yy1g-FhA"
+      },
+      "chapters": [
+        {
+          "title": "What is a Python Backend Developer?",
+          "thumbnail": "https://i.ytimg.com/vi/W3_5Tuur0o8/hqdefault_19033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSdRoLJ0XwrAI_r7UKLHxQjt2gWQ",
+          "time_start": 0
+        },
+        {
+          "title": "Language Knowledge",
+          "thumbnail": "https://i.ytimg.com/vi/W3_5Tuur0o8/hqdefault_62966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmAx_5hFZqRQI_HNuXvGcs5oEkEw",
+          "time_start": 61
+        },
+        {
+          "title": "Data Structures and Algorithms",
+          "thumbnail": "https://i.ytimg.com/vi/W3_5Tuur0o8/hqdefault_142866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjTSnoJSA4GpuTCys23AY0qrIhmw",
+          "time_start": 127
+        },
+        {
+          "title": "Basic Web Development",
+          "thumbnail": "https://i.ytimg.com/vi/W3_5Tuur0o8/hqdefault_266933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeRcz23YTFNrGBSdZRTSaAFVm-hg",
+          "time_start": 252
+        },
+        {
+          "title": "API Development",
+          "thumbnail": "https://i.ytimg.com/vi/W3_5Tuur0o8/hqdefault_318866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZ_MrMivB5CqJ5FXpzGFYCY_DFDg",
+          "time_start": 292
+        },
+        {
+          "title": "Databases",
+          "thumbnail": "https://i.ytimg.com/vi/W3_5Tuur0o8/hqdefault_361133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhk7vR8xjl9UwjDpkgtgVFMLmioQ",
+          "time_start": 360
+        },
+        {
+          "title": "Linux & Command Line",
+          "thumbnail": "https://i.ytimg.com/vi/W3_5Tuur0o8/hqdefault_485733.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyksNNUb9yqa-1vBEoqcnhwP1jJg",
+          "time_start": 459
+        },
+        {
+          "title": "Tooling",
+          "thumbnail": "https://i.ytimg.com/vi/W3_5Tuur0o8/hqdefault_532733.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJ8dGONWple6DdOqsv0uoq-mH3PQ",
+          "time_start": 503
+        },
+        {
+          "title": "Deployment",
+          "thumbnail": "https://i.ytimg.com/vi/W3_5Tuur0o8/hqdefault_561033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAbF0zQ0ggki0_mFiIF-C8uWEfBQ",
+          "time_start": 556
+        }
+      ]
+    },
+    {
+      "position_on_page": 15,
+      "title": "Junior vs senior python developer 🐍 | #python #coding #programming #shorts  @Codingknowledge-yt",
+      "link": "https://www.youtube.com/watch?v=Mf9GCn_LsUI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Mf9GCn_LsUI",
+      "video_id": "Mf9GCn_LsUI",
+      "channel": {
+        "name": "Coding knowledge ",
+        "channel_id": "UCxTlZrcW5kbq86ClNxzf5Tw",
+        "link": "https://www.youtube.com/@Codingknowledge-yt",
+        "thumbnail": "https://yt3.ggpht.com/4fXbBkz-GcdlfXWlVIjq7mkJd7jTUdW6lUwfdJxJhSp6QGSnKT-9u1O13QZNH99nHD2_cn_YiQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 5408266,
+      "length": "0:18",
+      "description": "Junior vs senior python developer | #python #coding #javascript #programming @Codingknowledge-yt @Codingknowledge-yt ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Mf9GCn_LsUI/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhLIFMoZTAP&rs=AOn4CLDu0wmuEAi_DTYoQObhTvpmNRoTog"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "How to become a Python developer FAST",
+      "link": "https://www.youtube.com/watch?v=j_m0ppzM2qU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=j_m0ppzM2qU",
+      "video_id": "j_m0ppzM2qU",
+      "channel": {
+        "name": "Tech With Tim",
+        "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
+        "link": "https://www.youtube.com/@TechWithTim",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k15oXl74WcnpdL-uVBv6IHBgAfXEEnpUiS-IoEyV1auyY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 105902,
+      "length": "11:08",
+      "description": "These are two of the best beginner-friendly Python resources I recommend: Python Programming Fundamentals (Datacamp) ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/j_m0ppzM2qU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARwgOlDNEyO2oQyqDsu3s6hZG3dg",
+        "rich": "https://i.ytimg.com/an_webp/j_m0ppzM2qU/mqdefault_6s.webp?du=3000&sqp=CJzHhdgG&rs=AOn4CLA1N1HVd7-JUt1kFMTzqBHxMbxJ_g"
+      },
+      "chapters": [
+        {
+          "title": "Overview",
+          "thumbnail": "https://i.ytimg.com/vi/j_m0ppzM2qU/hqdefault_19266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgUz5D9xPor5MQpbKI6mUsYODLOw",
+          "time_start": 0
+        },
+        {
+          "title": "Step 1 - Mastering Core Skills",
+          "thumbnail": "https://i.ytimg.com/vi/j_m0ppzM2qU/hqdefault_42900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAmMj4jjV3OTQ2dC86e88w1xDsgQ",
+          "time_start": 36
+        },
+        {
+          "title": "Step 2 - Efficient with Essential Tools",
+          "thumbnail": "https://i.ytimg.com/vi/j_m0ppzM2qU/hqdefault_278266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBno2_JOZVTaXBwbCySjY9Mh-tuiA",
+          "time_start": 263
+        },
+        {
+          "title": "Step 3 - Specializing in Your Niche",
+          "thumbnail": "https://i.ytimg.com/vi/j_m0ppzM2qU/hqdefault_387966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjfilzQed-6_TfJcn-BCDerTIY9w",
+          "time_start": 379
+        },
+        {
+          "title": "Step 4 - Landing Your First Job",
+          "thumbnail": "https://i.ytimg.com/vi/j_m0ppzM2qU/hqdefault_529733.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjcYlyCzAbFJjkismZ-Oh0CwSi5g",
+          "time_start": 514
+        },
+        {
+          "title": "The Bottom Line",
+          "thumbnail": "https://i.ytimg.com/vi/j_m0ppzM2qU/hqdefault_639866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBylf0AHeVBod-tEZ5xYtlNT0itLQ",
+          "time_start": 613
+        }
+      ]
+    },
+    {
+      "position_on_page": 21,
+      "title": "Python Backend Web Development Course (with Django)",
+      "link": "https://www.youtube.com/watch?v=jBzwzrDvZ18",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=jBzwzrDvZ18",
+      "video_id": "jBzwzrDvZ18",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 2864958,
+      "length": "10:11:52",
+      "description": "This video is a full backend web development course with python. In the course, you will learn everything you need to know to ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/jBzwzrDvZ18/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXWgIc1ktvwsIj6cOEFdehY1hzng",
+        "rich": "https://i.ytimg.com/an_webp/jBzwzrDvZ18/mqdefault_6s.webp?du=3000&sqp=CPHOhdgG&rs=AOn4CLDwCmks9Wx9wJNdIBU960b--C-N4Q"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 0
+        },
+        {
+          "title": "Introduction To Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 118
+        },
+        {
+          "title": "Installation Of Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 159
+        },
+        {
+          "title": "Hello World In Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 390
+        },
+        {
+          "title": "Variables In Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 696
+        },
+        {
+          "title": "Strings In Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 1030
+        },
+        {
+          "title": "Numbers In Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 1597
+        },
+        {
+          "title": "Getting A User's Input",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 2239
+        },
+        {
+          "title": "Word Replacement Exercise",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 2554
+        },
+        {
+          "title": "List In Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 2828
+        },
+        {
+          "title": "List Methods",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 3785
+        },
+        {
+          "title": "Tuples In Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 4588
+        },
+        {
+          "title": "Functions In Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 4953
+        },
+        {
+          "title": "The Return Keyword",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 5706
+        },
+        {
+          "title": "IF Statements In Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 6045
+        },
+        {
+          "title": "Building An Even Number Checker Program",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 7401
+        },
+        {
+          "title": "Dictionaries In Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 7505
+        },
+        {
+          "title": "While Loops In Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 8020
+        },
+        {
+          "title": "For Loops In Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 8387
+        },
+        {
+          "title": "2D Lists",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 8977
+        },
+        {
+          "title": "Comments In Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 9252
+        },
+        {
+          "title": "Building A Basic Calculator",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 9458
+        },
+        {
+          "title": "Try Except In Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 9935
+        },
+        {
+          "title": "Reading Files",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 10408
+        },
+        {
+          "title": "Writing Files",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 11016
+        },
+        {
+          "title": "Classes and Objects In Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 11357
+        },
+        {
+          "title": "Inheritance In Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 11803
+        },
+        {
+          "title": "The Python Shell",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 11971
+        },
+        {
+          "title": "Building A Simple Login and SignUp System",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 12317
+        },
+        {
+          "title": "Modules and PIP In Python",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 12664
+        },
+        {
+          "title": "Introduction To Django",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 13108
+        },
+        {
+          "title": "Installation Of Django",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 13172
+        },
+        {
+          "title": "Url Routing And Django Apps",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 14389
+        },
+        {
+          "title": "Django Template Language",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 15261
+        },
+        {
+          "title": "Sending Data To Template File",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 15655
+        },
+        {
+          "title": "Building A Word Counter In Django",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 16092
+        },
+        {
+          "title": "Get vs Post In Django",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 16993
+        },
+        {
+          "title": "Static Files In Django",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 17361
+        },
+        {
+          "title": "Introduction To Django Models",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 18269
+        },
+        {
+          "title": "Django Admin Panel & Manipulation Of Database",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 19742
+        },
+        {
+          "title": "User Registration In Django",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 20798
+        },
+        {
+          "title": "User Login And Logout In Django",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 22126
+        },
+        {
+          "title": "Dynamic Url Routing In Django",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 23203
+        },
+        {
+          "title": "Postgresql Setup",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 23844
+        },
+        {
+          "title": "Building A Blog With Django - Part 1",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 24443
+        },
+        {
+          "title": "Building A Blog With Django - Part 2",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 25930
+        },
+        {
+          "title": "Building A Weather App With Django - Part 1",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 26748
+        },
+        {
+          "title": "Building A Weather App With Django - Part 2",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 27917
+        },
+        {
+          "title": "Building A Realtime Chat Application With Django - Part 1",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 28986
+        },
+        {
+          "title": "Building A Realtime Chat Application With Django - Part 2",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 31811
+        },
+        {
+          "title": "Django Rest Framework Crash Course",
+          "thumbnail": "https://i.ytimg.com/vi_webp/jBzwzrDvZ18/hqdefault.webp",
+          "time_start": 32879
+        }
+      ]
+    },
+    {
+      "position_on_page": 23,
+      "title": "Python API Development - Comprehensive Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=0sOvCWFmrtA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=0sOvCWFmrtA",
+      "video_id": "0sOvCWFmrtA",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 3258674,
+      "length": "19:00:27",
+      "description": "Learn Python API development in one of the most comprehensive courses ever on the topic. You will build a full-fledged API in ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/0sOvCWFmrtA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbDrDLwU8bUFdC5le_e0a7og_xiA",
+        "rich": "https://i.ytimg.com/an_webp/0sOvCWFmrtA/mqdefault_6s.webp?du=3000&sqp=CLC-hdgG&rs=AOn4CLCJtmp4LJ3zaUEceoQttUlonk6M8w"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Python+full+course+tutorial+for+Backend+Python+Developer&gl=in&hl=en",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Python%20full%20course%20tutorial%20for%20Backend%20Python%20Developer&sp=SBSCASJQTHN5ZW9ield4bDdvbURvRVlycmYzb1h2WHhhNk1QZ2VrggEiUExVaFk1TUUxVmRJdW1hU2EtbTVTUS16dFRMOE5XWThHaIIBIlBMc3llb2J6V3hsN3FGNEFTd0NaWkRYb3JfWTBZSjNRZmOCAQtLNUtWRVUzYWFlUYIBIlBMcnlZS3MwMm1wZElNUGZ4eE4yOVBqSUZrdFFNdWlIVW2CASJQTHN5ZW9ield4bDdwb0w5SlRWeW5kS2U2Mmllb04tTVozggELZnRLaUhDRFZ3ZkGCASJQTFdLamhKdHFWQWJuMjFnczVVbkxoQ1E4MmY5MjNXQ2dNggEiUExXS2poSnRxVkFibnFCeGNkalZHZ1QzdVZSMTBielRFQoIBC1czXzVUdXVyMG84ggEiUExUalJ2RG96cmRseGo1d2dINHFrdndTT2RITE9DeDEwZoIBIlBMLW9zaUU4MFRlVHQyZDliZlZ5VGlYSkEtVVRIbjZXd1WCAQtNZjlHQ25fTHNVSYIBIlBMb000dUFrZDRnNl9yWUhaeWZ2VlZRZjVFeVR0aC1MM0eCASJQTHUwV185bElJOWFnd2gxWGpSdDI0MnhJcEhoUFQybGxnggEiUExHanBsTkVRMWl0OC0wQ21vbGpTNXllVi1HbEtTVUV0MIIBC2pfbTBwcHpNMnFVggELakJ6d3pyRHZaMTiCASJQTHZlcEJ4Zml1YW8xaE8xdlBPc2tRMVg0ZGJqR1hGOWJtggELMHNPdkNXRm1ydEGyAQYKBAgZEAI%253D",
+    "next_page_token": "SBSCASJQTHN5ZW9ield4bDdvbURvRVlycmYzb1h2WHhhNk1QZ2VrggEiUExVaFk1TUUxVmRJdW1hU2EtbTVTUS16dFRMOE5XWThHaIIBIlBMc3llb2J6V3hsN3FGNEFTd0NaWkRYb3JfWTBZSjNRZmOCAQtLNUtWRVUzYWFlUYIBIlBMcnlZS3MwMm1wZElNUGZ4eE4yOVBqSUZrdFFNdWlIVW2CASJQTHN5ZW9ield4bDdwb0w5SlRWeW5kS2U2Mmllb04tTVozggELZnRLaUhDRFZ3ZkGCASJQTFdLamhKdHFWQWJuMjFnczVVbkxoQ1E4MmY5MjNXQ2dNggEiUExXS2poSnRxVkFibnFCeGNkalZHZ1QzdVZSMTBielRFQoIBC1czXzVUdXVyMG84ggEiUExUalJ2RG96cmRseGo1d2dINHFrdndTT2RITE9DeDEwZoIBIlBMLW9zaUU4MFRlVHQyZDliZlZ5VGlYSkEtVVRIbjZXd1WCAQtNZjlHQ25fTHNVSYIBIlBMb000dUFrZDRnNl9yWUhaeWZ2VlZRZjVFeVR0aC1MM0eCASJQTHUwV185bElJOWFnd2gxWGpSdDI0MnhJcEhoUFQybGxnggEiUExHanBsTkVRMWl0OC0wQ21vbGpTNXllVi1HbEtTVUV0MIIBC2pfbTBwcHpNMnFVggELakJ6d3pyRHZaMTiCASJQTHZlcEJ4Zml1YW8xaE8xdlBPc2tRMVg0ZGJqR1hGOWJtggELMHNPdkNXRm1ydEGyAQYKBAgZEAI%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Python+full+course+tutorial+for+Backend+Python+Developer",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Python+full+course+tutorial+for+Backend+Python+Developer&sp=SBSCASJQTHN5ZW9ield4bDdvbURvRVlycmYzb1h2WHhhNk1QZ2VrggEiUExVaFk1TUUxVmRJdW1hU2EtbTVTUS16dFRMOE5XWThHaIIBIlBMc3llb2J6V3hsN3FGNEFTd0NaWkRYb3JfWTBZSjNRZmOCAQtLNUtWRVUzYWFlUYIBIlBMcnlZS3MwMm1wZElNUGZ4eE4yOVBqSUZrdFFNdWlIVW2CASJQTHN5ZW9ield4bDdwb0w5SlRWeW5kS2U2Mmllb04tTVozggELZnRLaUhDRFZ3ZkGCASJQTFdLamhKdHFWQWJuMjFnczVVbkxoQ1E4MmY5MjNXQ2dNggEiUExXS2poSnRxVkFibnFCeGNkalZHZ1QzdVZSMTBielRFQoIBC1czXzVUdXVyMG84ggEiUExUalJ2RG96cmRseGo1d2dINHFrdndTT2RITE9DeDEwZoIBIlBMLW9zaUU4MFRlVHQyZDliZlZ5VGlYSkEtVVRIbjZXd1WCAQtNZjlHQ25fTHNVSYIBIlBMb000dUFrZDRnNl9yWUhaeWZ2VlZRZjVFeVR0aC1MM0eCASJQTHUwV185bElJOWFnd2gxWGpSdDI0MnhJcEhoUFQybGxnggEiUExHanBsTkVRMWl0OC0wQ21vbGpTNXllVi1HbEtTVUV0MIIBC2pfbTBwcHpNMnFVggELakJ6d3pyRHZaMTiCASJQTHZlcEJ4Zml1YW8xaE8xdlBPc2tRMVg0ZGJqR1hGOWJtggELMHNPdkNXRm1ydEGyAQYKBAgZEAI%253D",
+    "next_page_token": "SBSCASJQTHN5ZW9ield4bDdvbURvRVlycmYzb1h2WHhhNk1QZ2VrggEiUExVaFk1TUUxVmRJdW1hU2EtbTVTUS16dFRMOE5XWThHaIIBIlBMc3llb2J6V3hsN3FGNEFTd0NaWkRYb3JfWTBZSjNRZmOCAQtLNUtWRVUzYWFlUYIBIlBMcnlZS3MwMm1wZElNUGZ4eE4yOVBqSUZrdFFNdWlIVW2CASJQTHN5ZW9ield4bDdwb0w5SlRWeW5kS2U2Mmllb04tTVozggELZnRLaUhDRFZ3ZkGCASJQTFdLamhKdHFWQWJuMjFnczVVbkxoQ1E4MmY5MjNXQ2dNggEiUExXS2poSnRxVkFibnFCeGNkalZHZ1QzdVZSMTBielRFQoIBC1czXzVUdXVyMG84ggEiUExUalJ2RG96cmRseGo1d2dINHFrdndTT2RITE9DeDEwZoIBIlBMLW9zaUU4MFRlVHQyZDliZlZ5VGlYSkEtVVRIbjZXd1WCAQtNZjlHQ25fTHNVSYIBIlBMb000dUFrZDRnNl9yWUhaeWZ2VlZRZjVFeVR0aC1MM0eCASJQTHUwV185bElJOWFnd2gxWGpSdDI0MnhJcEhoUFQybGxnggEiUExHanBsTkVRMWl0OC0wQ21vbGpTNXllVi1HbEtTVUV0MIIBC2pfbTBwcHpNMnFVggELakJ6d3pyRHZaMTiCASJQTHZlcEJ4Zml1YW8xaE8xdlBPc2tRMVg0ZGJqR1hGOWJtggELMHNPdkNXRm1ydEGyAQYKBAgZEAI%3D"
+  }
+}

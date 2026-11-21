@@ -1,5 +1,7 @@
 /**
  * SkillBridge HTTP server (pure Node.js) serving static HTML/CSS/JS and JSON APIs.
+ * Hardened with typed errors (B8), rate limiting & budget guards (B7), HEAD & path.relative (S1),
+ * Extract API deep-read (#1), Company Pulse (#2), and Skill Trends (#4).
  */
 
 import fs from "node:fs";
@@ -7,6 +9,11 @@ import http from "node:http";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
+import {
+  canSpendSerpApiCredit,
+  checkAndRecordRateLimit,
+  getBudgetStats,
+} from "./lib/budget.js";
 import { getCacheStats } from "./lib/cache.js";
 import {
   compareLocalVsRemote,
@@ -15,17 +22,28 @@ import {
 } from "./lib/compare.js";
 import {
   attachLearningResources,
+  buildFourWeekPlan,
   buildMiniProjectIdea,
-  fetchCoursesForSkill,
+  fetchCoursesForSkillWithMeta,
 } from "./lib/courses.js";
 import { loadEnv } from "./lib/env.js";
-import { fetchLiveJobs, hasCachedJobsForQuery } from "./lib/jobs.js";
+import {
+  AppError,
+  BadRequestError,
+  PayloadTooLargeError,
+} from "./lib/errors.js";
+import { deepReadSparseJobs } from "./lib/extract.js";
+import { recordAndCompareSkillTrends } from "./lib/history.js";
+import { fetchLiveJobsWithMeta, hasCachedJobsForQuery } from "./lib/jobs.js";
+import { attachCompanyPulse } from "./lib/news.js";
 import { CITY_OPTIONS, runOfflineDemoAnalysis } from "./lib/offlineDemo.js";
 import { cleanResumeText, extractTextFromPdfBuffer } from "./lib/resumeParser.js";
 import {
   computeMarketDemand,
   enrichJobsWithSkills,
+  extractSkillEvidence,
   extractSkillsFromText,
+  getCanonicalSkillName,
   getCanonicalSkillsCount,
 } from "./lib/skills.js";
 import { analyzeSkillGaps } from "./public/js/gap.js";
@@ -33,6 +51,7 @@ import { analyzeSkillGaps } from "./public/js/gap.js";
 const ROOT_DIR = path.dirname(fileURLToPath(import.meta.url));
 const PUBLIC_DIR = path.join(ROOT_DIR, "public");
 const SAMPLE_RESUMES_PATH = path.join(ROOT_DIR, "data", "sample_resumes.json");
+const MAX_BODY_BYTES = 7 * 1024 * 1024; // Covers 5 MB PDF in base64 (~6.7 MB)
 
 const MIME_TYPES = {
   ".html": "text/html; charset=utf-8",
@@ -86,123 +105,237 @@ export function loadSamplePresets() {
           }));
       }
     } catch {
-      // Fall back to embedded presets if file is corrupted
+      // Fallback safely
     }
   }
   return FALLBACK_PRESETS;
 }
 
-async function readJsonBody(req, maxBytes = 10 * 1024 * 1024) {
+async function readJsonBody(req, maxBytes = MAX_BODY_BYTES) {
+  if (req.body !== undefined && req.body !== null) {
+    if (typeof req.body === "object" && !Buffer.isBuffer(req.body)) {
+      return req.body;
+    }
+    if (typeof req.body === "string") {
+      if (!req.body) return {};
+      try {
+        return JSON.parse(req.body);
+      } catch {
+        throw new BadRequestError("Malformed JSON request body.");
+      }
+    }
+  }
   const chunks = [];
   let total = 0;
   for await (const chunk of req) {
     total += chunk.length;
     if (total > maxBytes) {
-      throw new Error("Request payload exceeds maximum allowed size.");
+      throw new PayloadTooLargeError(
+        "Uploaded payload is too large (max 5 MB PDF). Paste your resume text instead."
+      );
     }
     chunks.push(chunk);
   }
   const raw = Buffer.concat(chunks).toString("utf8");
-  return raw ? JSON.parse(raw) : {};
+  if (!raw) return {};
+  try {
+    return JSON.parse(raw);
+  } catch {
+    throw new BadRequestError("Malformed JSON request body.");
+  }
 }
 
-function sendJson(res, statusCode, data) {
+function sendJson(res, statusCode, data, headOnly = false) {
   const body = JSON.stringify(data);
   res.writeHead(statusCode, {
     "Content-Type": "application/json; charset=utf-8",
     "Cache-Control": "no-store",
   });
-  res.end(body);
+  res.end(headOnly ? undefined : body);
 }
 
-function serveStaticFile(res, urlPath) {
+function serveStaticFile(res, urlPath, headOnly = false) {
   const cleanPath = urlPath === "/" ? "/index.html" : urlPath;
   const resolved = path.resolve(PUBLIC_DIR, `.${cleanPath}`);
+  const rel = path.relative(PUBLIC_DIR, resolved);
 
-  if (!resolved.startsWith(PUBLIC_DIR)) {
+  // S1: Safe path.relative check for traversal protection
+  if (rel.startsWith("..") || path.isAbsolute(rel)) {
     res.writeHead(403);
-    res.end("Forbidden");
+    res.end();
     return;
   }
 
   if (!fs.existsSync(resolved) || fs.statSync(resolved).isDirectory()) {
     res.writeHead(404);
-    res.end("Not Found");
+    res.end(headOnly ? undefined : "Not Found");
     return;
   }
 
   const ext = path.extname(resolved).toLowerCase();
   const contentType = MIME_TYPES[ext] || "application/octet-stream";
   res.writeHead(200, { "Content-Type": contentType });
-  fs.createReadStream(resolved).pipe(res);
+  if (headOnly) {
+    res.end();
+    return;
+  }
+
+  const stream = fs.createReadStream(resolved);
+  stream.on("error", (err) => {
+    console.error("[static] Stream error:", err);
+    if (!res.headersSent) {
+      res.writeHead(500);
+    }
+    res.end();
+  });
+  stream.pipe(res);
 }
 
-async function runLivePipeline({ resumeText, role, location, useCache = true }) {
+function getClientIp(req) {
+  const fwd = req.headers["x-forwarded-for"];
+  if (typeof fwd === "string" && fwd.trim()) {
+    return fwd.split(",")[0].trim();
+  }
+  return req.socket?.remoteAddress || "127.0.0.1";
+}
+
+function resolveAllowedUseCache(bodyUseCache) {
+  // B7: Ignore client useCache=false unless ADMIN_MODE is explicitly enabled
+  const adminMode = ["true", "1", "yes"].includes(
+    String(process.env.ADMIN_MODE || "").trim().toLowerCase()
+  );
+  if (adminMode && bodyUseCache === false) {
+    return false;
+  }
+  return true;
+}
+
+async function runLivePipeline({
+  resumeText,
+  role,
+  location,
+  limit = 10,
+  useCache = true,
+  includeNews = false,
+}) {
   const userSkills = await extractSkillsFromText(resumeText);
-  const jobs = await fetchLiveJobs({ role, location, limit: 10, useCache });
-  const enrichedJobs = await enrichJobsWithSkills(jobs);
-  const demandList = computeMarketDemand(enrichedJobs);
+  const resumeEvidence = extractSkillEvidence(resumeText);
+
+  const { jobs: rawJobs, data_source, budgetExhausted } =
+    await fetchLiveJobsWithMeta({
+      role,
+      location,
+      limit,
+      useCache,
+    });
+
+  let enrichedJobs = await enrichJobsWithSkills(rawJobs);
+
+  // Feature #1: Deep-read sparse job listings (< 3 skills) via SerpApi Extract API
+  const { jobs: deepReadJobs, deepReadCount } = await deepReadSparseJobs(
+    enrichedJobs
+  );
+  enrichedJobs = deepReadJobs;
+
+  const rawDemandList = computeMarketDemand(enrichedJobs, { minSkills: 3 });
+  const demandWithTrends = recordAndCompareSkillTrends({
+    role,
+    location,
+    demandList: rawDemandList,
+  });
 
   const baseline = analyzeSkillGaps({
     role,
     location,
     userSkills,
     jobs: enrichedJobs,
-    demandList,
+    demandList: demandWithTrends,
   });
 
-  const enrichedTopGaps = await attachLearningResources(baseline.missing_gaps, role, 4);
+  const enrichedTopGaps = await attachLearningResources(
+    baseline.missing_gaps,
+    role,
+    4
+  );
   const coursesBySkill = {};
   for (const gap of enrichedTopGaps) {
     coursesBySkill[gap.skill] = gap;
   }
 
+  const companyPulse = includeNews
+    ? await attachCompanyPulse(enrichedJobs, { maxCompanies: 4 })
+    : {};
+
   const atsBullets = await generateAtsBullets({
     resumeText,
     role,
     matchedSkills: baseline.matched_skills,
+    userSkills,
     missingGaps: baseline.missing_gaps,
   });
+
+  let notice = "";
+  if (budgetExhausted) {
+    notice =
+      "Daily live search budget reached — serving cached market data to protect credits.";
+  }
 
   return {
     role,
     location,
     resumeText,
+    data_source,
     analysisMode: "live_or_cached",
-    offlineDemoNotice: "",
+    offlineDemoNotice: notice,
     userSkills,
+    resumeEvidence,
     jobs: enrichedJobs,
-    demandList,
+    demandList: baseline.demand_list,
     baseline,
     coursesBySkill,
+    fourWeekPlan: buildFourWeekPlan(enrichedTopGaps, role),
+    deepReadCount,
+    companyPulse,
     atsBullets,
     cacheStats: getCacheStats(),
+    budgetStats: getBudgetStats(),
   };
 }
 
-export function createAppServer() {
+export async function handleAppRequest(req, res) {
   loadEnv();
+  const reqUrl = new URL(req.url || "/", "http://localhost");
+  const pathname = reqUrl.pathname;
+  const isHead = req.method === "HEAD";
 
-  return http.createServer(async (req, res) => {
-    const reqUrl = new URL(req.url || "/", "http://localhost");
-    const pathname = reqUrl.pathname;
-
-    try {
-      if (req.method === "GET" && pathname === "/api/health") {
-        return sendJson(res, 200, {
-          ok: true,
-          runtime: "nodejs",
-          canonicalSkills: getCanonicalSkillsCount(),
-          cache: getCacheStats(),
-        });
+  try {
+      if ((req.method === "GET" || isHead) && pathname === "/api/health") {
+        return sendJson(
+          res,
+          200,
+          {
+            ok: true,
+            runtime: "nodejs",
+            canonicalSkills: getCanonicalSkillsCount(),
+            cache: getCacheStats(),
+            budget: getBudgetStats(),
+          },
+          isHead
+        );
       }
 
-      if (req.method === "GET" && pathname === "/api/presets") {
-        return sendJson(res, 200, {
-          presets: loadSamplePresets(),
-          cities: CITY_OPTIONS,
-          cache: getCacheStats(),
-        });
+      if ((req.method === "GET" || isHead) && pathname === "/api/presets") {
+        return sendJson(
+          res,
+          200,
+          {
+            presets: loadSamplePresets(),
+            cities: CITY_OPTIONS,
+            cache: getCacheStats(),
+            budget: getBudgetStats(),
+          },
+          isHead
+        );
       }
 
       if (req.method === "POST" && pathname === "/api/analyze") {
@@ -210,15 +343,25 @@ export function createAppServer() {
         const role = String(body.role || "").trim();
         const location = String(body.location || CITY_OPTIONS[0]).trim();
         const mode = String(body.mode || "live");
-        const useCache = body.useCache !== false;
+        const limit = [10, 20, 30].includes(Number(body.limit))
+          ? Number(body.limit)
+          : 10;
+        const useCache = resolveAllowedUseCache(body.useCache);
+
+        if (mode !== "offline") {
+          checkAndRecordRateLimit(getClientIp(req));
+        }
 
         if (!role) {
-          return sendJson(res, 400, { error: "Please enter a Target Role." });
+          throw new BadRequestError("Please enter a Target Role.");
         }
 
         let resumeText = "";
         if (body.pdfBase64) {
-          const base64Str = String(body.pdfBase64).replace(/^data:[^;]+;base64,/, "");
+          const base64Str = String(body.pdfBase64).replace(
+            /^data:[^;]+;base64,/,
+            ""
+          );
           const pdfBuffer = Buffer.from(base64Str, "base64");
           resumeText = await extractTextFromPdfBuffer(pdfBuffer);
         } else {
@@ -226,17 +369,22 @@ export function createAppServer() {
         }
 
         if (resumeText.length < 20) {
-          return sendJson(res, 400, {
-            error: "Please choose a sample preset, paste at least 20 characters, or upload a readable PDF.",
-          });
+          throw new BadRequestError(
+            "Please choose a sample preset, paste at least 20 characters, or upload a readable PDF."
+          );
         }
 
         if (mode === "offline") {
-          const offlineResult = runOfflineDemoAnalysis({ resumeText, role, location });
+          const offlineResult = runOfflineDemoAnalysis({
+            resumeText,
+            role,
+            location,
+          });
           const atsBullets = await generateAtsBullets({
             resumeText,
             role,
             matchedSkills: offlineResult.baseline.matched_skills,
+            userSkills: offlineResult.userSkills,
             missingGaps: offlineResult.baseline.missing_gaps,
           });
           return sendJson(res, 200, {
@@ -244,54 +392,122 @@ export function createAppServer() {
             resumeText,
             atsBullets,
             cacheStats: getCacheStats(),
+            budgetStats: getBudgetStats(),
           });
         }
 
-        if (mode === "quick") {
-          const hasLiveOrCache =
-            Boolean((process.env.SERPAPI_KEY || "").trim()) ||
-            hasCachedJobsForQuery(role, location);
-          if (hasLiveOrCache) {
-            const result = await runLivePipeline({
+        const hasKeyAndBudget =
+          Boolean((process.env.SERPAPI_KEY || "").trim()) &&
+          canSpendSerpApiCredit();
+        const hasCache = hasCachedJobsForQuery(role, location, limit);
+
+        // B8: Fall back gracefully to offline demo with a clear banner when live search is unavailable
+        if (!hasCache && !hasKeyAndBudget) {
+          const offlineResult = runOfflineDemoAnalysis({
+            resumeText,
+            role,
+            location,
+          });
+          const atsBullets = await generateAtsBullets({
+            resumeText,
+            role,
+            matchedSkills: offlineResult.baseline.matched_skills,
+            userSkills: offlineResult.userSkills,
+            missingGaps: offlineResult.baseline.missing_gaps,
+          });
+          return sendJson(res, 200, {
+            ...offlineResult,
+            resumeText,
+            offlineDemoNotice: `Live search unavailable for "${role}" right now. Showing labeled Demo dataset.`,
+            atsBullets,
+            cacheStats: getCacheStats(),
+            budgetStats: getBudgetStats(),
+          });
+        }
+
+        try {
+          const result = await runLivePipeline({
+            resumeText,
+            role,
+            location,
+            limit,
+            useCache,
+            includeNews: Boolean(body.includeNews),
+          });
+          return sendJson(res, 200, result);
+        } catch (err) {
+          console.error("[server] Live pipeline fallback to demo:", err);
+          if (mode === "quick") {
+            const offlineResult = runOfflineDemoAnalysis({
               resumeText,
               role,
               location,
-              useCache: true,
             });
-            return sendJson(res, 200, result);
+            const atsBullets = await generateAtsBullets({
+              resumeText,
+              role,
+              matchedSkills: offlineResult.baseline.matched_skills,
+              userSkills: offlineResult.userSkills,
+              missingGaps: offlineResult.baseline.missing_gaps,
+            });
+            return sendJson(res, 200, {
+              ...offlineResult,
+              resumeText,
+              atsBullets,
+              cacheStats: getCacheStats(),
+              budgetStats: getBudgetStats(),
+            });
           }
-          const offlineResult = runOfflineDemoAnalysis({ resumeText, role, location });
-          const atsBullets = await generateAtsBullets({
-            resumeText,
-            role,
-            matchedSkills: offlineResult.baseline.matched_skills,
-            missingGaps: offlineResult.baseline.missing_gaps,
-          });
-          return sendJson(res, 200, {
-            ...offlineResult,
-            resumeText,
-            atsBullets,
-            cacheStats: getCacheStats(),
-          });
+          throw err;
         }
-
-        const result = await runLivePipeline({ resumeText, role, location, useCache });
-        return sendJson(res, 200, result);
       }
 
       if (req.method === "POST" && pathname === "/api/courses") {
+        checkAndRecordRateLimit(getClientIp(req));
         const body = await readJsonBody(req);
-        const skill = String(body.skill || "").trim();
-        const role = String(body.role || "Software Developer").trim();
-        if (!skill) {
-          return sendJson(res, 400, { error: "Skill name is required." });
+        const rawSkill = String(body.skill || "").trim();
+        const canonicalSkill = getCanonicalSkillName(rawSkill);
+
+        // B7: Reject non-canonical arbitrary strings with 400
+        if (!canonicalSkill) {
+          throw new BadRequestError(
+            "Invalid or unknown skill name. Choose a skill from the canonical catalog."
+          );
         }
-        const courses = await fetchCoursesForSkill(skill, role, 2);
+
+        const role = String(body.role || "Software Developer").trim();
+        const { courses, reason, data_source } = await fetchCoursesForSkillWithMeta(
+          canonicalSkill,
+          role,
+          2
+        );
+
         return sendJson(res, 200, {
-          skill,
+          skill: canonicalSkill,
           courses,
-          mini_project_idea: buildMiniProjectIdea(skill, role),
+          reason,
+          data_source,
+          mini_project_idea: buildMiniProjectIdea(canonicalSkill, role),
           cacheStats: getCacheStats(),
+          budgetStats: getBudgetStats(),
+        });
+      }
+
+      if (req.method === "POST" && pathname === "/api/news") {
+        checkAndRecordRateLimit(getClientIp(req));
+        const body = await readJsonBody(req);
+        const companies = Array.isArray(body.companies) ? body.companies : [];
+        if (companies.length === 0) {
+          throw new BadRequestError("Provide at least one company name.");
+        }
+        const fakeJobs = companies
+          .slice(0, 4)
+          .map((company) => ({ company: String(company || "").trim() }));
+        const pulse = await attachCompanyPulse(fakeJobs, { maxCompanies: 4 });
+        return sendJson(res, 200, {
+          companyPulse: pulse,
+          cacheStats: getCacheStats(),
+          budgetStats: getBudgetStats(),
         });
       }
 
@@ -302,40 +518,70 @@ export function createAppServer() {
         const location = String(body.location || CITY_OPTIONS[0]).trim();
         const mode = String(body.mode || "quick");
 
+        if (mode !== "offline") {
+          checkAndRecordRateLimit(getClientIp(req));
+        }
+
         if (resumeText.length < 20) {
-          return sendJson(res, 400, { error: "Resume text is required for Career Toolkit." });
+          throw new BadRequestError("Resume text is required for Career Toolkit.");
         }
 
         const [multiRole, localVsRemote] = await Promise.all([
-          compareMultiRoleFit({ resumeText, location, mode }),
-          compareLocalVsRemote({ resumeText, role, localCity: location, mode }),
+          compareMultiRoleFit({
+            resumeText,
+            targetRole: role,
+            location,
+            mode,
+          }),
+          compareLocalVsRemote({
+            resumeText,
+            role,
+            localCity: location,
+            mode,
+          }),
         ]);
 
         return sendJson(res, 200, {
           multiRole,
           localVsRemote,
           cacheStats: getCacheStats(),
+          budgetStats: getBudgetStats(),
         });
       }
 
-      if (req.method === "GET") {
-        return serveStaticFile(res, pathname);
+      if (req.method === "GET" || isHead) {
+        return serveStaticFile(res, pathname, isHead);
       }
 
       res.writeHead(405);
       res.end("Method Not Allowed");
     } catch (err) {
-      const message = err instanceof Error ? err.message : "Unexpected server error";
-      const status = /missing|invalid|empty|unreadable|serpapi|target role|required/i.test(message)
-        ? 400
-        : 500;
-      sendJson(res, status, { error: message });
+      if (err instanceof AppError) {
+        return sendJson(res, err.status, {
+          error: err.message,
+          code: err.code,
+          ...(err.details || {}),
+        });
+      }
+      console.error("[server] Unexpected error:", err);
+      return sendJson(res, 500, {
+        error: "An unexpected server error occurred. Please try again.",
+        code: "INTERNAL_ERROR",
+      });
     }
-  });
 }
 
+export function createAppServer() {
+  loadEnv();
+  return http.createServer(handleAppRequest);
+}
+
+export default handleAppRequest;
+
 const isMainModule =
-  process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url);
+  !process.env.VERCEL &&
+  process.argv[1] &&
+  path.resolve(process.argv[1]) === fileURLToPath(import.meta.url);
 
 if (isMainModule) {
   const port = Number(process.env.PORT || 3000);

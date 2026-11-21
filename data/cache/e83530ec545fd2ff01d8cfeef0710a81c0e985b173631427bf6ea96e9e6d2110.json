@@ -1,0 +1,12 @@
+{
+  "label": "Templates: edit with your real facts",
+  "verifiedBullets": [
+    "Developed responsive user interfaces for [project name] using React, JavaScript, HTML, and CSS, improving cross-browser compatibility and user engagement for [N users].",
+    "Optimized legacy stylesheets and component rendering in React, reducing load times by [X%] across [N pages] using modern CSS and JavaScript techniques."
+  ],
+  "afterYouLearnBullets": [
+    "Integrated secure REST APIs into [project name] using TypeScript to enforce strict typing, reducing runtime errors by [X%].",
+    "Built robust frontend features consuming asynchronous REST APIs with TypeScript, improving data retrieval efficiency for [N users]."
+  ],
+  "guidance": null
+}

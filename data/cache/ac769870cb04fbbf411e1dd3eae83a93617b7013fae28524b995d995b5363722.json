@@ -1,0 +1,1384 @@
+{
+  "search_metadata": {
+    "id": "6b01725bde5efce7f5f91b4c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/I_eP6G7erduX3AyQsyPna2iqeby9bQXZjR5_l5Xqtbc/6b01725bde5efce7f5f91b4c.json",
+    "markdown_endpoint": "https://serpapi.com/searches/I_eP6G7erduX3AyQsyPna2iqeby9bQXZjR5_l5Xqtbc/6b01725bde5efce7f5f91b4c.md",
+    "created_at": "2026-11-21 10:28:43 UTC",
+    "processed_at": "2026-11-21 10:28:43 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Tableau+full+course+tutorial+for+Data+Analyst&gl=in&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/I_eP6G7erduX3AyQsyPna2iqeby9bQXZjR5_l5Xqtbc/6b01725bde5efce7f5f91b4c.html",
+    "total_time_taken": 7.28
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Tableau full course tutorial for Data Analyst",
+    "gl": "in",
+    "hl": "en"
+  },
+  "search_information": {
+    "total_results": 4027749,
+    "video_results_state": "Results for exact spelling"
+  },
+  "ads_results": [
+    {
+      "position_on_page": 1,
+      "title": "monday sidekick: AI built for PMOs and project leaders",
+      "link": "https://www.youtube.com/watch?v=H4cGDLMhU0w",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=H4cGDLMhU0w",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CDo9_YXIBa4CPAeH-kNAPgPD7iAnO5ZuwigHl86DLlBWwkB8QASAAYMnGw4vEpOQQggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAZuBib0DqAMEyAMKqgS-Ak_QlC5jSbBccyj6DqYuc7-EfuNrsWQeoIKGM0z_jpcW4kI2uVwylk_exRzuA90eOUE8hBV_YDAh7-kdu2NopFBf307Ex6U9wOjIh2RSSgMvTeAnMENj2An62Qqo8_SWCPQvb-e_4xslZr2z-lVjBUIK1s6pH73CKLjSVuaQpq8wRAAqep4SJc43yKQUyPBHCgZqvqTqJVIV5DQtgDmx0BqELzrd_nJqApUAdjWa2RRoh4siPzBtRGlnxrCjQVYDZPdV8DQDTGqPngUsI6lHEnKQdOHEFKnwQdAXETtISiWYv4k_1ciHeGyM7UNK_jwaE8vuXqZtYs_VgFI5lde_MUW0bE--fnWCkL0OZf74k9KEPuvx5CAZ0sIXoSHjWj61WGURNZqFvQQxTieEYS3PGs4WCXdeF0-jhRdsI7PpO4gFran83FOSBQcIE3jPwp5yoAahAYAHiMqAcpAHBKgHpc-xAqgH552xAqgH6J2xAqgHg_axAqgH-dOxAqgHydqxAqgHqeCxAqgHqNIbqAex3BuoB7CbsQKoB_2ysQKoB8jPsQKoB8nPsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB57qsQKoB5_qsQKoB_jrsQKoB7zqsQKoB-_xsQKoB_yvsQKoB9XOG6gHvtmxAqgHv9mxAqgHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECqAfCyLECkggLSDRjR0RMTWhVMHeoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAYSNmg0jVQFFj4y6Kc7ZiYA2ABmgkiaHR0cHM6Ly9tb25kYXkuY29tL2dwL2FpLXdvcmtzcGFjZbEJgRtRXcXizfDICRfICY8ByAnCAboLOggDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AIC2AEBgAIBiAIGugMFdmljYmbQCxLgCwGiDC9iEwoRY29tLm1vbmRheS5tb25kYXlqEwoRY29tLm1vbmRheS5tb25kYXl4AIgBANIMAhAB2gwlCgoQgOaqlLjOjJZ2EgIBAxoNGK2p_NxTIID28u2tBUABSgIQH5oNARKqDQJVU8gNAdIN7QRodHRwczovL2FkLmRvdWJsZWNsaWNrLm5ldC9kZG0vdHJhY2tjbGsvTjcyODkwOS4xMjc3MzNHT09HTEUtWU9VVFVCRS9CMzQ4MDA5MjguNDM4NDA2MTMzO2RjX3Rya19haWQ9NjMwMjczMzU2O2RjX3Rya19jaWQ9MjQ3NDQ1MzE4O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2dkcHI9JHtHRFBSfTtnZHByX2NvbnNlbnQ9JHtHRFBSX0NPTlNFTlRfNzU1fTtsdGQ9O2RjX3Rkdj0xO2RjX3RyYW5zcGFyZW50PTE7O2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNCYjVCNE5nNG5SM0M5d2dRamRjcm9QbEFIckJUa3BPWC0tdkc4ZXFvbUxZcmMyejRUenIyU1BwZFZPV3lzOC1aQnFGU0xPeGkwZXdtTHNlZztkY19wdWJpZD02P2h0dHBzOi8vbW9uZGF5LmNvbS9ncC9haS13b3Jrc3BhY2U_dXRtX21lZGl1bT1jcGMmdXRtX3NvdXJjZT1hZHdvcmRzeW91dHViZSZ1dG1fY2FtcGFpZ249dXMtZW4tcHJtLXdvcmtfbWdtdC1kZXNrdG9wLXRvcGljcy1kZyZ1dG1fYWRncm91cD1CdXNpbmVzc1Byb2R1Y3Rpdml0eVNvZnR3YXJlX1QtTXVsdGlBZHMmdXRtX2Jhbm5lcj1TSF9QTU9fTG9uZyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjI0NzUxMTc3NDG4E____________wGIFASwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXRu7180mbbeW6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMIwMOjnO2YmAMVYT8EBB0A-B6REAEYASAAEgL3bfD_BwE&num=1&cid=CAASwgHkaDKB3nXRwWpmhGVl3_MMR96c6QJONJLCETW8uHCgWK7m51nsXc69P4GDaFS732Z6JkTl2k8LrYBlNGMIKqdaKR6ILBHpmuVnIlqneP3Sk2ZfOcUMTYoWHsChYDnRRk3MqRrZjdx08sanv7WGBz1dUoHO81VdQNOcHMU7Af1PGKjSs4lCOtP_-ZvL6_DEAGCr3bOQ5oyZamQo2kfH2fKETvXGMjhrKSaja6LLTU5PmBfHuh771Bj9mmEvyqaaaKnT2A&ad_cpn=%5BCPN%5D&sig=AOD64_3nqlcFWoDmcqgrkN08xtWg74GsNA&ctype=110&video_id=H4cGDLMhU0w&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "monday.com",
+        "thumbnail": "https://yt3.ggpht.com/proxy/MitpYASoXb5zpT1UtIe5jk8OZOKujt0QgDyMDMZ7nJvaQi00r9BDw3mnZ6hmS-6KWtWo_uI_Rh_FELpCmhmja3ikSSpTTwiAvT5CVdC_it5YvVolWjMdu4hTzWK9HIzSeJ7oXYPW4l8P3g5GfYC1fFt2QRHmtKYn2_9Y2h7N5yMCMcu0hSu0ngKfW9QBiJtvkpgA55LCq0Bxr1e3BffN3Bp_MDumxWsJYPnVpT5-CYS3i0hLVAI0hDV5AVoizwwTmaCjy2M=w68-h68-nd"
+      },
+      "description": "Projects run faster with monday sidekick, THE AI for PMOs. Try it now",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/H4cGDLMhU0w/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzitkAgQTHLtXCrbzmE76QCW-8fQ"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Get the creative control you always dreamed of with Mighty",
+      "link": "https://www.youtube.com/watch?v=rqNqtSvlIps",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=rqNqtSvlIps",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CvgBEYXIBa4CPAeH-kNAPgPD7iAm5lZiLf_Dr-aS0FLCQHxACIABgycbDi8Sk5BCCARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABkKXr0QKoAwTIAwqqBNACT9CULmNJsFxzKPoOpi5zv4R-42uxZB6ggoYzTP-OlxbiQja5XDKWT97FHO4D3R45QTyEFX9gMCHv6R27Y2ikUF_fTsTHpT3A6MiHZFJKAy9N4CcwQ2PYCfrZCqjz9JYI9C9v57_jGyVmvbP6VWMFQgrWzqkfvcIouNJW5pCmrzBEACp6nhIlzjfIpBTI8EcKBmq-pOolUhXkNC2AObHQGoQvOt3-cmoClQB2NZrZFGiHiyI_MG1EaWfGsKNBVgNk91XwNANMao-eBSwjqUcScpB04cQUqfBB0BcRO0hKJZi_iT_VyId4bIztQ0r-PBoTy-5epm1iz9WAHj6V174xRYJBDe5ldYLR4CS5Mj2bYTF9cyHuopAGbGu8mOHF94knj8y-NrG3vq33LDT84Eo6QT6l0G01RrsagEFeU3MhMU_v4bior-PGb11kXjO5wCYIiAXO9aj3U5IFCAgTeI6ftK4BoAahAYAH2NqUrgGQBwSoB6XPsQKoB-edsQKoB-idsQKoB4P2sQKoB_nTsQKoB8nasQKoB6ngsQKoB6jSG6gHsdwbqAewm7ECqAf9srECqAfIz7ECqAfJz7ECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAee6rECqAef6rECqAf467ECqAe86rECqAfv8bECqAf8r7ECqAfVzhuoB77ZsQKoB7_ZsQKoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC3JxTnF0U3ZsSXBzqAgB0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAGEjZoNI1UBRY-MuinO2YmANgAZoJHWh0dHBzOi8vZGVzaWdud2l0aG1pZ2h0eS5jb20vsQmK74GG4kmYyMgJF8gJjwHICcIBmAsBugs6CAMQBRgEIAcoATAcQAFIAFh9YABoAHABiAEAmAEBogEICgCoAgHYAgLYAQGAAgGIAga6AwV2aWNiZtALEtIMAhAB2gwlCgoQ8K7Hg7ur8ao9EgIBAxoNGM71qPdTIJWBwoaQBUABSgIQH5oNARKqDQJVU8gNAdIN0gJodHRwczovL2Rlc2lnbndpdGhtaWdodHkuY29tLz91dG1fdGVybT0mdXRtX2NhbXBhaWduPURlbWFuZCtHZW4rLStZb3VUdWJlLCtEaXNjb3ZlciwrR21haWwrKFIpKy0rVFBBKzg1JnV0bV9zb3VyY2U9YWR3b3JkcyZ1dG1fbWVkaXVtPXBwYyZoc2FfYWNjPTQ4MzE1NDE4NzImaHNhX2NhbT0yMjUzMDM3NDM1MCZoc2FfZ3JwPTE3NjEwNzMyMzU0MSZoc2FfYWQ9NzUxMDA3MTI4NzI3JmhzYV9zcmM9eXRpZiZoc2FfdGd0PWF1ZC0yMzEwOTMxMzExMDczJmhzYV9rdz0maHNhX210PSZoc2FfbmV0PWFkd29yZHMmaHNhX3Zlcj0zJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMjUzMDM3NDM1MLgT____________AYgUArAUA8AVgYCAQNAVAdgVAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRdGgDjbrzQZ5boXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMIwMOjnO2YmAMVYT8EBB0A-B6REAEYAiAAEgKNjfD_BwE&num=2&cid=CAASwgHkaDKB3nXRwWpmhGVl3_MMR96c6QJONJLCETW8uHCgWK7m51nsXc69P4GDaFS732Z6JkTl2k8LrYBlNGMIKqdaKR6ILBHpmuVnIlqneP3Sk2ZfOcUMTYoWHsChYDnRRk3MqRrZjdx08sanv7WGBz1dUoHO81VdQNOcHMU7Af1PGKjSs4lCOtP_-ZvL6_DEAGCr3bOQ5oyZamQo2kfH2fKETvXGMjhrKSaja6LLTU5PmBfHuh771Bj9mmEvyqaaaKnT2A&ad_cpn=%5BCPN%5D&sig=AOD64_0Ngl1iZ3SYyRicEasE-GIA9HLPnw&ctype=110&video_id=rqNqtSvlIps&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Maestro",
+        "thumbnail": "https://yt3.ggpht.com/proxy/hAs-aMdfAHpDDBcjrHM7dqvUiJ1Cl46wC0LFKaR3yBTTpcrSxz6TQhnayfeWkFkqgWbyCjtJ7VYIkEjQSTkALzgrV4E__v8wRNeNCg4zvoYTOAp5ufHHirhUe-wTlx62js0v02D2BtB5zSZqV4OYWMXNvGmih_sLlC3720Zxil6rlcG4XQLCRDc8jNiF4p6euIIsBD--ia2XRn9gZcc8QZQzG4Whe7Gd_d6orIwfiJ6ltGGJ2naAKivtO-e0wsv9dmfN=w68-h68-nd"
+      },
+      "description": "Join The Community Of 360 Users Building With Mighty",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/rqNqtSvlIps/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVd093pRMk1bMyw0jCcIZ4bSBQhA"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Devour knowledge with Student Spaces",
+      "link": "https://www.youtube.com/watch?v=K7yaPpBJidc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=K7yaPpBJidc",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=C_iagYXIBa4CPAeH-kNAPgPD7iAmXouaPiwHq5L278RWwkB8QBCAAYMnGw4vEpOQQggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAbH6_-oCqAMEyAMKqgTrAk_QlC5jSbBccyj6DqYuc7-EfuNrsWQeoIKGM0z_jpcW4kI2uVwylk_exRzuA90eOUE8hBV_YDAh7-kdu2NopFBf307Ex6U9wOjIh2RSSgMvTeAnMENj2An62Qqo8_SWCPQvb-e_4xslZr2z-lVjBUIK1s6pH73CKLjSVuaQpq8wRAAqep4SJc43yKQUyPBHCgZqvqTqJVIV5DQtgDmx0BqELzrd_nJqApUAdjWa2RRoh4siPzBtRGlnxrCjQVYDZPdV8DQDTGqPngUsI6lHEnKQdOHEFKnwQdAXETtISiWYv4k_1ciHeGyM7UNK_jwaE8vuXqZ1YlhYQow8ndccKdOK5V1_c9eOV5GVBzDYc4_kftP_HG2PmrZAo46XTMKi4HWZk4XDMaUbmiw_6qcyGGljdy6DBE9lJZVb2HTlteykxFssRybb7XebxNxbTBL7JA64miBgauOjVO2yjjM8UfHsMZYffc3OEIWINYgF5tDvrViSBQgIE3j6zZ-VAaAGoQGAB7eFgJUBkAcEqAelz7ECqAfnnbECqAfonbECqAeD9rECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHnuqxAqgHn-qxAqgH-OuxAqgHvOqxAqgH7_GxAqgH_K-xAqgH1c4bqAe-2bECqAe_2bECqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKSCAtLN3lhUHBCSmlkY6gIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBhI2aDSNVAUWPjLopztmJgDYAGaCSxodHRwczovL2Fjcm9iYXQuYWRvYmUuY29tL3N0dWRlbnRzcGFjZXMvaG9tZbEJMfJX6TKGHNvICRfICY8ByAnCAboLOggDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AIC2AEDgAIBiAISugMFdmljYmbQCxPgCwGiDB9iGAoWY29tLmFkb2JlLmVjaG9zaWduLmlvc3gAiAEA0gwCEAHaDCYKCxDwifPtu5mpn7YBEgIBAxoNGObQ761YIPft6-XTBUABSgIQH5oNAROqDQJVU8gNAdIN6QRodHRwczovL2FkLmRvdWJsZWNsaWNrLm5ldC9kZG0vdHJhY2tjbGsvTjk3Mjk1Mi4yNzkzODJCSURNQU5BR0VSX0RGQVNJVEUvQjIyMzQ0NDEzLjI0MTUzOTMyMTtkY190cmtfYWlkPTQzODEyODYyMjtkY190cmtfY2lkPTExMjg4NDYxMztkY19kYm1fdG9rZW49QU9qZUxORUFBQUE2Q2pNS0RBZ0FGUUFBQUFBZEFBQUFBQklNQ0FBVkFBQUFBQjBBQUFBQUloTUk1dER2clZpb0FzTzQ5QUd3QXN5VzR1a0RRRHNRbC1lNkFhcFNvM0xqNjlIcW1SU0dEN05sSnRjPTtkY19sYXQ9O2RjX3JkaWQ9O3RhZ19mb3JfY2hpbGRfZGlyZWN0ZWRfdHJlYXRtZW50PTt0ZnVhPTtsdGQ9O2RjX3Rkdj0xO2RjX3RyYW5zcGFyZW50PTE7ZGNfcnVpPTE7ZGNfZXBzPUFIYXM4Y0FaQmcxQmNsa2dlV1pweGNlYWlHd1ZfYWVPN2RaVy01a0h6YzN4WEF1bnA5NmdwRHhfRUF2VlQ0NGhZRUdVWC0yVW0zXzVtUFRidXRHTmNnO2RjX3B1YmlkPTY_aHR0cHM6Ly9hY3JvYmF0LmFkb2JlLmNvbS9zdHVkZW50c3BhY2VzL2hvbWU_c2RpZD1XQjk5Sjg1VyZtdj1zb2NpYWwmbXYyPXBhaWRzb2MmeF9hcGlfY2xpZW50X2lkPXBhaWRtZWRpYSZ4X2FwaV9jbGllbnRfbG9jYXRpb249YWRzX1dCOTlKODVXJmdhZF9zb3VyY2U9MrAT4-6oJLgT____________AYgUCLAUA8AVgYCAQNAVAdgVAZgWAagWAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXV7_CAho-GPC6FwYoADAAOAHQGAHwGAE&ase=2&gclid=EAIaIQobChMIwMOjnO2YmAMVYT8EBB0A-B6REAEYBCAAEgI6ZvD_BwE&num=4&cid=CAASwgHkaDKB3nXRwWpmhGVl3_MMR96c6QJONJLCETW8uHCgWK7m51nsXc69P4GDaFS732Z6JkTl2k8LrYBlNGMIKqdaKR6ILBHpmuVnIlqneP3Sk2ZfOcUMTYoWHsChYDnRRk3MqRrZjdx08sanv7WGBz1dUoHO81VdQNOcHMU7Af1PGKjSs4lCOtP_-ZvL6_DEAGCr3bOQ5oyZamQo2kfH2fKETvXGMjhrKSaja6LLTU5PmBfHuh771Bj9mmEvyqaaaKnT2A&ad_cpn=%5BCPN%5D&sig=AOD64_14WJZRtrzb7woNNYxi2z-VWXJ6Xg&ctype=110&video_id=K7yaPpBJidc&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Adobe",
+        "thumbnail": "https://yt3.ggpht.com/proxy/MOuz2I13I1fAnFfngtXtL_W4we9dtMgr0pZOHx9ZvXrWe0TzDLTj2mq2_seyh8bAOYiFhihUkC0bcCbQ2Rr3ROUyAm-g7fKx7ikqVy2aYwv8ap82JEQltB0uNj5JlrrMcTbQ-wFlNo0DfytWwYBrrCyx4-VnwgCwx-dn0fy6KEEwJzLjssuJHIvXA-MdWMvBvChh3bzxW7-sQCuvX2mDwrBOQUGt_eZzMbPzNL_oO6Ke1vjjr2458wPYmALVc80eUKLvvs8=w68-h68-nd"
+      },
+      "description": "Student Spaces is a smarter way to study. Free for students.",
+      "thumbnail": {
+        "static": "https://tpc.googlesyndication.com/simgad/14131924831757681683"
+      }
+    }
+  ],
+  "video_results": [
+    {
+      "position_on_page": 2,
+      "title": "Learn Tableau in Under 2 hours | Dashboards, Relationships, Visualizations + Mini Project",
+      "link": "https://www.youtube.com/watch?v=j8FSP8XuFyk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=j8FSP8XuFyk",
+      "video_id": "j8FSP8XuFyk",
+      "channel": {
+        "name": "Alex The Analyst",
+        "channel_id": "UC7cs8q-gJRlGwj4A8OmCmXg",
+        "link": "https://www.youtube.com/@AlexTheAnalyst",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l9wLnClpLKJeVmP5XwHy4NF_Gu13GfyRT1WTZDaSYS-g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 489968,
+      "length": "1:30:10",
+      "description": "Take my Full Tableau Course Here: https://www.analystbuilder.com/courses/tableau-for-data-visualization Download Tableau: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/j8FSP8XuFyk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5VbjZHsYiQY2Itk5Ul1BvMUGLOw",
+        "rich": "https://i.ytimg.com/an_webp/j8FSP8XuFyk/mqdefault_6s.webp?du=3000&sqp=CMrRhdgG&rs=AOn4CLBgrGe4pkzqS6kynP0lJISxnF6IDg"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "Tableau Ultimate Full Course (21 Hours) for Beginners - From Zero to HERO",
+      "link": "https://www.youtube.com/watch?v=K3pXnbniUcM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=K3pXnbniUcM",
+      "video_id": "K3pXnbniUcM",
+      "channel": {
+        "name": "Data with Baraa",
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "link": "https://www.youtube.com/@DataWithBaraa",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/dqs3pZO_8d4K2zp2ebhb2klV_zOqfNrNTViTHggfJPrvMVCRvypJW8BGksEdQqYTPWdai3wUDg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 1285873,
+      "length": "20:47:05",
+      "description": "Spent 2 years creating a 21-hour, high-quality course that covers everything about Tableau using visual learning. The best part?",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/K3pXnbniUcM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4q-WGcU1CjQyYrluwTxtXnGZsig",
+        "rich": "https://i.ytimg.com/an_webp/K3pXnbniUcM/mqdefault_6s.webp?du=3000&sqp=CI_hhdgG&rs=AOn4CLBxjdIBrQh4S44DnlZY5Vsk5YBB6Q"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "How to Install Tableau and Create First Visualization | Tableau Tutorials for Beginners",
+      "link": "https://www.youtube.com/watch?v=6xv1KvCMF1Q",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=6xv1KvCMF1Q",
+      "video_id": "6xv1KvCMF1Q",
+      "channel": {
+        "name": "Alex The Analyst",
+        "channel_id": "UC7cs8q-gJRlGwj4A8OmCmXg",
+        "link": "https://www.youtube.com/@AlexTheAnalyst",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l9wLnClpLKJeVmP5XwHy4NF_Gu13GfyRT1WTZDaSYS-g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 1064991,
+      "length": "17:04",
+      "description": "Check out my Full Tableau Course Here: https://www.analystbuilder.com/courses/tableau-for-data-visualization This is our first of ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/6xv1KvCMF1Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpTPrwxk6e0geTWI7CNM-2Hm-unw",
+        "rich": "https://i.ytimg.com/an_webp/6xv1KvCMF1Q/mqdefault_6s.webp?du=3000&sqp=CJy7hdgG&rs=AOn4CLAPFbYhWtSj91erAiPQg2AuJu1QGA"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Stop watching endless tutorials (This is how to learn Tableau fast in 7 MINUTES)",
+      "link": "https://www.youtube.com/watch?v=n_mVK49hXB0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=n_mVK49hXB0",
+      "video_id": "n_mVK49hXB0",
+      "channel": {
+        "name": "Mo Chen",
+        "channel_id": "UCDybamfye5An6p-j1t2YMsg",
+        "link": "https://www.youtube.com/@mo-chen",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/IBFVxGLOQjpvl2y38TMqvalSq0llMz87qpDVZnK0Faw7d_PWSElx6R0UlBoKVEfdszMoBHP7Uq0=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 114678,
+      "length": "6:52",
+      "description": "Tableau Fundamentals by DataCamp: https://datacamp.pxf.io/K0O9g9 Data Analyst in Tableau by DataCamp: ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/n_mVK49hXB0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmwrAexa5KSWzqJlUdfUlNrrWysg",
+        "rich": "https://i.ytimg.com/an_webp/n_mVK49hXB0/mqdefault_6s.webp?du=3000&sqp=CITThdgG&rs=AOn4CLBcwmEJpqHSIJ2WBd2fldFmclAC6g"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Learn Tableau in 15 minutes and create your first report (FREE Sample Files)",
+      "link": "https://www.youtube.com/watch?v=tNLp_JVipoQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=tNLp_JVipoQ",
+      "video_id": "tNLp_JVipoQ",
+      "channel": {
+        "name": "Chandoo",
+        "channel_id": "UC8uU_wruBMHeeRma49dtZKA",
+        "link": "https://www.youtube.com/@chandoo_",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n_wMqn3mAO7vDs1s74bHiFXXv24ckFsv2mnV1US8mS_w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 986340,
+      "length": "16:11",
+      "description": "Do you want to learn Tableau? In this video, learn all the basics you need to start using Tableau straightaway. We are going to ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/tNLp_JVipoQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC84QIx7bRxoaP2lDfofmqRY-ukvA",
+        "rich": "https://i.ytimg.com/an_webp/tNLp_JVipoQ/mqdefault_6s.webp?du=3000&sqp=CNTehdgG&rs=AOn4CLCSBRI-vAQvOmuqjYkMN5knNwiPcQ"
+      },
+      "chapters": [
+        {
+          "title": "Introduction and how to download Tableau",
+          "thumbnail": "https://i.ytimg.com/vi/tNLp_JVipoQ/hqdefault_10166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAv-mjaiNG-35hOWizzC70BaCgSqA",
+          "time_start": 0
+        },
+        {
+          "title": "Loading data into Tableau",
+          "thumbnail": "https://i.ytimg.com/vi/tNLp_JVipoQ/hqdefault_91833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8jSt6DUu1yQcWyCbOliI-wdjBtA",
+          "time_start": 68
+        },
+        {
+          "title": "Creating your first visual / chart / sheet in Tableau",
+          "thumbnail": "https://i.ytimg.com/vi/tNLp_JVipoQ/hqdefault_134866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQHbFDVim8cSUwFmMDbCNN6nCpNg",
+          "time_start": 127
+        },
+        {
+          "title": "Making a Top 10 salesperson chart",
+          "thumbnail": "https://i.ytimg.com/vi/tNLp_JVipoQ/hqdefault_305833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1k_CsUnhYH2eeY5LbI5leA0TVhw",
+          "time_start": 300
+        },
+        {
+          "title": "How to make a dashboard with Tableau",
+          "thumbnail": "https://i.ytimg.com/vi/tNLp_JVipoQ/hqdefault_431733.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDldAbfZjjCyjzm8qWtJSHP8d6uYw",
+          "time_start": 411
+        },
+        {
+          "title": "How to use one visual as a \"filter\" for other visuals in tableau?",
+          "thumbnail": "https://i.ytimg.com/vi/tNLp_JVipoQ/hqdefault_591266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhtilaNvA_2EU3SFqRCPkaS4mAhA",
+          "time_start": 572
+        },
+        {
+          "title": "Adding business summary section to the dashboard (calculated fields)",
+          "thumbnail": "https://i.ytimg.com/vi/tNLp_JVipoQ/hqdefault_631033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAghzc2ebr6lGr1pvt6FVTVbsI9Og",
+          "time_start": 629
+        },
+        {
+          "title": "Formatting the charts & text in Tableau",
+          "thumbnail": "https://i.ytimg.com/vi/tNLp_JVipoQ/hqdefault_811233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgbyq1Fs404oUit3B1mcNzZY_sEQ",
+          "time_start": 811
+        },
+        {
+          "title": "Saving and publishing your work",
+          "thumbnail": "https://i.ytimg.com/vi/tNLp_JVipoQ/hqdefault_875200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZUOLOmjmwnrtl_4RHWcGllQ6SKQ",
+          "time_start": 869
+        }
+      ]
+    },
+    {
+      "position_on_page": 15,
+      "title": "Tableau Full Course - Learn Tableau in 6 Hours | Tableau Training for Beginners | Edureka",
+      "link": "https://www.youtube.com/watch?v=aHaOIvR00So",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=aHaOIvR00So",
+      "video_id": "aHaOIvR00So",
+      "channel": {
+        "name": "edureka!",
+        "channel_id": "UCkw4JCwteGrDHIsyIIKo4tQ",
+        "link": "https://www.youtube.com/@edurekaIN",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/fkoY1WFQrc9eK6FwzrZVi-hZFBdpCUfSYPy6k9VSVP4H1Cqo_0pwIgpgOn-uCRgFPlz_AtGGog=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 3809999,
+      "length": "6:00:14",
+      "description": "Edureka Tableau Certification Training (Use Code \"YOUTUBE20\"): https://www.edureka.co/tableau-certification-training ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/aHaOIvR00So/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtNgAv6bYJzWnb5DlRKhPsPLQL5g",
+        "rich": "https://i.ytimg.com/an_webp/aHaOIvR00So/mqdefault_6s.webp?du=3000&sqp=CKbLhdgG&rs=AOn4CLD25cfDc14LJMKhdbEHwFKcbV6yTA"
+      },
+      "chapters": [
+        {
+          "title": "Agenda of Tableau Full Course",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 0
+        },
+        {
+          "title": "Introduction to Tableau & Data Visualization",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 147
+        },
+        {
+          "title": "What is Data Visualization?",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 159
+        },
+        {
+          "title": "Power of Data Visualization",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 217
+        },
+        {
+          "title": "Scope of Visual Analytics",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 309
+        },
+        {
+          "title": "Data Visualization using Tableau",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 388
+        },
+        {
+          "title": "Why Tableau?",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 436
+        },
+        {
+          "title": "What is Tableau?",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 551
+        },
+        {
+          "title": "Tableau Architecture",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 625
+        },
+        {
+          "title": "Tableau Desktop Installation",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 813
+        },
+        {
+          "title": "Tableau UI - Connections",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 871
+        },
+        {
+          "title": "Tableau Datatypes",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 924
+        },
+        {
+          "title": "Tableau Desktop UI",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 1019
+        },
+        {
+          "title": "Tableau UI - Dimensions & Measures",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 1089
+        },
+        {
+          "title": "Tableau UI - Show me",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 1192
+        },
+        {
+          "title": "Functions in Tableau",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 1514
+        },
+        {
+          "title": "Join & Union",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 1522
+        },
+        {
+          "title": "Sort",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 1556
+        },
+        {
+          "title": "Set",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 1579
+        },
+        {
+          "title": "Forecasting",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 1596
+        },
+        {
+          "title": "Highlighting",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 1639
+        },
+        {
+          "title": "Device Designer",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 1664
+        },
+        {
+          "title": "Visual Analysis",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 1706
+        },
+        {
+          "title": "Components of Tableau",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 2035
+        },
+        {
+          "title": "Tableau Product Family",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 2045
+        },
+        {
+          "title": "Pros of Tableau",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 2219
+        },
+        {
+          "title": "How to use Tableau",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 2347
+        },
+        {
+          "title": "Connecting to Data",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 2352
+        },
+        {
+          "title": "Joins",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 2522
+        },
+        {
+          "title": "Show me the Data",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 2622
+        },
+        {
+          "title": "Filters",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 2678
+        },
+        {
+          "title": "Hierarchies",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 2819
+        },
+        {
+          "title": "Groups",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 2890
+        },
+        {
+          "title": "Sets",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 2936
+        },
+        {
+          "title": "Data Types",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 2962
+        },
+        {
+          "title": "Tableau Success",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 3117
+        },
+        {
+          "title": "Demo - US Crime Dataset",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 3182
+        },
+        {
+          "title": "Charts & Graphs",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 3778
+        },
+        {
+          "title": "Generated Fields",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 3817
+        },
+        {
+          "title": "Building Charts in Tableau",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 4156
+        },
+        {
+          "title": "Bar Chart",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 4169
+        },
+        {
+          "title": "Pareto Chart",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 4274
+        },
+        {
+          "title": "Bullet Chart",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 4479
+        },
+        {
+          "title": "Text Chart",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 4616
+        },
+        {
+          "title": "Heat Map",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 4655
+        },
+        {
+          "title": "Waterfall Chart",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 4720
+        },
+        {
+          "title": "Gantt Chart",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 4837
+        },
+        {
+          "title": "Pie Chart",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 4948
+        },
+        {
+          "title": "Scatter Plot",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 4989
+        },
+        {
+          "title": "Area Chart",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 5051
+        },
+        {
+          "title": "Dual Axis Chart",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 5088
+        },
+        {
+          "title": "Bubble Chart",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 5143
+        },
+        {
+          "title": "Histogram",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 5168
+        },
+        {
+          "title": "Features of Tableau",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 5223
+        },
+        {
+          "title": "Use Case: Indian Premier League",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 5435
+        },
+        {
+          "title": "Functions",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 7903
+        },
+        {
+          "title": "Number Functions",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 7961
+        },
+        {
+          "title": "String Functions",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 9415
+        },
+        {
+          "title": "Date Functions",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 10149
+        },
+        {
+          "title": "Type Conversion Functions",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 10679
+        },
+        {
+          "title": "Aggregate Functions",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 10937
+        },
+        {
+          "title": "Logical Functions",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 11292
+        },
+        {
+          "title": "Level of Details",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 11738
+        },
+        {
+          "title": "Introduction to LOD",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 11818
+        },
+        {
+          "title": "Types of LOD",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 11909
+        },
+        {
+          "title": "Working of LOD Expressions",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 11924
+        },
+        {
+          "title": "Include Calculation",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 12104
+        },
+        {
+          "title": "Exclude Calculation",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 12138
+        },
+        {
+          "title": "Fixed Calculation",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 12166
+        },
+        {
+          "title": "Aggregation & Level of Detail",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 12231
+        },
+        {
+          "title": "Nesting in Level of Details",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 12406
+        },
+        {
+          "title": "Data Sources Supported by LOD",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 12465
+        },
+        {
+          "title": "How to create Level of Detail Expressions",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 12477
+        },
+        {
+          "title": "Limitations of Level of Detail",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 12815
+        },
+        {
+          "title": "Parameters",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 12920
+        },
+        {
+          "title": "What are Parameters in Tableau?",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 12991
+        },
+        {
+          "title": "Getting Started on the Desktop",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 13126
+        },
+        {
+          "title": "Creating a parameter in Tableau",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 13285
+        },
+        {
+          "title": "Using the parameter in a calculation",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 13399
+        },
+        {
+          "title": "Parameter Control in Tableau",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 13532
+        },
+        {
+          "title": "Using Parameters in your Visualization",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 13614
+        },
+        {
+          "title": "Data Blending",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 13787
+        },
+        {
+          "title": "Objective of Data Blending",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 13855
+        },
+        {
+          "title": "Introduction to Data Blending in Tableau",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 14016
+        },
+        {
+          "title": "Joining vs Blending in Tableau",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 14033
+        },
+        {
+          "title": "Data Joining",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 14043
+        },
+        {
+          "title": "Data Blending",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 14087
+        },
+        {
+          "title": "Limitations of Data Blending",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 14392
+        },
+        {
+          "title": "How to become a Tableau Developer",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 14482
+        },
+        {
+          "title": "Who is a Tableau Developer?",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 14557
+        },
+        {
+          "title": "Tableau Developer Roles & Responsibilities",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 14698
+        },
+        {
+          "title": "Skills Required to become a Data Scientist",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 14892
+        },
+        {
+          "title": "Tableau Training @ Edureka",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 15025
+        },
+        {
+          "title": "Tableau Interview Questions",
+          "thumbnail": "https://i.ytimg.com/vi_webp/aHaOIvR00So/hqdefault.webp",
+          "time_start": 15153
+        }
+      ]
+    },
+    {
+      "position_on_page": 17,
+      "title": "Tableau Desktop Crash Course | Learn Tableau from a Tableau Visionary",
+      "link": "https://www.youtube.com/watch?v=-Aj8IlC0IEA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=-Aj8IlC0IEA",
+      "video_id": "-Aj8IlC0IEA",
+      "channel": {
+        "name": "Just Tim",
+        "channel_id": "UC7HYxRWmaNlJux-X7rNLZyw",
+        "link": "https://www.youtube.com/@TableauTim",
+        "thumbnail": "https://yt3.ggpht.com/SQiPPPPyXckKYVd4-mdZMd0SSbpIQNGIVngCIla9HhnlPXNZqoLTbOIMskNnb-m_Z0cywQ1reL8=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 327335,
+      "length": "3:44:08",
+      "description": "Future-proof your career https://n1d.io ------- | Sign up to Playfair+ http://bit.ly/4lgOeio - Discount code: TableauTim - Good for 10% ...",
+      "extensions": [
+        "Professional Training",
+        "How-to"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApPRPllH-U-fWqnNxX441AZ22qqQ",
+        "rich": "https://i.ytimg.com/an_webp/-Aj8IlC0IEA/mqdefault_6s.webp?du=3000&sqp=CMC3hdgG&rs=AOn4CLBVB4SCSv2HPjWt-3j4t_4_rlzERw"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_9966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJeowOUyVuDu8gb6BI5-R_mUTYBg",
+          "time_start": 0
+        },
+        {
+          "title": "Housekeeping",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_93166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVAgPMG5qDNmqM8_a6Jt4xQ_nr5w",
+          "time_start": 89
+        },
+        {
+          "title": "Introductions",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_168833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxViHjGtwieDetv_ffBZrzmPCsuA",
+          "time_start": 159
+        },
+        {
+          "title": "What is Tableau?",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_293900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2UjOCbkt9PeuHs0GJYpORx3YbWg",
+          "time_start": 266
+        },
+        {
+          "title": "The Tableau Platform",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_360033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_SUKK15hFT0Cau2bymUwZsODFpg",
+          "time_start": 357
+        },
+        {
+          "title": "Tableau Licensing",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_641000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBup0zSiReZ5Kr0b-ivIE0twsHavw",
+          "time_start": 620
+        },
+        {
+          "title": "Tableau Public",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_823000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_j6vYtBwwQKQS3ku-11PBFjCtVg",
+          "time_start": 797
+        },
+        {
+          "title": "Tableau Versions",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_972833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAACEzRpCFeFfX_QgPHJNBEu_qB-Q",
+          "time_start": 946
+        },
+        {
+          "title": "Tableau Public vs Desktop",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_1297700.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZ4GwEZewMKYpaka2049BLm1KP_g",
+          "time_start": 1277
+        },
+        {
+          "title": "Installing Tableau",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_2344300.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtLSW_V0JsRkJTO-X5q51sfvpoJA",
+          "time_start": 2340
+        },
+        {
+          "title": "Finding the correct Tableau documentation",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_2455000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8TgfHwt9SbYbcDPafi8ivvZjMfw",
+          "time_start": 2431
+        },
+        {
+          "title": "Tableau Connection Interface",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_2638800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoFDaSxsP-z_qt-M-Z9H9EZfI5HQ",
+          "time_start": 2622
+        },
+        {
+          "title": "Tableau Main Interface",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_4928866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyWTlqiyunTlsIi4eVija6M-DKQg",
+          "time_start": 4922
+        },
+        {
+          "title": "Finding data to practise with",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_5364933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALmNvvbN-pZqd-9Mo--ZUjWNh-Kw",
+          "time_start": 5357
+        },
+        {
+          "title": "How does Tableau Work?",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_5557866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwP9StQhLxingngotbGjlcPgfiVw",
+          "time_start": 5531
+        },
+        {
+          "title": "Building your first Chart",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_5720900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9rGP7fNkuYEAcD14FJXH2vshWng",
+          "time_start": 5714
+        },
+        {
+          "title": "Building a Bar Chart in Tableau",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_6116166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_8tFwlIioVqManXBYXHd5Ap7frg",
+          "time_start": 6100
+        },
+        {
+          "title": "Building a pie chart in Tableau",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_6464100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCC5y8zPJ-wTHtshQTX_hoIVGbeew",
+          "time_start": 6455
+        },
+        {
+          "title": "Building a line chart in Tableau",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_6930800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7E9xE1yCjsoh5iYG23gpMPFtZqQ",
+          "time_start": 6904
+        },
+        {
+          "title": "Discrete vs Continous Behaviour",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_7023833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCF1-r2i2Xnm8CBTt-styb4qiuVGA",
+          "time_start": 6997
+        },
+        {
+          "title": "The Analytics Pane",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_7374833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBXZpHXMfCcuv-MF-kkKLSF3nVSQ",
+          "time_start": 7358
+        },
+        {
+          "title": "Build a scatter plot",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_7447800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSQuNoPNhr-GfAQQLjwmCKdag1Ig",
+          "time_start": 7437
+        },
+        {
+          "title": "Build a histogram in Tableau",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_7605800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArsZuLQ_emNGxJh17fjIyr6eiOpg",
+          "time_start": 7582
+        },
+        {
+          "title": "Build a bullet graph in Tableau",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_7928200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgYFjXNzJ4bPaAlNlVJxdNP1ECvA",
+          "time_start": 7909
+        },
+        {
+          "title": "Build a box and whisper plot",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_8413266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAR5Ea8vZvW362Lw9xot4PUP-g3bQ",
+          "time_start": 8388
+        },
+        {
+          "title": "Build a Treemap in Tableau",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_8728300.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCC8aYWpSVSqugv70hsXkRuglvf2Q",
+          "time_start": 8716
+        },
+        {
+          "title": "Build a heatmap in Tableau",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_8948033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDG2Ht1JF65Nnqj0OWc46ybxDnW_g",
+          "time_start": 8941
+        },
+        {
+          "title": "Build a range of maps in Tableau",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_9313000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVSkYxVDz6kqg1WVlwpaXW7v56RA",
+          "time_start": 9298
+        },
+        {
+          "title": "The problem with Show Me",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_10558066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5IRVYdWMXoWzIWvy1I4W3wZB63A",
+          "time_start": 10552
+        },
+        {
+          "title": "Seeing Everything you've built",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_10932000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaAys6oaI5TtXys7RB2zUwn4nosw",
+          "time_start": 10919
+        },
+        {
+          "title": "Building a basic dashboard",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_11043000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8SBjp08EfDEtntIavc973G_a40g",
+          "time_start": 11031
+        },
+        {
+          "title": "Make your dashboard interactive",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_11535900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7MJLHptRUHfIwWtcW5LHUiiA5KA",
+          "time_start": 11530
+        },
+        {
+          "title": "Calculations in Tableau",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_11983033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOcH7hdO26Xr49tTEGBoH8zO6tUw",
+          "time_start": 11970
+        },
+        {
+          "title": "Publishing to Tableau Cloud",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_12573766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfB_w9ks3aTHdG7UUDyN6qQPAGQQ",
+          "time_start": 12569
+        },
+        {
+          "title": "Publishing to Tableau Public",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_13045033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAa7OROnOpqFctrAUndH1Pt_jOzmA",
+          "time_start": 13018
+        },
+        {
+          "title": "Building a Tableau Course",
+          "thumbnail": "https://i.ytimg.com/vi/-Aj8IlC0IEA/hqdefault_13325066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAL5ee91f5PusqmGPAGlhE0nROjXQ",
+          "time_start": 13322
+        }
+      ]
+    },
+    {
+      "position_on_page": 19,
+      "title": "Tableau for Data Science and Data Visualization - Crash Course Tutorial",
+      "link": "https://www.youtube.com/watch?v=TPMlZxRRaBQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=TPMlZxRRaBQ",
+      "video_id": "TPMlZxRRaBQ",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 929795,
+      "length": "28:42",
+      "description": "Learn to use Tableau to produce high quality, interactive data visualizations! Tableau can help you see and understand your data.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/TPMlZxRRaBQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAofU-8TWwNhL5ZbwLNdgtz6fx0ag",
+        "rich": "https://i.ytimg.com/an_webp/TPMlZxRRaBQ/mqdefault_6s.webp?du=3000&sqp=CPDchdgG&rs=AOn4CLCy6KLIh2gj-IBTl2bMO-fwAQN6IQ"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/TPMlZxRRaBQ/hqdefault_866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCy0lNoZBpw4DfGKLLPOvzY_HALiQ",
+          "time_start": 0
+        },
+        {
+          "title": "What is Tableau",
+          "thumbnail": "https://i.ytimg.com/vi/TPMlZxRRaBQ/hqdefault_154866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOxRUheg1fr8X9Ap3KQkbQxU7VUA",
+          "time_start": 141
+        },
+        {
+          "title": "Tableau Desktop Interface",
+          "thumbnail": "https://i.ytimg.com/vi/TPMlZxRRaBQ/hqdefault_220800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAO4CSnM851SKGtFJC_57oJpB97Mw",
+          "time_start": 214
+        },
+        {
+          "title": "Download Tableau Public",
+          "thumbnail": "https://i.ytimg.com/vi/TPMlZxRRaBQ/hqdefault_305900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvbIhzw-cuOGCNcoBtMvE1PnxJBg",
+          "time_start": 294
+        },
+        {
+          "title": "Labels",
+          "thumbnail": "https://i.ytimg.com/vi/TPMlZxRRaBQ/hqdefault_822833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAu4s_hlMwx2SwbrxA2uGAwhZhXzg",
+          "time_start": 802
+        },
+        {
+          "title": "Legend",
+          "thumbnail": "https://i.ytimg.com/vi/TPMlZxRRaBQ/hqdefault_998833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5Z0MkCzHr30An2jlZKoJOz-GBdw",
+          "time_start": 977
+        },
+        {
+          "title": "Pie Charts",
+          "thumbnail": "https://i.ytimg.com/vi/TPMlZxRRaBQ/hqdefault_1195233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXEAvbqNWkQ2bYfn8OdVnWDKvz6Q",
+          "time_start": 1187
+        },
+        {
+          "title": "Create your own measure",
+          "thumbnail": "https://i.ytimg.com/vi/TPMlZxRRaBQ/hqdefault_1288133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIeVOtgjOmWfkoFdKWppRK9H1oIA",
+          "time_start": 1262
+        },
+        {
+          "title": "Move sections",
+          "thumbnail": "https://i.ytimg.com/vi/TPMlZxRRaBQ/hqdefault_1494133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRIL-7lUQoo4uMmAufMotntKbR4Q",
+          "time_start": 1467
+        },
+        {
+          "title": "Changing colors",
+          "thumbnail": "https://i.ytimg.com/vi/TPMlZxRRaBQ/hqdefault_1540133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9fAa4nBy9ThO5l_8N_a2MD671DA",
+          "time_start": 1517
+        }
+      ]
+    },
+    {
+      "position_on_page": 21,
+      "title": "Tableau Complete Project End-to-End | Like I Do in My Real Projects",
+      "link": "https://www.youtube.com/watch?v=dahrmqT5GD4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=dahrmqT5GD4",
+      "video_id": "dahrmqT5GD4",
+      "channel": {
+        "name": "Data with Baraa",
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "link": "https://www.youtube.com/@DataWithBaraa",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/dqs3pZO_8d4K2zp2ebhb2klV_zOqfNrNTViTHggfJPrvMVCRvypJW8BGksEdQqYTPWdai3wUDg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 501493,
+      "length": "2:24:15",
+      "description": "Learn how real Tableau projects are built step by step from user requirements to a finished dashboard using the same process I ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/dahrmqT5GD4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByFSSlTJGHVFbX7HbxF-ZpzPEBMw",
+        "rich": "https://i.ytimg.com/an_webp/dahrmqT5GD4/mqdefault_6s.webp?du=3000&sqp=CJDfhdgG&rs=AOn4CLC6sLb8Nf4NFsrdbt3YeSuPqBXv2Q"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/dahrmqT5GD4/hqdefault_7833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzeoBNdrqzpVyz86snB-B3Vx3cQg",
+          "time_start": 0
+        },
+        {
+          "title": "Project Process",
+          "thumbnail": "https://i.ytimg.com/vi/dahrmqT5GD4/hqdefault_60233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7CotO8wVmE8uNullptKfIe7eTEw",
+          "time_start": 51
+        },
+        {
+          "title": "Analyse Requirements",
+          "thumbnail": "https://i.ytimg.com/vi/dahrmqT5GD4/hqdefault_248900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1PsOvYIdOJd9qZ_BUjyuJh6qOFg",
+          "time_start": 248
+        },
+        {
+          "title": "Draw Mockups & Choose Colors",
+          "thumbnail": "https://i.ytimg.com/vi/dahrmqT5GD4/hqdefault_553966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBL9Wo43VzR9BBsek7E7K3AUTzBng",
+          "time_start": 536
+        },
+        {
+          "title": "Build Data Source",
+          "thumbnail": "https://i.ytimg.com/vi/dahrmqT5GD4/hqdefault_836200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtqwycs1MOnoM3xSWeCD3pg_tU5Q",
+          "time_start": 834
+        },
+        {
+          "title": "Build Chart: BANS",
+          "thumbnail": "https://i.ytimg.com/vi/dahrmqT5GD4/hqdefault_1274800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9bH1exdVvgjNR2iq3Nye8_Z2_2A",
+          "time_start": 1272
+        },
+        {
+          "title": "Build Chart: Sales & profit by Category",
+          "thumbnail": "https://i.ytimg.com/vi/dahrmqT5GD4/hqdefault_3181200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_WxHM27gZsoOgZ19UFnHWm_rFXg",
+          "time_start": 3177
+        },
+        {
+          "title": "Build Chart: Trends of Time",
+          "thumbnail": "https://i.ytimg.com/vi/dahrmqT5GD4/hqdefault_3795266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7tt-_lvgY_oYC-G-9eMdWBsp9xw",
+          "time_start": 3788
+        },
+        {
+          "title": "Build Sales Dashboard",
+          "thumbnail": "https://i.ytimg.com/vi/dahrmqT5GD4/hqdefault_4369133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwbgj498Al5awaXWvROyuPyXa5oA",
+          "time_start": 4366
+        },
+        {
+          "title": "Build Customer Dashboard",
+          "thumbnail": "https://i.ytimg.com/vi/dahrmqT5GD4/hqdefault_7319166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxYrJw7Cul_qeaGF0lePc2MfSVuA",
+          "time_start": 7290
+        }
+      ]
+    },
+    {
+      "position_on_page": 22,
+      "title": "What is Tableau? | Tableau Overview | Tableau in 5 Mins | Tableau For Beginners | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=NLCzpPRCc7U",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=NLCzpPRCc7U",
+      "video_id": "NLCzpPRCc7U",
+      "channel": {
+        "name": "Simplilearn",
+        "channel_id": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "link": "https://www.youtube.com/@SimplilearnOfficial",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 365324,
+      "length": "5:11",
+      "description": "Micrososft Azure - Data Analyst Course ...",
+      "extensions": [
+        "2 products"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/NLCzpPRCc7U/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCX0g9PboUJPo2q4X1zJnd_vN5n8g",
+        "rich": "https://i.ytimg.com/an_webp/NLCzpPRCc7U/mqdefault_6s.webp?du=3000&sqp=CJDUhdgG&rs=AOn4CLDOSTEASGsNtRC3vI7FBaaGKEHsHg"
+      },
+      "chapters": [
+        {
+          "title": "Introduction to What is Tableau?",
+          "thumbnail": "https://i.ytimg.com/vi/NLCzpPRCc7U/hqdefault_29933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWQrMtrJhg2E4aV7U4Db0ZcQon2g",
+          "time_start": 0
+        },
+        {
+          "title": "What is Tableau?",
+          "thumbnail": "https://i.ytimg.com/vi/NLCzpPRCc7U/hqdefault_112833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDuD3nSfB1mDufpkbr9CgnT2GWlw",
+          "time_start": 83
+        },
+        {
+          "title": "What is Tableau? (Quiz)",
+          "thumbnail": "https://i.ytimg.com/vi/NLCzpPRCc7U/hqdefault_232933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBM7gn5xXbeET6lpTQs_lvt_sOJBg",
+          "time_start": 231
+        }
+      ]
+    }
+  ],
+  "playlist_results": [
+    {
+      "position_on_page": 5,
+      "title": "Tableau Ultimate Course",
+      "link": "https://www.youtube.com/playlist?list=PLNcg_FV9n7qZJqrKcUUCWCWPYCrlcVm9v",
+      "channel": {
+        "name": "Data with Baraa",
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "link": "https://www.youtube.com/@DataWithBaraa"
+      },
+      "videos": [
+        {
+          "title": "Tableau Ultimate Full Course (21 Hours) for Beginners - From Zero to HERO",
+          "length": "20:47:05",
+          "link": "https://www.youtube.com/watch?v=K3pXnbniUcM&list=PLNcg_FV9n7qZJqrKcUUCWCWPYCrlcVm9v"
+        },
+        {
+          "title": "Complete Roadmap To Master Tableau",
+          "length": "3:55",
+          "link": "https://www.youtube.com/watch?v=_TT1D3tH1_c&list=PLNcg_FV9n7qZJqrKcUUCWCWPYCrlcVm9v"
+        }
+      ],
+      "video_count": 142,
+      "thumbnail": "https://i.ytimg.com/vi/K3pXnbniUcM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC5ooE9iCLJFoPmbkF098nIDFDggg"
+    },
+    {
+      "position_on_page": 8,
+      "title": "Tableau Training Videos | Tableau Tutorial Videos | Data Visualisation using Tableau | Edureka",
+      "link": "https://www.youtube.com/playlist?list=PL9ooVrP1hQOH7ni13w776zP_X9ny3Eksv",
+      "channel": {
+        "name": "edureka!",
+        "channel_id": "UCkw4JCwteGrDHIsyIIKo4tQ",
+        "link": "https://www.youtube.com/@edurekaIN"
+      },
+      "videos": [
+        {
+          "title": "Tableau Full Course - Learn Tableau in 6 Hours | Tableau Training for Beginners | Edureka",
+          "length": "6:00:14",
+          "link": "https://www.youtube.com/watch?v=aHaOIvR00So&list=PL9ooVrP1hQOH7ni13w776zP_X9ny3Eksv"
+        },
+        {
+          "title": "Introduction to Tableau | How Tableau Works | Tableau Training | Tableau Certification | Edureka",
+          "length": "3:21",
+          "link": "https://www.youtube.com/watch?v=VUVqj7YsWmU&list=PL9ooVrP1hQOH7ni13w776zP_X9ny3Eksv"
+        }
+      ],
+      "video_count": 56,
+      "thumbnail": "https://i.ytimg.com/vi/aHaOIvR00So/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDJZ4Dh8GhIU1dr7wHCyqlLIwBNNA"
+    },
+    {
+      "position_on_page": 9,
+      "title": "Tableau Playlist [2027  Updated] | Tableau Tutorial For Beginners | Data Analytics With Tableau | Tableau Projects | Tableau Training | Simplilearn",
+      "link": "https://www.youtube.com/playlist?list=PLEiEAq2VkUUJEvrsey26P-Bj4Vk6BLBVC",
+      "channel": {
+        "name": "Simplilearn",
+        "channel_id": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "link": "https://www.youtube.com/@SimplilearnOfficial"
+      },
+      "videos": [
+        {
+          "title": "Introduction To Tableau 2026 | What Is Tableau? | Tableau Training For Beginners | Simplilearn",
+          "length": "13:27",
+          "link": "https://www.youtube.com/watch?v=SSq5NwsUNGI&list=PLEiEAq2VkUUJEvrsey26P-Bj4Vk6BLBVC&pp=0gcJCRYF0aJEHMZM"
+        },
+        {
+          "title": "Tableau For Data Science 2026 | Tableau For Data Visualization | Tableau Tutorial | Simplilearn",
+          "length": "7:24:47",
+          "link": "https://www.youtube.com/watch?v=Wh4sCCZjOwo&list=PLEiEAq2VkUUJEvrsey26P-Bj4Vk6BLBVC"
+        }
+      ],
+      "video_count": 48,
+      "thumbnail": "https://i.ytimg.com/vi/SSq5NwsUNGI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD70bmcl3YmPAkgF-q9Lt9CkR51fw"
+    },
+    {
+      "position_on_page": 11,
+      "title": "Tableau Course For Beginners - WsCube Tech",
+      "link": "https://www.youtube.com/playlist?list=PLjVLYmrlmjGd-xNpPg6Hd3t1iLiExnOYC",
+      "channel": {
+        "name": "WsCube Tech",
+        "channel_id": "UC0T6MVd3wQDB5ICAe45OxaQ",
+        "link": "https://www.youtube.com/@wscubetech"
+      },
+      "videos": [
+        {
+          "title": "What is Tableau? Features, Advantages, and Disadvantages Explained - Tableau Ep.1",
+          "length": "5:39",
+          "link": "https://www.youtube.com/watch?v=YfxgATurF2Q&list=PLjVLYmrlmjGd-xNpPg6Hd3t1iLiExnOYC"
+        },
+        {
+          "title": "How To Download & Install Tableau - FREE (Tableau Desktop vs Public) Ep 2",
+          "length": "9:09",
+          "link": "https://www.youtube.com/watch?v=3EMC66Q9WBs&list=PLjVLYmrlmjGd-xNpPg6Hd3t1iLiExnOYC"
+        }
+      ],
+      "video_count": 23,
+      "thumbnail": "https://i.ytimg.com/vi/YfxgATurF2Q/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC9DQax7_BmfreF4b833qLwKTcEDw"
+    },
+    {
+      "position_on_page": 13,
+      "title": "Tableau Projects Course",
+      "link": "https://www.youtube.com/playlist?list=PLO9LeSU_vHCU_DHaLzEvsLxFdmB3Qcao_",
+      "channel": {
+        "name": "Data Tutorials",
+        "channel_id": "UCBOs6624oqScw8PaU-Jzw9A",
+        "link": "https://www.youtube.com/@datatutorials1"
+      },
+      "videos": [
+        {
+          "title": "Tableau Dashboard from Start to End (Part 1)| HR Dashboard | Beginner to Pro | Tableau Project",
+          "length": "36:44",
+          "link": "https://www.youtube.com/watch?v=oAIubTqg-Kw&list=PLO9LeSU_vHCU_DHaLzEvsLxFdmB3Qcao_"
+        },
+        {
+          "title": "Tableau Dashboard from Start to End (Part 2)| HR Dashboard | Beginner to Pro | Tableau Project",
+          "length": "36:15",
+          "link": "https://www.youtube.com/watch?v=oTyCZVnNVZA&list=PLO9LeSU_vHCU_DHaLzEvsLxFdmB3Qcao_"
+        }
+      ],
+      "video_count": 29,
+      "thumbnail": "https://i.ytimg.com/vi/oAIubTqg-Kw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBNfHjJIoBPAAXztyaqMuINP2zpKQ"
+    },
+    {
+      "position_on_page": 14,
+      "title": "Tableau",
+      "link": "https://www.youtube.com/playlist?list=PLWPirh4EWFpGXTBu8ldLZGJCUeTMBpJFK",
+      "channel": {
+        "name": "TutorialsPoint",
+        "channel_id": "UCVLbzhxVTiTLiVKeGV7WEBg",
+        "link": "https://www.youtube.com/@TutorialsPoint_"
+      },
+      "videos": [
+        {
+          "title": "Introduction to Tableau | How Tableau Works | Tableau Courses",
+          "length": "4:27",
+          "link": "https://www.youtube.com/watch?v=gWZtNdMko1k&list=PLWPirh4EWFpGXTBu8ldLZGJCUeTMBpJFK"
+        },
+        {
+          "title": "Tableau - Download Desktop",
+          "length": "1:32",
+          "link": "https://www.youtube.com/watch?v=6Tg2T14uNyg&list=PLWPirh4EWFpGXTBu8ldLZGJCUeTMBpJFK"
+        }
+      ],
+      "video_count": 87,
+      "thumbnail": "https://i.ytimg.com/vi/gWZtNdMko1k/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYRCBQKGUwDw==&rs=AOn4CLDHMktLeUdHGbCu0UNp9hNqB-EAfA"
+    },
+    {
+      "position_on_page": 16,
+      "title": "Tableau Tutorial Playlist (2026)",
+      "link": "https://www.youtube.com/playlist?list=PLSwH4ViBDl2QxJvc3VMbTome3psJIuaTG",
+      "channel": {
+        "name": "Amit Thinks",
+        "channel_id": "UCgnr2Lkl1LZf0IOKRDAoJ2g",
+        "link": "https://www.youtube.com/@Amit.Thinks"
+      },
+      "videos": [
+        {
+          "title": "Tableau Introduction and Features for Data Analysis and Business Intelligence | Amit Thinks | 2025",
+          "length": "8:12",
+          "link": "https://www.youtube.com/watch?v=003U-V_M3gQ&list=PLSwH4ViBDl2QxJvc3VMbTome3psJIuaTG"
+        },
+        {
+          "title": "How to install Tableau Desktop in Windows 10 | Updated 2026 | Amit Thinks",
+          "length": "3:30",
+          "link": "https://www.youtube.com/watch?v=nce3gFii3_g&list=PLSwH4ViBDl2QxJvc3VMbTome3psJIuaTG"
+        }
+      ],
+      "video_count": 35,
+      "thumbnail": "https://i.ytimg.com/vi/003U-V_M3gQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDv_Z7cu4OKwgcZ39h4IF6xNgpN9g"
+    },
+    {
+      "position_on_page": 18,
+      "title": "Tableau Course in hindi | CloudyML | Data Science | Data Analytics",
+      "link": "https://www.youtube.com/playlist?list=PLsR_0x6BuM-FGRtu8C0XlbVYR8gc8r2v9",
+      "channel": {
+        "name": "CloudyML",
+        "channel_id": "UC8CmTnoR19lElKS5rOIk84g",
+        "link": "https://www.youtube.com/@CloudyML"
+      },
+      "videos": [
+        {
+          "title": "V-1 : What is Tableau ? | Tableau Course(Hindi)",
+          "length": "6:42",
+          "link": "https://www.youtube.com/watch?v=vBHVI1KNIp0&list=PLsR_0x6BuM-FGRtu8C0XlbVYR8gc8r2v9"
+        },
+        {
+          "title": "V-2 : Tableau Installation | Tableau Course(Hindi)",
+          "length": "9:09",
+          "link": "https://www.youtube.com/watch?v=kKy3nSXpULg&list=PLsR_0x6BuM-FGRtu8C0XlbVYR8gc8r2v9"
+        }
+      ],
+      "video_count": 27,
+      "thumbnail": "https://i.ytimg.com/vi/vBHVI1KNIp0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCAX3r5mjosnLxdP1oVj65JtaZjaQ"
+    },
+    {
+      "position_on_page": 20,
+      "title": "Tableau Training",
+      "link": "https://www.youtube.com/playlist?list=PLoyECfvEFOjYXcuVCBVd2hoDPAr83suuK",
+      "channel": {
+        "name": "Learn Skills Daily",
+        "channel_id": "UCqyBfm_H9ugGirk1ufYA2YA",
+        "link": "https://www.youtube.com/@learnskillsdaily"
+      },
+      "videos": [
+        {
+          "title": "Tableau Basics Beginner Tutorial",
+          "length": "1:28:19",
+          "link": "https://www.youtube.com/watch?v=9uBtK6j_QgA&list=PLoyECfvEFOjYXcuVCBVd2hoDPAr83suuK"
+        },
+        {
+          "title": "Tableau Basics Intermediate Tutorial",
+          "length": "1:55:51",
+          "link": "https://www.youtube.com/watch?v=WvZRkaPqYnw&list=PLoyECfvEFOjYXcuVCBVd2hoDPAr83suuK"
+        }
+      ],
+      "video_count": 19,
+      "thumbnail": "https://i.ytimg.com/vi/9uBtK6j_QgA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDJr8DguQMHyLH6JP98c6ahVO-Oag"
+    },
+    {
+      "position_on_page": 23,
+      "title": "Data Visualisation with Tableau For Absolute Beginners (Hindi)",
+      "link": "https://www.youtube.com/playlist?list=PL1gztxnUtwNdEMZANGZCS2OrpSGt0KDaH",
+      "channel": {
+        "name": "Data is Good (Hindi)",
+        "channel_id": "UChYnFEN9cfPPeDq3nneiWcA",
+        "link": "https://www.youtube.com/@DataisGoodHindi"
+      },
+      "videos": [
+        {
+          "title": "1. Tableau & Data Visualisation Course | Tableau For Beginners to Advance in Hindi | Dataisgood",
+          "length": "1:26:17",
+          "link": "https://www.youtube.com/watch?v=9k-BdRDxdPs&list=PL1gztxnUtwNdEMZANGZCS2OrpSGt0KDaH"
+        },
+        {
+          "title": "2. Dimensions & Measures | Discrete vs Continuous | Tableau For Beginners to Advance in Hindi",
+          "length": "57:51",
+          "link": "https://www.youtube.com/watch?v=xdawwO4sbY4&list=PL1gztxnUtwNdEMZANGZCS2OrpSGt0KDaH"
+        }
+      ],
+      "video_count": 12,
+      "thumbnail": "https://i.ytimg.com/vi/9k-BdRDxdPs/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCv6ztcYLtg0feH5_t0HV9Nt0CzCA"
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Tableau+full+course+tutorial+for+Data+Analyst&gl=in&hl=en",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Tableau%20full%20course%20tutorial%20for%20Data%20Analyst&sp=SBSCAQtqOEZTUDhYdUZ5a4IBC0szcFhuYm5pVWNNggEiUExOY2dfRlY5bjdxWkpxcktjVVVDV0NXUFlDcmxjVm05doIBCzZ4djFLdkNNRjFRggELbl9tVks0OWhYQjCCASJQTDlvb1ZyUDFoUU9IN25pMTN3Nzc2elBfWDlueTNFa3N2ggEiUExFaUVBcTJWa1VVSkV2cnNleTI2UC1CajRWazZCTEJWQ4IBC3ROTHBfSlZpcG9RggEiUExqVkxZbXJsbWpHZC14TnBQZzZIZDN0MWlMaUV4bk9ZQ4IBIlBMTzlMZVNVX3ZIQ1VfREhhTHpFdnNMeEZkbUIzUWNhb1-CASJQTFdQaXJoNEVXRnBHWFRCdThsZExaR0pDVWVUTUJwSkZLggELYUhhT0l2UjAwU2-CASJQTFN3SDRWaUJEbDJReEp2YzNWTWJUb21lM3BzSkl1YVRHggELLUFqOElsQzBJRUGCASJQTHNSXzB4NkJ1TS1GR1J0dThDMFhsYlZZUjhnYzhyMnY5ggELVFBNbFp4UlJhQlGCASJQTG95RUNmdkVGT2pZWGN1VkNCVmQyaG9EUEFyODNzdXVLggELZGFocm1xVDVHRDSCAQtOTEN6cFBSQ2M3VYIBIlBMMWd6dHhuVXR3TmRFTVpBTkdaQ1MyT3JwU0d0MEtEYUiyAQYKBAgZEAI%253D",
+    "next_page_token": "SBSCAQtqOEZTUDhYdUZ5a4IBC0szcFhuYm5pVWNNggEiUExOY2dfRlY5bjdxWkpxcktjVVVDV0NXUFlDcmxjVm05doIBCzZ4djFLdkNNRjFRggELbl9tVks0OWhYQjCCASJQTDlvb1ZyUDFoUU9IN25pMTN3Nzc2elBfWDlueTNFa3N2ggEiUExFaUVBcTJWa1VVSkV2cnNleTI2UC1CajRWazZCTEJWQ4IBC3ROTHBfSlZpcG9RggEiUExqVkxZbXJsbWpHZC14TnBQZzZIZDN0MWlMaUV4bk9ZQ4IBIlBMTzlMZVNVX3ZIQ1VfREhhTHpFdnNMeEZkbUIzUWNhb1-CASJQTFdQaXJoNEVXRnBHWFRCdThsZExaR0pDVWVUTUJwSkZLggELYUhhT0l2UjAwU2-CASJQTFN3SDRWaUJEbDJReEp2YzNWTWJUb21lM3BzSkl1YVRHggELLUFqOElsQzBJRUGCASJQTHNSXzB4NkJ1TS1GR1J0dThDMFhsYlZZUjhnYzhyMnY5ggELVFBNbFp4UlJhQlGCASJQTG95RUNmdkVGT2pZWGN1VkNCVmQyaG9EUEFyODNzdXVLggELZGFocm1xVDVHRDSCAQtOTEN6cFBSQ2M3VYIBIlBMMWd6dHhuVXR3TmRFTVpBTkdaQ1MyT3JwU0d0MEtEYUiyAQYKBAgZEAI%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Tableau+full+course+tutorial+for+Data+Analyst",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Tableau+full+course+tutorial+for+Data+Analyst&sp=SBSCAQtqOEZTUDhYdUZ5a4IBC0szcFhuYm5pVWNNggEiUExOY2dfRlY5bjdxWkpxcktjVVVDV0NXUFlDcmxjVm05doIBCzZ4djFLdkNNRjFRggELbl9tVks0OWhYQjCCASJQTDlvb1ZyUDFoUU9IN25pMTN3Nzc2elBfWDlueTNFa3N2ggEiUExFaUVBcTJWa1VVSkV2cnNleTI2UC1CajRWazZCTEJWQ4IBC3ROTHBfSlZpcG9RggEiUExqVkxZbXJsbWpHZC14TnBQZzZIZDN0MWlMaUV4bk9ZQ4IBIlBMTzlMZVNVX3ZIQ1VfREhhTHpFdnNMeEZkbUIzUWNhb1-CASJQTFdQaXJoNEVXRnBHWFRCdThsZExaR0pDVWVUTUJwSkZLggELYUhhT0l2UjAwU2-CASJQTFN3SDRWaUJEbDJReEp2YzNWTWJUb21lM3BzSkl1YVRHggELLUFqOElsQzBJRUGCASJQTHNSXzB4NkJ1TS1GR1J0dThDMFhsYlZZUjhnYzhyMnY5ggELVFBNbFp4UlJhQlGCASJQTG95RUNmdkVGT2pZWGN1VkNCVmQyaG9EUEFyODNzdXVLggELZGFocm1xVDVHRDSCAQtOTEN6cFBSQ2M3VYIBIlBMMWd6dHhuVXR3TmRFTVpBTkdaQ1MyT3JwU0d0MEtEYUiyAQYKBAgZEAI%253D",
+    "next_page_token": "SBSCAQtqOEZTUDhYdUZ5a4IBC0szcFhuYm5pVWNNggEiUExOY2dfRlY5bjdxWkpxcktjVVVDV0NXUFlDcmxjVm05doIBCzZ4djFLdkNNRjFRggELbl9tVks0OWhYQjCCASJQTDlvb1ZyUDFoUU9IN25pMTN3Nzc2elBfWDlueTNFa3N2ggEiUExFaUVBcTJWa1VVSkV2cnNleTI2UC1CajRWazZCTEJWQ4IBC3ROTHBfSlZpcG9RggEiUExqVkxZbXJsbWpHZC14TnBQZzZIZDN0MWlMaUV4bk9ZQ4IBIlBMTzlMZVNVX3ZIQ1VfREhhTHpFdnNMeEZkbUIzUWNhb1-CASJQTFdQaXJoNEVXRnBHWFRCdThsZExaR0pDVWVUTUJwSkZLggELYUhhT0l2UjAwU2-CASJQTFN3SDRWaUJEbDJReEp2YzNWTWJUb21lM3BzSkl1YVRHggELLUFqOElsQzBJRUGCASJQTHNSXzB4NkJ1TS1GR1J0dThDMFhsYlZZUjhnYzhyMnY5ggELVFBNbFp4UlJhQlGCASJQTG95RUNmdkVGT2pZWGN1VkNCVmQyaG9EUEFyODNzdXVLggELZGFocm1xVDVHRDSCAQtOTEN6cFBSQ2M3VYIBIlBMMWd6dHhuVXR3TmRFTVpBTkdaQ1MyT3JwU0d0MEtEYUiyAQYKBAgZEAI%3D"
+  }
+}

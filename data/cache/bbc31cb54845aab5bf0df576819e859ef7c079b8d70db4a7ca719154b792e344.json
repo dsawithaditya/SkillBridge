@@ -1,0 +1,1296 @@
+{
+  "search_metadata": {
+    "id": "6b017cf125bc2cb6f7f9c8f2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/NFyH4WOzW7n9dR8IujNSvMKPQW177gpZ2oM0b8_Y5Vw/6b017cf125bc2cb6f7f9c8f2.json",
+    "markdown_endpoint": "https://serpapi.com/searches/NFyH4WOzW7n9dR8IujNSvMKPQW177gpZ2oM0b8_Y5Vw/6b017cf125bc2cb6f7f9c8f2.md",
+    "created_at": "2026-11-21 11:13:53 UTC",
+    "processed_at": "2026-11-21 11:13:53 UTC",
+    "google_news_url": "https://news.google.com/search?q=Infosys&hl=en&gl=IN",
+    "raw_html_file": "https://serpapi.com/searches/NFyH4WOzW7n9dR8IujNSvMKPQW177gpZ2oM0b8_Y5Vw/6b017cf125bc2cb6f7f9c8f2.html",
+    "total_time_taken": 0.96
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "gl": "in",
+    "hl": "en",
+    "q": "Infosys"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Keep humans at centre of math as we adapt to AI: Infosys laureate",
+      "source": {
+        "name": "The Hindu",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Vasudevan Mukunth"
+        ]
+      },
+      "link": "https://www.thehindu.com/sci-tech/science/riddhipratim-basu-infosys-prize-mathematics-artificial-intelligence-climate/article71715981.ece",
+      "thumbnail": "https://th-i.thgim.com/public/news/national/karnataka/pteb1l/article71692882.ece/alternates/LANDSCAPE_1200/Riddhipratim%20Basu%20winner%20of%20Infosys%20Prize%202026%20in%20Mathematical%20Sciences%20.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZWMFJ6UkhoQ2FITkxWV054VFJDZkF4ampCU2dLTWdZeGRZeXZNUVk",
+      "date": "11/19/2026, 02:45 AM, +0000 UTC",
+      "iso_date": "2026-11-19T02:45:00Z"
+    },
+    {
+      "position": 2,
+      "title": "Infosys joins NTT Docomo to build Japan's virtual business ecosystem",
+      "source": {
+        "name": "YourStory.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://yourstory.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://yourstory.com/ai-story/infosys-ntt-docomo-jv-japan-virtual-business",
+      "thumbnail": "https://images.yourstory.com/cs/286/07f6d7f0ed8e11ed819979969b4b51e2/Untitleddesign5-1795166843505.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFibGRPVUUxUU9XZHNhWEkzVFJDSEF4aVBCaWdLTWdZSmNKNnlLQWs",
+      "date": "11/18/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-11-18T08:00:00Z"
+    },
+    {
+      "position": 3,
+      "title": "News about Infosys • stock",
+      "stories": [
+        {
+          "position": 1,
+          "title": "TCS, Infosys and Tech Mahindra rise amid global AI sell-off | Tap to know more | Inshorts",
+          "source": {
+            "name": "Inshorts",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://inshorts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+          },
+          "link": "https://inshorts.com/en/news/tcs--infosys-and-tech-mahindra-rise-amid-global-ai-sell-off-1795159721367",
+          "thumbnail": "https://media.inshorts.com/inshorts/images/v1/variants/jpg/l/2026/11_nov/20_fri/img_1795159703647_396.jpg",
+          "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFkVUp3TUd0TFlXbEdjV000VFJEZ0F4aUFCU2dLTWdZQllJaGowUU0",
+          "date": "11/20/2026, 07:47 AM, +0000 UTC",
+          "iso_date": "2026-11-20T07:47:29Z"
+        },
+        {
+          "position": 2,
+          "title": "Infosys shares slides 2.5% despite Japan JV buzz; stock near 1 month low",
+          "source": {
+            "name": "BusinessLine",
+            "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+          },
+          "link": "https://www.thehindubusinessline.com/markets/stock-markets/infosys-slides-25-intraday-despite-japan-jv-buzz-stock-near-one-month-low/article71719153.ece",
+          "thumbnail": "https://bl-i.thgim.com/public/incoming/k1fbli/article71655861.ece/alternates/LANDSCAPE_1200/2026-10-26T035040Z_1251499328_RC2NJMAEQGY4_RTRMADP_3_INFOSYS-STOCKS.JPG",
+          "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpUMEYzVTBKd2JuY3hRbGx1VFJDZkF4ampCU2dLTWdhaFVwcFFKUWs",
+          "date": "11/19/2026, 07:27 AM, +0000 UTC",
+          "iso_date": "2026-11-19T07:27:05Z"
+        },
+        {
+          "position": 3,
+          "title": "Stocks to Buy and Sell (Nov 20): Titan, SBI, Apollo Hospitals, Infosys, TCS, other shares on analysts’ watchlist now—See targets",
+          "source": {
+            "name": "Zee Business",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.zeebiz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+          },
+          "link": "https://www.zeebiz.com/markets/stocks/news-stocks-to-buy-titan-sbi-apollo-hospitals-tcs-infosys-november-20-2026-405789",
+          "thumbnail": "https://cdn.zeebiz.com/sites/default/files/2026/11/20/418043-stocks-to-buy-list.jpg?im=FitAndFill=(448,252)&format=webp&quality=medium",
+          "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlSRmM0UmpKRVpucE1TRXBVVFJEOEFSakFBeWdLTWdZQmQ1SkRLZ1k",
+          "date": "11/20/2026, 02:44 AM, +0000 UTC",
+          "iso_date": "2026-11-20T02:44:12Z"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "title": "Infosys Expands AI Footprint in Japan With Telecom JV",
+      "source": {
+        "name": "Analytics India Magazine",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://analyticsindiamag.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://analyticsindiamag.com/ai-news/infosys-joins-ntt-docomo-metaverse-venture-as-ai-partner",
+      "thumbnail": "https://analyticsindiamag.com/cdn-cgi/image/width=1600,quality=60,format=auto,fit=scale-down/https://gspoceeuwjazjpplxtxe.supabase.co/storage/v1/object/public/imported-images/1769243584036-c238271a-96bf-4f57-8836-d632e18d7e56-m1mon.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRNbkJNY0ROSWMzVXRVRXgzVFJDZkF4ampCU2dLTWdhZG80cnNOUWM",
+      "date": "11/19/2026, 01:57 PM, +0000 UTC",
+      "iso_date": "2026-11-19T13:57:42Z"
+    },
+    {
+      "position": 5,
+      "title": "TCS, Infosys, HCL Technologies, Tech Mahindra: IT stocks gain amid global AI-theme selloff",
+      "source": {
+        "name": "Business Today",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aseem Thapliyal"
+        ]
+      },
+      "link": "https://www.businesstoday.in/markets/stocks/story/tcs-infosys-hcl-technologies-tech-mahindra-it-stocks-gain-amid-global-ai-theme-selloff-568663-2026-11-20",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202611/6affd0a868b13-infosys-shares-rose-2-to-rs-1-113-hcl-technologies-shares-gained-2-to-rs-1354-204631196-16x9.png?size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxibE5SWXpsUVVFZENZMmN6VFJDZkF4ampCU2dLTWdZQllJTHZ0QU0",
+      "date": "11/20/2026, 04:46 AM, +0000 UTC",
+      "iso_date": "2026-11-20T04:46:53Z"
+    },
+    {
+      "position": 6,
+      "title": "IT Stocks Witness Sharp Sell-Off! Kellton Tech Falls After KeOS Launch; Infosys, TCS, Wipro Among Top Laggards",
+      "source": {
+        "name": "Goodreturns",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodreturns.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Harshika Yadav"
+        ]
+      },
+      "link": "https://www.goodreturns.in/news/it-stocks-to-watch-kellton-tech-hcltech-infosys-tcs-more-in-focus-amid-ai-push-market-slump-1547963.html",
+      "thumbnail": "https://images.goodreturns.in/img/2026/11/aiitstocks2-34271795003678.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTNkSHBZVDBOVVgwMUtjMEZuVFJDMEFoallCQ2dLTWdrQlFJaUpPYVdTU2dJ",
+      "date": "11/18/2026, 12:10 PM, +0000 UTC",
+      "iso_date": "2026-11-18T12:10:25Z"
+    },
+    {
+      "position": 7,
+      "title": "TCS, Infosys and Wipro lose brand value amid AI disruption | Tap to know more | Inshorts",
+      "source": {
+        "name": "Inshorts",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://inshorts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://inshorts.com/en/news/tcs--infosys-and-wipro-lose-brand-value-amid-ai-disruption-1795103455217",
+      "thumbnail": "https://media.inshorts.com/inshorts/images/v1/variants/png/l/2026/11_nov/19_thu/img_1795103410815_626.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVhNMlZOYjNOa2F6TllURTEzVFJDWkF4anVCU2dLTWdrQlVZNXJyV1dwU0FJ",
+      "date": "11/19/2026, 03:50 PM, +0000 UTC",
+      "iso_date": "2026-11-19T15:50:55Z"
+    },
+    {
+      "position": 8,
+      "title": "Infosys Chairman Calls Job Fears ‘Hogwash’ as AI Spurs Business",
+      "source": {
+        "name": "Bloomberg.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sankalp Phartiyal",
+          "Saritha Rai"
+        ]
+      },
+      "link": "https://www.bloomberg.com/news/articles/2026-10-13/infosys-chairman-calls-job-fears-hogwash-as-ai-spurs-business",
+      "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL_hn3gQyWSY/v1/-1x-1.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpTSE5oZW1reVRGbHBTV3RJVFJEQUF4aXRCU2dLTWdhWko1SXFHZ28",
+      "date": "10/13/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-10-13T07:00:00Z"
+    },
+    {
+      "position": 9,
+      "title": "US Green Card suspension: What it means for Indian techies at Microsoft, TCS, Cognizant, Infosys, Wipro, HCL, Adobe and Capgemini",
+      "source": {
+        "name": "The Indian Express",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "aniruddha DHAR"
+        ]
+      },
+      "link": "https://indianexpress.com/article/world/us-news/us-perm-green-card-suspension-trump-tcs-infosys-microsoft-impact-explained-10914312/",
+      "thumbnail": "https://images.indianexpress.com/2026/10/us-green-card.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUljRk5XVVhaSllrSXpaRjkxVFJDZkF4ampCU2dLTWdZVk5ZWUxWZ00",
+      "date": "10/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-10-09T07:00:00Z"
+    },
+    {
+      "position": 10,
+      "title": "India's Infosys does not expect material impact from US PERM suspension",
+      "source": {
+        "name": "Reuters",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rishabh Jaiswal",
+          "Joe Bavier"
+        ]
+      },
+      "link": "https://www.reuters.com/world/us/indias-infosys-does-not-expect-material-impact-us-perm-suspension-2026-10-10/",
+      "thumbnail": "https://www.reuters.com/resizer/v2/XSGBJIE2SFNXRDVGD3D7FQRQBA.jpg?auth=26b83c414c74f9f6584f01affaffa9060762f2f0359fa16dc17f7fb548378927&width=1920&quality=80",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBVVUZtZUMxT1lrbHRWbGN0VFJDOEF4aXpCU2dLTWdhaFlwaFFxUWc",
+      "date": "10/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-10-10T07:00:00Z"
+    },
+    {
+      "position": 11,
+      "title": "Infosys Enables Direct Metro Connectivity to its Pune Campus to Advance Sustainable Commuting",
+      "source": {
+        "name": "Infosys",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.infosys.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.infosys.com/newsroom/features/2026/direct-metro-connectivity-pune-campus.html",
+      "thumbnail": "https://www.infosys.com/content/dam/infosys-web/en/global-resource/26/direct-metro-connectivity-pune-campus.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVhUREpsY1VoeVlWVjVVSFUzVFJET0F4aVlCU2dLTWdrQkVLQWdqNnNFeGdJ",
+      "date": "11/03/2026, 01:49 PM, +0000 UTC",
+      "iso_date": "2026-11-03T13:49:19Z"
+    },
+    {
+      "position": 12,
+      "title": "From ISI Kolkata to TIFR: How an Indian mathematician solved a decades-old puzzle",
+      "source": {
+        "name": "India Today",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.indiatoday.in/education-today/news/story/infosys-prize-2026-how-riddhipratim-basu-solved-the-decades-old-maths-problem-3043763-2026-11-21",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/infosys-prize-2026-how-riddhipratim-basu-solved-the-decades-old-maths-problem-215831671-16x9_0.png?VersionId=lhSqP2b1h8VE_wztgQvosov0u_K04xia&size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRRM1ZGYVVReGVWRnVSM2x2VFJDZkF4ampCU2dLTWdZdFpaU3ZLUWc",
+      "date": "11/21/2026, 07:01 AM, +0000 UTC",
+      "iso_date": "2026-11-21T07:01:44Z"
+    },
+    {
+      "position": 13,
+      "title": "Indian IT Stocks Rally 1.96% as TCS, Infosys and Tech Mahindra Gain Despite Global Tech Selloff",
+      "source": {
+        "name": "Kotak Neo",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.kotakneo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.kotakneo.com/news/sectors/indian-it-stocks-rally-as-tcs-infosys-and-tech-mahindra-gain-despite-global-tech-selloff/",
+      "thumbnail": "https://www.kotakneo.com/uploads/Nifty_IT_Index_Leads_Sectoral_Gains_as_TCS_HCL_Technologies_and_Infosys_Shares_Advance_amid_Market_Weakness_a4e629730f.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhSR2RxWmw5NFRtRnVWSE5tVFJDZkF4ampCU2dLTWdZQk5LS2ttUW8",
+      "date": "11/20/2026, 06:01 AM, +0000 UTC",
+      "iso_date": "2026-11-20T06:01:24Z"
+    },
+    {
+      "position": 14,
+      "title": "Infosys launches AI-powered live commentary",
+      "source": {
+        "name": "ATP Tour",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.atptour.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.atptour.com/en/news/infosys-ai-commentary-launch-november-2026",
+      "thumbnail": "https://www.atptour.com/-/media/images/news/2026/11/15/23/16/infosys-ai-commentary-november-2026.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFiSE5XTjFSeVNYWm5VWEZsVFJDZkF4ampCU2dLTWdhQlk1YW1OUWM",
+      "date": "11/16/2026, 10:35 AM, +0000 UTC",
+      "iso_date": "2026-11-16T10:35:39Z"
+    },
+    {
+      "position": 15,
+      "title": "Infosys To Invest $10 Mn In NTT Docomo Japan Joint Venture",
+      "source": {
+        "name": "TradingView",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.tradingview.com/news/moodys:43b2e5af29fbf:0-infosys-to-invest-10-mn-in-ntt-docomo-japan-joint-venture/",
+      "thumbnail": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBjR0phV0haM2FVMUZRMlZ4VFJDUkF4ajhCU2dLTWdhbGRKU3NMUWM",
+      "date": "11/19/2026, 11:37 AM, +0000 UTC",
+      "iso_date": "2026-11-19T11:37:04Z"
+    },
+    {
+      "position": 16,
+      "title": "Infosys Prize 2026 for Gautam Bhatia",
+      "source": {
+        "name": "Indian Printer & Publisher",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianprinterpublisher.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://indianprinterpublisher.com/blog/2026/11/infosys-gautam-bhatia/",
+      "thumbnail": "https://indianprinterpublisher.com/wp-content/uploads/2026/11/gautam-bhatia-banner.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJjRVo0V0ZoeVRVaHhRM0Z2VFJEZ0F4aUFCU2dLTWdhOWc1UlNyUWM",
+      "date": "11/20/2026, 05:13 AM, +0000 UTC",
+      "iso_date": "2026-11-20T05:13:55Z"
+    },
+    {
+      "position": 17,
+      "title": "'AI can leave a backdoor': Infosys co-founder warns against blindly trusting AI-written code",
+      "source": {
+        "name": "Storyboard18",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.storyboard18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.storyboard18.com/brand-makers/ai-can-leave-a-backdoor-infosys-co-founder-warns-against-blindly-trusting-ai-written-code-114961.htm",
+      "thumbnail": "https://images.storyboard18.com/storyboard18/2026/11/Visuals-Page-2026-11-17T173918.673-2026-11-32017aa380bab94f2bee8b3b592fe8bd-1019x573.jpg?impolicy=website&width=675&height=1200",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdhVmw0TTBWWVdubG9OM0JRVFJEOEFoaWpCU2dLTWdheFZKQ1FLUWM",
+      "date": "11/17/2026, 12:16 PM, +0000 UTC",
+      "iso_date": "2026-11-17T12:16:02Z"
+    },
+    {
+      "position": 18,
+      "title": "Infosys partners with NTT Docomo for AI-powered Metaverse ecosystem in Japan",
+      "source": {
+        "name": "CNBC TV18",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jomy Pullokaran"
+        ]
+      },
+      "link": "https://www.cnbctv18.com/market/stocks/infosys-share-price-partners-with-ntt-docomo-for-ai-powered-metaverse-ecosystem-in-japan-20037236.htm",
+      "thumbnail": "https://images.cnbctv18.com/uploads/2026/07/infosys-2026-07-ad9b298a9ed18a1013ad9ffe1acd6101.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9VRlppT1hGaldXVlRNbmRPVFJDZkF4ampCU2dLTWdhWkVvYXRqUXM",
+      "date": "11/18/2026, 06:19 PM, +0000 UTC",
+      "iso_date": "2026-11-18T18:19:26Z"
+    },
+    {
+      "position": 19,
+      "title": "Price Action: Infosys sheds 2% on JV with Japanese firm; Tonbo Imaging up 2% on order win",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/news/business/stocks/price-action-infosys-sheds-2-on-jv-with-japanese-firm-tonbo-imaging-up-2-on-order-win-14084052.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/06/20260606032632_stock1.jpg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlka1ppVkZkNk9VWXpXbEJPVFJDZkF4ampCU2dLTWdZcHhJaHVSUVE",
+      "date": "11/19/2026, 04:36 AM, +0000 UTC",
+      "iso_date": "2026-11-19T04:36:04Z"
+    },
+    {
+      "position": 20,
+      "title": "Nvidia Q3 Revenue Jumps 103%: Why Did TCS and Infosys Fall?",
+      "source": {
+        "name": "NiftyTrader",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.niftytrader.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nikki Lodha"
+        ]
+      },
+      "link": "https://www.niftytrader.in/markets/nvidia-q3-revenue-jumps-tcs-infosys-fall/",
+      "thumbnail": "https://trending.niftytrader.in/wp-content/uploads/2026/11/Nvidia-Q3-Revenue-Jumps-103_-Why-Did-TCS-and-Infosys-Fall_-860x425.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXFVRTFqV0ZnNE1XWk5RMU5YVFJDRkF4aVVCaWdLTWdtQkVvQURGeXByTkFF",
+      "date": "11/18/2026, 08:13 AM, +0000 UTC",
+      "iso_date": "2026-11-18T08:13:18Z"
+    },
+    {
+      "position": 21,
+      "title": "Infosys invests JPY 1.59bn for 10.1% stake in NTT Docomo JV",
+      "source": {
+        "name": "scanx.trade",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://scanx.trade/stock-market-news/companies/infosys-invests-jpy-1-59bn-ntt-docomo-metaverse-jv/56566600",
+      "thumbnail": "https://news-images.dhan.co/infosys-invests-jpy-1-59bn-ntt-docomo-metaverse-jv.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNOVVpVUldGNlYzbHdOek41VFJDaUF4amRCU2dLTWdZUkFJVE9CQW8",
+      "date": "11/18/2026, 05:05 PM, +0000 UTC",
+      "iso_date": "2026-11-18T17:05:34Z"
+    },
+    {
+      "position": 22,
+      "title": "AI Reshapes Software Engineering: Review, Don't Just Write Code",
+      "source": {
+        "name": "Rediff",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.rediff.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.rediff.com/business/report/engineers-must-retrain-to-review-ai-written-code-gopalakrishnan/20261117.htm",
+      "thumbnail": "https://im.rediff.com/1600-900/money/2026/aug/17ai-engineers1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUllazlhWkhCTE5VdEVkemwzVFJDZkF4ampCU2dLTWdZQk1vSkZvUWc",
+      "date": "11/17/2026, 09:30 AM, +0000 UTC",
+      "iso_date": "2026-11-17T09:30:07Z"
+    },
+    {
+      "position": 23,
+      "title": "Infosys shares slide over 2%; Hyderabad campus expansion fails to lift sentiment",
+      "source": {
+        "name": "BusinessLine",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thehindubusinessline.com/markets/stock-markets/infosys-shares-slide-over-2-hyderabad-campus-expansion-fails-to-lift-sentiment/article71655856.ece",
+      "thumbnail": "https://bl-i.thgim.com/public/incoming/k1fbli/article71655861.ece/alternates/LANDSCAPE_1200/2026-10-26T035040Z_1251499328_RC2NJMAEQGY4_RTRMADP_3_INFOSYS-STOCKS.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpUMEYzVTBKd2JuY3hRbGx1VFJDZkF4ampCU2dLTWdhaFVwcFFKUWs",
+      "date": "11/02/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-11-02T08:00:00Z"
+    },
+    {
+      "position": 24,
+      "title": "Stock market opens mixed: Sensex gains, Nifty falls; Infosys leads losers",
+      "source": {
+        "name": "India Today",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.indiatoday.in/business/story/stock-market-opens-mixed-sensex-gains-nifty-falls-infosys-leads-losers-3042031-2026-11-19",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/stock-market-194946590-16x9_0.jpg?VersionId=won.3FumvIw1pBa.vxop0w9pY7JcV5Ps&size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNHpXakpsUzBwWU5HZFJRbGRVVFJDZkF4ampCU2dLTWdNQlVnSQ",
+      "date": "11/19/2026, 03:50 AM, +0000 UTC",
+      "iso_date": "2026-11-19T03:50:57Z"
+    },
+    {
+      "position": 25,
+      "title": "Infosys Subsidiary Will Be Entering Into A Joint Venture Agreement With NTT Docomo",
+      "source": {
+        "name": "TradingView",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46Z0QJ:0-infosys-subsidiary-will-be-entering-into-a-joint-venture-agreement-with-ntt-docomo/",
+      "thumbnail": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBjR0phV0haM2FVMUZRMlZ4VFJDUkF4ajhCU2dLTWdhbGRKU3NMUWM",
+      "date": "11/18/2026, 04:58 PM, +0000 UTC",
+      "iso_date": "2026-11-18T16:58:32Z"
+    },
+    {
+      "position": 26,
+      "title": "Infosys RTA KFin Technologies shifts corporate office from Dec 1",
+      "source": {
+        "name": "scanx.trade",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://scanx.trade/stock-market-news/companies/infosys-rta-kfin-technologies-shifts-corporate-office-dec-1/56566344",
+      "thumbnail": "https://news-images.dhan.co/infosys-rta-kfin-technologies-shifts-corporate-office-dec-1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNU5NbGRQZERWMFVqUlNTRWRyVFJDaUF4amRCU2dLTWdOVkVBRQ",
+      "date": "11/18/2026, 04:56 PM, +0000 UTC",
+      "iso_date": "2026-11-18T16:56:14Z"
+    },
+    {
+      "position": 27,
+      "title": "Indian rupee at 7-month high against US dollar: How a stronger rupee impacts TCS, Infosys and other IT companies' earnings",
+      "source": {
+        "name": "Upstox",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sreenivas Ajankar"
+        ]
+      },
+      "link": "https://upstox.com/news/market-news/stocks/indian-rupee-at-7-month-high-against-us-dollar-how-a-stronger-rupee-impacts-tcs-infosys-and-other-it-companies-earnings/article-203696/",
+      "thumbnail": "https://assets.upstox.com/content/assets/images/news/rupee-at-7-month-high.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRTSGhMVWxjNFNEbGtiMVkxVFJDZkF4ampCU2dLTWdZdElvN3lIQWc",
+      "date": "11/19/2026, 07:31 AM, +0000 UTC",
+      "iso_date": "2026-11-19T07:31:42Z"
+    },
+    {
+      "position": 28,
+      "title": "Too much oxygen can harm the body. Harvard-MIT scientist Isha Jain is decoding why",
+      "source": {
+        "name": "India Today",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.indiatoday.in/education-today/news/story/infosys-prize-2026-winner-isha-jain-studying-why-too-much-oxygen-can-damage-body-3042461-2026-11-20",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/infosys-prize-2026-winner-isha-jain-is-studying-why-too-much-oxygen-can-damage-the-body-193218237-16x9_0.jpg?VersionId=VDfMSKK1Mt0S2AIdBNm_QtOeG_35mQBX&size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBRMVY2Um5aS05XRnpXa3RxVFJDZkF4ampCU2dLTWdhbGRvd0xNZ1k",
+      "date": "11/20/2026, 02:15 AM, +0000 UTC",
+      "iso_date": "2026-11-20T02:15:00Z"
+    },
+    {
+      "position": 29,
+      "title": "Infosys worker refuses to fly home, loses unfair dismissal claim",
+      "source": {
+        "name": "Human Resources Director",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.hcamag.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.hcamag.com/au/specialisation/employment-law/infosys-worker-refuses-to-fly-home-loses-unfair-dismissal-claim/598080",
+      "thumbnail": "https://cdn-res.keymedia.com/cdn-cgi/image/w=1000,h=600,f=auto/https://cdn-res.keymedia.com/cms/images/us/037/0343_639307072852017737.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhTMUk0Yms1VGIzWXdSazh3VFJDdUFSaWlBaWdCTWdhQmNaTExLUWM",
+      "date": "11/19/2026, 05:53 PM, +0000 UTC",
+      "iso_date": "2026-11-19T17:53:04Z"
+    },
+    {
+      "position": 30,
+      "title": "‘No more about writing code’: Infosys co-founder on how AI will impact techies",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/news/business/no-more-about-writing-code-infosys-co-founder-on-how-ai-will-impact-techies-14082447.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/01/20250128012709_Infy-co.jpg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhSSEpKZW5rdGVFdDFRMVZ3VFJDZkF4ampCU2dLTWdZcFpZN05xUWM",
+      "date": "11/17/2026, 09:47 AM, +0000 UTC",
+      "iso_date": "2026-11-17T09:47:23Z"
+    },
+    {
+      "position": 31,
+      "title": "Dear TCS, Infosys, Wipro. It’s not you, it’s Microsoft",
+      "source": {
+        "name": "The Ken",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://the-ken.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sumit Chakraborty"
+        ]
+      },
+      "link": "https://the-ken.com/the-collection/dear-tcs-infosys-wipro-its-not-you-its-microsoft/",
+      "thumbnail": "https://the-ken.com/wp-content/uploads/2026/10/green-card-1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJlbWhHWkdkWk1taEZkRFZOVFJDYkF4anBCU2dLTWdZSmhKaHVzUWM",
+      "date": "10/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-10-10T07:00:00Z"
+    },
+    {
+      "position": 32,
+      "title": "Infosys Ltd. ADR outperforms competitors despite losses on the day",
+      "source": {
+        "name": "MarketWatch",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.marketwatch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.marketwatch.com/data-news/infosys-ltd-adr-outperforms-competitors-despite-losses-on-the-day-e1864ffc-fcf49b9f299e?mod=goog_fin_scmw",
+      "thumbnail": "https://images.mktw.net/im-220105?width=700&height=466",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZVbVZ2TVdsbWVWUmxaR2t4VFJERUF4aW5CU2dLTWdhQmNaSUhMUWM",
+      "date": "11/17/2026, 10:22 PM, +0000 UTC",
+      "iso_date": "2026-11-17T22:22:00Z"
+    },
+    {
+      "position": 33,
+      "title": "Rs 30 lakh betting losses drive Infosys engineer to failed heist in Odisha",
+      "source": {
+        "name": "The New Indian Express",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Asish Mehta"
+        ]
+      },
+      "link": "https://www.newindianexpress.com/states/odisha/2026/Nov/15/rs-30-lakh-betting-losses-drive-infosys-engineer-to-failed-heist-in-odisha",
+      "thumbnail": "https://cf-images.assettype.com/newindianexpress%2F2025-06-17%2Fi3iianrp%2F202506173430561.jpg?rect=0%2C0%2C450%2C253&w=1200&h=675&auto=format%2Ccompress&fit=crop",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdaRGhKWkc5NVIzWnZlV1Z2VFJEOUFSakNBeWdLTWdZbE5venNHUWs",
+      "date": "11/15/2026, 02:20 AM, +0000 UTC",
+      "iso_date": "2026-11-15T02:20:25Z"
+    },
+    {
+      "position": 34,
+      "title": "Infosys Invests JPY 1.59 Billion for 10.1% Stake in NTT Docomo Playspace JV",
+      "source": {
+        "name": "Sahi",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.sahi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.sahi.com/news/infosys-invests-jpy-1-59-billion-for-10-1-stake-in-ntt-docomo-playspace-jv",
+      "thumbnail": "https://www.sahi.com/assets/uploads/1098_PE_1_CORPORATE_19_11_2026_16x9_40fbf9864c.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZYM2hOUTJOdVFtOUdWak5aVFJDZUF4amxCU2dLTWdhZFU0eHNvUWM",
+      "date": "11/19/2026, 05:39 AM, +0000 UTC",
+      "iso_date": "2026-11-19T05:39:13Z"
+    },
+    {
+      "position": 35,
+      "title": "Infosys Science Foundation announces the 6 winners of the Infosys Prize 2026",
+      "source": {
+        "name": "Research Matters",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://researchmatters.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://researchmatters.in/news/infosys-science-foundation-announces-the-6-winners-of-the-infosys-prize-2026",
+      "thumbnail": "https://researchmatters.in/tenancy/assets/uploads/2026/11/1794487606_VolcanicRockCooker1.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdPWGd4TjB0T05YTXdOSHBDVFJDZkF4ampCU2dLTWdZRkVwU0VrUXM",
+      "date": "11/12/2026, 12:50 PM, +0000 UTC",
+      "iso_date": "2026-11-12T12:50:00Z"
+    },
+    {
+      "position": 36,
+      "title": "6 researchers win Infosys Prize 2026. From climate change economist to quantum physicist",
+      "source": {
+        "name": "ThePrint",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://theprint.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Akanksha Mishra"
+        ]
+      },
+      "link": "https://theprint.in/science/6-researchers-win-infosys-prize-2026-climate-change-economist-quantum-physicist/3097033/",
+      "thumbnail": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/11/shah-rukh-mannat-gauri-1-1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXZjbkUyZUhKUlEyVnlURmg2VFJDZkF4ampCU2dLTWdtQklLREVuV29tNWdJ",
+      "date": "11/12/2026, 11:06 AM, +0000 UTC",
+      "iso_date": "2026-11-12T11:06:41Z"
+    },
+    {
+      "position": 37,
+      "title": "Infosys Science Foundation announces six winners of Infosys Prize 2026",
+      "source": {
+        "name": "BusinessLine",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thehindubusinessline.com/companies/infosys-science-foundation-announces-six-winners-of-infosys-prize-2026/article71692798.ece",
+      "thumbnail": "https://bl-i.thgim.com/public/news/7t98fi/article71692848.ece/alternates/LANDSCAPE_1200/Screenshot%202026-11-12%20133250.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUNiVGhtUVZkTmJuQndTR1F5VFJDZkF4ampCU2dLTWdrQllKZ2lyQ2loN3dF",
+      "date": "11/12/2026, 08:06 AM, +0000 UTC",
+      "iso_date": "2026-11-12T08:06:16Z"
+    },
+    {
+      "position": 38,
+      "title": "Stocks to Watch Today: BLS Polymers, NALCO, LT Foods, Dalmia Bharat, Sky Gold and Diamonds, Greenlam,...",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/news/business/markets/stocks-to-watch-today-bls-polymers-nalco-lt-foods-dalmia-bharat-sky-gold-and-diamonds-greenlam-infosys-pb-fintech-tonbo-imaging-in-focus-on-19-november-14084019.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/11/20261107032336_stocks2.jpg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdVekZ1VmtwWloxaEtZalY2VFJDZkF4ampCU2dLTWdZQkFvUm9nZzA",
+      "date": "11/19/2026, 01:49 AM, +0000 UTC",
+      "iso_date": "2026-11-19T01:49:51Z"
+    },
+    {
+      "position": 39,
+      "title": "Infosys (NSEI:INFY) Stock Could Be Undervalued As AI Telecom Demand Builds",
+      "source": {
+        "name": "Simply Wall St",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sasha Jovanovic"
+        ]
+      },
+      "link": "https://simplywall.st/stocks/in/software/nse-infy/infosys-shares/news/infosys-nseiinfy-stock-could-be-undervalued-as-ai-telecom-de",
+      "thumbnail": "https://images.simplywall.st/asset/company-cover/398006-card/1790076060894?w=1600&h=900&fit=cover",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXhhV3BDVWxSdWJFZFJXa3RxVFJDZkF4ampCU2dLTWdNQllnbw",
+      "date": "11/19/2026, 09:08 PM, +0000 UTC",
+      "iso_date": "2026-11-19T21:08:56Z"
+    },
+    {
+      "position": 40,
+      "title": "UP CM Yogi Adityanath distributes 50,000 tablets under Swami Vivekananda Yuva Yojana, offers 18,000 free Infosys courses to students in Lucknow",
+      "source": {
+        "name": "Education Times",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.educationtimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Adhya Sarna"
+        ]
+      },
+      "link": "https://www.educationtimes.com/news/up-cm-yogi-adityanath-distributes-50000-tablets-under-swami-vivekananda-yuva-yojana-offers-18000-free-infosys-courses-to-students-in-lucknow/articleshow/135869662.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-135869687,width-1280,height-720,resizemode-4/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJNRE0yUWtkVU5saGtYMEppVFJDb0FSaXNBaWdCTWdZTkJKcVBvUWc",
+      "date": "11/16/2026, 02:00 AM, +0000 UTC",
+      "iso_date": "2026-11-16T02:00:00Z"
+    },
+    {
+      "position": 41,
+      "title": "Legal scholar Gautam Bhatia, five other academics win Infosys Prize 2026",
+      "source": {
+        "name": "Scroll.in",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://scroll.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://scroll.in/latest/1097046/legal-scholar-gautam-bhatia-five-other-academics-win-infosys-prize-2026",
+      "thumbnail": "https://sc0.blr1.cdn.digitaloceanspaces.com/article/216562-nvxgolkboz-1794494842.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJXV2hpWkhWRmJXTlphRE5WVFJDUkF4ajhCU2dLTWdhcFpZck5MUVk",
+      "date": "11/12/2026, 03:23 PM, +0000 UTC",
+      "iso_date": "2026-11-12T15:23:00Z"
+    },
+    {
+      "position": 42,
+      "title": "Infosys Gains as Investors Revisit AI Progress and Recent Enterprise Wins",
+      "source": {
+        "name": "Quiver Quantitative",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.quiverquant.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.quiverquant.com/news/Infosys+Gains+as+Investors+Revisit+AI+Progress+and+Recent+Enterprise+Wins",
+      "thumbnail": "https://www.quiverquant.com/images/infy_rect_new.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZiMjlTYjFKQmFIVkVabkZRVFJEM0FoaXhCaWdLTWdZbGhaS01zUVk",
+      "date": "11/20/2026, 09:21 PM, +0000 UTC",
+      "iso_date": "2026-11-20T21:21:00Z"
+    },
+    {
+      "position": 43,
+      "title": "Legal Scholar Gautam Bhatia Awarded Infosys Prize 2026 In Humanities And Social Sciences",
+      "source": {
+        "name": "Live Law",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.livelaw.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.livelaw.in/news-updates/legal-scholar-gautam-bhatia-awarded-infosys-prize-2026-in-humanities-and-social-sciences-558286",
+      "thumbnail": "https://www.livelaw.in/h-upload/2026/11/13/1500x900_711204-img6476.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpkRE5XYzNOa2VTMXlSRXh5VFJDdEF4akxCU2dLTWdiRllwSVVLUWc",
+      "date": "11/12/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-11-12T08:00:00Z"
+    },
+    {
+      "position": 44,
+      "title": "7-Time Grand Slam Champion Carlos Alcaraz is Infosys Global Brand Ambassador",
+      "source": {
+        "name": "Infosys",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.infosys.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.infosys.com/newsroom/press-releases/2026/carlos-alcaraz-brand-ambassador.html",
+      "date": "04/15/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-15T07:00:00Z"
+    },
+    {
+      "position": 45,
+      "title": "Infosys, TCS and Wipro scale Microsoft 365 Copilot to over 300,000 employees",
+      "source": {
+        "name": "Microsoft Source",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://news.microsoft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://news.microsoft.com/source/asia/2026/06/03/infosys-tcs-and-wipro-scale-microsoft-365-copilot-to-over-300000-employees/",
+      "thumbnail": "https://news.microsoft.com/source/asia/wp-content/uploads/2026/06/Windows11-C2-Screen-Windows11-Copilot-16x10-1-1024x640.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWljM3BWUWxCMFpFSnllRWRMVFJDMkF4aTlCU2dLTWdZaFpKU3RLUWc",
+      "date": "06/03/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-03T07:00:00Z"
+    },
+    {
+      "position": 46,
+      "title": "Infosys Prize 2026 goes to six researchers, including quantum and wireless experts and legal scholar Gautam Bhatia",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/technology/infosys-prize-2026-recognises-research-in-quantum-computing-wireless-networks-and-human-health-article-14076963.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/11/20261111060513_ISF.png?impolicy=website&width=350&height=196",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJTemQyTUc5UFZGcEtXa3BsVFJERUFSamVBaWdLTWdZVk1Jck1wUVk",
+      "date": "11/12/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-11-12T08:00:00Z"
+    },
+    {
+      "position": 47,
+      "title": "Infosys INFY: KFin Technologies RTA Office Address Change",
+      "source": {
+        "name": "Kalkine India",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.kalkine.co.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.kalkine.co.in/article/announcements/infosys-nseinfy-why-did-its-share-transfer-agent-change-its-corporate-office",
+      "thumbnail": "https://www.kalkine.co.in/uploads/articles/default_image/3d35f32e-d7ad-4c89-8347-404f161e1868.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHRVMGR5WldWeGEzRm1ORkZCVFJERUF4aW5CU2dLTWdrVmdveUp3V1ZGN1FF",
+      "date": "11/18/2026, 04:40 PM, +0000 UTC",
+      "iso_date": "2026-11-18T16:40:00Z"
+    },
+    {
+      "position": 48,
+      "title": "Infosys on Exponential Engineering, Frontier Telco, and AI-Native Transformation",
+      "source": {
+        "name": "Infosys",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.infosys.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.infosys.com/iki/videos/ai-native-operating-models.html",
+      "thumbnail": "https://play.vidyard.com/9nKyiY5xy46mVfgyQDFARw.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVhPSEoyVjJKcmFVVTRiMlpsVFJDTkF4aUZCaWdLTWdrVkU1Qm9tdWxNeEFJ",
+      "date": "06/20/2026, 06:14 PM, +0000 UTC",
+      "iso_date": "2026-06-20T18:14:04Z"
+    },
+    {
+      "position": 49,
+      "title": "Where TCS, HCLTech, Infosys, and the rest still win",
+      "source": {
+        "name": "The Ken",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://the-ken.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Gopal Krishnan"
+        ]
+      },
+      "link": "https://the-ken.com/columns/zero-shot/where-tcs-hcltech-infosys-and-the-rest-still-win/",
+      "thumbnail": "https://the-ken.com/wp-content/uploads/2026/06/museum-of-new-zealand-te-papa-tongarewa-bONNug_9x44-unsplash-1024x777.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXpXazFWZVRONldGUmtRMVpZVFJEaUF4ajhCQ2dLTWdrSmdJNkhzYVVXelFF",
+      "date": "06/13/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-13T07:00:00Z"
+    },
+    {
+      "position": 50,
+      "title": "Infosys Unveils AI First Value Framework: Uniquely Positioned to Capture New AI Services Opportunity of Over $300 Billion",
+      "source": {
+        "name": "Infosys",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.infosys.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.infosys.com/newsroom/press-releases/2026/unveils-ai-first-value-framework.html",
+      "thumbnail": "https://www.infosys.com/content/dam/infosys-web/en/global-resource/26/hexagon01.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhXbk5aZFhGaWEwOUhMV1Z4VFJDOEF4aVFBeWdLTWdhZGc1S010UVk",
+      "date": "02/17/2026, 12:29 PM, +0000 UTC",
+      "iso_date": "2026-02-17T12:29:27Z"
+    },
+    {
+      "position": 51,
+      "title": "Infosys (NYSE:INFY) Shares Climb 4.7% - Time to Buy?",
+      "source": {
+        "name": "MarketBeat",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.marketbeat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.marketbeat.com/instant-alerts/price-infosys-nyse-infy-shares-climb-47-time-to-buy-2026-11-20/",
+      "thumbnail": "https://www.marketbeat.com/logos/infosys-ltd-logo-1200x675.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpUbEJHWmxGeVNEZ3dXV1JNVFJDZkF4ampCU2dLTWdhbGhKU01yUVk",
+      "date": "11/20/2026, 05:24 PM, +0000 UTC",
+      "iso_date": "2026-11-20T17:24:45Z"
+    },
+    {
+      "position": 52,
+      "title": "Infosys (NYSE:INFY) Shares Break Below Fifty Day Moving Average - Should You Sell?",
+      "source": {
+        "name": "MarketBeat",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.marketbeat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.marketbeat.com/instant-alerts/price-infosys-nyse-infy-shares-break-below-fifty-day-moving-average-should-you-sell-2026-11-20/",
+      "thumbnail": "https://www.marketbeat.com/logos/infosys-ltd-logo-1200x675.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpUbEJHWmxGeVNEZ3dXV1JNVFJDZkF4ampCU2dLTWdhbGhKU01yUVk",
+      "date": "11/20/2026, 10:01 AM, +0000 UTC",
+      "iso_date": "2026-11-20T10:01:53Z"
+    },
+    {
+      "position": 53,
+      "title": "Launching Today",
+      "source": {
+        "name": "Infosys",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.infosys.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.infosys.com/newsroom/press-releases/2025/launching-topaz-fabric.html",
+      "date": "11/03/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-03T08:00:00Z"
+    },
+    {
+      "position": 54,
+      "title": "Responsible Enterprise AI in the Agentic Era",
+      "source": {
+        "name": "Infosys",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.infosys.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Samad Masood",
+          "Harry Keir Hughes",
+          "Jeff Kavanaugh"
+        ]
+      },
+      "link": "https://www.infosys.com/iki/research/responsible-enterprise-ai-agentic.html",
+      "thumbnail": "https://www.infosys.com/content/dam/infosys-web/en/iki/images/responsible-enterprise-ai-lead.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVplRkJXYWtzNFFuZzRNMlpWVFJDR0FSajRBaWdCTWdaUllJaTNLQWM",
+      "date": "08/14/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-08-14T07:00:00Z"
+    },
+    {
+      "position": 55,
+      "title": "AI Business Value Radar 2025",
+      "source": {
+        "name": "Infosys",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.infosys.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.infosys.com/iki/research/ai-business-value-radar2025.html",
+      "thumbnail": "https://www.infosys.com/content/dam/infosys-web/en/iki/images/ai-business-value-radar-2025-09.svg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXdjekJ4TTNWd1IwRmxkRzEyVFJDREJCalRCQ2dLTWdtaEZJVE5HV2x6MVFB",
+      "date": "03/11/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-03-11T07:00:00Z"
+    },
+    {
+      "position": 56,
+      "title": "Infosys launches new sonic identity to reinforce its brand purpose",
+      "source": {
+        "name": "Infosys",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.infosys.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.infosys.com/newsroom/press-releases/2023/launches-new-sonic-identity.html",
+      "date": "08/09/2023, 07:00 AM, +0000 UTC",
+      "iso_date": "2023-08-09T07:00:00Z"
+    },
+    {
+      "position": 57,
+      "title": "Infosys Topaz - An AI-first offering to accelerate business value for global enterprises using generative AI",
+      "source": {
+        "name": "Infosys",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.infosys.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.infosys.com/services/data-ai-topaz/overview.html",
+      "date": "05/22/2023, 07:00 AM, +0000 UTC",
+      "iso_date": "2023-05-22T07:00:00Z"
+    },
+    {
+      "position": 58,
+      "title": "Infosys stock: INR 18,000 crore buyback opens during key week",
+      "source": {
+        "name": "ad-hoc-news.de",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ad-hoc-news.de&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/infosys-stock-inr-18-000-crore-buyback-opens-during-key-week/70541717",
+      "thumbnail": "https://mdb.ad-hoc-news.de/bild/bild-2404987_1920_0.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVhNVmsyZHpBMk1WcHROVWxVVFJDZkF4ampCU2dLTWdrZFE0aExvYWg3RUFF",
+      "date": "11/21/2026, 09:32 AM, +0000 UTC",
+      "iso_date": "2026-11-21T09:32:34Z"
+    },
+    {
+      "position": 59,
+      "title": "TCS, Infosys, Wipro Lose Up To 45% In Brand Value. AI Is Being Blamed",
+      "source": {
+        "name": "NDTV Profit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.ndtvprofit.com/business/tcs-infosys-wipro-lose-up-to-45-in-brand-value-ai-is-being-blamed-12350103",
+      "thumbnail": "https://c.ndtvimg.com/2026-11/gs9gajds_tcs-infosys-wipro_625x300_19_November_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDFVbkZ0UTBabWEySTBlRFpsVFJDZkF4ampCU2dLTWdtSkVvakZ6cU5hNWdJ",
+      "date": "11/19/2026, 01:33 PM, +0000 UTC",
+      "iso_date": "2026-11-19T13:33:22Z"
+    },
+    {
+      "position": 60,
+      "title": "IT Stocks Fall: Wipro, Infosys, Mphasis, LTM, Others Trade Lower; Nifty IT Drops Over 1%",
+      "source": {
+        "name": "NDTV Profit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ankit Gohel"
+        ]
+      },
+      "link": "https://www.ndtvprofit.com/markets/it-stocks-fall-wipro-infosys-mphasis-ltm-others-trade-lower-nifty-it-drops-over-1-12342116",
+      "thumbnail": "https://c.ndtvimg.com/2026-06/4hl3apts_it-stocks-downgraded-sell_625x300_11_June_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhWM0I0WHpaeVQyUnNPVFZDVFJDZkF4ampCU2dLTWdhQm1KU2tOZ2M",
+      "date": "11/18/2026, 04:20 AM, +0000 UTC",
+      "iso_date": "2026-11-18T04:20:16Z"
+    },
+    {
+      "position": 61,
+      "title": "TCS vs Infosys: Better IT stock to buy amid anti-AI trade buzz | Experts' views, target price, stop-loss, rationale",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Asit Manohar"
+        ]
+      },
+      "link": "https://www.livemint.com/market/stock-market-news/tcs-vs-infosys-better-it-stock-to-buy-amid-anti-ai-trade-buzz-experts-views-target-price-stop-loss-rationale-11794910515731.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/11/17/1600x900/logo/Stocks_to_buy_today_TCS_Infosys_share_price_target_1794910721303_Sifw_1794910721463_So47_cfd5714e-ac14-483d-9f39-599158c70404_IqJp.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhSbmhTU1cxT1RIQkVVa1JCVFJDZkF4ampCU2dLTWdhQlFJNkV0QWM",
+      "date": "11/17/2026, 10:57 AM, +0000 UTC",
+      "iso_date": "2026-11-17T10:57:49Z"
+    },
+    {
+      "position": 62,
+      "title": "In GCC race, Cognizant bets on reskilling talent, Infosys on rewiring legacy tech",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jas Bardia"
+        ]
+      },
+      "link": "https://www.livemint.com/companies/news/cognizant-infosys-gccs-bengaluru-it-companies-11795009462357.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/11/18/1600x900/logo/2-0-548636603-Cognizant-0_1680597733733_1795014250612_YxLa_677b6005-c54d-41d1-8c3e-90c235fc5a4c_IhOf.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWhTa3BsUjJaT09FZGlWR1JSVFJDZkF4ampCU2dLTWdrWkFJU00wYUllZ1FN",
+      "date": "11/19/2026, 12:30 AM, +0000 UTC",
+      "iso_date": "2026-11-19T00:30:20Z"
+    },
+    {
+      "position": 63,
+      "title": "A Look at Infosys Ltd (INFY) After 3.3% Gain -- GF Value $19.74 vs Price $12.03",
+      "source": {
+        "name": "GuruFocus",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.gurufocus.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.gurufocus.com/news/9213486/a-look-at-infosys-ltd-infy-after-33-gain-gf-value-1974-vs-price-1203",
+      "thumbnail": "https://static.gurufocus.com/logos/0C00000BGU.png?20",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZiMlpwWVdGeGJ6Rm1lVTkxVFJDUUF4aVFBeWdLTWdZVms1Uk11UVk",
+      "date": "11/21/2026, 01:34 AM, +0000 UTC",
+      "iso_date": "2026-11-21T01:34:05Z"
+    },
+    {
+      "position": 64,
+      "title": "Infosys, TCS, HCL Tech: Indian IT stocks buck global AI rout trend; Nifty IT jumps 2% - Key reasons | Top shares to buy",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Pranati Deva"
+        ]
+      },
+      "link": "https://www.livemint.com/market/stock-market-news/infosys-tcs-hcl-tech-indian-it-stocks-buck-global-ai-rout-trend-nifty-it-jumps-2-key-reasons-top-shares-to-buy-11795103694291.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/Nifty_IT_Rises_Amid_Global_Rout_1795150122148_ixMl_1795150138392_cYW4_ac521745-5559-493d-9ce6-5038c3748467_Jx00.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdha2s1TTJkc05rMTFXVkpqVFJDZkF4ampCU2dLTWdhSkFKUkZqUXM",
+      "date": "11/20/2026, 04:49 AM, +0000 UTC",
+      "iso_date": "2026-11-20T04:49:37Z"
+    },
+    {
+      "position": 65,
+      "title": "IT Stocks Selloff: Nifty IT Down For Third Straight Session; Infosys, TCS, HCL Tech, Wipro, Coforge Slip",
+      "source": {
+        "name": "NDTV Profit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ankit Gohel"
+        ]
+      },
+      "link": "https://www.ndtvprofit.com/markets/it-stocks-selloff-nifty-it-down-for-third-straight-session-infosys-tcs-hcl-tech-wipro-coforge-slip-12347147",
+      "thumbnail": "https://c.ndtvimg.com/2026-05/8kpafmg4_it-stocks-fall_625x300_12_May_26.jpeg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUVjRlpQUzBoYVRFUTFSVFJhVFJDZkF4ampCU2dLTWdtVlFZalNVS05NYUFJ",
+      "date": "11/19/2026, 04:10 AM, +0000 UTC",
+      "iso_date": "2026-11-19T04:10:59Z"
+    },
+    {
+      "position": 66,
+      "title": "H-1B is ‘not a business model’: Infosys, TCS, Wipro face fresh scrutiny as US visa crackdown widens",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.livemint.com/news/us-news/h1b-is-not-a-business-model-infosys-tcs-wipro-face-fresh-scrutiny-as-us-visa-crackdown-widens-11794714759722.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/HXHvHtqXEAAYdDb_1794716005026_RHvF_1794716041352_H0bU_6b61b998-0309-4f96-9dab-662675830899_wyPC.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVlalJuY210SlVHaG5Ralp1VFJDZkF4ampCU2dLTWdZeEpLQ1BHUW8",
+      "date": "11/15/2026, 04:24 AM, +0000 UTC",
+      "iso_date": "2026-11-15T04:24:27Z"
+    },
+    {
+      "position": 67,
+      "title": "Infosys, Wipro, other IT stocks fall as Nvidia earnings beat eases AI concerns",
+      "source": {
+        "name": "Business Today",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Prashun Talukdar"
+        ]
+      },
+      "link": "https://www.businesstoday.in/markets/stocks/story/infosys-wipro-other-it-stocks-fall-as-nvidia-earnings-beat-eases-ai-concerns-568132-2026-11-18",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202611/6afd57e9ada25-nvidia-issued-a-stronger-than-anticipated-revenue-forecast-for-the-december-quarter-184648474-16x9.jpg?size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZPWFJmZDJjMFdrdElNemRtVFJDZkF4ampCU2dLTWdZRkpvYnNtUWs",
+      "date": "11/18/2026, 07:49 AM, +0000 UTC",
+      "iso_date": "2026-11-18T07:49:18Z"
+    },
+    {
+      "position": 68,
+      "title": "TCS, Infosys, other Indian IT stocks rally up to 4% amid global AI rout despite Anthropic's blockbuster li",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/markets/stocks/news/tcs-infosys-persistent-systems-other-it-stocks-rally-up-to-4-on-ai-rout-despite-anthropics-stellar-debut-time-to-buy/articleshow/136013530.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-136013618,width-1200,height-900,resizemode-4,imgsize-134940/tcs-infosys-persistent-systems-other-it-stocks-rally-up-to-4-on-ai-rout-despite-anthropics-stellar-debut-time-to-buybr.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVRVEJOT0ZFNVNVbHpNMVZsVFJEZ0F4aUFCU2dLTWdZQllJaGowUU0",
+      "date": "11/20/2026, 04:43 AM, +0000 UTC",
+      "iso_date": "2026-11-20T04:43:38Z"
+    },
+    {
+      "position": 69,
+      "title": "Infosys partners with NTT Docomo for AI-powered Metaverse ecosystem in Japan",
+      "source": {
+        "name": "IndiaIPO",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.indiaipo.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.indiaipo.in/news/detail/infosys-partners-with-ntt-docomo-for-ai-powered-metaverse-ecosystem-in-japan",
+      "thumbnail": "https://images.cnbctv18.com/uploads/2026/07/infosys-2026-07-ad9b298a9ed18a1013ad9ffe1acd6101.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9VRlppT1hGaldXVlRNbmRPVFJDZkF4ampCU2dLTWdhWkVvYXRqUXM",
+      "date": "11/18/2026, 06:32 PM, +0000 UTC",
+      "iso_date": "2026-11-18T18:32:50Z"
+    },
+    {
+      "position": 70,
+      "title": "TCS, Infosys, other IT stocks fall up to 3% as Nvidia earnings beat eases AI fears; South Korea’s Kospi ri",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/markets/stocks/news/tcs-infosys-other-it-stocks-in-focus-after-nvidia-earnings-beat-eases-ai-fears-south-koreas-kospi-rises-over-3/articleshow/135947469.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-135947638,width-1200,height-900,resizemode-4,imgsize-263556/tcs-infosys-other-it-stocks-in-focus-after-nvidia-earnings-beat-eases-ai-fears-south-koreas-kospi-rises-over-3br.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDROMDFCTkdwR2VYVjFUalYzVFJEZ0F4aUFCU2dLTWdtQklJYlNGQ214MUFB",
+      "date": "11/18/2026, 03:43 AM, +0000 UTC",
+      "iso_date": "2026-11-18T03:43:49Z"
+    },
+    {
+      "position": 71,
+      "title": "Infosys invests ¥1.59bn in NTT Docomo Playspace for Japan metaverse",
+      "source": {
+        "name": "NewsBytes",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.newsbytesapp.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.newsbytesapp.com/news/business/infosys-invests-yen159bn-in-ntt-docomo-playspace-for-japan-metaverse/tldr",
+      "thumbnail": "https://i.cdn.newsbytesapp.com/images/l144_5641795026928.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBkV0ppWWtWZk9IRjVZbU5WVFJDZkF4ampCU2dLTWdZWkVvaXRqUXM",
+      "date": "11/18/2026, 06:36 PM, +0000 UTC",
+      "iso_date": "2026-11-18T18:36:43Z"
+    },
+    {
+      "position": 72,
+      "title": "Riddhipratim Basu wins 2026 Infosys Prize for random event predictability",
+      "source": {
+        "name": "NewsBytes",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.newsbytesapp.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.newsbytesapp.com/news/science/riddhipratim-basu-wins-2026-infosys-prize-for-random-event-predictability/tldr",
+      "thumbnail": "https://i.cdn.newsbytesapp.com/images/l144_26891795057508.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBObGc0VEhKclREUkxlV1pNVFJDZkF4ampCU2dLTWdheGRJeXZNUVk",
+      "date": "11/19/2026, 03:06 AM, +0000 UTC",
+      "iso_date": "2026-11-19T03:06:16Z"
+    },
+    {
+      "position": 73,
+      "title": "TCS, Infosys and Wipro Lose Brand Value Amid AI Disruption",
+      "source": {
+        "name": "News Karnataka",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://newskarnataka.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://newskarnataka.com/business/tcs-infosys-and-wipro-lose-brand-value-amid-ai-disruption/19112026/",
+      "thumbnail": "https://newskarnataka.com/_next/image/?url=https%3A%2F%2Fblr1.digitaloceanspaces.com%2Fnewskarnataka.com%2Fwp-content%2Fuploads%2F2026%2F11%2FGemini_Generated_Image_ly0qm7ly0qm7ly0q.png&w=3840&q=100",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDRNMHRvYTBwTWRHMDVkR0V4VFJDWkF4anVCU2dLTWdrQlVZNXJyV1dwU0FJ",
+      "date": "11/19/2026, 03:57 PM, +0000 UTC",
+      "iso_date": "2026-11-19T15:57:10Z"
+    },
+    {
+      "position": 74,
+      "title": "Mutual Funds Buy Jio Platforms, Airtel, Infosys In October; Dump HDFC Bank, ICICI Bank, Reliance",
+      "source": {
+        "name": "NDTV Profit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mahima Vachhrajani",
+          "Tanmay Tiwary"
+        ]
+      },
+      "link": "https://www.ndtvprofit.com/markets/mutual-funds-buy-jio-platforms-airtel-infosys-in-october-dump-hdfc-bank-icici-bank-reliance-bse-nse-nifty-50-sensex-today-market-trends-12331936",
+      "thumbnail": "https://c.ndtvimg.com/2026-02/unkj20g8_mutual-funds_625x300_16_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTBjMkpVVHpoelVqUnNTazUyVFJDZkF4ampCU2dLTWdtQjBZRHpVT1BRandF",
+      "date": "11/16/2026, 04:46 AM, +0000 UTC",
+      "iso_date": "2026-11-16T04:46:10Z"
+    },
+    {
+      "position": 75,
+      "title": "Stocks to watch today, November 19: Bharat Forge, Jio Financial Services, Infosys, Piramal Pharma, and others",
+      "source": {
+        "name": "ET Now",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.etnownews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sparsh Bansal"
+        ]
+      },
+      "link": "https://www.etnownews.com/markets/stocks-to-watch-today-november-19-bharat-forge-jio-financial-services-infosys-piramal-pharma-and-others-article-156534334",
+      "thumbnail": "https://images.etnownews.com/thumb/msid-156534334,thumbsize-32492,width-1280,height-720,resizemode-75/156534334.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNTZkVzkwZFVkSVFtRmpTSEZWVFJDZkF4ampCU2dLTWdzbElKQXRMV1lleERwUHFn",
+      "date": "11/19/2026, 12:19 AM, +0000 UTC",
+      "iso_date": "2026-11-19T00:19:26Z"
+    },
+    {
+      "position": 76,
+      "title": "Infosys, Bharti Airtel, Apollo Tyres: Top stocks to trade — Check key levels, targets & stop loss",
+      "source": {
+        "name": "Business Today",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Pawan Nahar"
+        ]
+      },
+      "link": "https://www.businesstoday.in/markets/trending-stocks/story/infosys-bharti-airtel-apollo-tyres-top-stocks-to-trade-check-key-levels-targets-stop-loss-567740-2026-11-17",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202611/6afbb6ea642ef-apollo-tyres-is-showing-signs-of-a-potential-reversal-after-a-correction-from-its-recent-highs--with-170736600-16x9.png?size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9PV3QyUmtWZlRWQnVZbGxrVFJDZkF4ampCU2dLTWdZQlFJandzQVE",
+      "date": "11/17/2026, 02:08 AM, +0000 UTC",
+      "iso_date": "2026-11-17T02:08:48Z"
+    },
+    {
+      "position": 77,
+      "title": "Infosys announces address change for Registrar and Share Transfer Agent",
+      "source": {
+        "name": "Business Upturn",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://businessupturn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://businessupturn.com/business/infosys-announces-address-change-for-registrar-and-share-transfer-agent/",
+      "thumbnail": "https://businessupturn.com/uploads/nse-logos/INFY-recovered-1784048383318-ojxo4h.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNjMUowVlVwdFV6WjJUSGc1VFJDZkF4ampCU2dLTWdhUmtaSXh1UVk",
+      "date": "11/18/2026, 04:55 PM, +0000 UTC",
+      "iso_date": "2026-11-18T16:55:35Z"
+    },
+    {
+      "position": 78,
+      "title": "Infosys cofounder S Gopalakrishnan says engineers must review AI code",
+      "source": {
+        "name": "NewsBytes",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.newsbytesapp.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.newsbytesapp.com/news/business/infosys-cofounder-s-gopalakrishnan-says-engineers-must-review-ai-code/tldr",
+      "thumbnail": "https://i.cdn.newsbytesapp.com/images/l144_14251794909441.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlSV3BMVkhKbVkzUnVUMWR4VFJDZkF4ampCU2dLTWdhcFpaRE5xUWM",
+      "date": "11/17/2026, 09:58 AM, +0000 UTC",
+      "iso_date": "2026-11-17T09:58:23Z"
+    },
+    {
+      "position": 79,
+      "title": "Infosys to invest JPY 1.59bn in joint venture with NTT Docomo in Japan",
+      "source": {
+        "name": "Business Upturn",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://businessupturn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://businessupturn.com/business/infosys-to-invest-jpy-1-59bn-in-joint-venture-with-ntt-docomo-in-japan/",
+      "thumbnail": "https://businessupturn.com/uploads/nse-logos/INFY-recovered-1784048383318-ojxo4h.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNjMUowVlVwdFV6WjJUSGc1VFJDZkF4ampCU2dLTWdhUmtaSXh1UVk",
+      "date": "11/18/2026, 04:55 PM, +0000 UTC",
+      "iso_date": "2026-11-18T16:55:35Z"
+    },
+    {
+      "position": 80,
+      "title": "Infosys stock: Fresh quote marks Friday trading",
+      "source": {
+        "name": "ad-hoc-news.de",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ad-hoc-news.de&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/infosys-stock-fresh-quote-marks-friday-trading/70540258",
+      "thumbnail": "https://mdb.ad-hoc-news.de/bild/bild-2405005_1920_0.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNXhZbEZ4WjI1dlJsaHZObTEyVFJDZkF4ampCU2dLTWc2RkFvaG1IYVdoRmxtVlc2WlhNZw",
+      "date": "11/20/2026, 02:33 PM, +0000 UTC",
+      "iso_date": "2026-11-20T14:33:21Z"
+    },
+    {
+      "position": 81,
+      "title": "AI Impact On IT Jobs: Infosys Co-Founder Urges Software Engineers To Learn Code Review, Debugging",
+      "source": {
+        "name": "Free Press Journal",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.freepressjournal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.freepressjournal.in/business/ai-impact-on-it-jobs-infosys-co-founder-urges-software-engineers-to-learn-code-review-debugging",
+      "thumbnail": "https://media.assettype.com/freepressjournal/2025-01-28/9ydvu9b9/kris-gopalakrishnan-1738030336.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdlWGx0UW5KSE4weHdVMlpDVFJDZkF4ampCU2dLTWdhcFZaVE5wUWM",
+      "date": "11/17/2026, 11:55 AM, +0000 UTC",
+      "iso_date": "2026-11-17T11:55:00Z"
+    },
+    {
+      "position": 82,
+      "title": "Simplifying Multi-Marketplace Operations: SellWell to Participate in Tech Expo Gujarat 2026",
+      "source": {
+        "name": "Ahmedabad Mirror",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ahmedabadmirror.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.ahmedabadmirror.com/simplifying-multi-marketplace-operations-sellwell-to-participate-in-tech-expo-gujarat-2026/81926131.html",
+      "thumbnail": "https://media.ahmedabadmirror.com/am/uploads/mediaGallery/image/1795008141972.jpg-org",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFXbVo2YTBsR1JtUTRiVXBwVFJERUF4aW1CU2dLTWdhaEZJYXNuUU0",
+      "date": "11/18/2026, 09:06 PM, +0000 UTC",
+      "iso_date": "2026-11-18T21:06:38Z"
+    },
+    {
+      "position": 83,
+      "title": "IT sector stocks today, November 19: Tanla Platforms falls 3.30%, Birlasoft down 2.90%, Infosys declines 2.51%",
+      "source": {
+        "name": "Business Upturn",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://businessupturn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aman Shukla"
+        ]
+      },
+      "link": "https://businessupturn.com/finance/stock-market/it-sector-stocks-today-november-19-tanla-platforms-falls-3-30-birlasoft-down-2-90-infosys-declines-2-51/",
+      "thumbnail": "https://businessupturn.com/uploads/media/1784202696210-recovered-o7s6vv.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVNkMVl5V2w5SWFXWllaVGc1VFJDZkF4ampCU2dLTWdB",
+      "date": "11/19/2026, 12:04 PM, +0000 UTC",
+      "iso_date": "2026-11-19T12:04:35Z"
+    },
+    {
+      "position": 84,
+      "title": "Indian rupee at 7-month high against US dollar: How a stronger rupee impacts TCS, Infosys and other IT companies' earnings",
+      "source": {
+        "name": "Dailyhunt",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://m.dailyhunt.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.dailyhunt.in/news/india/english/upstox-epaper-upstox/indian+rupee+at+7month+high+against+us+dollar+how+a+stronger+rupee+impacts+tcs+infosys+and+other+it+companies+earnings-newsid-n734297886",
+      "thumbnail": "https://assets-news-bcdn.dailyhunt.in/cmd/resize/400x225_75/fetchdata20/images/da/f5/07/daf5076f454a7cc4836878f937e6d4321c0c4c30664cbd806403e2ee50289b86.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRWa0pCY0VaRk56QlBNa3BKVFJEaEFSaVFBeWdLTWdZdEVvenlIQWc",
+      "date": "11/19/2026, 04:28 PM, +0000 UTC",
+      "iso_date": "2026-11-19T16:28:48Z"
+    },
+    {
+      "position": 85,
+      "title": "IT sector stocks today, November 18: L&T Technology falls 2.64%, Mphasis declines 2.15%, Infosys down 1.02%",
+      "source": {
+        "name": "Business Upturn",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://businessupturn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aman Shukla"
+        ]
+      },
+      "link": "https://businessupturn.com/finance/stock-market/it-sector-stocks-today-november-18-l-t-technology-falls-2-64-mphasis-declines-2-15-infosys-down-1-02/",
+      "thumbnail": "https://businessupturn.com/uploads/media/1784202415823-recovered-p7uou7.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlOVWg0YWxCWWVIa3pkR2hzVFJDZkF4ampCU2dLTWdhWm81QnJ1UVU",
+      "date": "11/18/2026, 04:29 AM, +0000 UTC",
+      "iso_date": "2026-11-18T04:29:36Z"
+    },
+    {
+      "position": 86,
+      "title": "Reports & Filings | Investors",
+      "source": {
+        "name": "Infosys",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.infosys.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.infosys.com/investors/reports-filings/quarterly-results.html",
+      "thumbnail": "https://www.infosys.com/content/dam/infosys-web/en/global-resource/24/quarterly-results.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWthSE56YjJwVFJtcFFVR3A2VFJDcUJCaXFCQ2dLTWdZMUVhTFRGQXM",
+      "date": "11/16/2019, 07:24 AM, +0000 UTC",
+      "iso_date": "2019-11-16T07:24:11Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "India",
+      "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+    }
+  ]
+}

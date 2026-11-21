@@ -1,0 +1,793 @@
+{
+  "search_metadata": {
+    "id": "6b017267cf83f990c4067643",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/PS5a0VJAx-kfyIjRq3jazNksy7lmCA5lN5lD9ANaQJc/6b017267cf83f990c4067643.json",
+    "markdown_endpoint": "https://serpapi.com/searches/PS5a0VJAx-kfyIjRq3jazNksy7lmCA5lN5lD9ANaQJc/6b017267cf83f990c4067643.md",
+    "created_at": "2026-11-21 10:28:55 UTC",
+    "processed_at": "2026-11-21 10:28:55 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Flask+full+course+tutorial+for+Backend+Python+Developer&gl=in&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/PS5a0VJAx-kfyIjRq3jazNksy7lmCA5lN5lD9ANaQJc/6b017267cf83f990c4067643.html",
+    "total_time_taken": 3.79
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Flask full course tutorial for Backend Python Developer",
+    "gl": "in",
+    "hl": "en"
+  },
+  "search_information": {
+    "total_results": 1213715,
+    "video_results_state": "Results for exact spelling"
+  },
+  "ads_results": [
+    {
+      "position_on_page": 1,
+      "title": "Architecture that adapts with you and doesn’t slow you down",
+      "link": "https://www.youtube.com/watch?v=CcI0ryE0TuA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=CcI0ryE0TuA",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=COm8_Z3IBa5vLOJHfn88PmLzI4A2x9aKPiwGl1d_eqxbdq6T6zkgQASAAYMnut430pNAZggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAcCKxvVDqAMEyAMKqgTnAk_QXF52Zo19TcVRQNPEJ_iQsVtyK8jJ0HADs4sBvsS1U0V_H7b1IqjEGTpQUF5WVrTnqHV5VC5j3VQRRUUsv92ga61qv1UeLpxdpuS88R337eniH6tJRelfWL6PDbL1BF-QpZgZ8Y_aVZK7HwD0Keoe6ufavZep9MpoX855rHyJCGZ0H1V-eoeNVlkDrTxwZHpMPGcVnTXRjWKM6QJM5KtSJiEzM5p21XGI4mT2NyuW3f4Yj05_cmHL-TYR3nFTFDZ1oHhTj_hw6etTC3HQE4uarJvX1jXGUvX3n9RYLoA6I9Zqz_SJw9l8Ecb1vq3vc7kffMvykGnTmHEWiFR7ijFlTPnqtDyk7JhbZQT0_uJcFoIT3J-aRZtSOCNMEabXT02GzbAt2lhI0O4U_kNvxMCg4Y3_Rca75ROHzAd4Kdqc0vRrkWF1zerw_FzWL4g8XG_RtEBWHYpIR2E0Sxf_SOo0kKaQgIuiiAXr56TIWpIFCAgTeMHn7foeoAahAYAHwMKW1R6QBwSoB6XPsQKoB-edsQKoB-idsQKoB4P2sQKoB_nTsQKoB8nasQKoB6ngsQKoB6jSG6gHsdwbqAewm7ECqAf9srECqAfIz7ECqAfJz7ECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAee6rECqAef6rECqAf467ECqAe86rECqAfv8bECqAf8r7ECqAfVzhuoB77ZsQKoB7_ZsQKoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxApIIC0NjSTByeUUwVHVBqAgB0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAGEjZoNI1UBRYiIrJn-2YmANgAZoJT2h0dHBzOi8vYXp1cmUubWljcm9zb2Z0LmNvbS9lbi11cy9wcmljaW5nL3B1cmNoYXNlLW9wdGlvbnMvYXp1cmUtYWNjb3VudC9zZWFyY2ixCYGbOtWoRGvoyAkXyAmPAcgJwgHICZcCugs6CAMQBRgEIAcoATAcQAFIAFh9YABoAHABiAEAmAEBogEICgCoAgHYAgLYAQOAAgGIAhG6AwV2aWRsc9ALEuALAdIMAhABmg0BEqoNAlVTyA0B0g2QBWh0dHBzOi8vYWQuZG91YmxlY2xpY2submV0L2RkbS90cmFja2Nsay9ONTcyNjA4LjEzNTUzMzlHT09HTEUuQ09NRERNQklETS9CMzY4NjU2NDIuNDU3ODYyNDI4O2RjX3Rya19haWQ9NjUyNDI5NTA2O2RjX3Rya19jaWQ9MjY2MTQyNzAyO2RjX2RibV90b2tlbj1BT2plTE5FQUFBQThDalFLREFnQUZRQUFBQUFkQUFBQUFCSU1DQUFWQUFBQUFCMEFBQUFBSWhRSTYtZWt5RnFvQXNIbjdmb2VzQUw4elBYckEwQTdFS0hBXzdJZElBYW5Bd1NlVkcxd3FqV291bGU3YWc9PTtkY19sYXQ9O2RjX3JkaWQ9O3RhZ19mb3JfY2hpbGRfZGlyZWN0ZWRfdHJlYXRtZW50PTt0ZnVhPTtsdGQ9O2RjX3Rkdj0xOztkY190cmFuc3BhcmVudD0xO2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNBQlBuaU5ZZlhweklJSWJWQjYyUFN5aEVyNXN3X0VrbUFTT3VWUjFqc3dIclNoNi1yaUJ4N3dieGl1UjliRlVpYXBlNG5fWXNfY2o5RkZZUTtkY19wdWJpZD02P2h0dHBzOi8vYXp1cmUubWljcm9zb2Z0LmNvbS9lbi11cy9wcmljaW5nL3B1cmNoYXNlLW9wdGlvbnMvYXp1cmUtYWNjb3VudC9zZWFyY2g_T0NJRD1BSURjbW1sZzdvNXZiOF9PTEFfMzY4NjU2NDJfNDU3ODYyNDI4XzI2NjE0MjcwMiZzaXRlSUQ9MTA2NDUwMTMmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTI0MzEwNzg5MDk5sBPAhM0muBP___________8BiBQDsBQDwBWBgIBA0BUB2BUBmBYBqBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF4QGIdHTHExeuhcGKAAwADgB0BgB8BgBwhkCCAE&gclid=EAIaIQobChMI25rJn-2YmAMVke_nAx0YHhLcEAEYASAAEgLYbPD_BwE&num=1&cid=CAASwgHkaHeh97IGNUxpGo1ePXzi9ZXpgcRi8HtCAbxt949zEY4sx4JBrPYRAJdJHNKuxBstAVVYlV6DwdQDvCw8AG4_NxT4XW9PQgOt0HUVRR9AZXg6bkPKAPD4BhdNGvkmfZSElER0VSjetzzIZx-_1g1rHI6aEA3g5JXj7q7wzGuDLCrpCTEZsR4hyRiPUDkYhvAYQ8mr5bIaehktU6nUOrlFEyLejQyNYbUEHY9qdc7wzOvPQnL7wXjK6ESCWUD8s9D8bA&ad_cpn=%5BCPN%5D&sig=AOD64_2JwEF3WQYbR6nRYEch776oYWI3Fw&ctype=110&video_id=CcI0ryE0TuA&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Microsoft",
+        "thumbnail": "https://yt3.ggpht.com/proxy/HcDIKi6hGUt23dHJXoGqjYsnW-Yx9b_rvzKby486R6qMUMB5Rj4f1gTieN0_putXXLoa3-WRmWkl6sG9uNJxyUKxT05R36YayKaL6mPwyYsceZVtV43-hJXD6Vdcwr-f9TTB2p4MuxHVP_MYMdnkd1T-00ZPKAq1UisX070t8eIHTbn0wr8tIAwBLSzPe1a1lfAxuCvhiPlF0mN5w-KEfkrLLRdu2y16PNlmNSxm4ASe8xaThWiP6wugAt2DNl21sdoTc3c=w68-h68-nd"
+      },
+      "description": "Your ideas evolve. Azure gives you the flexibility to adapt your build along with them.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/CcI0ryE0TuA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLJCnocPasWTV6X-SUuVrrJdveog"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Devour knowledge with Student Spaces",
+      "link": "https://www.youtube.com/watch?v=EJ_xkuarNEU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=EJ_xkuarNEU",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CuSJ5Z3IBa5vLOJHfn88PmLzI4A2XouaPiwG1t7WK1hWwkB8QAiAAYMnut430pNAZggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAbH6_-oCqAMEyAMKqgT0Ak_QXF52Zo19TcVRQNPEJ_iQsVtyK8jJ0HADs4sBvsS1U0V_H7b1IqjEGTpQUF5WVrTnqHV5VC5j3VQRRUUsv92ga61qv1UeLpxdpuS88R337eniH6tJRelfWL6PDbL1BF-QpZgZ8Y_aVZK7HwD0Keoe6ufavZep9MpoX855rHyJCGZ0H1V-eoeNVlkDrTxwZHpMPGcVnTXRjWKM6QJM5KtSJiEzM5p21XGI4mT2NyuW3f4Yj05_cmHL-TYR3nFTFDZ1oHhTj_hw6etTC3HQE4uarJvX1jXGUvX3n9RYLoA6I9Zqz_SJw9l8Ecb1vq3vc7kffMvykGnTmHEWiFR7kjHl_TtxtjSkRIDNUe60VPHsGYG_0IeZfXgn-DvsFrwcET9q-qZsrgpYZNvOdkhju4ffOY9dzri8M7NuF38gxD9pfIk7ToTycbMe7XTfBpDblpryKfjFL6RQ49zwd_8BptsYiFJqVJ8GxWi9JuXE_XsnUOJeSYgF5tDvrViSBQgIE3j6zZ-VAaAGoQGAB7eFgJUBkAcEqAelz7ECqAfnnbECqAfonbECqAeD9rECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHnuqxAqgHn-qxAqgH-OuxAqgHvOqxAqgH7_GxAqgH_K-xAqgH1c4bqAe-2bECqAe_2bECqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKSCAtFSl94a3Vhck5FVagIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBhI2aDSNVAUWIiKyZ_tmJgDYAGaCSxodHRwczovL2Fjcm9iYXQuYWRvYmUuY29tL3N0dWRlbnRzcGFjZXMvaG9tZbEJZQUpI-0vcsTICRfICY8ByAnCAboLOggDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AIC2AEDgAIBiAISugMFdmlkbHPQCxPgCwGiDB9iGAoWY29tLmFkb2JlLmVjaG9zaWduLmlvc3gAiAEA0gwCEAGaDQETqg0CVVPIDQHSDekEaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL045NzI5NTIuMjc5MzgyQklETUFOQUdFUl9ERkFTSVRFL0IyMjM0NDQxMy4yNDE1MzkzMjE7ZGNfdHJrX2FpZD00MzgxMjg2MjI7ZGNfdHJrX2NpZD0xMTI4ODQ2MTM7ZGNfZGJtX3Rva2VuPUFPamVMTkVBQUFBNkNqTUtEQWdBRlFBQUFBQWRBQUFBQUJJTUNBQVZBQUFBQUIwQUFBQUFJaE1JNXREdnJWaW9Bc080OUFHd0FzeVc0dWtEUURzUWwtZTZBYXBTbzNMajY5SHFtUlNHRDdObEp0Yz07ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07bHRkPTtkY190ZHY9MTtkY190cmFuc3BhcmVudD0xO2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNCYWVvTS1DQU9vNWVoa0gyNlNrdWY4QjlKTnVzZHNGVG52bzhNUm5KOGVMNExGYmZGMGs3RzFoRnB0YjlLTG9ySEJlX0NNQXQ3dWdnRFNHUTtkY19wdWJpZD02P2h0dHBzOi8vYWNyb2JhdC5hZG9iZS5jb20vc3R1ZGVudHNwYWNlcy9ob21lP3NkaWQ9VFRHV0tRWjkmbXY9c29jaWFsJm12Mj1wYWlkc29jJnhfYXBpX2NsaWVudF9pZD1wYWlkbWVkaWEmeF9hcGlfY2xpZW50X2xvY2F0aW9uPWFkc19UVEdXS1FaOSZnYWRfc291cmNlPTKwE-PuqCS4E____________wGIFAewFAPAFYGAgEDQFQHYFQGYFgGoFgGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF1e_wgIaPhjwuhcGKAAwADgB0BgB8BgB&gclid=EAIaIQobChMI25rJn-2YmAMVke_nAx0YHhLcEAEYAiAAEgKbRvD_BwE&num=2&cid=CAASwgHkaHeh97IGNUxpGo1ePXzi9ZXpgcRi8HtCAbxt949zEY4sx4JBrPYRAJdJHNKuxBstAVVYlV6DwdQDvCw8AG4_NxT4XW9PQgOt0HUVRR9AZXg6bkPKAPD4BhdNGvkmfZSElER0VSjetzzIZx-_1g1rHI6aEA3g5JXj7q7wzGuDLCrpCTEZsR4hyRiPUDkYhvAYQ8mr5bIaehktU6nUOrlFEyLejQyNYbUEHY9qdc7wzOvPQnL7wXjK6ESCWUD8s9D8bA&ad_cpn=%5BCPN%5D&sig=AOD64_03SbOS4QFJjt4eKfm3cozyRn3AZg&ctype=110&video_id=EJ_xkuarNEU&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Adobe",
+        "thumbnail": "https://yt3.ggpht.com/proxy/MOuz2I13I1fAnFfngtXtL_W4we9dtMgr0pZOHx9ZvXrWe0TzDLTj2mq2_seyh8bAOYiFhihUkC0bcCbQ2Rr3ROUyAm-g7fKx7ikqVy2aYwv8ap82JEQltB0uNj5JlrrMcTbQ-wFlNo0DfytWwYBrrCyx4-VnwgCwx-dn0fy6KEEwJzLjssuJHIvXA-MdWMvBvChh3bzxW7-sQCuvX2mDwrBOQUGt_eZzMbPzNL_oO6Ke1vjjr2458wPYmALVc80eUKLvvs8=w68-h68-nd"
+      },
+      "description": "Student Spaces is a smarter way to study. Free for students.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/EJ_xkuarNEU/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFIoRTAP&rs=AOn4CLCU57IhmW3dW5gLlSgxjM1DEB11sQ"
+      }
+    }
+  ],
+  "playlist_results": [
+    {
+      "position_on_page": 2,
+      "title": "Flask Tutorial 2026 | Complete Flask Course for Beginners",
+      "link": "https://www.youtube.com/playlist?list=PLMsTL77mzGWM",
+      "channel": {
+        "name": "Mohit Decodes",
+        "channel_id": "UC00Ni0CJFFLpaPf3lyHx5NA",
+        "link": "https://www.youtube.com/@MohitDecodes"
+      },
+      "videos": [
+        {
+          "title": "Flask Tutorial #1 - Introduction | What is Flask?",
+          "length": "7:16",
+          "link": "https://www.youtube.com/watch?v=tSbpj2nV7Y4&list=PLMsTL77mzGWM"
+        },
+        {
+          "title": "Flask Tutorial #2 - Install Flask & Hello World | Setup Flask Project",
+          "length": "9:54",
+          "link": "https://www.youtube.com/watch?v=11ilgOVpDlw&list=PLMsTL77mzGWM"
+        }
+      ],
+      "video_count": 55,
+      "thumbnail": "https://i.ytimg.com/vi/tSbpj2nV7Y4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC9mvTWjOrs_T4W08JvKsqMe_mWCA"
+    },
+    {
+      "position_on_page": 3,
+      "title": "Flask Tutorials",
+      "link": "https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX",
+      "channel": {
+        "name": "Tech With Tim",
+        "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
+        "link": "https://www.youtube.com/@TechWithTim"
+      },
+      "videos": [
+        {
+          "title": "Flask Tutorial #1 - How to Make Websites with Python",
+          "length": "10:36",
+          "link": "https://www.youtube.com/watch?v=mqhxxeeTbu0&list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX"
+        },
+        {
+          "title": "Flask Tutorial #2 - HTML Templates",
+          "length": "13:43",
+          "link": "https://www.youtube.com/watch?v=xIgPMguqyws&list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX"
+        }
+      ],
+      "video_count": 11,
+      "thumbnail": "https://i.ytimg.com/vi/mqhxxeeTbu0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAh-1eDi6moK5ONoovw0dJ_uWcnmw"
+    },
+    {
+      "position_on_page": 6,
+      "title": "Python Flask Backend Series (2025) - Build a Complete REST API",
+      "link": "https://www.youtube.com/playlist?list=PLbeGXTt3IOd9EBRS930ls8RaFYQeNyUgz",
+      "channel": {
+        "name": "Noah Does Coding",
+        "channel_id": "UC0DtrK_aph5EzH_iC-9qYjg",
+        "link": "https://www.youtube.com/@NoahDoesCoding"
+      },
+      "videos": [
+        {
+          "title": "Python Backend #1: Flask Web Server Setup (Beginner Python Tutorial)",
+          "length": "6:10",
+          "link": "https://www.youtube.com/watch?v=2GGwz8zUy2M&list=PLbeGXTt3IOd9EBRS930ls8RaFYQeNyUgz&pp=0gcJCRYF0aJEHMZM"
+        },
+        {
+          "title": "Python Backend #2: Build a Simple REST API with Flask (GET & POST Tutorial)",
+          "length": "13:56",
+          "link": "https://www.youtube.com/watch?v=KIH8GZ1wHr4&list=PLbeGXTt3IOd9EBRS930ls8RaFYQeNyUgz"
+        }
+      ],
+      "video_count": 6,
+      "thumbnail": "https://i.ytimg.com/vi/2GGwz8zUy2M/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAtrDQmieKFmy5xY_Y9aFz3QBfz8g"
+    },
+    {
+      "position_on_page": 7,
+      "title": "Python Flask Tutorial | Flask Online Course",
+      "link": "https://www.youtube.com/playlist?list=PLS1QulWo1RIZ6OujqIAXmLR3xsDn_ENHI",
+      "channel": {
+        "name": "ProgrammingKnowledge",
+        "channel_id": "UCs6nmQViDpUw0nuIx9c_WvA",
+        "link": "https://www.youtube.com/@ProgrammingKnowledge"
+      },
+      "videos": [
+        {
+          "title": "Python Flask Tutorial 1 -  Introduction + Getting Started With Flask",
+          "length": "6:50",
+          "link": "https://www.youtube.com/watch?v=Kja_28SNIow&list=PLS1QulWo1RIZ6OujqIAXmLR3xsDn_ENHI"
+        },
+        {
+          "title": "Python Flask Tutorial 2 - Create a Hello World App | how \"Hello, World!\" Of Flask works",
+          "length": "20:46",
+          "link": "https://www.youtube.com/watch?v=MAt-mRJk4rw&list=PLS1QulWo1RIZ6OujqIAXmLR3xsDn_ENHI"
+        }
+      ],
+      "video_count": 25,
+      "thumbnail": "https://i.ytimg.com/vi/Kja_28SNIow/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBCCQFNqdU4v7RdWA0oEyxQhamllA"
+    },
+    {
+      "position_on_page": 8,
+      "title": "Flask Tutorials",
+      "link": "https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH",
+      "channel": {
+        "name": "Corey Schafer",
+        "channel_id": "UCCezIgC97PvUuR4_gbFUs5g",
+        "link": "https://www.youtube.com/@coreyms"
+      },
+      "videos": [
+        {
+          "title": "Python Flask Tutorial: Full-Featured Web App Part 1 - Getting Started",
+          "length": "17:09",
+          "link": "https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH"
+        },
+        {
+          "title": "Python Flask Tutorial: Full-Featured Web App Part 2 - Templates",
+          "length": "31:42",
+          "link": "https://www.youtube.com/watch?v=QnDWIZuWYW0&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH"
+        }
+      ],
+      "video_count": 15,
+      "thumbnail": "https://i.ytimg.com/vi/MwZwr5Tvyxo/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCvp1y3ka2i_aoLPvv2N9Ha2mbN1g"
+    },
+    {
+      "position_on_page": 10,
+      "title": "Web Development in Python with Flask - Comprehensive FREE Course",
+      "link": "https://www.youtube.com/playlist?list=PLEpRcxOmTFlN1ITmQU5P8PHXBSSIMBZaS",
+      "channel": {
+        "name": "Code with Josh",
+        "channel_id": "UCwcXQMYphMbpuw8ok9HQguw",
+        "link": "https://www.youtube.com/@codewithjoshoffical"
+      },
+      "videos": [
+        {
+          "title": "Flask Full Course: Build Stunning Web Apps Fast | Python Flask Tutorial",
+          "length": "1:25:41",
+          "link": "https://www.youtube.com/watch?v=45P3xQPaYxc&list=PLEpRcxOmTFlN1ITmQU5P8PHXBSSIMBZaS"
+        },
+        {
+          "title": "Bootstrap in Flask Full Course: Learn to Integrate Bootstrap into a Flask App",
+          "length": "1:04:58",
+          "link": "https://www.youtube.com/watch?v=5EUOvXjahLY&list=PLEpRcxOmTFlN1ITmQU5P8PHXBSSIMBZaS&pp=0gcJCRYF0aJEHMZM"
+        }
+      ],
+      "video_count": 7,
+      "thumbnail": "https://i.ytimg.com/vi/45P3xQPaYxc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAFb2JuKcI17woqSKHhA8IbYP50Bw"
+    },
+    {
+      "position_on_page": 13,
+      "title": "Flask Full Stack Web Development in Tamil | Complete Course with Templates",
+      "link": "https://www.youtube.com/playlist?list=PLPS3pUHyqtL3onutee2ZyvMIWewymsxBB",
+      "channel": {
+        "name": "Code Camp Tamil",
+        "channel_id": "UCKp3i0JwsS3DitO_toSeryA",
+        "link": "https://www.youtube.com/@CodeCampTamil"
+      },
+      "videos": [
+        {
+          "title": "How to Setup Flask Project Step by Step | Flask Tutorial in Tamil",
+          "length": "9:33",
+          "link": "https://www.youtube.com/watch?v=ME5E5JY-g1o&list=PLPS3pUHyqtL3onutee2ZyvMIWewymsxBB"
+        },
+        {
+          "title": "Rendering Html in Flask in Tamil #flasktutorial",
+          "length": "7:21",
+          "link": "https://www.youtube.com/watch?v=NH_yqlo24FI&list=PLPS3pUHyqtL3onutee2ZyvMIWewymsxBB"
+        }
+      ],
+      "video_count": 18,
+      "thumbnail": "https://i.ytimg.com/vi/ME5E5JY-g1o/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAzj2pxKmYHOml6qb5HIiewApVUng"
+    },
+    {
+      "position_on_page": 14,
+      "title": "Flask Tutorials - Python Web Development",
+      "link": "https://www.youtube.com/playlist?list=PLOkVupluCIjuPtTkhO6jmA76uQR994Wvi",
+      "channel": {
+        "name": "JimShapedCoding",
+        "channel_id": "UCU8d7rcShA7MGuDyYH1aWGg",
+        "link": "https://www.youtube.com/@jimshapedcoding"
+      },
+      "videos": [
+        {
+          "title": "Flask Full Series - Web Application Development with Python - Introduction - Episode 1",
+          "length": "21:29",
+          "link": "https://www.youtube.com/watch?v=p068JokuThU&list=PLOkVupluCIjuPtTkhO6jmA76uQR994Wvi"
+        },
+        {
+          "title": "Flask Full Series - Web Application Development with Python - Templates & Styling - Episode 2",
+          "length": "21:59",
+          "link": "https://www.youtube.com/watch?v=MKzB6Vyw0yQ&list=PLOkVupluCIjuPtTkhO6jmA76uQR994Wvi"
+        }
+      ],
+      "video_count": 16,
+      "thumbnail": "https://i.ytimg.com/vi/p068JokuThU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDjLU6RM_vszJQ5eOucLCTKWI-8uA"
+    },
+    {
+      "position_on_page": 15,
+      "title": "Flask Tutorial Series",
+      "link": "https://www.youtube.com/playlist?list=PL7yh-TELLS1EyAye_UMnlsTGKxg8uatkM",
+      "channel": {
+        "name": "NeuralNine",
+        "channel_id": "UC8wZnXYK_CGKlBcZp-GxYPA",
+        "link": "https://www.youtube.com/@NeuralNine"
+      },
+      "videos": [
+        {
+          "title": "First Flask Project - Flask Tutorial Series #1",
+          "length": "11:20",
+          "link": "https://www.youtube.com/watch?v=o3bCVqF9gI0&list=PL7yh-TELLS1EyAye_UMnlsTGKxg8uatkM"
+        },
+        {
+          "title": "Routes & URLs - Flask Tutorial Series #2",
+          "length": "20:19",
+          "link": "https://www.youtube.com/watch?v=Jl9XzSPXSe4&list=PL7yh-TELLS1EyAye_UMnlsTGKxg8uatkM"
+        }
+      ],
+      "video_count": 10,
+      "thumbnail": "https://i.ytimg.com/vi/o3bCVqF9gI0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA6goQTUGbgukYFIZf9zlOEjSDbnA"
+    },
+    {
+      "position_on_page": 16,
+      "title": "[Hindi] Web Development Using Flask and Python",
+      "link": "https://www.youtube.com/playlist?list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf",
+      "channel": {
+        "name": "CodeWithHarry",
+        "channel_id": "UCeVMnSShP_Iviwkknt83cww",
+        "link": "https://www.youtube.com/@CodeWithHarry"
+      },
+      "videos": [
+        {
+          "title": "[Hindi] How Websites Work - Web Development Using Flask and Python #1",
+          "length": "8:58",
+          "link": "https://www.youtube.com/watch?v=DD3ou9sa3Z8&list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf"
+        },
+        {
+          "title": "[Hindi] Creating Our First Flask App - Web Development Using Flask and Python #2",
+          "length": "9:45",
+          "link": "https://www.youtube.com/watch?v=m7UQyy0Q5Uk&list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf"
+        }
+      ],
+      "video_count": 25,
+      "thumbnail": "https://i.ytimg.com/vi/DD3ou9sa3Z8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB3CArCER2hVghXUNYAice_KnEIDA"
+    },
+    {
+      "position_on_page": 18,
+      "title": "Python Flask tutorial for Beginners to Advanced",
+      "link": "https://www.youtube.com/playlist?list=PLf9umJdQ546h26s7VKQVUir5GoOZ-1JTP",
+      "channel": {
+        "name": "Gogetmyguru",
+        "channel_id": "UCJXWH40HGgw78naaBUBBxWQ",
+        "link": "https://www.youtube.com/@Gogetmyguru"
+      },
+      "videos": [
+        {
+          "title": "Python Flask Tutorial for Beginners | Introduction to Flask",
+          "length": "2:29",
+          "link": "https://www.youtube.com/watch?v=rXWTvXVsbNs&list=PLf9umJdQ546h26s7VKQVUir5GoOZ-1JTP"
+        },
+        {
+          "title": "Python Flask Tutorial for Beginners | Install Flask on Windows 10",
+          "length": "4:07",
+          "link": "https://www.youtube.com/watch?v=S8aFNcYpSfI&list=PLf9umJdQ546h26s7VKQVUir5GoOZ-1JTP"
+        }
+      ],
+      "video_count": 18,
+      "thumbnail": "https://i.ytimg.com/vi/rXWTvXVsbNs/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBwtkW7HQn7o5kM-hEzkN6f8y5p8g"
+    },
+    {
+      "position_on_page": 19,
+      "title": "Flask Web Development From Basics to Advanced in Hindi",
+      "link": "https://www.youtube.com/playlist?list=PLtjl3y2jZEeX-5JWkqk8pDEljt6TW949y",
+      "channel": {
+        "name": "Moh Technology",
+        "channel_id": "UChekBoGz4cD3g2uI1ae5X0w",
+        "link": "https://www.youtube.com/@Mohtechnology"
+      },
+      "videos": [
+        {
+          "title": "Flask in One Shot in Hindi🔥 | Complete Flask Tutorial in Hindi",
+          "length": "1:49:48",
+          "link": "https://www.youtube.com/watch?v=zPUB3_AnRTQ&list=PLtjl3y2jZEeX-5JWkqk8pDEljt6TW949y"
+        },
+        {
+          "title": "Introduction to Flask in Hindi || Flask - #1",
+          "length": "11:33",
+          "link": "https://www.youtube.com/watch?v=vjPnaJH7CMA&list=PLtjl3y2jZEeX-5JWkqk8pDEljt6TW949y"
+        }
+      ],
+      "video_count": 22,
+      "thumbnail": "https://i.ytimg.com/vi/zPUB3_AnRTQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCCeJ8ewX3zJlV5ctg0xohx5UZ5MQ"
+    },
+    {
+      "position_on_page": 20,
+      "title": "Python Flask Web Development Hindi",
+      "link": "https://www.youtube.com/playlist?list=PLxmc36xtW6gTxsJ8QbHLbuHwa64FH4aRq",
+      "channel": {
+        "name": "LitsBros Tutorials (Laksh IT solution)",
+        "channel_id": "UC-1Gyhm5GPS3q7HwrlcRdKA",
+        "link": "https://www.youtube.com/@litsbrostutorials3723"
+      },
+      "videos": [
+        {
+          "title": "Python Flask Web Development in Hindi 🔥 | Flask Project Series #Shorts",
+          "length": "0:48",
+          "link": "https://www.youtube.com/watch?v=zQn7IStM_mo&list=PLxmc36xtW6gTxsJ8QbHLbuHwa64FH4aRq&pp=0gcJCRYF0aJEHMZM"
+        },
+        {
+          "title": "#1. Introduction to Flask | Flask Tutorials | What is Flask #litsbros #flask #viral",
+          "length": "10:38",
+          "link": "https://www.youtube.com/watch?v=15lIO7pF7y0&list=PLxmc36xtW6gTxsJ8QbHLbuHwa64FH4aRq"
+        }
+      ],
+      "video_count": 32,
+      "thumbnail": "https://i.ytimg.com/vi/zQn7IStM_mo/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Ad4EgAK-CIoCDAgAEAEYXyBfKF8wDw==&rs=AOn4CLCAUh9Cbhq7IRworHH6I6tFpw23_A"
+    }
+  ],
+  "video_results": [
+    {
+      "position_on_page": 5,
+      "title": "Full Flask Course For Python - From Basics To Deployment",
+      "link": "https://www.youtube.com/watch?v=oQ5UfJqW5Jo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=oQ5UfJqW5Jo",
+      "video_id": "oQ5UfJqW5Jo",
+      "channel": {
+        "name": "NeuralNine",
+        "channel_id": "UC8wZnXYK_CGKlBcZp-GxYPA",
+        "link": "https://www.youtube.com/@NeuralNine",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/l_2SPJx1Qd4IC01Fdlm-9cszWtmZv62ns80dOb-L-PyA5lcjdsSyjaz7LJRwBo4s9zDhtdiImw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 269053,
+      "length": "3:42:31",
+      "description": "This is a full Flask course for Python. It goes from the very basics like templates and POST requests, to more advanced stuff like ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/oQ5UfJqW5Jo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCXRxwNHctjFPYvvFVRq-azRjP3A",
+        "rich": "https://i.ytimg.com/an_webp/oQ5UfJqW5Jo/mqdefault_6s.webp?du=3000&sqp=CJDjhdgG&rs=AOn4CLAg3AV0PFhKgB-vf49dyRkK_JBwoA"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/oQ5UfJqW5Jo/hqdefault_21200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCk7ZKCVCkHupfh3raciLlSwwBaMA",
+          "time_start": 0
+        },
+        {
+          "title": "First Flask Project",
+          "thumbnail": "https://i.ytimg.com/vi/oQ5UfJqW5Jo/hqdefault_70833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9yHFqzFnxBOJbJBNORJOn1zV5RQ",
+          "time_start": 68
+        },
+        {
+          "title": "Routes & URLs",
+          "thumbnail": "https://i.ytimg.com/vi/oQ5UfJqW5Jo/hqdefault_652800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCazDYOsKx-gAH6FL0olr1zkP_47Q",
+          "time_start": 650
+        },
+        {
+          "title": "Templates & HTML",
+          "thumbnail": "https://i.ytimg.com/vi/oQ5UfJqW5Jo/hqdefault_1815333.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBe3LUb5K4pXmFNTqJ7eo9UEpoDNw",
+          "time_start": 1815
+        },
+        {
+          "title": "Forms, POST, Files",
+          "thumbnail": "https://i.ytimg.com/vi/oQ5UfJqW5Jo/hqdefault_3146833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAClkzaShx0YcB_q2c_f7W743NN9A",
+          "time_start": 3145
+        },
+        {
+          "title": "Static Files & Bootstrap",
+          "thumbnail": "https://i.ytimg.com/vi/oQ5UfJqW5Jo/hqdefault_5306833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOlltBy-tzOXs1WB46fcHTBI7YOA",
+          "time_start": 5305
+        },
+        {
+          "title": "Session & Cookies",
+          "thumbnail": "https://i.ytimg.com/vi/oQ5UfJqW5Jo/hqdefault_5845200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBl2vdURf7joWjzJ7X44Rz3bgZCOA",
+          "time_start": 5843
+        },
+        {
+          "title": "Databases & SQLAlchemy",
+          "thumbnail": "https://i.ytimg.com/vi/oQ5UfJqW5Jo/hqdefault_7111166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbsrSPzDH0p50ScRM7hKc49Hn1HQ",
+          "time_start": 7109
+        },
+        {
+          "title": "User Authentication",
+          "thumbnail": "https://i.ytimg.com/vi/oQ5UfJqW5Jo/hqdefault_9097233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7A5LBTAiOAFrjDuhVZdGb_n4rSQ",
+          "time_start": 9096
+        },
+        {
+          "title": "Blueprints",
+          "thumbnail": "https://i.ytimg.com/vi/oQ5UfJqW5Jo/hqdefault_10736066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDV7ZJIxJxngRswMK_qIp0Rp5LfKQ",
+          "time_start": 10734
+        },
+        {
+          "title": "Deployment & Docker",
+          "thumbnail": "https://i.ytimg.com/vi/oQ5UfJqW5Jo/hqdefault_12479033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSVRLMI8TTns-oQ8A6IiRsLCIi4Q",
+          "time_start": 12479
+        },
+        {
+          "title": "Outro",
+          "thumbnail": "https://i.ytimg.com/vi/oQ5UfJqW5Jo/hqdefault_13327800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmHMeTsDxBJTt8Xg-PokMfkJ7cmA",
+          "time_start": 13318
+        }
+      ]
+    },
+    {
+      "position_on_page": 9,
+      "title": "Learn Flask for Python - Full Tutorial",
+      "link": "https://www.youtube.com/watch?v=Z1RJmh_OqeA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Z1RJmh_OqeA",
+      "video_id": "Z1RJmh_OqeA",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 2346039,
+      "length": "46:59",
+      "description": "Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Z1RJmh_OqeA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBI6gsOGtsHUCb3TSvGhYhLtqdVvA",
+        "rich": "https://i.ytimg.com/an_webp/Z1RJmh_OqeA/mqdefault_6s.webp?du=3000&sqp=CICfhdgG&rs=AOn4CLALo1Mipshoh9A5ssoRWZawptXCmg"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "build a meme Python website (Flask Tutorial for Beginners)",
+      "link": "https://www.youtube.com/watch?v=5aYpkLfkgRE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=5aYpkLfkgRE",
+      "video_id": "5aYpkLfkgRE",
+      "channel": {
+        "name": "NetworkChuck",
+        "channel_id": "UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "link": "https://www.youtube.com/@NetworkChuck",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k01-_GpvVZW8w4ULtaQaa55ls8aMf2a5dXhIe56pjMvG0=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 695972,
+      "length": "13:30",
+      "description": "Build your own Python Flask website with Linode: https://ntck.co/linode (get a $100 Credit good for 60 days as a new user!!) Yes ...",
+      "extensions": [
+        "4K",
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/5aYpkLfkgRE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjvPRPhUKIRBHVYDq85v1Busj3mQ",
+        "rich": "https://i.ytimg.com/an_webp/5aYpkLfkgRE/mqdefault_6s.webp?du=3000&sqp=CMLghdgG&rs=AOn4CLDbQmpVYLHadJ5rHvSV7Ex6L9vSdg"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/5aYpkLfkgRE/hqdefault_1000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzEIm_9l9K0kMrydKHr73Zu3TQ1Q",
+          "time_start": 0
+        },
+        {
+          "title": "What do you need?",
+          "thumbnail": "https://i.ytimg.com/vi/5aYpkLfkgRE/hqdefault_50933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgOoBx3JiFOZeGKM_KsuTzZgB0AQ",
+          "time_start": 50
+        },
+        {
+          "title": "What the junk is Flask?",
+          "thumbnail": "https://i.ytimg.com/vi/5aYpkLfkgRE/hqdefault_151166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDWWIzJ6fdraOnaFiVr8m4Bu8wdw",
+          "time_start": 129
+        },
+        {
+          "title": "Let’s get started!",
+          "thumbnail": "https://i.ytimg.com/vi/5aYpkLfkgRE/hqdefault_176966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9NVUlO4P2Rxk1bcwkd6gNCWx8XQ",
+          "time_start": 176
+        },
+        {
+          "title": "Time to build our meme website!",
+          "thumbnail": "https://i.ytimg.com/vi/5aYpkLfkgRE/hqdefault_505233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhJZL9f5L3EzZboMiql1IuDS9RGg",
+          "time_start": 503
+        },
+        {
+          "title": "Outro",
+          "thumbnail": "https://i.ytimg.com/vi/5aYpkLfkgRE/hqdefault_714866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1p3INmheRZ5eqXapPCC4lQqpnmg",
+          "time_start": 693
+        }
+      ]
+    },
+    {
+      "position_on_page": 12,
+      "title": "Flask Full Course: Build Stunning Web Apps Fast | Python Flask Tutorial",
+      "link": "https://www.youtube.com/watch?v=45P3xQPaYxc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=45P3xQPaYxc",
+      "video_id": "45P3xQPaYxc",
+      "channel": {
+        "name": "Code with Josh",
+        "channel_id": "UCwcXQMYphMbpuw8ok9HQguw",
+        "link": "https://www.youtube.com/@codewithjoshoffical",
+        "thumbnail": "https://yt3.ggpht.com/hIXvEYxxkF7ygU0QSccH7ALfB3ROafcMa1_Q6Fpn73E1tYrgdy7kLWMyydRa5PayOc7L4JWA0w=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 205177,
+      "length": "1:25:41",
+      "description": "Email Verification That Just Works - https://www.mailkitapi.com Join 9k+ Readers — Python Newsletter ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/45P3xQPaYxc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC45q1HkIiqojH_CkdY-4wAZDOEng",
+        "rich": "https://i.ytimg.com/an_webp/45P3xQPaYxc/mqdefault_6s.webp?du=3000&sqp=COfOhdgG&rs=AOn4CLCL7pi6BWFvCENfX_s_GCtwtu-TMA"
+      },
+      "chapters": [
+        {
+          "title": "Introduction to The Course",
+          "thumbnail": "https://i.ytimg.com/vi/45P3xQPaYxc/hqdefault_10900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeedhQuCL0rxR6f_b5gdNU5gzM-Q",
+          "time_start": 0
+        },
+        {
+          "title": "UnSponsored SponsorShip",
+          "thumbnail": "https://i.ytimg.com/vi/45P3xQPaYxc/hqdefault_109933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoFgZqTIqgm3J4VUADn19_L-7EEg",
+          "time_start": 105
+        },
+        {
+          "title": "Introduction to Flask",
+          "thumbnail": "https://i.ytimg.com/vi/45P3xQPaYxc/hqdefault_173033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhhQHHEmhm8hPhr7-ROi3gIpz_UQ",
+          "time_start": 162
+        },
+        {
+          "title": "Create a Virtual Environment",
+          "thumbnail": "https://i.ytimg.com/vi/45P3xQPaYxc/hqdefault_620166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCh-t3oozWfKnh8yb7HB2NzBLA3w",
+          "time_start": 620
+        },
+        {
+          "title": "Setting Up a Flask Project",
+          "thumbnail": "https://i.ytimg.com/vi/45P3xQPaYxc/hqdefault_858866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMCjbUEMfkf9WEc2SoOhkoxS_ysg",
+          "time_start": 830
+        },
+        {
+          "title": "An Index HTML Page",
+          "thumbnail": "https://i.ytimg.com/vi/45P3xQPaYxc/hqdefault_1345900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-4Lc1mIhd90pbc943hxCAFHY9gw",
+          "time_start": 1334
+        },
+        {
+          "title": "HTML Template Inheritance",
+          "thumbnail": "https://i.ytimg.com/vi/45P3xQPaYxc/hqdefault_1544100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6CA0fCSGptEg_CKtC9Nit1Iav4w",
+          "time_start": 1528
+        },
+        {
+          "title": "Configure SQLAlchemy",
+          "thumbnail": "https://i.ytimg.com/vi/45P3xQPaYxc/hqdefault_1950633.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjLo698EspE8tsR2qqeEI4ufFOCg",
+          "time_start": 1940
+        },
+        {
+          "title": "HTTP Requests with POST and GET",
+          "thumbnail": "https://i.ytimg.com/vi/45P3xQPaYxc/hqdefault_2413000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBr2VWwZi6ycFaCt91X257FcpBa7A",
+          "time_start": 2388
+        },
+        {
+          "title": "Send Data to HTML",
+          "thumbnail": "https://i.ytimg.com/vi/45P3xQPaYxc/hqdefault_2769066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsJnPex7DtnZtr-bHdz77syHhAyQ",
+          "time_start": 2750
+        },
+        {
+          "title": "Delete an Item from a Database",
+          "thumbnail": "https://i.ytimg.com/vi/45P3xQPaYxc/hqdefault_3144866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBehPxgzUG8w8i4a8RKdjUP9ReyWw",
+          "time_start": 3115
+        },
+        {
+          "title": "Edit an Item in a Database",
+          "thumbnail": "https://i.ytimg.com/vi/45P3xQPaYxc/hqdefault_3365033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAeOF-GZCfnNMvtn0QtFeANVyoM7g",
+          "time_start": 3360
+        },
+        {
+          "title": "Add Sassy CSS (SCSS)",
+          "thumbnail": "https://i.ytimg.com/vi/45P3xQPaYxc/hqdefault_4043133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoUlYMeAs67451IgtSudW71Eijtw",
+          "time_start": 4020
+        },
+        {
+          "title": "Deploy a Flask Application",
+          "thumbnail": "https://i.ytimg.com/vi/45P3xQPaYxc/hqdefault_4591233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAk5T3HuA2uKx1xDusjgV9h-qrYbg",
+          "time_start": 4590
+        },
+        {
+          "title": "Cool Down Outro",
+          "thumbnail": "https://i.ytimg.com/vi/45P3xQPaYxc/hqdefault_5103900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDydntoAgQmS72uKYSDWuuKKgExDQ",
+          "time_start": 5077
+        }
+      ]
+    },
+    {
+      "position_on_page": 17,
+      "title": "Flask Course - Python Web Application Development",
+      "link": "https://www.youtube.com/watch?v=Qr4QMBUPxWo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Qr4QMBUPxWo",
+      "video_id": "Qr4QMBUPxWo",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 1228688,
+      "length": "6:21:04",
+      "description": "Learn the Flask Python web framework by building your own e-commerce website with its own authentication system. Full ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Qr4QMBUPxWo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNHpD2lhWp9sPxEClO-xw-n7iPlg",
+        "rich": "https://i.ytimg.com/an_webp/Qr4QMBUPxWo/mqdefault_6s.webp?du=3000&sqp=CIK5hdgG&rs=AOn4CLBo3qF5l63ONnMoOauB9j3_Jek7nw"
+      },
+      "chapters": [
+        {
+          "title": "️ P1.Introduction",
+          "thumbnail": "https://i.ytimg.com/vi_webp/Qr4QMBUPxWo/hqdefault.webp",
+          "time_start": 0
+        },
+        {
+          "title": "️ P2.Styling & Templates",
+          "thumbnail": "https://i.ytimg.com/vi_webp/Qr4QMBUPxWo/hqdefault.webp",
+          "time_start": 1237
+        },
+        {
+          "title": "️ P3.Sending data to Templates",
+          "thumbnail": "https://i.ytimg.com/vi_webp/Qr4QMBUPxWo/hqdefault.webp",
+          "time_start": 2497
+        },
+        {
+          "title": "️ P4.Template Inheritance",
+          "thumbnail": "https://i.ytimg.com/vi_webp/Qr4QMBUPxWo/hqdefault.webp",
+          "time_start": 3776
+        },
+        {
+          "title": "️ P5.Models and Databases",
+          "thumbnail": "https://i.ytimg.com/vi_webp/Qr4QMBUPxWo/hqdefault.webp",
+          "time_start": 4874
+        },
+        {
+          "title": "️ P6.Project Restructure",
+          "thumbnail": "https://i.ytimg.com/vi_webp/Qr4QMBUPxWo/hqdefault.webp",
+          "time_start": 6673
+        },
+        {
+          "title": "️ P7.Model Relationships",
+          "thumbnail": "https://i.ytimg.com/vi_webp/Qr4QMBUPxWo/hqdefault.webp",
+          "time_start": 7541
+        },
+        {
+          "title": "️ P8.Flask Forms",
+          "thumbnail": "https://i.ytimg.com/vi_webp/Qr4QMBUPxWo/hqdefault.webp",
+          "time_start": 8737
+        },
+        {
+          "title": "️ P9.Flask Validations",
+          "thumbnail": "https://i.ytimg.com/vi_webp/Qr4QMBUPxWo/hqdefault.webp",
+          "time_start": 10318
+        },
+        {
+          "title": "️ P10.Flashes & Advanced Validations",
+          "thumbnail": "https://i.ytimg.com/vi_webp/Qr4QMBUPxWo/hqdefault.webp",
+          "time_start": 11645
+        },
+        {
+          "title": "️ P11.User Authentication Part 1",
+          "thumbnail": "https://i.ytimg.com/vi_webp/Qr4QMBUPxWo/hqdefault.webp",
+          "time_start": 13264
+        },
+        {
+          "title": "️ P12.User Authentication Part 2",
+          "thumbnail": "https://i.ytimg.com/vi_webp/Qr4QMBUPxWo/hqdefault.webp",
+          "time_start": 14396
+        },
+        {
+          "title": "️ P13.Logout and Customizations",
+          "thumbnail": "https://i.ytimg.com/vi_webp/Qr4QMBUPxWo/hqdefault.webp",
+          "time_start": 16456
+        },
+        {
+          "title": "️ P14.Item Purchasing Part 1",
+          "thumbnail": "https://i.ytimg.com/vi_webp/Qr4QMBUPxWo/hqdefault.webp",
+          "time_start": 17485
+        },
+        {
+          "title": "️ P15.Item Purchasing Part 2",
+          "thumbnail": "https://i.ytimg.com/vi_webp/Qr4QMBUPxWo/hqdefault.webp",
+          "time_start": 19119
+        },
+        {
+          "title": "️ P16.Item Selling",
+          "thumbnail": "https://i.ytimg.com/vi_webp/Qr4QMBUPxWo/hqdefault.webp",
+          "time_start": 21253
+        }
+      ]
+    },
+    {
+      "position_on_page": 21,
+      "title": "Flask Full Course in 1Hour in  Telugu",
+      "link": "https://www.youtube.com/watch?v=oQWkuJhSMCQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=oQWkuJhSMCQ",
+      "video_id": "oQWkuJhSMCQ",
+      "channel": {
+        "name": "PythonLife",
+        "channel_id": "UC3Qe9c8dZqnjwcDD2vCZBKQ",
+        "link": "https://www.youtube.com/@PythonLifetelugu",
+        "thumbnail": "https://yt3.ggpht.com/2_QQQR7u5kW8yaXlBimqlStm36l1bZ-JNsmfuQrphLWbIo482PvAMAQ0Z-aTOazpI91iBwSAMBk=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 123315,
+      "length": "1:26:32",
+      "description": "Hi welcome to python live youtube channel. Okay so not like they're from two piston slides okay so what is flask so flash contains a ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/oQWkuJhSMCQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7svmjaC9tv7jYnVB7NikqUh6aGg",
+        "rich": "https://i.ytimg.com/an_webp/oQWkuJhSMCQ/mqdefault_6s.webp?du=3000&sqp=CJDMhdgG&rs=AOn4CLDs6qKIdV8DmfgcEbEFOJkHPKE3Sg"
+      }
+    },
+    {
+      "position_on_page": 22,
+      "title": "Django VS Flask - Which Should You Learn",
+      "link": "https://www.youtube.com/watch?v=Gj02l0R1drM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Gj02l0R1drM",
+      "video_id": "Gj02l0R1drM",
+      "channel": {
+        "name": "Tech With Tim",
+        "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
+        "link": "https://www.youtube.com/@TechWithTim",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k15oXl74WcnpdL-uVBv6IHBgAfXEEnpUiS-IoEyV1auyY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 497978,
+      "length": "0:59",
+      "description": "Should you use Django or Flask? The answer to that relies on what your use case and goals are, so I break down in this video ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Gj02l0R1drM/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhyIF8oOjAP&rs=AOn4CLAGtFqYRy23ZuVQRosWgwC6X2sBGA",
+        "rich": "https://i.ytimg.com/an_webp/Gj02l0R1drM/mqdefault_6s.webp?du=3000&sqp=COzOhdgG&rs=AOn4CLD4jr26CcIP0uLKM3WbKXmT29CRXw"
+      }
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Flask+full+course+tutorial+for+Backend+Python+Developer&gl=in&hl=en",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Flask%20full%20course%20tutorial%20for%20Backend%20Python%20Developer&sp=SBSCAQ1QTE1zVEw3N216R1dNggEiUEx6TWNCR2ZabzQtbjR2Skp5YlVWVjNVbl9ORlM1RU9nWIIBC29RNVVmSnFXNUpvggEiUExiZUdYVHQzSU9kOUVCUlM5MzBsczhSYUZZUWVOeVVneoIBIlBMUzFRdWxXbzFSSVo2T3VqcUlBWG1MUjN4c0RuX0VOSEmCASJQTC1vc2lFODBUZVRzNFVqTHc1TU02T2pna2pGZVV4Q1lIggELWjFSSm1oX09xZUGCASJQTEVwUmN4T21URmxOMUlUbVFVNVA4UEhYQlNTSU1CWmFTggELNWFZcGtMZmtnUkWCAQs0NVAzeFFQYVl4Y4IBIlBMUFMzcFVIeXF0TDNvbnV0ZWUyWnl2TUlXZXd5bXN4QkKCASJQTE9rVnVwbHVDSWp1UHRUa2hPNmptQTc2dVFSOTk0V3ZpggEiUEw3eWgtVEVMTFMxRXlBeWVfVU1ubHNUR0t4Zzh1YXRrTYIBIlBMdTBXXzlsSUk5YWdBaVdwNlk0MXVlVUt4MVZjVFJ4bWaCAQtRcjRRTUJVUHhXb4IBIlBMZjl1bUpkUTU0NmgyNnM3VktRVlVpcjVHb09aLTFKVFCCASJQTHRqbDN5MmpaRWVYLTVKV2txazhwREVsanQ2VFc5NDl5ggEiUEx4bWMzNnh0VzZnVHhzSjhRYkhMYnVId2E2NEZINGFScYIBC29RV2t1SmhTTUNRggELR2owMmwwUjFkck2yAQYKBAgZEAI%253D",
+    "next_page_token": "SBSCAQ1QTE1zVEw3N216R1dNggEiUEx6TWNCR2ZabzQtbjR2Skp5YlVWVjNVbl9ORlM1RU9nWIIBC29RNVVmSnFXNUpvggEiUExiZUdYVHQzSU9kOUVCUlM5MzBsczhSYUZZUWVOeVVneoIBIlBMUzFRdWxXbzFSSVo2T3VqcUlBWG1MUjN4c0RuX0VOSEmCASJQTC1vc2lFODBUZVRzNFVqTHc1TU02T2pna2pGZVV4Q1lIggELWjFSSm1oX09xZUGCASJQTEVwUmN4T21URmxOMUlUbVFVNVA4UEhYQlNTSU1CWmFTggELNWFZcGtMZmtnUkWCAQs0NVAzeFFQYVl4Y4IBIlBMUFMzcFVIeXF0TDNvbnV0ZWUyWnl2TUlXZXd5bXN4QkKCASJQTE9rVnVwbHVDSWp1UHRUa2hPNmptQTc2dVFSOTk0V3ZpggEiUEw3eWgtVEVMTFMxRXlBeWVfVU1ubHNUR0t4Zzh1YXRrTYIBIlBMdTBXXzlsSUk5YWdBaVdwNlk0MXVlVUt4MVZjVFJ4bWaCAQtRcjRRTUJVUHhXb4IBIlBMZjl1bUpkUTU0NmgyNnM3VktRVlVpcjVHb09aLTFKVFCCASJQTHRqbDN5MmpaRWVYLTVKV2txazhwREVsanQ2VFc5NDl5ggEiUEx4bWMzNnh0VzZnVHhzSjhRYkhMYnVId2E2NEZINGFScYIBC29RV2t1SmhTTUNRggELR2owMmwwUjFkck2yAQYKBAgZEAI%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Flask+full+course+tutorial+for+Backend+Python+Developer",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Flask+full+course+tutorial+for+Backend+Python+Developer&sp=SBSCAQ1QTE1zVEw3N216R1dNggEiUEx6TWNCR2ZabzQtbjR2Skp5YlVWVjNVbl9ORlM1RU9nWIIBC29RNVVmSnFXNUpvggEiUExiZUdYVHQzSU9kOUVCUlM5MzBsczhSYUZZUWVOeVVneoIBIlBMUzFRdWxXbzFSSVo2T3VqcUlBWG1MUjN4c0RuX0VOSEmCASJQTC1vc2lFODBUZVRzNFVqTHc1TU02T2pna2pGZVV4Q1lIggELWjFSSm1oX09xZUGCASJQTEVwUmN4T21URmxOMUlUbVFVNVA4UEhYQlNTSU1CWmFTggELNWFZcGtMZmtnUkWCAQs0NVAzeFFQYVl4Y4IBIlBMUFMzcFVIeXF0TDNvbnV0ZWUyWnl2TUlXZXd5bXN4QkKCASJQTE9rVnVwbHVDSWp1UHRUa2hPNmptQTc2dVFSOTk0V3ZpggEiUEw3eWgtVEVMTFMxRXlBeWVfVU1ubHNUR0t4Zzh1YXRrTYIBIlBMdTBXXzlsSUk5YWdBaVdwNlk0MXVlVUt4MVZjVFJ4bWaCAQtRcjRRTUJVUHhXb4IBIlBMZjl1bUpkUTU0NmgyNnM3VktRVlVpcjVHb09aLTFKVFCCASJQTHRqbDN5MmpaRWVYLTVKV2txazhwREVsanQ2VFc5NDl5ggEiUEx4bWMzNnh0VzZnVHhzSjhRYkhMYnVId2E2NEZINGFScYIBC29RV2t1SmhTTUNRggELR2owMmwwUjFkck2yAQYKBAgZEAI%253D",
+    "next_page_token": "SBSCAQ1QTE1zVEw3N216R1dNggEiUEx6TWNCR2ZabzQtbjR2Skp5YlVWVjNVbl9ORlM1RU9nWIIBC29RNVVmSnFXNUpvggEiUExiZUdYVHQzSU9kOUVCUlM5MzBsczhSYUZZUWVOeVVneoIBIlBMUzFRdWxXbzFSSVo2T3VqcUlBWG1MUjN4c0RuX0VOSEmCASJQTC1vc2lFODBUZVRzNFVqTHc1TU02T2pna2pGZVV4Q1lIggELWjFSSm1oX09xZUGCASJQTEVwUmN4T21URmxOMUlUbVFVNVA4UEhYQlNTSU1CWmFTggELNWFZcGtMZmtnUkWCAQs0NVAzeFFQYVl4Y4IBIlBMUFMzcFVIeXF0TDNvbnV0ZWUyWnl2TUlXZXd5bXN4QkKCASJQTE9rVnVwbHVDSWp1UHRUa2hPNmptQTc2dVFSOTk0V3ZpggEiUEw3eWgtVEVMTFMxRXlBeWVfVU1ubHNUR0t4Zzh1YXRrTYIBIlBMdTBXXzlsSUk5YWdBaVdwNlk0MXVlVUt4MVZjVFJ4bWaCAQtRcjRRTUJVUHhXb4IBIlBMZjl1bUpkUTU0NmgyNnM3VktRVlVpcjVHb09aLTFKVFCCASJQTHRqbDN5MmpaRWVYLTVKV2txazhwREVsanQ2VFc5NDl5ggEiUEx4bWMzNnh0VzZnVHhzSjhRYkhMYnVId2E2NEZINGFScYIBC29RV2t1SmhTTUNRggELR2owMmwwUjFkck2yAQYKBAgZEAI%3D"
+  }
+}

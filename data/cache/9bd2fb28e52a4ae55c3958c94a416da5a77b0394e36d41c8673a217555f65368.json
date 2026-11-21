@@ -1,0 +1,19 @@
+{
+  "skills": [
+    "Python",
+    "Django",
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB",
+    "Cassandra",
+    "DynamoDB",
+    "AWS",
+    "Azure",
+    "Google Cloud",
+    "Kubernetes",
+    "Docker",
+    "Apache Kafka",
+    "Apache Spark",
+    "Microservices"
+  ]
+}

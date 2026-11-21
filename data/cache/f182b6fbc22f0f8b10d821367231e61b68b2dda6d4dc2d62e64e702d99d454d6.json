@@ -1,0 +1,981 @@
+{
+  "search_metadata": {
+    "id": "6b017c8e46ce67caabd4cfc2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Duz9W3-v99D_ViiDp38xLnbYx6thPSxtpJhpZpHiaBs/6b017c8e46ce67caabd4cfc2.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Duz9W3-v99D_ViiDp38xLnbYx6thPSxtpJhpZpHiaBs/6b017c8e46ce67caabd4cfc2.md",
+    "created_at": "2026-11-21 11:12:14 UTC",
+    "processed_at": "2026-11-21 11:12:14 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=REST+API+full+course+tutorial+for+Frontend+Developer&gl=in&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/Duz9W3-v99D_ViiDp38xLnbYx6thPSxtpJhpZpHiaBs/6b017c8e46ce67caabd4cfc2.html",
+    "total_time_taken": 1.43
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "REST API full course tutorial for Frontend Developer",
+    "gl": "in",
+    "hl": "en"
+  },
+  "search_information": {
+    "total_results": 2739876,
+    "video_results_state": "Results for exact spelling"
+  },
+  "ads_results": [
+    {
+      "position_on_page": 1,
+      "title": "Elevate Your Learning Content with Additional 360 Block Types",
+      "link": "https://www.youtube.com/watch?v=rqNqtSvlIps",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=rqNqtSvlIps",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=C_PjPjnwBa9X2F9OuybgPmN_7mAy5lZiLf_Dr-aS0FLCQHxABIABgycapi8Ck2A-CARdjYS1wdWItNjIxOTgxMTc0NzA0OTM3MaABkKXr0QKoAwTIAwqqBNcCT9DYjewLWLwTikr1Gprg9xUp4OVPn3RvuRMuDPq5jxmDg04ZUZdtJR6YqDcVNkZ1gka-FEK1Vwxx1AdWjOtWTGRSd5kkea9C3_5sjLvn-Y6m0Qa1mgKyeHw4XMnsJHva7EWHbIIxZuyQGypObJ0SnHPoGRs6kCPbb7L6_m2ik_pzv4UL6h9aWI_k7HBBXpvu8wh5Q3YTWHAE6VjiauPjM-IW_IKduYUGQWxAY45hRDGbW61vGiuTpxK2z5s5TK2asg8uld_CoOxswVfPhDCI4_C4OLP8xJudbA0VHBMA6zV9p8QTx7z4Ds-1_H_iuQBl5wN3NaNQPtbfV3R_hPBkbLHUHWpGBg4wReVRvu4zUUJuS-xPo0M3Ct1L0r8WP4xRS8vaT2QrlMGrW4VSCQAaQO8hjxzJqmJLp7O_WGieBjE8Sxic_ylf-1lAvzFMhKBQiFJOn7Hhh4gFzvWo91OSBQgIE3iOn7SuAaAGoQGAB9jalK4BkAcEqAelz7ECqAfnnbECqAfonbECqAeD9rECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHnuqxAqgHn-qxAqgH-OuxAqgHvOqxAqgH7_GxAqgH_K-xAqgH1c4bqAe-2bECqAe_2bECqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKSCAtycU5xdFN2bElwc6gIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBhI2aDSNVAUWKiAzvb2mJgDYAGaCR1odHRwczovL2Rlc2lnbndpdGhtaWdodHkuY29tL7EJiu-BhuJJmMjICRfICY8ByAnCAZgLAboLOggDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AIC2AEBgAIBiAIGugMFdmljYmbQCxLSDAIQAZoNARKqDQJVU8gNAdIN0gJodHRwczovL2Rlc2lnbndpdGhtaWdodHkuY29tLz91dG1fdGVybT0mdXRtX2NhbXBhaWduPURlbWFuZCtHZW4rLStZb3VUdWJlLCtEaXNjb3ZlciwrR21haWwrKFIpKy0rVFBBKzg1JnV0bV9zb3VyY2U9YWR3b3JkcyZ1dG1fbWVkaXVtPXBwYyZoc2FfYWNjPTQ4MzE1NDE4NzImaHNhX2NhbT0yMjUzMDM3NDM1MCZoc2FfZ3JwPTE3NjEwNzMyMzU0MSZoc2FfYWQ9NzUxMDA3MTI4NzI3JmhzYV9zcmM9eXRpZiZoc2FfdGd0PWF1ZC0yMzEwOTMxMzExMDczJmhzYV9rdz0maHNhX210PSZoc2FfbmV0PWFkd29yZHMmaHNhX3Zlcj0zJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMjUzMDM3NDM1MLgT____________AYgUArAUA8AVgYCAQNAVAdgVAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRdGgDjbrzQZ5boXBigAMAA4AdAYAfAYAcIZAggB&gclid=EAIaIQobChMI1fXO9vaYmAMVU1cSAR2Y7x7DEAEYASAAEgI6fPD_BwE&num=1&cid=CAASqgHkaLKuU8YIu8GGJefillCfq1dPxGWBabMGJQ3255IdMEMcwF3z4X8zTT_rzzZHabLA1RNAHKcDrosRKyxCea-Zn4IbNKzkBvvCA3C1qgr2p99HpMM5fUpJ-G_76tZaPF6mUt4EteP20_YeQXE2sjVK4bpudzD8-hr_12zydEuwCTKaNC-S8ghfcAhox0sDqy8-EIqJHK1709EcZUUs5Cxnmxl6ssf88PfPfA&ad_cpn=%5BCPN%5D&sig=AOD64_23WHiimx2l52BkZ1DY0Z8R8TLYIQ&ctype=110&video_id=rqNqtSvlIps&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Maestro",
+        "thumbnail": "https://yt3.ggpht.com/proxy/hAs-aMdfAHpDDBcjrHM7dqvUiJ1Cl46wC0LFKaR3yBTTpcrSxz6TQhnayfeWkFkqgWbyCjtJ7VYIkEjQSTkALzgrV4E__v8wRNeNCg4zvoYTOAp5ufHHirhUe-wTlx62js0v02D2BtB5zSZqV4OYWMXNvGmih_sLlC3720Zxil6rlcG4XQLCRDc8jNiF4p6euIIsBD--ia2XRn9gZcc8QZQzG4Whe7Gd_d6orIwfiJ6ltGGJ2naAKivtO-e0wsv9dmfN=w68-h68-nd"
+      },
+      "description": "Elevate Your Learning Content with Additional 360 Block Types",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/rqNqtSvlIps/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVd093pRMk1bMyw0jCcIZ4bSBQhA"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Devour knowledge with Student Spaces",
+      "link": "https://www.youtube.com/watch?v=VdDiEf6YJnQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=VdDiEf6YJnQ",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=C5smPjnwBa9X2F9OuybgPmN_7mAyXouaPiwGH_-O_vBWwkB8QAiAAYMnGqYvApNgPggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAbH6_-oCqAMEyAMKqgTxAk_Q2I3sC1i8E4pK9Rqa4PcVKeDlT590b7kTLgz6uY8Zg4NOGVGXbSUemKg3FTZGdYJGvhRCtVcMcdQHVozrVkxkUneZJHmvQt_-bIy75_mOptEGtZoCsnh8OFzJ7CR72uxFh2yCMWbskBsqTmydEpxz6BkbOpAj22-y-v5topP6c7-FC-ofWliP5OxwQV6b7vMIeUN2E1hwBOlY4mrj4zPiFvyCnbmFBkFsQGOOYUQxm1utbxork6cSts-bOUytmrIPLpXfwqDsbMFXz4QwiOPwuDiz_MSbnWwNFRwTAOs1fafEE8e8-A7Ptfx_4rkAZecDdzWjUD7W31d0Z4Q59K5t1hVq5B6YOOG1wKhMP9cz3_XuqksvurcClSBwCaNWelS52tJRAFM7_nZQvhSL5Gd2OJggWpKTFHJ_jlinKA0th_-LKiLOYMvC_3K4fb5m_hzZh3pBPKBZsmr9TeT9z8M3RcTwM0W44I9olvMsppuf_YgF5tDvrViSBQgIE3j6zZ-VAaAGoQGAB7eFgJUBkAcEqAelz7ECqAfnnbECqAfonbECqAeD9rECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHnuqxAqgHn-qxAqgH-OuxAqgHvOqxAqgH7_GxAqgH_K-xAqgH1c4bqAe-2bECqAe_2bECqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKSCAtWZERpRWY2WUpuUagIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBhI2aDSNVAUWKiAzvb2mJgDYAGaCSxodHRwczovL2Fjcm9iYXQuYWRvYmUuY29tL3N0dWRlbnRzcGFjZXMvaG9tZbEJgbAQJz0tqWHICRfICY8ByAnCAboLOggDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AIC2AEDgAIBiAISugMFdmljYmbQCxPgCwGiDB9iGAoWY29tLmFkb2JlLmVjaG9zaWduLmlvc3gAiAEA0gwCEAGaDQETqg0CVVPIDQHSDekEaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL045NzI5NTIuMjc5MzgyQklETUFOQUdFUl9ERkFTSVRFL0IyMjM0NDQxMy4yNDE1MzkzMjE7ZGNfdHJrX2FpZD00MzgxMjg2MjI7ZGNfdHJrX2NpZD0xMTI4ODQ2MTM7ZGNfZGJtX3Rva2VuPUFPamVMTkVBQUFBNkNqTUtEQWdBRlFBQUFBQWRBQUFBQUJJTUNBQVZBQUFBQUIwQUFBQUFJaE1JNXREdnJWaW9Bc080OUFHd0FzeVc0dWtEUURzUWwtZTZBYXBTbzNMajY5SHFtUlNHRDdObEp0Yz07ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07bHRkPTtkY190ZHY9MTtkY190cmFuc3BhcmVudD0xO2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNBZGZzMTJhZVdSZHlaMGRWbjY4cmtiTWdzUzNaUXdEWFktelkyeVRFV3ZPcm40M1BXWTgwMXFhckc3NTd6WWxCYnB4VDFNS3hteER2NVNnQTtkY19wdWJpZD02P2h0dHBzOi8vYWNyb2JhdC5hZG9iZS5jb20vc3R1ZGVudHNwYWNlcy9ob21lP3NkaWQ9VjZOWktDUzYmbXY9c29jaWFsJm12Mj1wYWlkc29jJnhfYXBpX2NsaWVudF9pZD1wYWlkbWVkaWEmeF9hcGlfY2xpZW50X2xvY2F0aW9uPWFkc19WNk5aS0NTNiZnYWRfc291cmNlPTKwE-PuqCS4E____________wGIFAiwFAPAFYGAgEDQFQHYFQGYFgGoFgGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF1e_wgIaPhjwuhcGKAAwADgB0BgB8BgB&gclid=EAIaIQobChMI1fXO9vaYmAMVU1cSAR2Y7x7DEAEYAiAAEgK64fD_BwE&num=2&cid=CAASqgHkaLKuU8YIu8GGJefillCfq1dPxGWBabMGJQ3255IdMEMcwF3z4X8zTT_rzzZHabLA1RNAHKcDrosRKyxCea-Zn4IbNKzkBvvCA3C1qgr2p99HpMM5fUpJ-G_76tZaPF6mUt4EteP20_YeQXE2sjVK4bpudzD8-hr_12zydEuwCTKaNC-S8ghfcAhox0sDqy8-EIqJHK1709EcZUUs5Cxnmxl6ssf88PfPfA&ad_cpn=%5BCPN%5D&sig=AOD64_0_w4P_z4csWkzfi50WZJ9R-hWXHg&ctype=110&video_id=VdDiEf6YJnQ&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Adobe",
+        "thumbnail": "https://yt3.ggpht.com/proxy/MOuz2I13I1fAnFfngtXtL_W4we9dtMgr0pZOHx9ZvXrWe0TzDLTj2mq2_seyh8bAOYiFhihUkC0bcCbQ2Rr3ROUyAm-g7fKx7ikqVy2aYwv8ap82JEQltB0uNj5JlrrMcTbQ-wFlNo0DfytWwYBrrCyx4-VnwgCwx-dn0fy6KEEwJzLjssuJHIvXA-MdWMvBvChh3bzxW7-sQCuvX2mDwrBOQUGt_eZzMbPzNL_oO6Ke1vjjr2458wPYmALVc80eUKLvvs8=w68-h68-nd"
+      },
+      "description": "Student Spaces is a smarter way to study. Free for students.",
+      "thumbnail": {
+        "static": "https://tpc.googlesyndication.com/simgad/16682586792110191416"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "On-site work is slow and expensive. Remote analysis on Google Earth is easy and fast.",
+      "link": "https://www.youtube.com/watch?v=dueh4LNA3X4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=dueh4LNA3X4",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CsP4QjnwBa9X2F9OuybgPmN_7mAyN5rHDigHyxajf0RawkB8QBCAAYMnGqYvApNgPggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAcvxyvcDqAMEyAMKqgTEAk_Q2I3sC1i8E4pK9Rqa4PcVKeDlT590b7kTLgz6uY8Zg4NOGVGXbSUemKg3FTZGdYJGvhRCtVcMcdQHVozrVkxkUneZJHmvQt_-bIy75_mOptEGtZoCsnh8OFzJ7CR72uxFh2yCMWbskBsqTmydEpxz6BkbOpAj22-y-v5topP6c7-FC-ofWliP5OxwQV6b7vMIeUN2E1hwBOlY4mrj4zPiFvyCnbmFBkFsQGOOYUQxm1utbxork6cSts-bOUytmrIPLpXfwqDsbMFXz4QwiOPwuDiz_MSbnWwNFRwTAOs1fafEE8e8-A7Ptfx_4rkAZecDdzWjUD7W31d0f4TwZGz23R1qRgYOc2PwfITuM250BuIgitHZcIg6m9g9n4whLVZz2IjBaPoCdpoxd3-6hm7NsxLdWG7vdweinVhhiI9TAUvGjYgF4oLc9lqSBQcIE3ixqdwHoAahAYAHnY61CJAHBKgHpc-xAqgH552xAqgH6J2xAqgHg_axAqgH-dOxAqgHydqxAqgHqeCxAqgHqNIbqAex3BuoB7CbsQKoB_2ysQKoB8jPsQKoB8nPsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB57qsQKoB5_qsQKoB_jrsQKoB7zqsQKoB-_xsQKoB_yvsQKoB9XOG6gHvtmxAqgHv9mxAqgHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECkggLZHVlaDRMTkEzWDSoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAYSNmg0jVQFFiogM729piYA2ABmgkiaHR0cHM6Ly9lYXJ0aC5nb29nbGUuY29tL3dlYi90b29sc7EJ3-IlK1oFfWDICRfICY8ByAnCAboLOggDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AIC2AEGgAIBiAIFugMFdmljYmbQCxLgCwGiDBlqEgoQY29tLmdvb2dsZS5lYXJ0aHgAiAEA0gwCEAGaDQESqg0CVVPIDQHSDcsDaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvc2VhcmNoYWRzL2xpbmsvY2xpY2s_bGlkPTU4NzAwMDA5MTUwNTc1MzM2JmRzX2FfY2lkPTE2MTkyNjg5JmRzX2FfY2FpZD0yNDQwODE2MjY1OCZkc19hX2FnaWQ9MjAwOTE3MjUzMjY1JmRzX2FfZmlpZD0mZHNfYV9saWQ9YXVkLTI1MDgxMDQ0MTU5NzMmZHNfYV9leHRpZD0mJmRzX2VfYWRpZD04Mjk2NDY3MzI4NTYmZHNfZV9tYXRjaHR5cGU9Y29udGVudCZkc19lX2RldmljZT1jJmRzX2VfbmV0d29yaz15dGlmJiZkc191cmxfdj0yJmRzX2Rlc3RfdXJsPWh0dHBzOi8vZWFydGguZ29vZ2xlLmNvbS93ZWIvdG9vbHM_dXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT12aWRlbyZ1dG1fY2FtcGFpZ249ZWFydGgyNl9kZ2VuX3YyJnV0bV9jb250ZW50PWNvbmNlcHRfMSZnY2xzcmM9YXcuZHMmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTI0NDA4MTYyNjU4uBP___________8BiBQGsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwG6FwYoADAAOAHQGAHwGAHCGQIIAQ&gclid=EAIaIQobChMI1fXO9vaYmAMVU1cSAR2Y7x7DEAEYBCAAEgJb2vD_BwE&num=4&cid=CAASqgHkaLKuU8YIu8GGJefillCfq1dPxGWBabMGJQ3255IdMEMcwF3z4X8zTT_rzzZHabLA1RNAHKcDrosRKyxCea-Zn4IbNKzkBvvCA3C1qgr2p99HpMM5fUpJ-G_76tZaPF6mUt4EteP20_YeQXE2sjVK4bpudzD8-hr_12zydEuwCTKaNC-S8ghfcAhox0sDqy8-EIqJHK1709EcZUUs5Cxnmxl6ssf88PfPfA&ad_cpn=%5BCPN%5D&sig=AOD64_3iLxs8wPHtbr2HL6jLz74erh88xw&ctype=110&video_id=dueh4LNA3X4&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Google Earth",
+        "thumbnail": "https://yt3.ggpht.com/proxy/JsmwS_kO0-J8bGHsT5OZBkuOBEGRZRqbrqKnRNOnJ01_6T4Almg693EBgQtOee8mtXTKHtardX5t5Mm0teWJQEcv-86bjt6PSHLsvAKVkJY6j3VRAai_q3jpQEvhR6tAXiGopAU8kr2YfBI7SaGkcNPskyAI1NTILjtl966WYSsGhWgqlRVg5iURdO9SjHzBVnEe5W0rWMTI2j8O4ld-m7guLijgIOfmWs8BUeuJDdID6KZNzqPApPCslJCTA6WvPCvT7lM=w68-h68-nd"
+      },
+      "description": "Save time with new tools to analyze terrain, classify land, and understand change.",
+      "thumbnail": {
+        "static": "https://tpc.googlesyndication.com/simgad/9810032193354541607"
+      }
+    }
+  ],
+  "video_results": [
+    {
+      "position_on_page": 2,
+      "title": "What Is REST API? Examples And How To Use It: Crash Course System Design #3",
+      "link": "https://www.youtube.com/watch?v=-mN3VyJuCjM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=-mN3VyJuCjM",
+      "video_id": "-mN3VyJuCjM",
+      "channel": {
+        "name": "ByteByteGo",
+        "channel_id": "UCZgt6AzoyjslHTC9dz0UoTw",
+        "link": "https://www.youtube.com/@ByteByteGo",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ZDRUyBUwc2WXZzvNKP9VS9myI6Mg2puQLaWyp4hibRu-owlsasZ3DVNGSQJwzO1IU-tqoMiGgdc=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4y ago",
+      "views": 1513944,
+      "length": "5:21",
+      "description": "Subscribe to our weekly system design newsletter: https://bit.ly/3tfAlYD Checkout our bestselling System Design Interview books: ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/-mN3VyJuCjM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHHAkDXR_fCRWfHozlkNOplaw0kg",
+        "rich": "https://i.ytimg.com/an_webp/-mN3VyJuCjM/mqdefault_6s.webp?du=3000&sqp=CIjQhdgG&rs=AOn4CLB83GtnA4qVcMTVldgaENof3p6KgA"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/-mN3VyJuCjM/hqdefault_15933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWRTa-vPUq2Qia4lMSLudSV9E5EA",
+          "time_start": 0
+        },
+        {
+          "title": "What is API",
+          "thumbnail": "https://i.ytimg.com/vi/-mN3VyJuCjM/hqdefault_23000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkO-aNJOkVOhLAHQbXd4Wz2oe2iw",
+          "time_start": 17
+        },
+        {
+          "title": "REST API Basics",
+          "thumbnail": "https://i.ytimg.com/vi/-mN3VyJuCjM/hqdefault_50966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtVmE5_oWGLlGi0keYaQLZUfkIIg",
+          "time_start": 47
+        },
+        {
+          "title": "crud",
+          "thumbnail": "https://i.ytimg.com/vi/-mN3VyJuCjM/hqdefault_128966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBn34Y4sGsuyBNEcZyF4jUjlDey3A",
+          "time_start": 125
+        }
+      ]
+    },
+    {
+      "position_on_page": 3,
+      "title": "REST API Crash Course - Introduction + Full Python API Tutorial",
+      "link": "https://www.youtube.com/watch?v=qbLc5a9jdXo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=qbLc5a9jdXo",
+      "video_id": "qbLc5a9jdXo",
+      "channel": {
+        "name": "Caleb Curry",
+        "channel_id": "UCZUyPT9DkJWmS_DzdOi7RIA",
+        "link": "https://www.youtube.com/@codebreakthrough",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_ndg1Q0vocIKu0U3Ks9SLkSCjZbGiZ2W1rhSsJoqZTgFK4=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 1475697,
+      "length": "51:57",
+      "description": "Mentorship to six figure software engineer - https://calcur.tech/mentorship ⚙️ Backend Engineering Mind Map ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/qbLc5a9jdXo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSipLk9C8wC7fG3lQsmF8A3o-14g",
+        "rich": "https://i.ytimg.com/an_webp/qbLc5a9jdXo/mqdefault_6s.webp?du=3000&sqp=CL7hhdgG&rs=AOn4CLBcE8BZzv4PR0zeEB1M4V5SPmRBKg"
+      },
+      "chapters": [
+        {
+          "title": "Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/qbLc5a9jdXo/hqdefault_19966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEyBd87DeyuDjziRCZw3PN9TiYnw",
+          "time_start": 0
+        },
+        {
+          "title": "API App example",
+          "thumbnail": "https://i.ytimg.com/vi/qbLc5a9jdXo/hqdefault_318100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfUpc54umFECTTWyePvsKEeE4TgA",
+          "time_start": 315
+        },
+        {
+          "title": "Why an API is important",
+          "thumbnail": "https://i.ytimg.com/vi/qbLc5a9jdXo/hqdefault_559100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3SrC07XmFMeJqtt1lai1jR_AQCQ",
+          "time_start": 555
+        },
+        {
+          "title": "HTTP methods",
+          "thumbnail": "https://i.ytimg.com/vi/qbLc5a9jdXo/hqdefault_919200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD13R68J_IcGWGBtYxTvzTJeDE7bA",
+          "time_start": 900
+        },
+        {
+          "title": "POST vs PUT",
+          "thumbnail": "https://i.ytimg.com/vi/qbLc5a9jdXo/hqdefault_1024100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXj2eIu2PzLwGRTL70hIb6pfRdnA",
+          "time_start": 1005
+        },
+        {
+          "title": "Consume the StackOverflow API",
+          "thumbnail": "https://i.ytimg.com/vi/qbLc5a9jdXo/hqdefault_1256933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYJo4AOfsATlrI3GTIROAwFy3RUg",
+          "time_start": 1256
+        },
+        {
+          "title": "Setting up our own Python API",
+          "thumbnail": "https://i.ytimg.com/vi/qbLc5a9jdXo/hqdefault_1666200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqKKZ4-jk_84OTwfshYAp5f1whMg",
+          "time_start": 1664
+        },
+        {
+          "title": "GET request setup",
+          "thumbnail": "https://i.ytimg.com/vi/qbLc5a9jdXo/hqdefault_1901266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhNqiCMuvD9QufxctidLSAYxVoaA",
+          "time_start": 1873
+        },
+        {
+          "title": "Database model setup for SQLAlchemy",
+          "thumbnail": "https://i.ytimg.com/vi/qbLc5a9jdXo/hqdefault_1949100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2HUhBymxLAyFeRMetPjC67DCreQ",
+          "time_start": 1924
+        },
+        {
+          "title": "GET data with query.all",
+          "thumbnail": "https://i.ytimg.com/vi/qbLc5a9jdXo/hqdefault_2353100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQJDL6iZmMXtzSDYhKfEmcL9h8NQ",
+          "time_start": 2350
+        },
+        {
+          "title": "GET data by ID with parameter",
+          "thumbnail": "https://i.ytimg.com/vi/qbLc5a9jdXo/hqdefault_2516133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBD2sqPEaghZYffaXCMLjF2wap9OA",
+          "time_start": 2516
+        },
+        {
+          "title": "Developer tools network Intro",
+          "thumbnail": "https://i.ytimg.com/vi/qbLc5a9jdXo/hqdefault_2685000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNr8TpXx0Fkfd6i0uHA4NnlKoaxQ",
+          "time_start": 2659
+        },
+        {
+          "title": "POST a new record",
+          "thumbnail": "https://i.ytimg.com/vi/qbLc5a9jdXo/hqdefault_2710966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOe31l_NsxxGgKvsjxNENh4MOZ9A",
+          "time_start": 2703
+        },
+        {
+          "title": "Postman Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/qbLc5a9jdXo/hqdefault_2841000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1_GknzFp1_H9fWytPivYsdBzTYA",
+          "time_start": 2835
+        },
+        {
+          "title": "DELETE data",
+          "thumbnail": "https://i.ytimg.com/vi/qbLc5a9jdXo/hqdefault_2971900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDj2MgFAja0EAvJuvgFRSctM_jhQg",
+          "time_start": 2961
+        },
+        {
+          "title": "Conclusion",
+          "thumbnail": "https://i.ytimg.com/vi/qbLc5a9jdXo/hqdefault_3114866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHNbxSv375S5woWrMD-rxWSGg2Ow",
+          "time_start": 3106
+        }
+      ]
+    },
+    {
+      "position_on_page": 5,
+      "title": "APIs for Beginners - How to use an API (Full Course / Tutorial)",
+      "link": "https://www.youtube.com/watch?v=WXsD0ZgxjRw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=WXsD0ZgxjRw",
+      "video_id": "WXsD0ZgxjRw",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 4474912,
+      "length": "3:07:07",
+      "description": "What is an API? Learn all about APIs (Application Programming Interfaces) in this full tutorial for beginners. You will learn what ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/WXsD0ZgxjRw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBf1SZBkO4RR6utWKEHRR5-pxoS6w",
+        "rich": "https://i.ytimg.com/an_webp/WXsD0ZgxjRw/mqdefault_6s.webp?du=3000&sqp=CMDThdgG&rs=AOn4CLB1kap8QakSkSdeaVLHV6gb6WJt1g"
+      },
+      "chapters": [
+        {
+          "title": "️ Video 1 - Welcome",
+          "thumbnail": "https://i.ytimg.com/vi/WXsD0ZgxjRw/hqdefault_14033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkFofS4v0pCze4IdueT-3rbBP8yA",
+          "time_start": 0
+        },
+        {
+          "title": "️ Video 2 - Defining Interface",
+          "thumbnail": "https://i.ytimg.com/vi/WXsD0ZgxjRw/hqdefault_290033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPrFmjDW-b-F86C6jLoIlrt8a7Dw",
+          "time_start": 290
+        },
+        {
+          "title": "️ Video 3 - Defining API",
+          "thumbnail": "https://i.ytimg.com/vi/WXsD0ZgxjRw/hqdefault_552933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKWH-OTyJa0b5_a1dpuv9r2FYcug",
+          "time_start": 529
+        },
+        {
+          "title": "️ Video 4 - Remote APIs",
+          "thumbnail": "https://i.ytimg.com/vi/WXsD0ZgxjRw/hqdefault_867000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJD2tw2gwxMwLpCogOqbgDiRb9LQ",
+          "time_start": 839
+        },
+        {
+          "title": "️ Video 5 - How the web works",
+          "thumbnail": "https://i.ytimg.com/vi/WXsD0ZgxjRw/hqdefault_1103900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2XLAeY6kgxlu3K7fOrBBKw3s8Jw",
+          "time_start": 1097
+        },
+        {
+          "title": "️ Video 6 - RESTful API Constraint Scavenger Hunt",
+          "thumbnail": "https://i.ytimg.com/vi/WXsD0ZgxjRw/hqdefault_1415800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDW4VvMo4LD-4p5xYAO-8zRV1GV2w",
+          "time_start": 1401
+        },
+        {
+          "title": "️ Video 1 - Exploring an API online",
+          "thumbnail": "https://i.ytimg.com/vi/WXsD0ZgxjRw/hqdefault_1763900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5QDN7zKzeDhYwoAxkcDiPQKcPOA",
+          "time_start": 1746
+        },
+        {
+          "title": "️ Video 2 - Using an API from the command line",
+          "thumbnail": "https://i.ytimg.com/vi/WXsD0ZgxjRw/hqdefault_2728033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjRq32f9CdIUKgVPN60iT-svaxaA",
+          "time_start": 2701
+        },
+        {
+          "title": "️ Video 3 - You go Curl",
+          "thumbnail": "https://i.ytimg.com/vi/WXsD0ZgxjRw/hqdefault_3381100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFziWoI02PDMYF4P-l691GbKuaPA",
+          "time_start": 3380
+        },
+        {
+          "title": "️ Video 4 - Using tools to explore APIs",
+          "thumbnail": "https://i.ytimg.com/vi/WXsD0ZgxjRw/hqdefault_4477266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6qYdzB0qMnS_g_aeYpUtJCXoYkQ",
+          "time_start": 4461
+        },
+        {
+          "title": "️ Video 5 - More tools for your API exploring toolbox",
+          "thumbnail": "https://i.ytimg.com/vi/WXsD0ZgxjRw/hqdefault_5781166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDX8MLx_V2Tj_Tib2-SaWGkIbNPrg",
+          "time_start": 5780
+        },
+        {
+          "title": "️ Video 6 - Using Helper Libraries",
+          "thumbnail": "https://i.ytimg.com/vi/WXsD0ZgxjRw/hqdefault_6520966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQ2yvb7ffDBEV8ip82fj-LSCoSVw",
+          "time_start": 6514
+        },
+        {
+          "title": "️ Video 1 - Introducing the Project",
+          "thumbnail": "https://i.ytimg.com/vi/WXsD0ZgxjRw/hqdefault_8139266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnhwkCo3EgqwFlcW10dR5W973mUQ",
+          "time_start": 8130
+        },
+        {
+          "title": "️ Video 2 - Serverless",
+          "thumbnail": "https://i.ytimg.com/vi/WXsD0ZgxjRw/hqdefault_8617400.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDetv-BRw5XJfIwZ0xRiz1UuwCebg",
+          "time_start": 8610
+        },
+        {
+          "title": "️ Video 3 - Writing a Server Side API",
+          "thumbnail": "https://i.ytimg.com/vi/WXsD0ZgxjRw/hqdefault_9452100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-_ONqwNw8Fe5crmH3hjg2o0-B6w",
+          "time_start": 9428
+        },
+        {
+          "title": "️ Video 4 - Fetching Results on the Client from our Server",
+          "thumbnail": "https://i.ytimg.com/vi/WXsD0ZgxjRw/hqdefault_10625200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMbe0FCyt1cc7sTq7N_NaQjKkVfA",
+          "time_start": 10614
+        },
+        {
+          "title": "️ Video 5 - Wrap Up",
+          "thumbnail": "https://i.ytimg.com/vi/WXsD0ZgxjRw/hqdefault_11153866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChJ7d8yz2LtH3R_nA5IjwVRDKxJA",
+          "time_start": 11129
+        }
+      ]
+    },
+    {
+      "position_on_page": 8,
+      "title": "RESTful APIs in 100 Seconds // Build an API from Scratch with Node.js Express",
+      "link": "https://www.youtube.com/watch?v=-MTSQjw5DrM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=-MTSQjw5DrM",
+      "video_id": "-MTSQjw5DrM",
+      "channel": {
+        "name": "Fireship",
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "link": "https://www.youtube.com/@Fireship",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/3fPNbkf_xPyCleq77ZhcxyeorY97NtMHVNUbaAON_RBDH9ydL4hJkjxC8x_4mpuopkB8oI7Ct6Y=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "5y ago",
+      "views": 1924795,
+      "length": "11:20",
+      "description": "What is an API? What is REST? Learn how an Application Programming Interface (API) can adhere to Representational State ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/-MTSQjw5DrM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwzBTAbFVYlRSAzs17H4dXef_tag",
+        "rich": "https://i.ytimg.com/an_webp/-MTSQjw5DrM/mqdefault_6s.webp?du=3000&sqp=COrohdgG&rs=AOn4CLCOLLQBdK3QSxO6d9bS1K4b3KMiMw"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "REST API Full Course 2026 | Learn RESTful APIs in One Video | Beginner to Expert",
+      "link": "https://www.youtube.com/watch?v=nPpDSSmzejU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=nPpDSSmzejU",
+      "video_id": "nPpDSSmzejU",
+      "channel": {
+        "name": "Liv For Coding",
+        "channel_id": "UCYyb_Ez1JRpCG2XsIWMkerA",
+        "link": "https://www.youtube.com/@livforcoding",
+        "thumbnail": "https://yt3.ggpht.com/f_Z4Laf2aiyTMeQKqTh01au0w4XiGE6MmjjBOHzYSuBKpwUTIqen7jJqOUJadgWoWBfVh7cl2Xs=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "4w ago",
+      "views": 207,
+      "length": "2:31:26",
+      "description": "#RestAPI #NodeJS #WebDevelopment rest api, rest api full course, restful api, restful api tutorial, learn rest api, rest api for ...",
+      "extensions": [
+        "Lecture"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/nPpDSSmzejU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBdFqP-rjh5LEcLQRfW3QDY_3zyA"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "Consuming REST API for Frontend Development",
+      "link": "https://www.youtube.com/watch?v=Hf8P35GHJ4k",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Hf8P35GHJ4k",
+      "video_id": "Hf8P35GHJ4k",
+      "channel": {
+        "name": "HelpCodeIt",
+        "channel_id": "UCR8-2L-5svhSqtfeZWOmAwQ",
+        "link": "https://www.youtube.com/@HelpCodeIt",
+        "thumbnail": "https://yt3.ggpht.com/LeW-grdkFcp3RqxCjDGwe9QwsRNlr1WPjrkJoqcJWqDTzQCeMQmzFsJMmd6ER9-oECmxjZIFow=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 1367,
+      "length": "25:47",
+      "description": "In this video, you'll learn the fundamentals of REST APIs and explore how to perform CRUD operations step by step. We'll break ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Hf8P35GHJ4k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdhGO0BLFrJIVSEVli4XKH1h95hA",
+        "rich": "https://i.ytimg.com/an_webp/Hf8P35GHJ4k/mqdefault_6s.webp?du=3000&sqp=CMrxhdgG&rs=AOn4CLCizaIKkYlDvh_YgtklGYi7H4xwAg"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "What is REST API? | REST API Tutorial | REST API  Concepts and Examples | Edureka",
+      "link": "https://www.youtube.com/watch?v=rtWH70_MMHM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=rtWH70_MMHM",
+      "video_id": "rtWH70_MMHM",
+      "channel": {
+        "name": "edureka!",
+        "channel_id": "UCkw4JCwteGrDHIsyIIKo4tQ",
+        "link": "https://www.youtube.com/@edurekaIN",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/fkoY1WFQrc9eK6FwzrZVi-hZFBdpCUfSYPy6k9VSVP4H1Cqo_0pwIgpgOn-uCRgFPlz_AtGGog=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 757926,
+      "length": "37:11",
+      "description": "Node.js Certification Training (Use Code \"YOUTUBE20\"): https://www.edureka.co/nodejs-certification-training This Edureka ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/rtWH70_MMHM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGCGkQaIKpCqA1DseQG8jmsJtrzw",
+        "rich": "https://i.ytimg.com/an_webp/rtWH70_MMHM/mqdefault_6s.webp?du=3000&sqp=CNjmhdgG&rs=AOn4CLD-B3cKNC0_Myev0m1aRPK25jvTJA"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "WordPress REST API Tutorial (JavaScript Live Search Example)",
+      "link": "https://www.youtube.com/watch?v=c0keQyJPyU4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=c0keQyJPyU4",
+      "video_id": "c0keQyJPyU4",
+      "channel": {
+        "name": "LearnWebCode",
+        "channel_id": "UCHRp19HU7Y2LwfI0Ai6WAGQ",
+        "link": "https://www.youtube.com/@LearnWebCode",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n6R7J2xrV33Fiqh68fKvoqUgtsPU3SYYeyOFwT6tx3Kg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 14141,
+      "length": "22:30",
+      "description": "Let's learn about the REST API by building a simple \"live search\" example with JavaScript. Check out my full WordPress course ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/c0keQyJPyU4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArJBm0Nx90D23M_g3nMBsRWEteoQ",
+        "rich": "https://i.ytimg.com/an_webp/c0keQyJPyU4/mqdefault_6s.webp?du=3000&sqp=CJbehdgG&rs=AOn4CLBEnFBVInWSyxqsfbC9BIPb1aAVQw"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "A Beginner's Guide to REST APIs in Under 10 Minutes!",
+      "link": "https://www.youtube.com/watch?v=LzOtbUw6f_o",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=LzOtbUw6f_o",
+      "video_id": "LzOtbUw6f_o",
+      "channel": {
+        "name": "cloudmancer",
+        "channel_id": "UCjOo4KASXQ-_WbW7T4EA5mg",
+        "link": "https://www.youtube.com/@cloudmancer",
+        "thumbnail": "https://yt3.ggpht.com/7lh4_Cz-4UfxJHY4IozDr8YNG3Ks1nXfWeD8f7-eOCuWNRWmRDlTauqUrPCTOlW_YPwfYvmxfsI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 72485,
+      "length": "9:06",
+      "description": "Learn the fundamentals of REST APIs in this beginner-friendly video, The Anatomy of a REST API! We'll break down how they ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/LzOtbUw6f_o/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaK6pBVycl_w6JYh6DdCLqVQxdEQ",
+        "rich": "https://i.ytimg.com/an_webp/LzOtbUw6f_o/mqdefault_6s.webp?du=3000&sqp=CILYhdgG&rs=AOn4CLC46Xw5Uv7JnePBzVWWsE97MgSL1Q"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/LzOtbUw6f_o/hqdefault_8900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHzmhj9z6pkcQUdA3-fU3BlL78CA",
+          "time_start": 0
+        },
+        {
+          "title": "Topics",
+          "thumbnail": "https://i.ytimg.com/vi/LzOtbUw6f_o/hqdefault_43933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACvi1XcAZE8DkBjRW1njpYdv_EHQ",
+          "time_start": 29
+        },
+        {
+          "title": "What is an API",
+          "thumbnail": "https://i.ytimg.com/vi/LzOtbUw6f_o/hqdefault_77000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGhaF2dncZ7UtEXpJcF-YWhy8P3Q",
+          "time_start": 49
+        },
+        {
+          "title": "An Analogy",
+          "thumbnail": "https://i.ytimg.com/vi/LzOtbUw6f_o/hqdefault_110966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMzYlrClC-jTLC_fkf2-TK-4vlVQ",
+          "time_start": 92
+        },
+        {
+          "title": "How APIs Work",
+          "thumbnail": "https://i.ytimg.com/vi/LzOtbUw6f_o/hqdefault_131933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdM0kBBbs6CaFWLUa_iWzvB1OJzw",
+          "time_start": 127
+        },
+        {
+          "title": "Anatomy of a URL",
+          "thumbnail": "https://i.ytimg.com/vi/LzOtbUw6f_o/hqdefault_200866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhQoeSNnIcRnoc4nXsfYq5rfLvZA",
+          "time_start": 186
+        },
+        {
+          "title": "Making a Request",
+          "thumbnail": "https://i.ytimg.com/vi/LzOtbUw6f_o/hqdefault_253866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBR3dfjO03Y4UNdV6o8cvIUJKmYvg",
+          "time_start": 227
+        },
+        {
+          "title": "Methods",
+          "thumbnail": "https://i.ytimg.com/vi/LzOtbUw6f_o/hqdefault_275200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwlkTy27bpcmWkPYVurL3aXGUvag",
+          "time_start": 275
+        },
+        {
+          "title": "Anatomy of an Endpoint",
+          "thumbnail": "https://i.ytimg.com/vi/LzOtbUw6f_o/hqdefault_344166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6deaon_0TLaNuWcWt7gNyxCa75Q",
+          "time_start": 326
+        },
+        {
+          "title": "Receiving a Response",
+          "thumbnail": "https://i.ytimg.com/vi/LzOtbUw6f_o/hqdefault_415066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhtch6ZK6EviDwmqkdYImmf8GAaQ",
+          "time_start": 390
+        },
+        {
+          "title": "Looking Ahead",
+          "thumbnail": "https://i.ytimg.com/vi/LzOtbUw6f_o/hqdefault_438200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3B-1DONDeEtPsEvfydHx3mmYfbg",
+          "time_start": 438
+        }
+      ]
+    },
+    {
+      "position_on_page": 19,
+      "title": "APIs Explained with Real Use Cases",
+      "link": "https://www.youtube.com/watch?v=bW-ji7AT1cc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=bW-ji7AT1cc",
+      "video_id": "bW-ji7AT1cc",
+      "channel": {
+        "name": "CodewithPrashant ",
+        "channel_id": "UCigb9xf3iekhQiVh5XKW6Ww",
+        "link": "https://www.youtube.com/@CodeWith_Prashantt",
+        "thumbnail": "https://yt3.ggpht.com/oXOUgUM7ZAdkxjM_WeRziyAA5KoRtVpWlLfpsoFLrcscR7ePIdP9_eDfcKMKbR_1ECVQnxtgpA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 426773,
+      "length": "0:07",
+      "description": "Types of APIs & Their Real-World Use Cases APIs are the backbone of modern applications – connecting systems, enabling ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/bW-ji7AT1cc/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhTIFsoZTAP&rs=AOn4CLBB1J1fSTVzermbTyphUAyWWnYdpg"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "REST APIs Explained in 30 secs #javascript #python #web #coding #programming",
+      "link": "https://www.youtube.com/watch?v=hQUjpbb75eY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=hQUjpbb75eY",
+      "video_id": "hQUjpbb75eY",
+      "channel": {
+        "name": "ByteByteGo",
+        "channel_id": "UCZgt6AzoyjslHTC9dz0UoTw",
+        "link": "https://www.youtube.com/@ByteByteGo",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ZDRUyBUwc2WXZzvNKP9VS9myI6Mg2puQLaWyp4hibRu-owlsasZ3DVNGSQJwzO1IU-tqoMiGgdc=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 456493,
+      "length": "0:32",
+      "description": "Get our 158-page System Design PDF for free by subscribing to our weekly newsletter: https://bit.ly/bytebytegoYTshorts Animation ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/hQUjpbb75eY/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhyIFIoOjAP&rs=AOn4CLBPFfy-tIrrCei8g0Z_19svb6yzgA"
+      }
+    },
+    {
+      "position_on_page": 21,
+      "title": "Rest API | Web Service Tutorial",
+      "link": "https://www.youtube.com/watch?v=BZi44GOD8kY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=BZi44GOD8kY",
+      "video_id": "BZi44GOD8kY",
+      "channel": {
+        "name": "Telusko",
+        "channel_id": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "link": "https://www.youtube.com/@Telusko",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/0nsZM3NF0C9bFr2IFXicMJ1w82ldRaZvGKFnezBe2lpW7F9gI92FaLubcTghnNNt4Ld8DfRvEMo=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "7y ago",
+      "views": 1298980,
+      "length": "2:34:40",
+      "description": "Check out our courses: Agentic AI with Java : Live Cohort : https://go.telusko.com/agentic-ai-with-java-cohort Coupon: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/BZi44GOD8kY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOnaGa6EnLkKsYp5H_GGgYnpPH8w",
+        "rich": "https://i.ytimg.com/an_webp/BZi44GOD8kY/mqdefault_6s.webp?du=3000&sqp=CNz3hdgG&rs=AOn4CLAvH5xT__NtJNjMmOJY0wP_hfh4Xw"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/BZi44GOD8kY/hqdefault_1000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6ZX09htvhNV70QbfCwYCAWvjIXw",
+          "time_start": 0
+        },
+        {
+          "title": "1. What is REST API? | Web Service",
+          "thumbnail": "https://i.ytimg.com/vi/BZi44GOD8kY/hqdefault_32066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD71cXeuslQVyFCJUdXjZIuZdoTBA",
+          "time_start": 5
+        },
+        {
+          "title": "2. Restful Web Services | Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/BZi44GOD8kY/hqdefault_683300.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_ymrVSoFUK8RvaBR5QH5zygxvDw",
+          "time_start": 672
+        },
+        {
+          "title": "3. Creating a Jersey Project in Eclipse",
+          "thumbnail": "https://i.ytimg.com/vi/BZi44GOD8kY/hqdefault_929900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGYIyqBtj0P9HiYZtkPPGNjXDIew",
+          "time_start": 929
+        },
+        {
+          "title": "4. Running our First Rest Jersey Application",
+          "thumbnail": "https://i.ytimg.com/vi/BZi44GOD8kY/hqdefault_1442766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBn_pLvgNCsklumccE6rvx4AuJkzg",
+          "time_start": 1439
+        },
+        {
+          "title": "5. How to create a Resource Class",
+          "thumbnail": "https://i.ytimg.com/vi/BZi44GOD8kY/hqdefault_1951833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfhQ-Ztlv98DT-RBJRFhDzJPHf5A",
+          "time_start": 1950
+        },
+        {
+          "title": "6. List as Resource",
+          "thumbnail": "https://i.ytimg.com/vi/BZi44GOD8kY/hqdefault_2583766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrvTZcTeZkkuNffR1U2910yNy3hQ",
+          "time_start": 2582
+        },
+        {
+          "title": "7. Mock Repository",
+          "thumbnail": "https://i.ytimg.com/vi/BZi44GOD8kY/hqdefault_2793166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCx_HYoXM-H9AOQwanYlhkWn2ciDg",
+          "time_start": 2789
+        },
+        {
+          "title": "8. Creating a Resource",
+          "thumbnail": "https://i.ytimg.com/vi/BZi44GOD8kY/hqdefault_3390233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLfFJf0to60kVhmlRgxT4hX-ZwXw",
+          "time_start": 3387
+        },
+        {
+          "title": "9. How to install Postman",
+          "thumbnail": "https://i.ytimg.com/vi/BZi44GOD8kY/hqdefault_3749100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6wzrIwiHS8EkDIiQMePCxBz79QQ",
+          "time_start": 3745
+        },
+        {
+          "title": "10. Send a Post Request",
+          "thumbnail": "https://i.ytimg.com/vi/BZi44GOD8kY/hqdefault_4027200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgIzaIc1IZ4SUmLt7PwQFu1mh9MQ",
+          "time_start": 4024
+        },
+        {
+          "title": "11. PathParam",
+          "thumbnail": "https://i.ytimg.com/vi/BZi44GOD8kY/hqdefault_4304033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXGwk81d1iq1b9ehkhv1qQ3dFBjw",
+          "time_start": 4301
+        },
+        {
+          "title": "12. Working with JSON",
+          "thumbnail": "https://i.ytimg.com/vi/BZi44GOD8kY/hqdefault_4776133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXx-z5R9Dhw6pv9zv9vYZXJj8czA",
+          "time_start": 4775
+        },
+        {
+          "title": "13. Mysql Repository part 1",
+          "thumbnail": "https://i.ytimg.com/vi/BZi44GOD8kY/hqdefault_5097066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1Hlk0SkccbncLU-4FrKMTNDXXEw",
+          "time_start": 5096
+        },
+        {
+          "title": "14. Mysql Repository part 2",
+          "thumbnail": "https://i.ytimg.com/vi/BZi44GOD8kY/hqdefault_5616000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMpNvsO15vXYTGg-ju7CQFe9W1OA",
+          "time_start": 5615
+        },
+        {
+          "title": "15. Consumes JSON and XML",
+          "thumbnail": "https://i.ytimg.com/vi/BZi44GOD8kY/hqdefault_6128900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDka18sof0eufxo6NYbgh0fJA-_qA",
+          "time_start": 6126
+        },
+        {
+          "title": "16. Update Resource using PUT method",
+          "thumbnail": "https://i.ytimg.com/vi/BZi44GOD8kY/hqdefault_6468866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_7eFYDuwfxWzjWm4xSfiBzUm6sw",
+          "time_start": 6465
+        },
+        {
+          "title": "17. Delete Resource",
+          "thumbnail": "https://i.ytimg.com/vi/BZi44GOD8kY/hqdefault_7087866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBt-YnDlgt_HXSUOACMFYhAbYpGQg",
+          "time_start": 7084
+        },
+        {
+          "title": "18. RESTful Web Services | Recap",
+          "thumbnail": "https://i.ytimg.com/vi/BZi44GOD8kY/hqdefault_7427833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqwawOkGJdly8hzWNP4Jd6NT4nJw",
+          "time_start": 7426
+        },
+        {
+          "title": "19. Spring Rest | Spring Boot Example",
+          "thumbnail": "https://i.ytimg.com/vi/BZi44GOD8kY/hqdefault_7882766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCf4aTrhv_NpVHhGNMlR4p7aoo-GA",
+          "time_start": 7879
+        },
+        {
+          "title": "20. Spring JPA | REST",
+          "thumbnail": "https://i.ytimg.com/vi/BZi44GOD8kY/hqdefault_8618800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDR-rIHUdw1gw6V1-PRczKqiTx7_A",
+          "time_start": 8618
+        }
+      ]
+    },
+    {
+      "position_on_page": 22,
+      "title": "What is a REST API?",
+      "link": "https://www.youtube.com/watch?v=SLwpqD8n3d0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=SLwpqD8n3d0",
+      "video_id": "SLwpqD8n3d0",
+      "channel": {
+        "name": "Programming with Mosh",
+        "channel_id": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "link": "https://www.youtube.com/@programmingwithmosh",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "8y ago",
+      "views": 841507,
+      "length": "6:05",
+      "description": "What is a REST API? This short video explains it in 6 minutes. Learn to build REST APIs with Node.js and Express: ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/SLwpqD8n3d0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKNsJePqU4u4geK7g2VlrtAoFvuQ",
+        "rich": "https://i.ytimg.com/an_webp/SLwpqD8n3d0/mqdefault_6s.webp?du=3000&sqp=CIvxhdgG&rs=AOn4CLDUAFcPkP-TOaxmgxhU7whqN9bp5g"
+      },
+      "chapters": [
+        {
+          "title": "Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/SLwpqD8n3d0/hqdefault_6866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDohv4N3Dwgp4lt3cRjU15DKBcbbg",
+          "time_start": 0
+        },
+        {
+          "title": "ClientServer Architecture",
+          "thumbnail": "https://i.ytimg.com/vi/SLwpqD8n3d0/hqdefault_27866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-WEALaKpYoYhvwN9lMbrs35U_jg",
+          "time_start": 17
+        },
+        {
+          "title": "REST",
+          "thumbnail": "https://i.ytimg.com/vi/SLwpqD8n3d0/hqdefault_56333.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCI71pScYkdxu5lTl57Lkfm4Fbf2Q",
+          "time_start": 56
+        },
+        {
+          "title": "CRUD Operations",
+          "thumbnail": "https://i.ytimg.com/vi/SLwpqD8n3d0/hqdefault_83966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3KKFItAjLV7lB257tFfL-O3bM0w",
+          "time_start": 74
+        },
+        {
+          "title": "HTTP Methods",
+          "thumbnail": "https://i.ytimg.com/vi/SLwpqD8n3d0/hqdefault_196366.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtzoMYu98Qgw07OJSz9J5Vs5Ns5A",
+          "time_start": 196
+        },
+        {
+          "title": "REST Convention",
+          "thumbnail": "https://i.ytimg.com/vi/SLwpqD8n3d0/hqdefault_326833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYVISEuFvKKdQXb8JJbBQSwFAVRQ",
+          "time_start": 313
+        },
+        {
+          "title": "Outro",
+          "thumbnail": "https://i.ytimg.com/vi/SLwpqD8n3d0/hqdefault_331966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcjyhtEnhbxOI7Mq51Y7dJ81mxJQ",
+          "time_start": 331
+        }
+      ]
+    },
+    {
+      "position_on_page": 23,
+      "title": "How to Design APIs Like a Senior Engineer (REST, GraphQL, Auth, Security)",
+      "link": "https://www.youtube.com/watch?v=7iHl71nt49o",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=7iHl71nt49o",
+      "video_id": "7iHl71nt49o",
+      "channel": {
+        "name": "Hayk Simonyan",
+        "channel_id": "UC__zoQSleSVci-tlhkCYaEg",
+        "link": "https://www.youtube.com/@hayk.simonyan",
+        "thumbnail": "https://yt3.ggpht.com/S19Z5fLoQum9Nlf9Mpd_jAaAJwtr7AlAttP_QGrsSgWHbo_BnSrxZmVfUWr-3Mg97OaMgFmaV0M=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 645284,
+      "length": "1:23:21",
+      "description": "Become a senior software engineer with a job guarantee: https://go.hayksimonyan.com/134-api-design-masterclass Learn how to ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/7iHl71nt49o/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqrPjfgHNnyGPLhIOg1KMsw-dQvQ"
+      },
+      "chapters": [
+        {
+          "title": "Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/7iHl71nt49o/hqdefault_5266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAlnRoAs3vWN-cen2JWlSIbt1aKg",
+          "time_start": 0
+        },
+        {
+          "title": "API Design Fundamentals",
+          "thumbnail": "https://i.ytimg.com/vi/7iHl71nt49o/hqdefault_61833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkwMiyk9dOCX1oMYfoTWk7R4R3HA",
+          "time_start": 56
+        },
+        {
+          "title": "API Protocols",
+          "thumbnail": "https://i.ytimg.com/vi/7iHl71nt49o/hqdefault_1097266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsozEY_8y6fAKMfPiJJo8cZCA2_A",
+          "time_start": 1097
+        },
+        {
+          "title": "Transport Layer: TCP & UDP",
+          "thumbnail": "https://i.ytimg.com/vi/7iHl71nt49o/hqdefault_1830833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDf7mInzBtdBjZxv7WruYrEwXLL1w",
+          "time_start": 1810
+        },
+        {
+          "title": "RESTful API Design",
+          "thumbnail": "https://i.ytimg.com/vi/7iHl71nt49o/hqdefault_2126833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwx7wzyTVGshFwT5xsENx-IOnB0w",
+          "time_start": 2121
+        },
+        {
+          "title": "GraphQL API Design",
+          "thumbnail": "https://i.ytimg.com/vi/7iHl71nt49o/hqdefault_3076766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAr_5Gd4Rd-orDRwpKF2brjqoy-Ug",
+          "time_start": 3073
+        },
+        {
+          "title": "Authentication",
+          "thumbnail": "https://i.ytimg.com/vi/7iHl71nt49o/hqdefault_3422166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4I5fKHs6FGRLMjrtoyeENvxjotQ",
+          "time_start": 3422
+        },
+        {
+          "title": "Authorization",
+          "thumbnail": "https://i.ytimg.com/vi/7iHl71nt49o/hqdefault_3846800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkm60yaZ04XcMF92lLfq5XcCPxfg",
+          "time_start": 3846
+        },
+        {
+          "title": "Security",
+          "thumbnail": "https://i.ytimg.com/vi/7iHl71nt49o/hqdefault_4495100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1Rfz7FBaeMk71pukow44O0SUC7A",
+          "time_start": 4488
+        }
+      ]
+    }
+  ],
+  "playlist_results": [
+    {
+      "position_on_page": 6,
+      "title": "REST API",
+      "link": "https://www.youtube.com/playlist?list=PLWPirh4EWFpGRdVZcQCzeTXFBNSTDAdQX",
+      "channel": {
+        "name": "TutorialsPoint",
+        "channel_id": "UCVLbzhxVTiTLiVKeGV7WEBg",
+        "link": "https://www.youtube.com/@TutorialsPoint_"
+      },
+      "videos": [
+        {
+          "title": "REST API - Introducing REST",
+          "length": "7:28",
+          "link": "https://www.youtube.com/watch?v=HeXQ98sogs8&list=PLWPirh4EWFpGRdVZcQCzeTXFBNSTDAdQX"
+        },
+        {
+          "title": "REST API - The Need for REST",
+          "length": "4:30",
+          "link": "https://www.youtube.com/watch?v=8e3z66ICqsI&list=PLWPirh4EWFpGRdVZcQCzeTXFBNSTDAdQX"
+        }
+      ],
+      "video_count": 40,
+      "thumbnail": "https://i.ytimg.com/vi/HeXQ98sogs8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDV7a1yubvpMlVT255KFLZypr54HQ"
+    },
+    {
+      "position_on_page": 7,
+      "title": "Rest Api | Restful Web Service",
+      "link": "https://www.youtube.com/playlist?list=PLsyeobzWxl7ps4Z1C4VMtvZEx5-PgyoYI",
+      "channel": {
+        "name": "Telusko",
+        "channel_id": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "link": "https://www.youtube.com/@Telusko"
+      },
+      "videos": [
+        {
+          "title": "What is REST API? | Web Service",
+          "length": "11:28",
+          "link": "https://www.youtube.com/watch?v=qVTAB8Z2VmA&list=PLsyeobzWxl7ps4Z1C4VMtvZEx5-PgyoYI"
+        },
+        {
+          "title": "#0 Restful Web Services Tutorial | Introduction",
+          "length": "4:28",
+          "link": "https://www.youtube.com/watch?v=TERMdBN4FxA&list=PLsyeobzWxl7ps4Z1C4VMtvZEx5-PgyoYI"
+        }
+      ],
+      "video_count": 21,
+      "thumbnail": "https://i.ytimg.com/vi/qVTAB8Z2VmA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBB6_4WIGxmzV6Gru_NXhdaWUuXdw"
+    },
+    {
+      "position_on_page": 10,
+      "title": "REST APIs MADE EASY",
+      "link": "https://www.youtube.com/playlist?list=PLTCrU9sGybupzS5-3iYTsYUI1emBDKdHu",
+      "channel": {
+        "name": "sudoCODE",
+        "channel_id": "UCMrRRZxUAXRzjai0SSoFgdw",
+        "link": "https://www.youtube.com/@sudocode"
+      },
+      "videos": [
+        {
+          "title": "What is a REST API? Basics of HTTP REST APIs, taxonomy , HTTP verbs and more",
+          "length": "11:41",
+          "link": "https://www.youtube.com/watch?v=ST8XxjOTIsg&list=PLTCrU9sGybupzS5-3iYTsYUI1emBDKdHu"
+        },
+        {
+          "title": "What is an HTTP POST API? REST API Series,POST method, response codes, errors, best practices & more",
+          "length": "9:13",
+          "link": "https://www.youtube.com/watch?v=aumDleTg_UQ&list=PLTCrU9sGybupzS5-3iYTsYUI1emBDKdHu"
+        }
+      ],
+      "video_count": 9,
+      "thumbnail": "https://i.ytimg.com/vi/ST8XxjOTIsg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAJb4-7DMHq1BJ3Qrj-lo09oCaE1w"
+    },
+    {
+      "position_on_page": 14,
+      "title": "REST API Development With Python Flask",
+      "link": "https://www.youtube.com/playlist?list=PLqIb7mt_Xhs4XUSBbxZWGqAYsXWcJ8n2N",
+      "channel": {
+        "name": "TechFryDay",
+        "channel_id": "UCXjVwtM38dtgCIxW0C5IvNA",
+        "link": "https://www.youtube.com/@TechFryDay"
+      },
+      "videos": [
+        {
+          "title": "REST API Development with Python Flask | HINDI #restapi #python #flask",
+          "length": "6:47",
+          "link": "https://www.youtube.com/watch?v=CTgIKWHNmYo&list=PLqIb7mt_Xhs4XUSBbxZWGqAYsXWcJ8n2N"
+        },
+        {
+          "title": "#1 | Creating Virtual Environment & First Flask App | REST API with Python Flask | HINDI",
+          "length": "13:04",
+          "link": "https://www.youtube.com/watch?v=ZCRqwez93R0&list=PLqIb7mt_Xhs4XUSBbxZWGqAYsXWcJ8n2N"
+        }
+      ],
+      "video_count": 27,
+      "thumbnail": "https://i.ytimg.com/vi/CTgIKWHNmYo/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAY9t1MRN43PChlzzq1E7_TeVtrKA"
+    },
+    {
+      "position_on_page": 15,
+      "title": "Rest API (In Hindi)",
+      "link": "https://www.youtube.com/playlist?list=PL5mjp3QjkuoKUfIUV5OG_AmQXMIK4mtfz",
+      "channel": {
+        "name": "ProgRank",
+        "channel_id": "UCCOvZM03vN_yQIfn4YDJE5Q",
+        "link": "https://www.youtube.com/@progrank"
+      },
+      "videos": [
+        {
+          "title": "Rest API Tutorial [Hindi] | What is an API? | Web Services v/s Restful API | #01",
+          "length": "13:23",
+          "link": "https://www.youtube.com/watch?v=YraZb4j4uJU&list=PL5mjp3QjkuoKUfIUV5OG_AmQXMIK4mtfz"
+        },
+        {
+          "title": "Rest API Tutorial [Hindi] | SOAP v/s REST Web Services ? | #02",
+          "length": "9:52",
+          "link": "https://www.youtube.com/watch?v=h8zrdWcyEKc&list=PL5mjp3QjkuoKUfIUV5OG_AmQXMIK4mtfz"
+        }
+      ],
+      "video_count": 13,
+      "thumbnail": "https://i.ytimg.com/vi/YraZb4j4uJU/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBD5iuhliYahVcC0fBA2SP94ONcsA"
+    },
+    {
+      "position_on_page": 17,
+      "title": "Flutter REST API Tutorials Crash Course  with null safety",
+      "link": "https://www.youtube.com/playlist?list=PLFyjjoCMAPtzgITDreXNNkSWLKbd1wf51",
+      "channel": {
+        "name": "The Tech Brothers",
+        "channel_id": "UCzvRaprYPhvAplMK36Gu0kw",
+        "link": "https://www.youtube.com/@thetechbrotherss"
+      },
+      "videos": [
+        {
+          "title": "Part - 1 ||  Road Map - Flutter REST API Tutorials Crash Course  with null safety",
+          "length": "7:40",
+          "link": "https://www.youtube.com/watch?v=2_sjpyAvvo8&list=PLFyjjoCMAPtzgITDreXNNkSWLKbd1wf51"
+        },
+        {
+          "title": "Part - 2 || Introduction to APIS - Flutter REST API Tutorials Crash Course  with null safety",
+          "length": "14:28",
+          "link": "https://www.youtube.com/watch?v=_iuIAmyxOtM&list=PLFyjjoCMAPtzgITDreXNNkSWLKbd1wf51"
+        }
+      ],
+      "video_count": 25,
+      "thumbnail": "https://i.ytimg.com/vi/2_sjpyAvvo8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBSbxskQBy5OsVfYO7VZQr2sM03OA"
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=REST+API+full+course+tutorial+for+Frontend+Developer&gl=in&hl=en",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=REST%20API%20full%20course%20tutorial%20for%20Frontend%20Developer&sp=SBSCAQstbU4zVnlKdUNqTYIBC3FiTGM1YTlqZFhvggELV1hzRDBaZ3hqUneCASJQTFdQaXJoNEVXRnBHUmRWWmNRQ3plVFhGQk5TVERBZFFYggEiUExzeWVvYnpXeGw3cHM0WjFDNFZNdHZaRXg1LVBneW9ZSYIBCy1NVFNRanc1RHJNggELblBwRFNTbXplalWCASJQTFRDclU5c0d5YnVwelM1LTNpWVRzWVVJMWVtQkRLZEh1ggELSGY4UDM1R0hKNGuCAQtydFdINzBfTU1ITYIBIlBMcUliN210X1hoczRYVVNCYnhaV0dxQVlzWFdjSjhuMk6CASJQTDVtanAzUWprdW9LVWZJVVY1T0dfQW1RWE1JSzRtdGZ6ggELYzBrZVF5SlB5VTSCASJQTEZ5ampvQ01BUHR6Z0lURHJlWE5Oa1NXTEtiZDF3ZjUxggELTHpPdGJVdzZmX2-CAQtiVy1qaTdBVDFjY4IBC2hRVWpwYmI3NWVZggELQlppNDRHT0Q4a1mCAQtTTHdwcUQ4bjNkMIIBCzdpSGw3MW50NDlvsgEGCgQIGBAC",
+    "next_page_token": "SBSCAQstbU4zVnlKdUNqTYIBC3FiTGM1YTlqZFhvggELV1hzRDBaZ3hqUneCASJQTFdQaXJoNEVXRnBHUmRWWmNRQ3plVFhGQk5TVERBZFFYggEiUExzeWVvYnpXeGw3cHM0WjFDNFZNdHZaRXg1LVBneW9ZSYIBCy1NVFNRanc1RHJNggELblBwRFNTbXplalWCASJQTFRDclU5c0d5YnVwelM1LTNpWVRzWVVJMWVtQkRLZEh1ggELSGY4UDM1R0hKNGuCAQtydFdINzBfTU1ITYIBIlBMcUliN210X1hoczRYVVNCYnhaV0dxQVlzWFdjSjhuMk6CASJQTDVtanAzUWprdW9LVWZJVVY1T0dfQW1RWE1JSzRtdGZ6ggELYzBrZVF5SlB5VTSCASJQTEZ5ampvQ01BUHR6Z0lURHJlWE5Oa1NXTEtiZDF3ZjUxggELTHpPdGJVdzZmX2-CAQtiVy1qaTdBVDFjY4IBC2hRVWpwYmI3NWVZggELQlppNDRHT0Q4a1mCAQtTTHdwcUQ4bjNkMIIBCzdpSGw3MW50NDlvsgEGCgQIGBAC"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=REST+API+full+course+tutorial+for+Frontend+Developer",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=REST+API+full+course+tutorial+for+Frontend+Developer&sp=SBSCAQstbU4zVnlKdUNqTYIBC3FiTGM1YTlqZFhvggELV1hzRDBaZ3hqUneCASJQTFdQaXJoNEVXRnBHUmRWWmNRQ3plVFhGQk5TVERBZFFYggEiUExzeWVvYnpXeGw3cHM0WjFDNFZNdHZaRXg1LVBneW9ZSYIBCy1NVFNRanc1RHJNggELblBwRFNTbXplalWCASJQTFRDclU5c0d5YnVwelM1LTNpWVRzWVVJMWVtQkRLZEh1ggELSGY4UDM1R0hKNGuCAQtydFdINzBfTU1ITYIBIlBMcUliN210X1hoczRYVVNCYnhaV0dxQVlzWFdjSjhuMk6CASJQTDVtanAzUWprdW9LVWZJVVY1T0dfQW1RWE1JSzRtdGZ6ggELYzBrZVF5SlB5VTSCASJQTEZ5ampvQ01BUHR6Z0lURHJlWE5Oa1NXTEtiZDF3ZjUxggELTHpPdGJVdzZmX2-CAQtiVy1qaTdBVDFjY4IBC2hRVWpwYmI3NWVZggELQlppNDRHT0Q4a1mCAQtTTHdwcUQ4bjNkMIIBCzdpSGw3MW50NDlvsgEGCgQIGBAC",
+    "next_page_token": "SBSCAQstbU4zVnlKdUNqTYIBC3FiTGM1YTlqZFhvggELV1hzRDBaZ3hqUneCASJQTFdQaXJoNEVXRnBHUmRWWmNRQ3plVFhGQk5TVERBZFFYggEiUExzeWVvYnpXeGw3cHM0WjFDNFZNdHZaRXg1LVBneW9ZSYIBCy1NVFNRanc1RHJNggELblBwRFNTbXplalWCASJQTFRDclU5c0d5YnVwelM1LTNpWVRzWVVJMWVtQkRLZEh1ggELSGY4UDM1R0hKNGuCAQtydFdINzBfTU1ITYIBIlBMcUliN210X1hoczRYVVNCYnhaV0dxQVlzWFdjSjhuMk6CASJQTDVtanAzUWprdW9LVWZJVVY1T0dfQW1RWE1JSzRtdGZ6ggELYzBrZVF5SlB5VTSCASJQTEZ5ampvQ01BUHR6Z0lURHJlWE5Oa1NXTEtiZDF3ZjUxggELTHpPdGJVdzZmX2-CAQtiVy1qaTdBVDFjY4IBC2hRVWpwYmI3NWVZggELQlppNDRHT0Q4a1mCAQtTTHdwcUQ4bjNkMIIBCzdpSGw3MW50NDlvsgEGCgQIGBAC"
+  }
+}

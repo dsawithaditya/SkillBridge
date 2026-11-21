@@ -1,0 +1,1644 @@
+{
+  "search_metadata": {
+    "id": "6b01725b5d92f165ffea9d7a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/80IoEu49ewmsaY8pgR3W6xyXfU1_9Zak6uAuBxfjABM/6b01725b5d92f165ffea9d7a.json",
+    "markdown_endpoint": "https://serpapi.com/searches/80IoEu49ewmsaY8pgR3W6xyXfU1_9Zak6uAuBxfjABM/6b01725b5d92f165ffea9d7a.md",
+    "created_at": "2026-11-21 10:28:43 UTC",
+    "processed_at": "2026-11-21 10:28:43 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=Python+full+course+tutorial+for+Data+Analyst&gl=in&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/80IoEu49ewmsaY8pgR3W6xyXfU1_9Zak6uAuBxfjABM/6b01725b5d92f165ffea9d7a.html",
+    "total_time_taken": 3.35
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "Python full course tutorial for Data Analyst",
+    "gl": "in",
+    "hl": "en"
+  },
+  "search_information": {
+    "total_results": 7973563,
+    "video_results_state": "Results for exact spelling"
+  },
+  "ads_results": [
+    {
+      "position_on_page": 1,
+      "title": "Mercedes-AMG PETRONAS F1 Team strategists analyze more possibilities in less time",
+      "link": "https://www.youtube.com/watch?v=beeVOhTvKc0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=beeVOhTvKc0",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CS3mIXHIBa8_uGY37ir4Pl-S86QOx9aKPiwHy0I_NxRbdq6T6zkgQASAAYMnOiYjwo-QTggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAcCKxvVDqAMEyAMKqgTcAk_Qunxlg49DNOzhI23UCYJXUXKlvKaiAodcJBqwRPL9Z-3v-5o-dKWQsxEqVdhv-cGafiHdXy5ZnMI9-cR6B0z6Y6JCX5edOD_3DleQ5lPlVEd2vkg2-LQxFfz_wYb4WiKbnaRblArLTvrewO_ss5XErDmSsDB0AVN1B71eYjTj93rjWhWZz2cIQHFDlf3WM5wXkZ9msYs495R5NvESNv2RuxabFSqw8VQgFsrg2Jw-4YF71mnBfXlr1kgTyj4vzVCQVWV0h_CTkbQWwlsxHiUvose0ytKfB1gEv2aBlec2tbzx4yxZQcj_D_Y3bDoZJAwONlgIFrkEobmWZn52eOO-KUY98llc_1-G48PjCrJebPCurHKIlQkYKfT6amtuhL7nfdRqqfjy3PE45bwOVA212x5u-D-38tzTVm8PKx-Pt4DTbzhUVZqsQsfBJDrm6t0rOIE4d1jxwFL4qogF6-ekyFqSBQgIE3jB5-36HqAGoQGAB8DCltUekAcEqAelz7ECqAfnnbECqAfonbECqAeD9rECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHnuqxAqgHn-qxAqgH-OuxAqgHvOqxAqgH7_GxAqgH_K-xAqgH1c4bqAe-2bECqAe_2bECqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKSCAtiZWVWT2hUdktjMKgIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBhI2aDSNVAUWMCRiprtmJgDYAGaCU9odHRwczovL2F6dXJlLm1pY3Jvc29mdC5jb20vZW4tdXMvcHJpY2luZy9wdXJjaGFzZS1vcHRpb25zL2F6dXJlLWFjY291bnQvc2VhcmNosQnCqCXqYDdKhMgJF8gJjwHICcIByAmXAroLOggDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AIC2AEDgAIBiAIRugMFdmljYmbQCxLgCwHSDAIQAZoNARKqDQJVU8gNAdINnQVodHRwczovL2FkLmRvdWJsZWNsaWNrLm5ldC9kZG0vdHJhY2tjbGsvTjU3MjYwOC4xMzU1MzM5R09PR0xFLkNPTURETUJJRE0vQjM2ODY1NjQyLjQ1Nzg1OTA5ODtkY190cmtfYWlkPTY1MjQyNTgyNTtkY190cmtfY2lkPTI2NTI1MDEyMDtkY19kYm1fdG9rZW49QU9qZUxORUFBQUE4Q2pRS0RBZ0FGUUFBQUFBZEFBQUFBQklNQ0FBVkFBQUFBQjBBQUFBQUloUUk2LWVreUZxb0FzSG43Zm9lc0FMOHpQWHJBMEE3RUtIQV83SWRjbHpYNEV0Z1VxTlZ5RUF1dVVfQ1pBPT07ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07bHRkPTtkY190ZHY9MTs7ZGNfdHJhbnNwYXJlbnQ9MTtkY19ydWk9MTtkY19lcHM9QUhhczhjQmVFcFlFQTRqYllKRGI1OWRrQUxZMDRiS3BTT19mRTlkYjM2dFZjbXgxU21QRHlNZ1psYkhVMHBQWW4wMmF2c1U3c2h3ZGhCTVd3ODdiSWc7ZGNfcHViaWQ9Nj9odHRwczovL2F6dXJlLm1pY3Jvc29mdC5jb20vZW4tdXMvcHJpY2luZy9wdXJjaGFzZS1vcHRpb25zL2F6dXJlLWFjY291bnQvc2VhcmNoP2NpZD1mb3JtdWxhMSZPQ0lEPUFJRGNtbWxnN281dmI4X09MQV8zNjg2NTY0Ml80NTc4NTkwOThfMjY1MjUwMTIwJnNpdGVJRD0xMDY0NTAxMyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjQzMTA3ODkwOTmwE8CEzSa4E____________wGIFAOwFAPAFYGAgEDQFQHYFQGYFgGoFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXhAYh0dMcTF66FwYoADAAOAHQGAHwGAHCGQIIAQ&gclid=EAIaIQobChMIz4yLmu2YmAMVjb3CAR0XMi89EAEYASAAEgLCovD_BwE&num=1&cid=CAASqgHkaBP1BapRc7sugf6VSyA8pl8QExmsDNKjMWL3iiKAqGkOyep75MR0kybEbf6m7dr2q1h0rBkt0f6FfIN34FgqEZUFsqQ6d3YBkSkp-Ea4CeNbtj0Jc5gsLNk9DgMaBJhY4FUkwwUlO8pIlpkNyGI_5dKcPIvWi7bHRZe4CfrnTfX2lRxQHLhiKQnMe3BnYr6L6Mt3NFJ0QuRjoJxoC3h_abr7Yp_xI7MAew&ad_cpn=%5BCPN%5D&sig=AOD64_33zd6m8Hjnr4KZl1LjZUVhNwArmA&ctype=110&video_id=beeVOhTvKc0&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Microsoft",
+        "thumbnail": "https://yt3.ggpht.com/proxy/HcDIKi6hGUt23dHJXoGqjYsnW-Yx9b_rvzKby486R6qMUMB5Rj4f1gTieN0_putXXLoa3-WRmWkl6sG9uNJxyUKxT05R36YayKaL6mPwyYsceZVtV43-hJXD6Vdcwr-f9TTB2p4MuxHVP_MYMdnkd1T-00ZPKAq1UisX070t8eIHTbn0wr8tIAwBLSzPe1a1lfAxuCvhiPlF0mN5w-KEfkrLLRdu2y16PNlmNSxm4ASe8xaThWiP6wugAt2DNl21sdoTc3c=w68-h68-nd"
+      },
+      "description": "Run simulations in seconds with Azure Batch. Start experimenting with an Azure free trial.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/beeVOhTvKc0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA68mHfdTYYoDr6fqC1wh1oz0UFQg"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Devour knowledge with Student Spaces",
+      "link": "https://www.youtube.com/watch?v=EJ_xkuarNEU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=EJ_xkuarNEU",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=ClcSUXHIBa8_uGY37ir4Pl-S86QOXouaPiwHPvoe0mBawkB8QAyAAYMnOiYjwo-QTggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAbH6_-oCqAMEyAMKqgTpAk_Qunxlg49DNOzhI23UCYJXUXKlvKaiAodcJBqwRPL9Z-3v-5o-dKWQsxEqVdhv-cGafiHdXy5ZnMI9-cR6B0z6Y6JCX5edOD_3DleQ5lPlVEd2vkg2-LQxFfz_wYb4WiKbnaRblArLTvrewO_ss5XErDmSsDB0AVN1B71eYjTj93rjWhWZz2cIQHFDlf3WM5wXkZ9msYs495R5NvESNv2RuxabFSqw8VQgFsrg2Jw-4YF71mnBfXlr1kgTyj4vzVCQVWV0h_CTkbQWwlsxHiUvose0ytKfB1gEv2aBlec2tbzx4yxZQcj_D_Y3bDoZJAwONkAIrDrGYL6eZtZu7tdUaewuQlZfU1Oe4PsAf3JGzPe0Zyz6eT4OaICoet9bXjbscash2yDwfnpG4mquvdbNg_OLDZHKogM20dNWxQ6nvqnLiPKhdgcU0fXvPJ5bLuHDxm8JW0AFOobsDurt9uATwZwUKY4wPcyIBebQ761YkgUICBN4-s2flQGgBqEBgAe3hYCVAZAHBKgHpc-xAqgH552xAqgH6J2xAqgHg_axAqgH-dOxAqgHydqxAqgHqeCxAqgHqNIbqAex3BuoB7CbsQKoB_2ysQKoB8jPsQKoB8nPsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB57qsQKoB5_qsQKoB_jrsQKoB7zqsQKoB-_xsQKoB_yvsQKoB9XOG6gHvtmxAqgHv9mxAqgHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECkggLRUpfeGt1YXJORVWoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAYSNmg0jVQFFjAkYqa7ZiYA2ABmgksaHR0cHM6Ly9hY3JvYmF0LmFkb2JlLmNvbS9zdHVkZW50c3BhY2VzL2hvbWWxCWOYwqReJdfeyAkXyAmPAcgJwgG6CzoIAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAtgBA4ACAYgCEroDBXZpY2Jm0AsT4AsBogwfYhgKFmNvbS5hZG9iZS5lY2hvc2lnbi5pb3N4AIgBANIMAhABmg0BE6oNAlVTyA0B0g3pBGh0dHBzOi8vYWQuZG91YmxlY2xpY2submV0L2RkbS90cmFja2Nsay9OOTcyOTUyLjI3OTM4MkJJRE1BTkFHRVJfREZBU0lURS9CMjIzNDQ0MTMuMjQxNTM5MzIxO2RjX3Rya19haWQ9NDM4MTI4NjIyO2RjX3Rya19jaWQ9MTEyODg0NjEzO2RjX2RibV90b2tlbj1BT2plTE5FQUFBQTZDak1LREFnQUZRQUFBQUFkQUFBQUFCSU1DQUFWQUFBQUFCMEFBQUFBSWhNSTV0RHZyVmlvQXNPNDlBR3dBc3lXNHVrRFFEc1FsLWU2QWFwU28zTGo2OUhxbVJTR0Q3TmxKdGM9O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2x0ZD07ZGNfdGR2PTE7ZGNfdHJhbnNwYXJlbnQ9MTtkY19ydWk9MTtkY19lcHM9QUhhczhjQ3ZsLUVTbUJFelNqUWNFMURZbElwV3Z4dExKc2U2UzllZnBXMi1COWNPd0c3TGg0R3NLak41RjM5WkFOZzRkLTBTM0lQZ2llc053NGdTVnc7ZGNfcHViaWQ9Nj9odHRwczovL2Fjcm9iYXQuYWRvYmUuY29tL3N0dWRlbnRzcGFjZXMvaG9tZT9zZGlkPVZUQzVKUjQxJm12PXNvY2lhbCZtdjI9cGFpZHNvYyZ4X2FwaV9jbGllbnRfaWQ9cGFpZG1lZGlhJnhfYXBpX2NsaWVudF9sb2NhdGlvbj1hZHNfVlRDNUpSNDEmZ2FkX3NvdXJjZT0ysBPj7qgkuBP___________8BiBQHsBQDwBWBgIBA0BUB2BUBmBYBqBYBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRdXv8ICGj4Y8LoXBigAMAA4AdAYAfAYAQ&gclid=EAIaIQobChMIz4yLmu2YmAMVjb3CAR0XMi89EAEYAyAAEgL2HPD_BwE&num=3&cid=CAASqgHkaBP1BapRc7sugf6VSyA8pl8QExmsDNKjMWL3iiKAqGkOyep75MR0kybEbf6m7dr2q1h0rBkt0f6FfIN34FgqEZUFsqQ6d3YBkSkp-Ea4CeNbtj0Jc5gsLNk9DgMaBJhY4FUkwwUlO8pIlpkNyGI_5dKcPIvWi7bHRZe4CfrnTfX2lRxQHLhiKQnMe3BnYr6L6Mt3NFJ0QuRjoJxoC3h_abr7Yp_xI7MAew&ad_cpn=%5BCPN%5D&sig=AOD64_0zlujhuLUIUZD8HLDwy9deK29soQ&ctype=110&video_id=EJ_xkuarNEU&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Adobe",
+        "thumbnail": "https://yt3.ggpht.com/proxy/MOuz2I13I1fAnFfngtXtL_W4we9dtMgr0pZOHx9ZvXrWe0TzDLTj2mq2_seyh8bAOYiFhihUkC0bcCbQ2Rr3ROUyAm-g7fKx7ikqVy2aYwv8ap82JEQltB0uNj5JlrrMcTbQ-wFlNo0DfytWwYBrrCyx4-VnwgCwx-dn0fy6KEEwJzLjssuJHIvXA-MdWMvBvChh3bzxW7-sQCuvX2mDwrBOQUGt_eZzMbPzNL_oO6Ke1vjjr2458wPYmALVc80eUKLvvs8=w68-h68-nd"
+      },
+      "description": "Student Spaces is a smarter way to study. Free for students.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/EJ_xkuarNEU/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFIoRTAP&rs=AOn4CLCU57IhmW3dW5gLlSgxjM1DEB11sQ"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "I Tested Whale Echo — This AI Recorder Actually Does the Work After Meetings",
+      "link": "https://www.youtube.com/watch?v=EN2f6DFE468",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=EN2f6DFE468",
+      "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=C_j-JXHIBa8_uGY37ir4Pl-S86QPg36n9iQHUgfmcoBawkB8QBSAAYMnOiYjwo-QTggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAcrdkKNEqAMEyAMKqgS-Ak_Qunxlg49DNOzhI23UCYJXUXKlvKaiAodcJBqwRPL9Z-3v-5o-dKWQsxEqVdhv-cGafiHdXy5ZnMI9-cR6B0z6Y6JCX5edOD_3DleQ5lPlVEd2vkg2-LQxFfz_wYb4WiKbnaRblArLTvrewO_ss5XErDmSsDB0AVN1B71eYjTj93rjWhWZz2cIQHFDlf3WM5wXkZ9msYs495R5NvESNv2RuxabFSqw8VQgFsrg2Jw-4YF71mnBfXlr1kgTyj4vzVCQVWV0h_CTkbQWwlsxHiUvose0ytKfB1gEv2aBlec2tbzx4yxZQcj_D_Y3bDoZJAwONlgIFrkE16aWZnx2ePnsBlAC4FrnP7on_B7o2MBEEylGqDNmt3YffvYwT4im0n3f9Q1qb43Dz_juE3CifIrs6wG56T9QPynuvPFsEYgF7c2Cx1qSBQgIE3iwguypH6AGoQGAB8qV4YIfkAcEqAelz7ECqAfnnbECqAfonbECqAeD9rECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHnuqxAqgHn-qxAqgH-OuxAqgHvOqxAqgH7_GxAqgH_K-xAqgH1c4bqAe-2bECqAe_2bECqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKSCAtFTjJmNkRGRTQ2OKgIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBhI2aDSNVAUWMCRiprtmJgDYAGaCRpodHRwczovL2VjaG8ubWVldHdoYWxlLmFpL7EJ6EDEvvox79fICRfICY8ByAnCAZgLAboLOggDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AIC2AEBgAIBiAISugMFdmljYmbQCxPSDAIQAZoNAROqDQJVU8gNAdINQmh0dHBzOi8vZWNoby5tZWV0d2hhbGUuYWkvP2dhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yNDMwODEzMTU2NbgT____________AYgUA7AUA8AVgYCAQNAVAdgVAZgWAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXIfGItdSInjC6FwYoADAAOAHQGAHwGAHCGQIIAQ&gclid=EAIaIQobChMIz4yLmu2YmAMVjb3CAR0XMi89EAEYBSAAEgLjSfD_BwE&num=5&cid=CAASqgHkaBP1BapRc7sugf6VSyA8pl8QExmsDNKjMWL3iiKAqGkOyep75MR0kybEbf6m7dr2q1h0rBkt0f6FfIN34FgqEZUFsqQ6d3YBkSkp-Ea4CeNbtj0Jc5gsLNk9DgMaBJhY4FUkwwUlO8pIlpkNyGI_5dKcPIvWi7bHRZe4CfrnTfX2lRxQHLhiKQnMe3BnYr6L6Mt3NFJ0QuRjoJxoC3h_abr7Yp_xI7MAew&ad_cpn=%5BCPN%5D&sig=AOD64_1PcSqQXUW1iKAoO-zk68utuJJEAg&ctype=110&video_id=EN2f6DFE468&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+      "channel": {
+        "name": "Whale Echo",
+        "thumbnail": "https://yt3.ggpht.com/nYpJ9llcS4XVKFAiTiIDkVsh0Mn4sdQ7MfN30NhX3XkZeSL536p930ZifKrqF5MquI2X2pO8=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "description": "",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/EN2f6DFE468/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoqZNs0EBcwYg2dMPikN86QF7Vkg"
+      }
+    }
+  ],
+  "video_results": [
+    {
+      "position_on_page": 2,
+      "title": "Python for Data Analytics - Full Course for Beginners",
+      "link": "https://www.youtube.com/watch?v=wUSDVGivd-8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=wUSDVGivd-8",
+      "video_id": "wUSDVGivd-8",
+      "channel": {
+        "name": "Luke Barousse",
+        "channel_id": "UCLLw7jmFsvfIVaUFsLs8mlQ",
+        "link": "https://www.youtube.com/@LukeBarousse",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_my6YXWfudW8qM_i1Na9IWEbiIUtVgb54u0XVVmtlYQig=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 1683387,
+      "length": "11:09:41",
+      "description": "FREE Course Files & Project https://lukeb.co/python_repo Supporter Access: Problems, Certificate, & More ...",
+      "extensions": [
+        "1 product",
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/wUSDVGivd-8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA85GvFR4YuxTeBj67gS7sT8KkPug",
+        "rich": "https://i.ytimg.com/an_webp/wUSDVGivd-8/mqdefault_6s.webp?du=3000&sqp=CJrLhdgG&rs=AOn4CLBl5dFTcUEIFDb40pPYnWnSRQjuOQ"
+      },
+      "chapters": [
+        {
+          "title": "Welcome",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 0
+        },
+        {
+          "title": "What is Python?",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 192
+        },
+        {
+          "title": "Intro to Course",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 291
+        },
+        {
+          "title": "Getting Started",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 522
+        },
+        {
+          "title": "Variables",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 1132
+        },
+        {
+          "title": "Python Terms",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 1465
+        },
+        {
+          "title": "Data Types",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 2286
+        },
+        {
+          "title": "Strings",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 2921
+        },
+        {
+          "title": "ChatBot Help",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 3724
+        },
+        {
+          "title": "String Formatting",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 3906
+        },
+        {
+          "title": "Operators Part 1",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 4510
+        },
+        {
+          "title": "Conditional Statements",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 5180
+        },
+        {
+          "title": "Lists",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 5664
+        },
+        {
+          "title": "Dictionaries",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 6582
+        },
+        {
+          "title": "Sets",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 7194
+        },
+        {
+          "title": "Tuples",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 7515
+        },
+        {
+          "title": "Operators Part 2",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 7946
+        },
+        {
+          "title": "Loops",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 8466
+        },
+        {
+          "title": "List Comprehensions",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 9391
+        },
+        {
+          "title": "Exercise: Basics",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 9856
+        },
+        {
+          "title": "Functions",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 10332
+        },
+        {
+          "title": "Lambda",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 10923
+        },
+        {
+          "title": "Modules",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 11566
+        },
+        {
+          "title": "Exercise: Python Library",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 12496
+        },
+        {
+          "title": "Library",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 13205
+        },
+        {
+          "title": "Classes",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 13953
+        },
+        {
+          "title": "NumPy: Intro",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 15044
+        },
+        {
+          "title": "Pandas: Intro",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 15776
+        },
+        {
+          "title": "Pandas: Inspection",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 16389
+        },
+        {
+          "title": "Pandas: Cleaning",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 17240
+        },
+        {
+          "title": "Pandas: Analysis",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 17926
+        },
+        {
+          "title": "Exercise: Pandas Basics",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 18506
+        },
+        {
+          "title": "Matplotlib: Intro",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 19039
+        },
+        {
+          "title": "Matplotlib: Plotting",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 19283
+        },
+        {
+          "title": "Matplotlib: Labeling",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 20081
+        },
+        {
+          "title": "Matplotlib: Pandas Plotting",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 20434
+        },
+        {
+          "title": "Exercise: Matplotlib Basics",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 20760
+        },
+        {
+          "title": "Python Install (Anaconda)",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 21056
+        },
+        {
+          "title": "VS Code Install",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 21634
+        },
+        {
+          "title": "Virtual Environments (See Pinned Comment)",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 22249
+        },
+        {
+          "title": "Pandas: Accessing Data",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 23235
+        },
+        {
+          "title": "Pandas: Data Cleaning",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 23738
+        },
+        {
+          "title": "Pandas: Data Management",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 24174
+        },
+        {
+          "title": "Pandas: Pivot Tables",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 24575
+        },
+        {
+          "title": "Pandas: Index Management",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 25020
+        },
+        {
+          "title": "Exercise: Job Demand",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 25490
+        },
+        {
+          "title": "Pandas: Merge DataFrames",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 26137
+        },
+        {
+          "title": "Pandas: Concat DataFrames",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 26753
+        },
+        {
+          "title": "Pandas: Exporting Data",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 27271
+        },
+        {
+          "title": "Pandas: Applying Functions",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 27656
+        },
+        {
+          "title": "Pandas: Explode",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 28599
+        },
+        {
+          "title": "Exercise: Trending Skills",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 29307
+        },
+        {
+          "title": "Matplotlib: Format Charts",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 29841
+        },
+        {
+          "title": "Matplotlib: Pie Plots",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 30606
+        },
+        {
+          "title": "Matplotlib: Scatter Plots",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 31204
+        },
+        {
+          "title": "Matplotlib: Advanced Customization",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 31835
+        },
+        {
+          "title": "Matplotlib: Histograms",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 32760
+        },
+        {
+          "title": "Matplotlib: Box Plots",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 33036
+        },
+        {
+          "title": "Exercise: Skill Pay Analysis",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 33721
+        },
+        {
+          "title": "Seaborn: Intro",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 34299
+        },
+        {
+          "title": "Project: Intro",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 35140
+        },
+        {
+          "title": "Git & GitHub Setup",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 35783
+        },
+        {
+          "title": "Skill Demand",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 36590
+        },
+        {
+          "title": "Skills Trend",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 37773
+        },
+        {
+          "title": "Salary Analysis",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 38550
+        },
+        {
+          "title": "Optimal Skills",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 39057
+        },
+        {
+          "title": "Share on GitHub",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 39802
+        },
+        {
+          "title": "Share on LinkedIn",
+          "thumbnail": "https://i.ytimg.com/vi/wUSDVGivd-8/hqdefault.jpg",
+          "time_start": 39964
+        }
+      ]
+    },
+    {
+      "position_on_page": 7,
+      "title": "Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)",
+      "link": "https://www.youtube.com/watch?v=r-uOLxNrNk8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=r-uOLxNrNk8",
+      "video_id": "r-uOLxNrNk8",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "link": "https://www.youtube.com/@freecodecamp",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "6y ago",
+      "views": 4280533,
+      "length": "4:22:13",
+      "description": "Learn Data Analysis with Python in this comprehensive tutorial for beginners, with exercises included! NOTE: Check description ...",
+      "extensions": [
+        "CC"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/r-uOLxNrNk8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2L9mmYi2wpQafJfadofqBWpQlhQ",
+        "rich": "https://i.ytimg.com/an_webp/r-uOLxNrNk8/mqdefault_6s.webp?du=3000&sqp=CP_OhdgG&rs=AOn4CLDt-oUf2mAEO8PY3M7-ld2BpvyWCA"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "How I'd Learn PYTHON For DATA ANALYSIS | If I Had To Start Over Again in 2025",
+      "link": "https://www.youtube.com/watch?v=PH1sPgNjIDQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=PH1sPgNjIDQ",
+      "video_id": "PH1sPgNjIDQ",
+      "channel": {
+        "name": "Mo Chen",
+        "channel_id": "UCDybamfye5An6p-j1t2YMsg",
+        "link": "https://www.youtube.com/@mo-chen",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/IBFVxGLOQjpvl2y38TMqvalSq0llMz87qpDVZnK0Faw7d_PWSElx6R0UlBoKVEfdszMoBHP7Uq0=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 35146,
+      "length": "9:26",
+      "description": "Python Data Fundamentals: https://datacamp.pxf.io/N9V3AO Data Analyst in Python: https://datacamp.pxf.io/YRx3WO Python Data ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/PH1sPgNjIDQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSFu6AAZm_agB3kpZaqJSdMnhuVw",
+        "rich": "https://i.ytimg.com/an_webp/PH1sPgNjIDQ/mqdefault_6s.webp?du=3000&sqp=CKjKhdgG&rs=AOn4CLCRuRMpARWPR-hOmrQ6nRyE8vouHw"
+      },
+      "chapters": [
+        {
+          "title": "This video is for you if…",
+          "thumbnail": "https://i.ytimg.com/vi/PH1sPgNjIDQ/hqdefault_2166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB34pioeq_Q8HWxse0wlJEE55AvSg",
+          "time_start": 0
+        },
+        {
+          "title": "Is learning to code in Python still worth it?",
+          "thumbnail": "https://i.ytimg.com/vi/PH1sPgNjIDQ/hqdefault_38866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvDeT-iGVpNp8-Se_cPiE3OhOP3Q",
+          "time_start": 28
+        },
+        {
+          "title": "Tools you need to get started",
+          "thumbnail": "https://i.ytimg.com/vi/PH1sPgNjIDQ/hqdefault_122233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBS5vznHiLfCbPCRDjGNAphDlpLBQ",
+          "time_start": 97
+        },
+        {
+          "title": "Most valuable Python libraries for data analysis",
+          "thumbnail": "https://i.ytimg.com/vi/PH1sPgNjIDQ/hqdefault_155200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLB_jaoArOwOmJKnNDGNN3Wg2_tQ",
+          "time_start": 151
+        },
+        {
+          "title": "Python mindmap",
+          "thumbnail": "https://i.ytimg.com/vi/PH1sPgNjIDQ/hqdefault_348900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCx9PpXcxvAXiQ7_fNalvUW4bJ12Q",
+          "time_start": 346
+        },
+        {
+          "title": "Project ideas",
+          "thumbnail": "https://i.ytimg.com/vi/PH1sPgNjIDQ/hqdefault_476066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCV3huhSRVk7CmHSblsyOWkEIqzg",
+          "time_start": 464
+        }
+      ]
+    },
+    {
+      "position_on_page": 10,
+      "title": "Complete Python for Data Analysis🔥(2025) | Job-Ready Skills + Project with Free Files",
+      "link": "https://www.youtube.com/watch?v=S-ThqsqjIb4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=S-ThqsqjIb4",
+      "video_id": "S-ThqsqjIb4",
+      "channel": {
+        "name": "DataSteroid",
+        "channel_id": "UCECRpDZTIaMZiVgv7_V1xMw",
+        "link": "https://www.youtube.com/@datasteroidx",
+        "thumbnail": "https://yt3.ggpht.com/en8voKN4dasSxX1qjooRa-uaFjGouJSxyj2AOeeTAQ7ohbCjNTCOMEofCSJ35RLC4dkJr0IlfCs=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 164302,
+      "length": "4:06:08",
+      "description": "Learn Python for Data Analysis in this full Python tutorial for beginners! From basics & data types to OOPs, functions, file handling, ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/S-ThqsqjIb4/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZLnCuS7lQT94LjpSWl7e5BDLF4Q",
+        "rich": "https://i.ytimg.com/an_webp/S-ThqsqjIb4/mqdefault_6s.webp?du=3000&sqp=CIDNhdgG&rs=AOn4CLDkBGa1YRDWcKJENu7QnCLKit_bBg"
+      },
+      "chapters": [
+        {
+          "title": "Teaser",
+          "thumbnail": "https://i.ytimg.com/vi/S-ThqsqjIb4/hqdefault_17000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClTFEo3lQo4npj0Ch7RLMpwpMP9Q",
+          "time_start": 0
+        },
+        {
+          "title": "Understanding Core",
+          "thumbnail": "https://i.ytimg.com/vi/S-ThqsqjIb4/hqdefault_87833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8nkttAnzEYlu6xXhrsJnUpT6Qfg",
+          "time_start": 58
+        },
+        {
+          "title": "Setting up Python",
+          "thumbnail": "https://i.ytimg.com/vi/S-ThqsqjIb4/hqdefault_287333.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBuHVG_03cS80qjQSfyK5ASFEjrkw",
+          "time_start": 287
+        },
+        {
+          "title": "Introduction",
+          "thumbnail": "https://i.ytimg.com/vi/S-ThqsqjIb4/hqdefault_447766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbKZ4Q1tylc-OAkBMvXsHJuDzm-w",
+          "time_start": 431
+        },
+        {
+          "title": "Basics & Data Types",
+          "thumbnail": "https://i.ytimg.com/vi/S-ThqsqjIb4/hqdefault_451866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcSqDrZb7RN6u2DK0ZdrpJqTe_Mw",
+          "time_start": 448
+        },
+        {
+          "title": "Operators",
+          "thumbnail": "https://i.ytimg.com/vi/S-ThqsqjIb4/hqdefault_2401733.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAErCZYaYClasMM6UV3pviAWLfGPQ",
+          "time_start": 2376
+        },
+        {
+          "title": "Data Structures",
+          "thumbnail": "https://i.ytimg.com/vi/S-ThqsqjIb4/hqdefault_3224200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7gBO_gOqt4n9iGTZGfg4AnfYPSA",
+          "time_start": 3209
+        },
+        {
+          "title": "Control Statements",
+          "thumbnail": "https://i.ytimg.com/vi/S-ThqsqjIb4/hqdefault_5027166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3FGWNPjFY4BzsHbG2q8QBVlG_mA",
+          "time_start": 5015
+        },
+        {
+          "title": "Loops",
+          "thumbnail": "https://i.ytimg.com/vi/S-ThqsqjIb4/hqdefault_5234233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCX_2ZuD1SGtmsSry72XQiIZ3ebVA",
+          "time_start": 5229
+        },
+        {
+          "title": "Mini Project (Student Marks Example)",
+          "thumbnail": "https://i.ytimg.com/vi/S-ThqsqjIb4/hqdefault_6139166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADzeS5YE1_wtCNqtm8FmKiJiZUxw",
+          "time_start": 6135
+        },
+        {
+          "title": "Functions & Modules",
+          "thumbnail": "https://i.ytimg.com/vi/S-ThqsqjIb4/hqdefault_7437100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUaVnLX3UnJwH7_U_7as47SFTVzw",
+          "time_start": 7437
+        },
+        {
+          "title": "Exception Handling",
+          "thumbnail": "https://i.ytimg.com/vi/S-ThqsqjIb4/hqdefault_8869066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzUMzNth42v2R3JkV1_nIPzDde8Q",
+          "time_start": 8869
+        },
+        {
+          "title": "OOPs (Classes & Objects)",
+          "thumbnail": "https://i.ytimg.com/vi/S-ThqsqjIb4/hqdefault_9335033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDT4E5qUMiWG9Oey37kmHBgolosAQ",
+          "time_start": 9326
+        },
+        {
+          "title": "Date & Time in Python",
+          "thumbnail": "https://i.ytimg.com/vi/S-ThqsqjIb4/hqdefault_9689966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdva2uYuzcrQHw114wyoJ4lBZR6g",
+          "time_start": 9661
+        },
+        {
+          "title": "Advanced Python Concepts",
+          "thumbnail": "https://i.ytimg.com/vi/S-ThqsqjIb4/hqdefault_10187033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCgKcqs9sHbDcU-47N9HbQ58gTNw",
+          "time_start": 10170
+        },
+        {
+          "title": "Comprehensions",
+          "thumbnail": "https://i.ytimg.com/vi/S-ThqsqjIb4/hqdefault_10209933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDK60TEoqOtIKk3Jd_gmB1HwDFY1Q",
+          "time_start": 10189
+        },
+        {
+          "title": "File I/O (Read & Write Files)",
+          "thumbnail": "https://i.ytimg.com/vi/S-ThqsqjIb4/hqdefault_10544900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbfJv9enV0gGLAZY-Sa_w4Jq_HIQ",
+          "time_start": 10517
+        },
+        {
+          "title": "Final Project (Sales Data Analysis)",
+          "thumbnail": "https://i.ytimg.com/vi/S-ThqsqjIb4/hqdefault_11495933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0kR11kXtIhHhJVjd5ApNI_kV8zg",
+          "time_start": 11476
+        }
+      ]
+    },
+    {
+      "position_on_page": 11,
+      "title": "Learn Python for Data Analysis in 3 Steps (as quickly as possible)",
+      "link": "https://www.youtube.com/watch?v=u8ABLLK3-z0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=u8ABLLK3-z0",
+      "video_id": "u8ABLLK3-z0",
+      "channel": {
+        "name": "Data with Baraa",
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "link": "https://www.youtube.com/@DataWithBaraa",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/dqs3pZO_8d4K2zp2ebhb2klV_zOqfNrNTViTHggfJPrvMVCRvypJW8BGksEdQqYTPWdai3wUDg=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 383671,
+      "length": "1:00",
+      "description": "Free Python Course* : https://youtu.be/Rq5gJVxz55Q *Subscribe* : http://bit.ly/3GiCVUE *Free Courses* ✓ *SQL* ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/u8ABLLK3-z0/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhlIFAoTzAP&rs=AOn4CLCpGHmKq9R4FLrvPxnW3AIOAJ5yag",
+        "rich": "https://i.ytimg.com/an_webp/u8ABLLK3-z0/mqdefault_6s.webp?du=3000&sqp=CNrMhdgG&rs=AOn4CLB25j7fYzgyLIHaogRrv2seqdN50g"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "Data Analysis with Python Full Course Tutorial",
+      "link": "https://www.youtube.com/watch?v=bLDbzcHwxM4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=bLDbzcHwxM4",
+      "video_id": "bLDbzcHwxM4",
+      "channel": {
+        "name": "Learn Skills Daily",
+        "channel_id": "UCqyBfm_H9ugGirk1ufYA2YA",
+        "link": "https://www.youtube.com/@learnskillsdaily",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/WwrBREpkRbdALebIg_xlBFBSwc7H8_tBcqgjLSP4fpZkMcPp3hSledFRan866itfUwsEKg-AUQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "9mo ago",
+      "views": 24522,
+      "length": "3:16:09",
+      "description": "Data Analysis with Python Full Course Tutorial Get Ad-Free Training by becoming a member today!",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/bLDbzcHwxM4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWbOnO5_achNyHJza2Ux72Npg4Wg"
+      },
+      "chapters": [
+        {
+          "title": "Start",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 0
+        },
+        {
+          "title": "Introduction",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 8
+        },
+        {
+          "title": "Establishing Datasets",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 287
+        },
+        {
+          "title": "Starting Jupyterlab and Using It",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 440
+        },
+        {
+          "title": "Using Split Windows and Magic Commands",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 790
+        },
+        {
+          "title": "Magic Commands and Guide",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 818
+        },
+        {
+          "title": "End Magic Commands",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 960
+        },
+        {
+          "title": "Pandas Dataframe Examples and Table",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 1058
+        },
+        {
+          "title": "Reading a CSV and creating a Dataframe",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 1217
+        },
+        {
+          "title": "Creating a Dataframe and Printing the Dataframe Head",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 1501
+        },
+        {
+          "title": "info and Data Validation",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 1765
+        },
+        {
+          "title": "Select dtypes and Describe",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 2052
+        },
+        {
+          "title": "Categories and Count",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 2376
+        },
+        {
+          "title": "agg Function and Dates",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 2620
+        },
+        {
+          "title": "iloc[] and Indexing",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 2739
+        },
+        {
+          "title": "Booleans and .loc With Categoricals",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 2912
+        },
+        {
+          "title": "Read CSV and .sort_index()",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 4462
+        },
+        {
+          "title": "Histogram and Box Plot",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 4973
+        },
+        {
+          "title": "Seaborn Introduction and Scatter Plots in Seaborn and Pandas",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 5328
+        },
+        {
+          "title": "Scatter Plot and Regression Line in Seaborn",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 5554
+        },
+        {
+          "title": "Mean and Bar Plot",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 5759
+        },
+        {
+          "title": "Seaborn Barplot and Using Mean as an Estimator",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 6084
+        },
+        {
+          "title": "Seaborn Relational Plot",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 6118
+        },
+        {
+          "title": "Frequency of Categoricals and ViolinPlot",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 6279
+        },
+        {
+          "title": "ViolinPlot and Histogram with Trend Line",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 6679
+        },
+        {
+          "title": "Intermediate Conclusion",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 7031
+        },
+        {
+          "title": "Advanced Introduction and Importing Data",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 7171
+        },
+        {
+          "title": "Pulling Data from a Database Part 1",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 7429
+        },
+        {
+          "title": "Pulling Data From a Database Part 2",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 7696
+        },
+        {
+          "title": "Simplified Dataframes and SettingWithCopyWarning Part 1",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 7875
+        },
+        {
+          "title": "Simplified Dataframes and SettingWithCopyWarning Part 2",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 8072
+        },
+        {
+          "title": "Apply",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 8442
+        },
+        {
+          "title": "Lambda Functions",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 8602
+        },
+        {
+          "title": "Merge Two Databases",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 8764
+        },
+        {
+          "title": "Long Tables",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 9171
+        },
+        {
+          "title": "Data Visualization for Long Tables",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 9349
+        },
+        {
+          "title": "Pivot Table and DateTime Indexing",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 9614
+        },
+        {
+          "title": "Date Range and Mean Daily CPU Usage",
+          "thumbnail": "https://i.ytimg.com/vi_webp/bLDbzcHwxM4/hqdefault.webp",
+          "time_start": 10351
+        }
+      ]
+    },
+    {
+      "position_on_page": 14,
+      "title": "Stop Wasting Time Learning Python | The Exact Libraries You Actually Need",
+      "link": "https://www.youtube.com/watch?v=B0KtxyGJ6jQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=B0KtxyGJ6jQ",
+      "video_id": "B0KtxyGJ6jQ",
+      "channel": {
+        "name": "Mansi G.",
+        "channel_id": "UCIB_kEcgT-lkTi14cqq4XqA",
+        "link": "https://www.youtube.com/@Mansigoeloffical",
+        "thumbnail": "https://yt3.ggpht.com/BkNVf_svWe3KQ5VOpe34WxuGOuUIy8jcDz4Ulei7WutIlOcu6AlyQpy1sDOl1IT9uh1mOtrz=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "10mo ago",
+      "views": 39316,
+      "length": "11:38",
+      "description": "Hii! I am Mansi..\nI do offer career counselling sessions, if you want proper guidance for you Data journey. Message me on ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/B0KtxyGJ6jQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5exQ4xa0e5Z6bFktCJsMS844XSA",
+        "rich": "https://i.ytimg.com/an_webp/B0KtxyGJ6jQ/mqdefault_6s.webp?du=3000&sqp=COzehdgG&rs=AOn4CLDHG8eW8JE1IF1i_WlSsf-7JiJWrA"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/B0KtxyGJ6jQ/hqdefault_11866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkUe8Sg8_pbqXQiiKyrDoHUK9fCA",
+          "time_start": 0
+        },
+        {
+          "title": "PANDAS",
+          "thumbnail": "https://i.ytimg.com/vi/B0KtxyGJ6jQ/hqdefault_103033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnhZkpexDb7AoYbhNNRT9n9sqdzQ",
+          "time_start": 99
+        },
+        {
+          "title": "NUMPY",
+          "thumbnail": "https://i.ytimg.com/vi/B0KtxyGJ6jQ/hqdefault_222133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2cmNO7cmAo_avH0aQ5Yg02Z9qiw",
+          "time_start": 197
+        },
+        {
+          "title": "VISUALISATION",
+          "thumbnail": "https://i.ytimg.com/vi/B0KtxyGJ6jQ/hqdefault_284200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA31PhRi1Sp1_734adLH7UkGDN32A",
+          "time_start": 255
+        },
+        {
+          "title": "SCIPY",
+          "thumbnail": "https://i.ytimg.com/vi/B0KtxyGJ6jQ/hqdefault_308800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHfO0BqYVTOeYCeOZcu9_pbPOGsg",
+          "time_start": 301
+        },
+        {
+          "title": "SQL ALCHEMY",
+          "thumbnail": "https://i.ytimg.com/vi/B0KtxyGJ6jQ/hqdefault_369833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAw-Zj4JEP5InBwy7uBu1r2ehoQxw",
+          "time_start": 366
+        },
+        {
+          "title": "OPENPYXL",
+          "thumbnail": "https://i.ytimg.com/vi/B0KtxyGJ6jQ/hqdefault_446133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNmr3hVaQVeoFudFNi5aMSueC_jA",
+          "time_start": 435
+        },
+        {
+          "title": "BONUS TOOL",
+          "thumbnail": "https://i.ytimg.com/vi/B0KtxyGJ6jQ/hqdefault_489066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWCs48_OomzijVSziIBksxaqGLtw",
+          "time_start": 465
+        },
+        {
+          "title": "COMMON MISTAKES",
+          "thumbnail": "https://i.ytimg.com/vi/B0KtxyGJ6jQ/hqdefault_551066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYRUFuasM4E7OwbGTIWwK8iPb0qA",
+          "time_start": 522
+        },
+        {
+          "title": "End",
+          "thumbnail": "https://i.ytimg.com/vi/B0KtxyGJ6jQ/hqdefault_596333.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAm-dlMyTs0Dl0RHMyMqFXjamxl2Q",
+          "time_start": 576
+        }
+      ]
+    },
+    {
+      "position_on_page": 18,
+      "title": "How I'd Learn PYTHON For DATA ANALYSIS | If I Had To Start Over Again",
+      "link": "https://www.youtube.com/watch?v=mut8eTdoRxU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=mut8eTdoRxU",
+      "video_id": "mut8eTdoRxU",
+      "channel": {
+        "name": "Mo Chen",
+        "channel_id": "UCDybamfye5An6p-j1t2YMsg",
+        "link": "https://www.youtube.com/@mo-chen",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/IBFVxGLOQjpvl2y38TMqvalSq0llMz87qpDVZnK0Faw7d_PWSElx6R0UlBoKVEfdszMoBHP7Uq0=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3y ago",
+      "views": 377075,
+      "length": "11:35",
+      "description": "Hi I'm Mo. I teach AI and data skills that solve real problems at work. Start here → https://mochen.io Partnerships ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/mut8eTdoRxU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdHlqOOAXqxImyfvc7KpHLxtnyTA",
+        "rich": "https://i.ytimg.com/an_webp/mut8eTdoRxU/mqdefault_6s.webp?du=3000&sqp=CLCThdgG&rs=AOn4CLA4Zs7ok-cyTqHB0FvBZKRxYgoIQg"
+      },
+      "chapters": [
+        {
+          "title": "Why Python?",
+          "thumbnail": "https://i.ytimg.com/vi/mut8eTdoRxU/hqdefault_8033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmgkPmHogbda4-lD3gUBfeIJqhog",
+          "time_start": 0
+        },
+        {
+          "title": "How I failed at learning Python for Data Analysis",
+          "thumbnail": "https://i.ytimg.com/vi/mut8eTdoRxU/hqdefault_107066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAc6Xs-RoJyZVGq5UOTCgoFor8mw",
+          "time_start": 101
+        },
+        {
+          "title": "How I actually learned Python - Basics",
+          "thumbnail": "https://i.ytimg.com/vi/mut8eTdoRxU/hqdefault_264033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhBvmYOs0KfAqZS1DlntGchxM11A",
+          "time_start": 247
+        },
+        {
+          "title": "NumPy",
+          "thumbnail": "https://i.ytimg.com/vi/mut8eTdoRxU/hqdefault_375166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDe-5FUddv3GfeFBxVMR7Jnoy415w",
+          "time_start": 348
+        },
+        {
+          "title": "Pandas",
+          "thumbnail": "https://i.ytimg.com/vi/mut8eTdoRxU/hqdefault_411066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFqkcobGe0FFIWsGc6VeAH5sy61A",
+          "time_start": 411
+        },
+        {
+          "title": "Matplotlib and Seaborn",
+          "thumbnail": "https://i.ytimg.com/vi/mut8eTdoRxU/hqdefault_544833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZqn1ja3vlUx-0dI7WjV-Md1jLuw",
+          "time_start": 531
+        },
+        {
+          "title": "Outro",
+          "thumbnail": "https://i.ytimg.com/vi/mut8eTdoRxU/hqdefault_680866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANNgaLlCFueXLfX_HW2718fNuVOg",
+          "time_start": 668
+        }
+      ]
+    },
+    {
+      "position_on_page": 19,
+      "title": "Python For Data Analysis Full Course (2025) | Python For Data Analytics Course FREE | Intellipaat",
+      "link": "https://www.youtube.com/watch?v=lZk8ZY3g1fU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lZk8ZY3g1fU",
+      "video_id": "lZk8ZY3g1fU",
+      "channel": {
+        "name": "Intellipaat",
+        "channel_id": "UCCktnahuRFYIBtNnKT5IYyg",
+        "link": "https://www.youtube.com/@Intellipaat",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/0UrFW02_vRoTxrCcv4H6vSDXFwUPcafCf3oXIA6yMFUsVtIvE8EZdS2UMzbdscI7ifON_U7DHQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "1y ago",
+      "views": 90868,
+      "length": "5:02:41",
+      "description": "This Python for Data Analytics Full Course by Intellipaat is the perfect starting point for anyone looking to break into the world of ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/lZk8ZY3g1fU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUk_QhKyAYeC_K-fB47kXZ-i6VQA",
+        "rich": "https://i.ytimg.com/an_webp/lZk8ZY3g1fU/mqdefault_6s.webp?du=3000&sqp=CI_PhdgG&rs=AOn4CLCu4BHk9dzsxEqTP1g9ZcplYVBIVw"
+      },
+      "chapters": [
+        {
+          "title": "Introduction to Python Course For Beginners",
+          "thumbnail": "https://i.ytimg.com/vi/lZk8ZY3g1fU/hqdefault_11033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkgHMl8cvDFgZnDY6YGdXzWOZ7Dw",
+          "time_start": 0
+        },
+        {
+          "title": "Python Programming Basics",
+          "thumbnail": "https://i.ytimg.com/vi/lZk8ZY3g1fU/hqdefault_75033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCne_6IxcKOn8j923Kr3_lgspuCA",
+          "time_start": 75
+        },
+        {
+          "title": "NumPy Library in Python",
+          "thumbnail": "https://i.ytimg.com/vi/lZk8ZY3g1fU/hqdefault_389200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUSyhqIwMy5FimtIEu3RpdPozsHQ",
+          "time_start": 371
+        },
+        {
+          "title": "Pandas Library",
+          "thumbnail": "https://i.ytimg.com/vi/lZk8ZY3g1fU/hqdefault_6755766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCj6lUMddi6GgIdjBk8j-2v7PO7oA",
+          "time_start": 6739
+        },
+        {
+          "title": "Matplotlib For Data Visualization",
+          "thumbnail": "https://i.ytimg.com/vi/lZk8ZY3g1fU/hqdefault_10746033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOjcf8TPPk6tpb7m-BeQVjywlu6Q",
+          "time_start": 10745
+        },
+        {
+          "title": "Seaborn For Data Visualization",
+          "thumbnail": "https://i.ytimg.com/vi/lZk8ZY3g1fU/hqdefault_13775700.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBaBXtJftZg8m4r7CzfQv403TKgpg",
+          "time_start": 13770
+        },
+        {
+          "title": "Exploratory Data Analytics",
+          "thumbnail": "https://i.ytimg.com/vi/lZk8ZY3g1fU/hqdefault_16674800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBup8RKnUqL2uPFrMzMy6Uhavv4kA",
+          "time_start": 16655
+        }
+      ]
+    },
+    {
+      "position_on_page": 21,
+      "title": "Learn Python in Under 3 Hours | Variables, For Loops, Web Scraping + Full Project",
+      "link": "https://www.youtube.com/watch?v=t1fQBD4B7xk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=t1fQBD4B7xk",
+      "video_id": "t1fQBD4B7xk",
+      "channel": {
+        "name": "Alex The Analyst",
+        "channel_id": "UC7cs8q-gJRlGwj4A8OmCmXg",
+        "link": "https://www.youtube.com/@AlexTheAnalyst",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l9wLnClpLKJeVmP5XwHy4NF_Gu13GfyRT1WTZDaSYS-g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "2y ago",
+      "views": 97070,
+      "length": "2:32:01",
+      "description": "Take my Full Python Course Here: https://www.analystbuilder.com/courses/python-programming-for-beginners Download ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/t1fQBD4B7xk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtP4ZQMpkID24gijtgvk4I_vaM1A",
+        "rich": "https://i.ytimg.com/an_webp/t1fQBD4B7xk/mqdefault_6s.webp?du=3000&sqp=CIvUhdgG&rs=AOn4CLCyEzKrkPYU32kuBeFutGcncTfAvQ"
+      },
+      "chapters": [
+        {
+          "title": "Intro",
+          "thumbnail": "https://i.ytimg.com/vi/t1fQBD4B7xk/hqdefault_12066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC74TikmCYl6SKmOK1qmIIdkRmrzQ",
+          "time_start": 0
+        },
+        {
+          "title": "Installing our Environment",
+          "thumbnail": "https://i.ytimg.com/vi/t1fQBD4B7xk/hqdefault_48100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9fA2ZdfPC2NMtbT3e3KhBuccEFA",
+          "time_start": 48
+        },
+        {
+          "title": "Variables",
+          "thumbnail": "https://i.ytimg.com/vi/t1fQBD4B7xk/hqdefault_603800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGxtpoOVl5fMoZ3iXQcbCqHZcYbw",
+          "time_start": 577
+        },
+        {
+          "title": "Data Types",
+          "thumbnail": "https://i.ytimg.com/vi/t1fQBD4B7xk/hqdefault_1356866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbcZQif6rtnKO2ASC54Gvj7veGyg",
+          "time_start": 1356
+        },
+        {
+          "title": "Comparison Operators",
+          "thumbnail": "https://i.ytimg.com/vi/t1fQBD4B7xk/hqdefault_2658266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZ1GDRvsAz2WCLfJq7EXPxSgdMeg",
+          "time_start": 2652
+        },
+        {
+          "title": "If Else Statements",
+          "thumbnail": "https://i.ytimg.com/vi/t1fQBD4B7xk/hqdefault_3068200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBI4CQKyCA3b0nHfamN9u3eAb9_Jg",
+          "time_start": 3063
+        },
+        {
+          "title": "For Loops",
+          "thumbnail": "https://i.ytimg.com/vi/t1fQBD4B7xk/hqdefault_3456800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmedGKC5FdMzRQIkTFYsttLrrI5A",
+          "time_start": 3437
+        },
+        {
+          "title": "While Loops",
+          "thumbnail": "https://i.ytimg.com/vi/t1fQBD4B7xk/hqdefault_3991133.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0-LPa-r9tvVKZxjE0XqUk3liAfQ",
+          "time_start": 3978
+        },
+        {
+          "title": "Functions",
+          "thumbnail": "https://i.ytimg.com/vi/t1fQBD4B7xk/hqdefault_4311233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgu5A1vLNe_AcIkzwdub-4Un0Ncw",
+          "time_start": 4296
+        },
+        {
+          "title": "Converting Data Types",
+          "thumbnail": "https://i.ytimg.com/vi/t1fQBD4B7xk/hqdefault_5039200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5mepT0iEvUEPBMy9YE5jGqBR2aw",
+          "time_start": 5027
+        },
+        {
+          "title": "Mini Project - BMI Calculator",
+          "thumbnail": "https://i.ytimg.com/vi/t1fQBD4B7xk/hqdefault_5432666.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHKp_Eo9p-hJO4c3t69zkljjSK7g",
+          "time_start": 5403
+        },
+        {
+          "title": "Web Scraping - Beautiful Soup and Requests",
+          "thumbnail": "https://i.ytimg.com/vi/t1fQBD4B7xk/hqdefault_6226000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKf1DWRP3uESugOg4Pq_uC0In9ww",
+          "time_start": 6226
+        },
+        {
+          "title": "Web Scraping - HTML",
+          "thumbnail": "https://i.ytimg.com/vi/t1fQBD4B7xk/hqdefault_6605000.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBv8L4CgXYaZNcprzrTZYhf1Lg-g",
+          "time_start": 6605
+        },
+        {
+          "title": "Web Scraping - Find and Find_all",
+          "thumbnail": "https://i.ytimg.com/vi/t1fQBD4B7xk/hqdefault_6920933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDSA7maY0kHQ_hy-u9lEpr9wmrPg",
+          "time_start": 6905
+        },
+        {
+          "title": "Web Scraping - Full Project",
+          "thumbnail": "https://i.ytimg.com/vi/t1fQBD4B7xk/hqdefault_7627900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwZDOjIJGnxm8F7i_uU9iZV73vTg",
+          "time_start": 7598
+        }
+      ]
+    },
+    {
+      "position_on_page": 23,
+      "title": "Python Full Course 2026 – Zero to Data Analyst 🔥 (Complete Tutorial)",
+      "link": "https://www.youtube.com/watch?v=yiyc0RMfmHk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=yiyc0RMfmHk",
+      "video_id": "yiyc0RMfmHk",
+      "channel": {
+        "name": "Accounts Expert",
+        "channel_id": "UCdDtsDwI7U9k78w6PAyGfSA",
+        "link": "https://www.youtube.com/@Accounts_Experts",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/tMs84O-lN4vy-RgXykgI0b2Da4YN47RjXROd9vl9PMr7Hji1NL5e2NGNBuoMoILBgwQeSxYjWQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "3mo ago",
+      "views": 79094,
+      "length": "9:49:08",
+      "description": "Learn essential tools like Python, SQL, and data handling techniques step by step with practical examples. Perfect for beginners ...",
+      "extensions": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/yiyc0RMfmHk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7sS01c5-vHEA5-v5vRFhgE7M_yA",
+        "rich": "https://i.ytimg.com/an_webp/yiyc0RMfmHk/mqdefault_6s.webp?du=3000&sqp=CIjAhdgG&rs=AOn4CLBog7LEO6DJyBZYF9ZdyB5i37ggPg"
+      },
+      "chapters": [
+        {
+          "title": "Introduction & Course Overview",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_28966.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSRbV3kn4JPQt2YBrhwSzyuO-yaw",
+          "time_start": 0
+        },
+        {
+          "title": "What is Python? & History of Python",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_226200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALMooqhv0MogDmCBk6KqdROl-aHA",
+          "time_start": 225
+        },
+        {
+          "title": "Who Created Python & Why Python is So Popular?",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_913800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYO6jp0sTiKQDwUod43d-4fLn8kA",
+          "time_start": 900
+        },
+        {
+          "title": "Features, Applications & Advantages of Python",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_1192833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFgj_m54KFHIUZxh0QTIe2dcTPiw",
+          "time_start": 1188
+        },
+        {
+          "title": "Installing Python & Jupyter Notebook",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_1402866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA65NU3DDo3T6DF8ZBuf8yDndmmmg",
+          "time_start": 1390
+        },
+        {
+          "title": "Launching Jupyter Notebook & Interface Walkthrough",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_1611766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjmN0BEjn1Y1MpVScQGfjmbTR6uQ",
+          "time_start": 1610
+        },
+        {
+          "title": "Writing Your First Python Code (Hello World)",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_1912166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTmDtUsYc62YJHdYJTgtQnENJeHw",
+          "time_start": 1895
+        },
+        {
+          "title": "Variables, Keywords, Identifiers & Comments",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_1976266.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmg9vO2HOJCq41s2Ii8iiOg9niMA",
+          "time_start": 1958
+        },
+        {
+          "title": "MCQs & Practice Questions on Identifiers & Keywords",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_2850233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCISnzviA_suUNZpy6E7vQDbsrF3g",
+          "time_start": 2850
+        },
+        {
+          "title": "Introduction to Numeric Data Types (int, float, complex, bool)",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_3143200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5MDkeC9h6QOzZ-rY8nBSu7u3YMA",
+          "time_start": 3137
+        },
+        {
+          "title": "Data Types Hands-on & Checking Types (type())",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_3678033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQyIbJ6s8AdepBvZ1Gbu599_CHpQ",
+          "time_start": 3650
+        },
+        {
+          "title": "Type Conversion & Typecasting",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_4103033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsst_8TZSGGhLgYxlHKUBitfxSTQ",
+          "time_start": 4084
+        },
+        {
+          "title": "MCQs & Practice Exercises on Data Types",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_4976033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBit_B7nFQx_way7HLT5iLINBzT0Q",
+          "time_start": 4950
+        },
+        {
+          "title": "Implicit Conversion & Built-in Functions (abs, pow, min, max, round)",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_5327933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDGBwmdoP_oKXTFCWHo4iglF5A9A",
+          "time_start": 5315
+        },
+        {
+          "title": "Introduction to String Data Type (Single, Double & Triple Quotes)",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_5510033.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7WrBAqNqfL7EcNEi8uGxf8tC1nw",
+          "time_start": 5498
+        },
+        {
+          "title": "String Indexing & Slicing",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_5898866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmYg7L5Ovw7OZ8geDdgbhN6jvnRw",
+          "time_start": 5898
+        },
+        {
+          "title": "Top 30 Essential String Methods & Functions",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_6723833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDO3vHnMUg6cQ5JeVHcdbYLKPWImQ",
+          "time_start": 6720
+        },
+        {
+          "title": "Quiz & Hands-on Coding Practice on Strings",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_8137800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMhkOvQuSPlDOt02UorSdsBZ7g4w",
+          "time_start": 8135
+        },
+        {
+          "title": "List Data Type & Properties (OMIHD)",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_8574833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD94jdxql6AZ2eD8aW2HJriqo-6tQ",
+          "time_start": 8555
+        },
+        {
+          "title": "Essential List Methods (append, extend, insert, remove, pop, sort, etc.)",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_8999933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSvZNmlrOk5knGwwa0PHVXDTARFA",
+          "time_start": 8971
+        },
+        {
+          "title": "Tuple Data Type & Methods",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_9542933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMvQyrJpi2PpyzX-ErwHg3OvNa1Q",
+          "time_start": 9533
+        },
+        {
+          "title": "Slicing Operator in Lists & Tuples",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_10035166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsVlFIhYAouw9OAn5wDAybs7-cZw",
+          "time_start": 10020
+        },
+        {
+          "title": "Sets & Frozen Sets (Set Operations: Union, Intersection, Difference)",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_10279166.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4cm7W3Pnys5jUb8of53q9JkPfng",
+          "time_start": 10276
+        },
+        {
+          "title": "MCQs & Coding Practice on Lists",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_10939333.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7XsC9KSawmth3CteIkJCcYP_YlA",
+          "time_start": 10935
+        },
+        {
+          "title": "phenomenon – Dictionary Data Type & Operations (keys, values, items)",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_11545366.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQFY3PbpkBFhuWdkYI9BjCyT_I6A",
+          "time_start": 11533
+        },
+        {
+          "title": "Operators in Python (Arithmetic, Comparison, Logical, Assignment, Identity, Membership, Bitwise)",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_11990700.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSoG32eHNHCPKbGZhqN013vddtGw",
+          "time_start": 11990
+        },
+        {
+          "title": "Conditional Statements (if, elif, else, Nested if) & Real-world Practice",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_13704766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC27SQY3yDypOYRkd50xfWnAwoqjw",
+          "time_start": 13680
+        },
+        {
+          "title": "Loops in Python (for loop, while loop, Nested Loops) & Loop Controls (break, continue, pass)",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_15289800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4Cmc2hHFmNzYIAJEbjK04QxkF2Q",
+          "time_start": 15260
+        },
+        {
+          "title": "List Comprehension",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_18228200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD85Jw8irrdhGvR8e72WBgcMbf98g",
+          "time_start": 18228
+        },
+        {
+          "title": "Introduction to Functions, Parameters & Arguments (return vs print)",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_18520066.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAn-BUmyyZxgLTr9uK-asfyX5D3dw",
+          "time_start": 18515
+        },
+        {
+          "title": "Positional vs Keyword Arguments & Default Parameters",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_19661933.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5vH2c4Uf-mU2UrAPkyb0XvASrng",
+          "time_start": 19640
+        },
+        {
+          "title": "Global vs Local Variable Scope",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_20668833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBElrRYatSwsRz5q6cWpGYcX-SRvQ",
+          "time_start": 20640
+        },
+        {
+          "title": "Arbitrary Arguments (*args and **kwargs)",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_21079200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVhK_oUmamCiThm3wykOO4n3uHJA",
+          "time_start": 21070
+        },
+        {
+          "title": "Anonymous Functions (Lambda Functions), map(), and filter()",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_21452800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1tRQe50Y3ZEkr4YRv7j8hc8CGmw",
+          "time_start": 21445
+        },
+        {
+          "title": "Modules in Python (User-defined & Inbuilt Modules: random, math, time)",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_22593866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbT-ewAXJFhhrII0fciCKTqQ1WeA",
+          "time_start": 22565
+        },
+        {
+          "title": "File Handling (open, read, write, append, with statement)",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_23427766.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3cL3K757yiwxGb0rQpjIO7bzFvw",
+          "time_start": 23425
+        },
+        {
+          "title": "Exception Handling (try, except, else, finally, Custom Exceptions) & Practice Exercises",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_24427833.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABjwDy3iDn1ZRq3QDEeG6v8yf_cg",
+          "time_start": 24424
+        },
+        {
+          "title": "Introduction to NumPy & N-Dimensional Arrays",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_26268800.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQGGQ_ibuanStCNK894AwGu4XlUw",
+          "time_start": 26268
+        },
+        {
+          "title": "Array Attributes, Reshaping, Indexing, Slicing & Iteration (nditer)",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_27235233.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkGs2QiN-95Y6sF5Ap5DI5qDx_ow",
+          "time_start": 27210
+        },
+        {
+          "title": "NumPy Random Module & Matrix Operations (Dot Product, Transpose)",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_29045200.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAN0cHK4tHzp2xQ9Blh43VHSTxt3g",
+          "time_start": 29040
+        },
+        {
+          "title": "Introduction to Pandas (Series, DataFrames, Loading CSV/Excel Files)",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_29707566.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuGAF9NffwtVwv7WpTXyBNkK6HZg",
+          "time_start": 29678
+        },
+        {
+          "title": "Data Inspection, Cleaning, Filtering, Sorting & Handling Missing Values",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_30136366.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5ZaWb_5QUQ2Yfvv887NOT11Ymow",
+          "time_start": 30125
+        },
+        {
+          "title": "GroupBy Aggregations & Date/Time Manipulations",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_31916600.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLv2e8MuPFpWFdFKdzB_SujmDbvQ",
+          "time_start": 31905
+        },
+        {
+          "title": "Data Visualization with Matplotlib & Seaborn (Bar Charts, Histograms, Pie Charts) & Summary",
+          "thumbnail": "https://i.ytimg.com/vi/yiyc0RMfmHk/hqdefault_34535100.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCa9uqYqSAXV5BqX2PfsIqgSN1hkQ",
+          "time_start": 34520
+        }
+      ]
+    }
+  ],
+  "playlist_results": [
+    {
+      "position_on_page": 3,
+      "title": "Python for Data Analysis",
+      "link": "https://www.youtube.com/playlist?list=PLiC1doDIe9rCYWmH9wIEYEXXaJ4KAi3jc",
+      "channel": {
+        "name": "DataDaft",
+        "channel_id": "UCwuvoN0QKjrXUi48G_Hv7kQ",
+        "link": "https://www.youtube.com/@DataDaft"
+      },
+      "videos": [
+        {
+          "title": "Python for Data Analysis: Getting Started",
+          "length": "9:52",
+          "link": "https://www.youtube.com/watch?v=2_6O39UdFi0&list=PLiC1doDIe9rCYWmH9wIEYEXXaJ4KAi3jc"
+        },
+        {
+          "title": "Python for Data Analysis: Basic Math Operations",
+          "length": "10:32",
+          "link": "https://www.youtube.com/watch?v=ita82szjz-A&list=PLiC1doDIe9rCYWmH9wIEYEXXaJ4KAi3jc"
+        }
+      ],
+      "video_count": 30,
+      "thumbnail": "https://i.ytimg.com/vi/2_6O39UdFi0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBQCrtuZgstFakXJJ9uX217kOYUeQ"
+    },
+    {
+      "position_on_page": 4,
+      "title": "Data Analysis with Python Course",
+      "link": "https://www.youtube.com/playlist?list=PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ",
+      "channel": {
+        "name": "freeCodeCamp.org",
+        "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "link": "https://www.youtube.com/@freecodecamp"
+      },
+      "videos": [
+        {
+          "title": "Data Analysis with Python: Part 1 of 6 (Live Course)",
+          "length": "1:09:15",
+          "link": "https://www.youtube.com/watch?v=EsDFiZPljYo&list=PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ"
+        },
+        {
+          "title": "Data Analysis with Python: Part 2 of 6 - Python Functions and Working with Files (Live Course)",
+          "length": "2:12:48",
+          "link": "https://www.youtube.com/watch?v=JOKJ6g3gUFE&list=PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ"
+        }
+      ],
+      "video_count": 6,
+      "thumbnail": "https://i.ytimg.com/vi/EsDFiZPljYo/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA03czzFvEO-waSFUxD4Fm9iuj3jQ"
+    },
+    {
+      "position_on_page": 5,
+      "title": "Python Ultimate Course",
+      "link": "https://www.youtube.com/playlist?list=PLNcg_FV9n7qZGfFl2ANI_zISzNp257Lwn",
+      "channel": {
+        "name": "Data with Baraa",
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "link": "https://www.youtube.com/@DataWithBaraa"
+      },
+      "videos": [
+        {
+          "title": "Python Full Course for Beginners (13 Hours) – From Zero to Hero",
+          "length": "13:02:53",
+          "link": "https://www.youtube.com/watch?v=Rq5gJVxz55Q&list=PLNcg_FV9n7qZGfFl2ANI_zISzNp257Lwn"
+        },
+        {
+          "title": "What is Python (Visually Explained) | How It Works and How to Learn It | #Python Course 1",
+          "length": "10:47",
+          "link": "https://www.youtube.com/watch?v=GRNI9T9R8gQ&list=PLNcg_FV9n7qZGfFl2ANI_zISzNp257Lwn&pp=0gcJCRYF0aJEHMZM"
+        }
+      ],
+      "video_count": 47,
+      "thumbnail": "https://i.ytimg.com/vi/Rq5gJVxz55Q/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC8xiDHYd35tCqjtIe7zAdNiJV-TQ"
+    },
+    {
+      "position_on_page": 9,
+      "title": "Data Analyst Course | Beginner's to Advance (हिंदी में) | Full Playlist | Python | Power BI | SQL | Excel | Free",
+      "link": "https://www.youtube.com/playlist?list=PLxzTa0VPR9ryvGSuCm4RS8aeAvOLXz9XM",
+      "channel": {
+        "name": "The iScale",
+        "channel_id": "UCxZC-5v-UccF6FXGI7VXgoQ",
+        "link": "https://www.youtube.com/@theiScale"
+      },
+      "videos": [
+        {
+          "title": "Python for data analyst | day 01 | 30 days free course | beginners to advance | python with project",
+          "length": "57:26",
+          "link": "https://www.youtube.com/watch?v=M9rqo776gV8&list=PLxzTa0VPR9ryvGSuCm4RS8aeAvOLXz9XM&pp=0gcJCRYF0aJEHMZM"
+        },
+        {
+          "title": "Python Lecture | How to Install Jupyter Notebook | Data Analyst & Data Science Basics | Swati Mam",
+          "length": "6:57",
+          "link": "https://www.youtube.com/watch?v=AS1a5K8zejk&list=PLxzTa0VPR9ryvGSuCm4RS8aeAvOLXz9XM"
+        }
+      ],
+      "video_count": 201,
+      "thumbnail": "https://i.ytimg.com/vi/M9rqo776gV8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD9ukmFuBTve6PjIEtt-t5mgTRDBQ"
+    },
+    {
+      "position_on_page": 12,
+      "title": "Python for Data Analysis",
+      "link": "https://www.youtube.com/playlist?list=PLiEts138s9P0w-WX4Rmml-_zhnBkXLWtc",
+      "channel": {
+        "name": "Learning Python",
+        "channel_id": "UClbtTCONv0ZFoM399-r4CnA",
+        "link": "https://www.youtube.com/@LearningPythonProgramming"
+      },
+      "videos": [
+        {
+          "title": "Best way to Learn Data Analysis with Python - Part 1",
+          "length": "10:21",
+          "link": "https://www.youtube.com/watch?v=cVSb6-yaYMc&list=PLiEts138s9P0w-WX4Rmml-_zhnBkXLWtc"
+        },
+        {
+          "title": "Python Basics, iPython, Jupyter - Data analysis with Python - Part 2",
+          "length": "28:46",
+          "link": "https://www.youtube.com/watch?v=BYwww-tnDXI&list=PLiEts138s9P0w-WX4Rmml-_zhnBkXLWtc"
+        }
+      ],
+      "video_count": 13,
+      "thumbnail": "https://i.ytimg.com/vi/cVSb6-yaYMc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD2DqW2gCZpBt6whWfaJfPuqly2vg"
+    },
+    {
+      "position_on_page": 15,
+      "title": "Pandas Tutorial (Data Analysis In Python)",
+      "link": "https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy",
+      "channel": {
+        "name": "codebasics",
+        "channel_id": "UCh9nVJoWXmFb7sLApWGcLPQ",
+        "link": "https://www.youtube.com/@codebasics"
+      },
+      "videos": [
+        {
+          "title": "Python Pandas Tutorial 1. What is Pandas python? Introduction and Installation",
+          "length": "9:23",
+          "link": "https://www.youtube.com/watch?v=CmorAWRsCAw&list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy"
+        },
+        {
+          "title": "Python Pandas Tutorial 2: Dataframe Basics",
+          "length": "20:58",
+          "link": "https://www.youtube.com/watch?v=F6kmIpWWEdU&list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy"
+        }
+      ],
+      "video_count": 22,
+      "thumbnail": "https://i.ytimg.com/vi/CmorAWRsCAw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCqGFf56COQVZlzlK1XSCWdkfyR-A"
+    },
+    {
+      "position_on_page": 16,
+      "title": "Data Analytics with Projects Full Free Course  (New Updated) by WsCube Tech",
+      "link": "https://www.youtube.com/playlist?list=PLjVLYmrlmjGdRs1sGqRrTE-EMraLclJga",
+      "channel": {
+        "name": "WsCube Tech",
+        "channel_id": "UC0T6MVd3wQDB5ICAe45OxaQ",
+        "link": "https://www.youtube.com/@wscubetech"
+      },
+      "videos": [
+        {
+          "title": "Data Analytics FULL Course for Beginners to Pro in 29 HOURS - 2025 Edition",
+          "length": "29:13:47",
+          "link": "https://www.youtube.com/watch?v=VaSjiJMrq24&list=PLjVLYmrlmjGdRs1sGqRrTE-EMraLclJga"
+        },
+        {
+          "title": "Complete Data Analytics Portfolio Project with Python and SQL in 2 Hours | 2026 Guide",
+          "length": "2:16:00",
+          "link": "https://www.youtube.com/watch?v=hK-qUy3UfT8&list=PLjVLYmrlmjGdRs1sGqRrTE-EMraLclJga"
+        }
+      ],
+      "video_count": 105,
+      "thumbnail": "https://i.ytimg.com/vi/VaSjiJMrq24/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB_49TytFLT6vrpbG8XgVbDTwzDJg"
+    },
+    {
+      "position_on_page": 20,
+      "title": "Data Analyst Full Course 2025 | Data Analytics Full Course Hindi| data analytics full course in hindi playlist | data analyst course playlist in hindi",
+      "link": "https://www.youtube.com/playlist?list=PLOWRNl6YgsT79ezWdEhOjvK4D-cQfr7ys",
+      "channel": {
+        "name": "Top VarSity",
+        "channel_id": "UCV2On_SjdqwEG9NyEHQzrrA",
+        "link": "https://www.youtube.com/@TopVarSity"
+      },
+      "videos": [
+        {
+          "title": "Data Analytics Full Course 2026 | Part 01| Data Analyst Course | Introduction | Top VarSity",
+          "length": "11:39",
+          "link": "https://www.youtube.com/watch?v=5zEt1_Nkiio&list=PLOWRNl6YgsT79ezWdEhOjvK4D-cQfr7ys"
+        },
+        {
+          "title": "Data Analytics Full Course 2026 | Part 02 | Data Analyst Course | Excel Basics | Top VarSity",
+          "length": "23:12",
+          "link": "https://www.youtube.com/watch?v=FMSJXtwt6hE&list=PLOWRNl6YgsT79ezWdEhOjvK4D-cQfr7ys"
+        }
+      ],
+      "video_count": 25,
+      "thumbnail": "https://i.ytimg.com/vi/5zEt1_Nkiio/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAgRq2845pY2j-r8tUly94pqOpeMw"
+    },
+    {
+      "position_on_page": 22,
+      "title": "Python Tutorial 2026 | Complete Python Course (Beginner to Advanced) | Telusko",
+      "link": "https://www.youtube.com/playlist?list=PLsyeobzWxl7omDoEYrrf3oXvXxa6MPgek",
+      "channel": {
+        "name": "Telusko",
+        "channel_id": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "link": "https://www.youtube.com/@Telusko"
+      },
+      "videos": [
+        {
+          "title": "Python Tutorial 2026",
+          "length": "5:21",
+          "link": "https://www.youtube.com/watch?v=YZkyL-f-YXY&list=PLsyeobzWxl7omDoEYrrf3oXvXxa6MPgek"
+        },
+        {
+          "title": "First Code in Python | 2",
+          "length": "4:00",
+          "link": "https://www.youtube.com/watch?v=koL06y7HpKo&list=PLsyeobzWxl7omDoEYrrf3oXvXxa6MPgek"
+        }
+      ],
+      "video_count": 54,
+      "thumbnail": "https://i.ytimg.com/vi/YZkyL-f-YXY/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDqwreruXZFgiuPOpWxK28x1IQUMQ"
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=Python+full+course+tutorial+for+Data+Analyst&gl=in&hl=en",
+    "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Python%20full%20course%20tutorial%20for%20Data%20Analyst&sp=SBSCAQt3VVNEVkdpdmQtOIIBIlBMaUMxZG9ESWU5ckNZV21IOXdJRVlFWFhhSjRLQWkzamOCASJQTFdLamhKdHFWQWJsdkkxaTQ2U2NiS1YyakgxZ2RMN1ZRggEiUExOY2dfRlY5bjdxWkdmRmwyQU5JX3pJU3pOcDI1N0x3boIBC3ItdU9MeE5yTms4ggELUEgxc1BnTmpJRFGCASJQTHh6VGEwVlBSOXJ5dkdTdUNtNFJTOGFlQXZPTFh6OVhNggELUy1UaHFzcWpJYjSCAQt1OEFCTExLMy16MIIBIlBMaUV0czEzOHM5UDB3LVdYNFJtbWwtX3pobkJrWExXdGOCAQtiTERiemNId3hNNIIBC0IwS3R4eUdKNmpRggEiUExlbzFLM2hqUzN1dUFTcGUtMUxqZkc1ZjE0Qm5vemp3eYIBIlBMalZMWW1ybG1qR2RSczFzR3FSclRFLUVNcmFMY2xKZ2GCAQttdXQ4ZVRkb1J4VYIBC2xaazhaWTNnMWZVggEiUExPV1JObDZZZ3NUNzlleldkRWhPanZLNEQtY1Fmcjd5c4IBC3QxZlFCRDRCN3hrggEiUExzeWVvYnpXeGw3b21Eb0VZcnJmM29Ydlh4YTZNUGdla4IBC3lpeWMwUk1mbUhrsgEGCgQIGRAC",
+    "next_page_token": "SBSCAQt3VVNEVkdpdmQtOIIBIlBMaUMxZG9ESWU5ckNZV21IOXdJRVlFWFhhSjRLQWkzamOCASJQTFdLamhKdHFWQWJsdkkxaTQ2U2NiS1YyakgxZ2RMN1ZRggEiUExOY2dfRlY5bjdxWkdmRmwyQU5JX3pJU3pOcDI1N0x3boIBC3ItdU9MeE5yTms4ggELUEgxc1BnTmpJRFGCASJQTHh6VGEwVlBSOXJ5dkdTdUNtNFJTOGFlQXZPTFh6OVhNggELUy1UaHFzcWpJYjSCAQt1OEFCTExLMy16MIIBIlBMaUV0czEzOHM5UDB3LVdYNFJtbWwtX3pobkJrWExXdGOCAQtiTERiemNId3hNNIIBC0IwS3R4eUdKNmpRggEiUExlbzFLM2hqUzN1dUFTcGUtMUxqZkc1ZjE0Qm5vemp3eYIBIlBMalZMWW1ybG1qR2RSczFzR3FSclRFLUVNcmFMY2xKZ2GCAQttdXQ4ZVRkb1J4VYIBC2xaazhaWTNnMWZVggEiUExPV1JObDZZZ3NUNzlleldkRWhPanZLNEQtY1Fmcjd5c4IBC3QxZlFCRDRCN3hrggEiUExzeWVvYnpXeGw3b21Eb0VZcnJmM29Ydlh4YTZNUGdla4IBC3lpeWMwUk1mbUhrsgEGCgQIGRAC"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Python+full+course+tutorial+for+Data+Analyst",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Python+full+course+tutorial+for+Data+Analyst&sp=SBSCAQt3VVNEVkdpdmQtOIIBIlBMaUMxZG9ESWU5ckNZV21IOXdJRVlFWFhhSjRLQWkzamOCASJQTFdLamhKdHFWQWJsdkkxaTQ2U2NiS1YyakgxZ2RMN1ZRggEiUExOY2dfRlY5bjdxWkdmRmwyQU5JX3pJU3pOcDI1N0x3boIBC3ItdU9MeE5yTms4ggELUEgxc1BnTmpJRFGCASJQTHh6VGEwVlBSOXJ5dkdTdUNtNFJTOGFlQXZPTFh6OVhNggELUy1UaHFzcWpJYjSCAQt1OEFCTExLMy16MIIBIlBMaUV0czEzOHM5UDB3LVdYNFJtbWwtX3pobkJrWExXdGOCAQtiTERiemNId3hNNIIBC0IwS3R4eUdKNmpRggEiUExlbzFLM2hqUzN1dUFTcGUtMUxqZkc1ZjE0Qm5vemp3eYIBIlBMalZMWW1ybG1qR2RSczFzR3FSclRFLUVNcmFMY2xKZ2GCAQttdXQ4ZVRkb1J4VYIBC2xaazhaWTNnMWZVggEiUExPV1JObDZZZ3NUNzlleldkRWhPanZLNEQtY1Fmcjd5c4IBC3QxZlFCRDRCN3hrggEiUExzeWVvYnpXeGw3b21Eb0VZcnJmM29Ydlh4YTZNUGdla4IBC3lpeWMwUk1mbUhrsgEGCgQIGRAC",
+    "next_page_token": "SBSCAQt3VVNEVkdpdmQtOIIBIlBMaUMxZG9ESWU5ckNZV21IOXdJRVlFWFhhSjRLQWkzamOCASJQTFdLamhKdHFWQWJsdkkxaTQ2U2NiS1YyakgxZ2RMN1ZRggEiUExOY2dfRlY5bjdxWkdmRmwyQU5JX3pJU3pOcDI1N0x3boIBC3ItdU9MeE5yTms4ggELUEgxc1BnTmpJRFGCASJQTHh6VGEwVlBSOXJ5dkdTdUNtNFJTOGFlQXZPTFh6OVhNggELUy1UaHFzcWpJYjSCAQt1OEFCTExLMy16MIIBIlBMaUV0czEzOHM5UDB3LVdYNFJtbWwtX3pobkJrWExXdGOCAQtiTERiemNId3hNNIIBC0IwS3R4eUdKNmpRggEiUExlbzFLM2hqUzN1dUFTcGUtMUxqZkc1ZjE0Qm5vemp3eYIBIlBMalZMWW1ybG1qR2RSczFzR3FSclRFLUVNcmFMY2xKZ2GCAQttdXQ4ZVRkb1J4VYIBC2xaazhaWTNnMWZVggEiUExPV1JObDZZZ3NUNzlleldkRWhPanZLNEQtY1Fmcjd5c4IBC3QxZlFCRDRCN3hrggEiUExzeWVvYnpXeGw3b21Eb0VZcnJmM29Ydlh4YTZNUGdla4IBC3lpeWMwUk1mbUhrsgEGCgQIGRAC"
+  }
+}
