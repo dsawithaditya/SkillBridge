@@ -18,7 +18,7 @@
     <button id="restartBtn" class="btn btn-ghost hidden" type="button">Upload another CV</button>
   </header>
 
-  <!-- Step 1: Upload -->
+  <!-- Step 1: Upload / Paste / Sample -->
   <main id="uploadView" class="view upload-view">
     <p class="eyebrow">Resume → next steps</p>
     <h1 class="display">Upload your CV.<br />See what to do <em>next</em>.</h1>
@@ -33,8 +33,46 @@
         <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 16V4"/><path d="m6 10 6-6 6 6"/><path d="M4 20h16"/></svg>
       </span>
       <span class="dropzone-title">Drop your CV here, or <u>browse</u></span>
-      <span class="dropzone-hint">PDF only · stays on this server</span>
+      <span class="dropzone-hint">PDF up to 3 MB · auto-detects role</span>
     </label>
+
+    <!-- Optional Role & Location Override -->
+    <div class="options-row">
+      <input
+        id="roleInput"
+        class="field-input"
+        type="text"
+        placeholder="Target role (optional — auto-detected from CV)"
+        aria-label="Target role"
+      />
+      <select id="citySelect" class="field-input field-select" aria-label="Target city">
+        <option value="Bengaluru, Karnataka, India">Bengaluru, India</option>
+        <option value="Mumbai, Maharashtra, India">Mumbai, India</option>
+        <option value="Remote">Remote</option>
+      </select>
+    </div>
+
+    <!-- Alternative Inputs: Paste Text + 1-Click Sample CVs -->
+    <div class="alt-actions">
+      <button id="togglePasteBtn" class="link-btn" type="button">Or paste resume text →</button>
+      <div class="sample-row">
+        <span class="muted sample-label">Try sample CV:</span>
+        <div id="sampleBtns" class="sample-btns"></div>
+      </div>
+    </div>
+
+    <div id="pastePanel" class="paste-panel hidden">
+      <textarea
+        id="pasteInput"
+        class="field-input paste-textarea"
+        rows="5"
+        placeholder="Paste your resume skills, projects, and experience (minimum 20 characters)..."
+        aria-label="Paste resume text"
+      ></textarea>
+      <div class="paste-footer">
+        <button id="analyzePasteBtn" class="btn btn-primary" type="button">Analyze text →</button>
+      </div>
+    </div>
 
     <div id="errorBox" class="error hidden" role="alert"></div>
   </main>
@@ -58,17 +96,31 @@
       <div class="score">
         <div class="score-track"><div id="scoreBar" class="score-bar"></div></div>
         <span id="scoreText" class="mono"></span>
+        <span id="scoreBoost" class="boost-badge hidden mono"></span>
       </div>
+      <div id="resultNotice" class="notice hidden"></div>
       <div id="yourSkills" class="pills"></div>
     </section>
 
     <section class="block">
-      <h2 class="block-title"><span class="num">01</span> What to learn next</h2>
+      <div class="block-head">
+        <h2 class="block-title"><span class="num">01</span> What to learn next</h2>
+        <button id="resetSimBtn" class="link-btn hidden" type="button">Reset simulation</button>
+      </div>
       <ol id="todoList" class="todo"></ol>
     </section>
 
     <section class="block">
-      <h2 class="block-title"><span class="num">02</span> Apply now <span id="readyCount" class="count"></span></h2>
+      <div class="block-head">
+        <h2 class="block-title"><span class="num">02</span> Apply now <span id="readyCount" class="count"></span></h2>
+        <input
+          id="jobFilterInput"
+          class="field-input filter-input hidden"
+          type="search"
+          placeholder="Filter jobs by title, company, or skill..."
+          aria-label="Filter jobs"
+        />
+      </div>
       <div id="readyJobs" class="jobs"></div>
     </section>
 
